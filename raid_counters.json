@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T07:42:15.866266",
+  "generated_at": "2026-05-02T00:02:25.977669",
   "bosses": {
     "Banette (MEGA)": {
       "types": [
@@ -5037,6 +5037,718 @@
           "dps": 55.67,
           "tdo": 50102.0,
           "avg_faints": 37
+        }
+      ]
+    },
+    "Shadow Entei": {
+      "types": [
+        "Fire"
+      ],
+      "tier": "Shadow T5",
+      "l40": [
+        {
+          "name": "Kyogre (PRIMAL)",
+          "types": [
+            "Water"
+          ],
+          "fast": "Waterfall",
+          "charged": "Origin Pulse",
+          "dps": 38.53,
+          "tdo": 34674.0,
+          "avg_faints": 36
+        },
+        {
+          "name": "Shadow Rampardos",
+          "types": [
+            "Rock"
+          ],
+          "fast": "Smack Down",
+          "charged": "Rock Slide",
+          "dps": 38.14,
+          "tdo": 34328.0,
+          "avg_faints": 96
+        },
+        {
+          "name": "Groudon (PRIMAL)",
+          "types": [
+            "Ground",
+            "Fire"
+          ],
+          "fast": "Mud Shot",
+          "charged": "Precipice Blades",
+          "dps": 36.43,
+          "tdo": 32785.0,
+          "avg_faints": 36
+        },
+        {
+          "name": "Swampert (MEGA)",
+          "types": [
+            "Water",
+            "Ground"
+          ],
+          "fast": "Water Gun",
+          "charged": "Hydro Cannon",
+          "dps": 35.05,
+          "tdo": 31545.0,
+          "avg_faints": 43
+        },
+        {
+          "name": "Shadow Greninja",
+          "types": [
+            "Water",
+            "Dark"
+          ],
+          "fast": "Bubble",
+          "charged": "Hydro Cannon",
+          "dps": 34.65,
+          "tdo": 31181.0,
+          "avg_faints": 78
+        },
+        {
+          "name": "Shadow Excadrill",
+          "types": [
+            "Ground",
+            "Steel"
+          ],
+          "fast": "Mud Slap",
+          "charged": "Scorching Sands",
+          "dps": 33.96,
+          "tdo": 30567.0,
+          "avg_faints": 68
+        },
+        {
+          "name": "Garchomp (MEGA)",
+          "types": [
+            "Dragon",
+            "Ground"
+          ],
+          "fast": "Mud Shot",
+          "charged": "Earthquake",
+          "dps": 33.39,
+          "tdo": 30054.0,
+          "avg_faints": 40
+        },
+        {
+          "name": "Shadow Kyogre",
+          "types": [
+            "Water"
+          ],
+          "fast": "Waterfall",
+          "charged": "Origin Pulse",
+          "dps": 33.04,
+          "tdo": 29733.0,
+          "avg_faints": 55
+        },
+        {
+          "name": "Shadow Rhyperior",
+          "types": [
+            "Ground",
+            "Rock"
+          ],
+          "fast": "Mud Slap",
+          "charged": "Rock Wrecker",
+          "dps": 32.82,
+          "tdo": 29534.0,
+          "avg_faints": 53
+        },
+        {
+          "name": "Diancie (MEGA)",
+          "types": [
+            "Rock",
+            "Fairy"
+          ],
+          "fast": "Rock Throw",
+          "charged": "Rock Slide",
+          "dps": 32.65,
+          "tdo": 29388.0,
+          "avg_faints": 60
+        },
+        {
+          "name": "Shadow Swampert",
+          "types": [
+            "Water",
+            "Ground"
+          ],
+          "fast": "Water Gun",
+          "charged": "Hydro Cannon",
+          "dps": 32.34,
+          "tdo": 29103.0,
+          "avg_faints": 60
+        },
+        {
+          "name": "Blastoise (MEGA)",
+          "types": [
+            "Water"
+          ],
+          "fast": "Rollout",
+          "charged": "Hydro Cannon",
+          "dps": 31.98,
+          "tdo": 28780.0,
+          "avg_faints": 49
+        },
+        {
+          "name": "Shadow Feraligatr",
+          "types": [
+            "Water"
+          ],
+          "fast": "Water Gun",
+          "charged": "Hydro Cannon",
+          "dps": 31.83,
+          "tdo": 28651.0,
+          "avg_faints": 61
+        },
+        {
+          "name": "Shadow Groudon",
+          "types": [
+            "Ground"
+          ],
+          "fast": "Mud Shot",
+          "charged": "Precipice Blades",
+          "dps": 31.48,
+          "tdo": 28333.0,
+          "avg_faints": 55
+        },
+        {
+          "name": "Sharpedo (MEGA)",
+          "types": [
+            "Water",
+            "Dark"
+          ],
+          "fast": "Waterfall",
+          "charged": "Hydro Pump",
+          "dps": 31.4,
+          "tdo": 28263.0,
+          "avg_faints": 69
+        },
+        {
+          "name": "Shadow Samurott",
+          "types": [
+            "Water"
+          ],
+          "fast": "Waterfall",
+          "charged": "Hydro Cannon",
+          "dps": 30.91,
+          "tdo": 27816.0,
+          "avg_faints": 65
+        },
+        {
+          "name": "Shadow Garchomp",
+          "types": [
+            "Dragon",
+            "Ground"
+          ],
+          "fast": "Mud Shot",
+          "charged": "Earth Power",
+          "dps": 30.85,
+          "tdo": 27769.0,
+          "avg_faints": 54
+        },
+        {
+          "name": "Quaquaval",
+          "types": [
+            "Water",
+            "Fighting"
+          ],
+          "fast": "Water Gun",
+          "charged": "Hydro Cannon",
+          "dps": 30.79,
+          "tdo": 27711.0,
+          "avg_faints": 60
+        },
+        {
+          "name": "Shadow Tyrantrum",
+          "types": [
+            "Rock",
+            "Dragon"
+          ],
+          "fast": "Rock Throw",
+          "charged": "Meteor Beam",
+          "dps": 30.6,
+          "tdo": 27536.0,
+          "avg_faints": 62
+        },
+        {
+          "name": "Rampardos",
+          "types": [
+            "Rock"
+          ],
+          "fast": "Smack Down",
+          "charged": "Rock Slide",
+          "dps": 30.57,
+          "tdo": 27512.0,
+          "avg_faints": 69
+        },
+        {
+          "name": "Tyranitar (MEGA)",
+          "types": [
+            "Rock",
+            "Dark"
+          ],
+          "fast": "Smack Down",
+          "charged": "Stone Edge",
+          "dps": 30.47,
+          "tdo": 27426.0,
+          "avg_faints": 35
+        },
+        {
+          "name": "Shadow Gigalith",
+          "types": [
+            "Rock"
+          ],
+          "fast": "Smack Down",
+          "charged": "Meteor Beam",
+          "dps": 30.02,
+          "tdo": 27018.0,
+          "avg_faints": 60
+        },
+        {
+          "name": "Eternatus",
+          "types": [
+            "Poison",
+            "Dragon"
+          ],
+          "fast": "Dragon Tail",
+          "charged": "Dragon Energy",
+          "dps": 30.01,
+          "tdo": 27013.0,
+          "avg_faints": 40
+        },
+        {
+          "name": "Shadow Empoleon",
+          "types": [
+            "Water",
+            "Steel"
+          ],
+          "fast": "Waterfall",
+          "charged": "Hydro Cannon",
+          "dps": 30.0,
+          "tdo": 26996.0,
+          "avg_faints": 61
+        },
+        {
+          "name": "Rayquaza (MEGA)",
+          "types": [
+            "Dragon",
+            "Flying"
+          ],
+          "fast": "Dragon Tail",
+          "charged": "Dragon Ascent",
+          "dps": 29.74,
+          "tdo": 26763.0,
+          "avg_faints": 47
+        },
+        {
+          "name": "Greninja",
+          "types": [
+            "Water",
+            "Dark"
+          ],
+          "fast": "Bubble",
+          "charged": "Hydro Cannon",
+          "dps": 29.7,
+          "tdo": 26732.0,
+          "avg_faints": 65
+        },
+        {
+          "name": "Shadow Sharpedo",
+          "types": [
+            "Water",
+            "Dark"
+          ],
+          "fast": "Waterfall",
+          "charged": "Hydro Pump",
+          "dps": 29.29,
+          "tdo": 26361.0,
+          "avg_faints": 114
+        },
+        {
+          "name": "Rhyperior",
+          "types": [
+            "Ground",
+            "Rock"
+          ],
+          "fast": "Mud Slap",
+          "charged": "Rock Wrecker",
+          "dps": 29.29,
+          "tdo": 26359.0,
+          "avg_faints": 44
+        },
+        {
+          "name": "Shadow Gyarados",
+          "types": [
+            "Water",
+            "Flying"
+          ],
+          "fast": "Waterfall",
+          "charged": "Hydro Pump",
+          "dps": 29.11,
+          "tdo": 26198.0,
+          "avg_faints": 57
+        },
+        {
+          "name": "Shadow Mamoswine",
+          "types": [
+            "Ice",
+            "Ground"
+          ],
+          "fast": "Mud Slap",
+          "charged": "High Horsepower",
+          "dps": 28.9,
+          "tdo": 26006.0,
+          "avg_faints": 63
+        }
+      ],
+      "l50": [
+        {
+          "name": "Groudon (PRIMAL)",
+          "types": [
+            "Ground",
+            "Fire"
+          ],
+          "fast": "Mud Shot",
+          "charged": "Precipice Blades",
+          "dps": 41.26,
+          "tdo": 37130.0,
+          "avg_faints": 34
+        },
+        {
+          "name": "Kyogre (PRIMAL)",
+          "types": [
+            "Water"
+          ],
+          "fast": "Waterfall",
+          "charged": "Origin Pulse",
+          "dps": 40.34,
+          "tdo": 36303.0,
+          "avg_faints": 34
+        },
+        {
+          "name": "Shadow Rampardos",
+          "types": [
+            "Rock"
+          ],
+          "fast": "Smack Down",
+          "charged": "Rock Slide",
+          "dps": 39.7,
+          "tdo": 35727.0,
+          "avg_faints": 73
+        },
+        {
+          "name": "Shadow Greninja",
+          "types": [
+            "Water",
+            "Dark"
+          ],
+          "fast": "Bubble",
+          "charged": "Hydro Cannon",
+          "dps": 37.64,
+          "tdo": 33878.0,
+          "avg_faints": 68
+        },
+        {
+          "name": "Shadow Rhyperior",
+          "types": [
+            "Ground",
+            "Rock"
+          ],
+          "fast": "Mud Slap",
+          "charged": "Rock Wrecker",
+          "dps": 37.49,
+          "tdo": 33737.0,
+          "avg_faints": 48
+        },
+        {
+          "name": "Swampert (MEGA)",
+          "types": [
+            "Water",
+            "Ground"
+          ],
+          "fast": "Water Gun",
+          "charged": "Hydro Cannon",
+          "dps": 37.48,
+          "tdo": 33728.0,
+          "avg_faints": 39
+        },
+        {
+          "name": "Garchomp (MEGA)",
+          "types": [
+            "Dragon",
+            "Ground"
+          ],
+          "fast": "Mud Shot",
+          "charged": "Earth Power",
+          "dps": 36.5,
+          "tdo": 32846.0,
+          "avg_faints": 36
+        },
+        {
+          "name": "Shadow Kyogre",
+          "types": [
+            "Water"
+          ],
+          "fast": "Waterfall",
+          "charged": "Origin Pulse",
+          "dps": 35.82,
+          "tdo": 32239.0,
+          "avg_faints": 49
+        },
+        {
+          "name": "Shadow Groudon",
+          "types": [
+            "Ground"
+          ],
+          "fast": "Mud Shot",
+          "charged": "Precipice Blades",
+          "dps": 35.54,
+          "tdo": 31986.0,
+          "avg_faints": 49
+        },
+        {
+          "name": "Diancie (MEGA)",
+          "types": [
+            "Rock",
+            "Fairy"
+          ],
+          "fast": "Rock Throw",
+          "charged": "Rock Slide",
+          "dps": 35.08,
+          "tdo": 31573.0,
+          "avg_faints": 56
+        },
+        {
+          "name": "Blastoise (MEGA)",
+          "types": [
+            "Water"
+          ],
+          "fast": "Rollout",
+          "charged": "Hydro Cannon",
+          "dps": 34.95,
+          "tdo": 31455.0,
+          "avg_faints": 45
+        },
+        {
+          "name": "Shadow Swampert",
+          "types": [
+            "Water",
+            "Ground"
+          ],
+          "fast": "Water Gun",
+          "charged": "Hydro Cannon",
+          "dps": 34.81,
+          "tdo": 31326.0,
+          "avg_faints": 54
+        },
+        {
+          "name": "Shadow Feraligatr",
+          "types": [
+            "Water"
+          ],
+          "fast": "Water Gun",
+          "charged": "Hydro Cannon",
+          "dps": 34.48,
+          "tdo": 31035.0,
+          "avg_faints": 57
+        },
+        {
+          "name": "Shadow Garchomp",
+          "types": [
+            "Dragon",
+            "Ground"
+          ],
+          "fast": "Mud Shot",
+          "charged": "Earth Power",
+          "dps": 34.44,
+          "tdo": 30994.0,
+          "avg_faints": 49
+        },
+        {
+          "name": "Landorus (Therian)",
+          "types": [
+            "Ground",
+            "Flying"
+          ],
+          "fast": "Mud Shot",
+          "charged": "Sandsear Storm",
+          "dps": 34.05,
+          "tdo": 30644.0,
+          "avg_faints": 50
+        },
+        {
+          "name": "Shadow Excadrill",
+          "types": [
+            "Ground",
+            "Steel"
+          ],
+          "fast": "Mud Slap",
+          "charged": "Scorching Sands",
+          "dps": 33.89,
+          "tdo": 30498.0,
+          "avg_faints": 62
+        },
+        {
+          "name": "Rayquaza (MEGA)",
+          "types": [
+            "Dragon",
+            "Flying"
+          ],
+          "fast": "Dragon Tail",
+          "charged": "Dragon Ascent",
+          "dps": 33.58,
+          "tdo": 30218.0,
+          "avg_faints": 39
+        },
+        {
+          "name": "Shadow Samurott",
+          "types": [
+            "Water"
+          ],
+          "fast": "Waterfall",
+          "charged": "Hydro Cannon",
+          "dps": 33.34,
+          "tdo": 30002.0,
+          "avg_faints": 59
+        },
+        {
+          "name": "Shadow Empoleon",
+          "types": [
+            "Water",
+            "Steel"
+          ],
+          "fast": "Waterfall",
+          "charged": "Hydro Cannon",
+          "dps": 32.66,
+          "tdo": 29391.0,
+          "avg_faints": 57
+        },
+        {
+          "name": "Tyranitar (MEGA)",
+          "types": [
+            "Rock",
+            "Dark"
+          ],
+          "fast": "Smack Down",
+          "charged": "Stone Edge",
+          "dps": 32.54,
+          "tdo": 29288.0,
+          "avg_faints": 33
+        },
+        {
+          "name": "Gyarados (MEGA)",
+          "types": [
+            "Water",
+            "Dark"
+          ],
+          "fast": "Waterfall",
+          "charged": "Hydro Pump",
+          "dps": 32.44,
+          "tdo": 29199.0,
+          "avg_faints": 35
+        },
+        {
+          "name": "Shadow Ursaluna",
+          "types": [
+            "Ground",
+            "Normal"
+          ],
+          "fast": "Smack Down",
+          "charged": "High Horsepower",
+          "dps": 32.31,
+          "tdo": 29077.0,
+          "avg_faints": 47
+        },
+        {
+          "name": "Shadow Regigigas",
+          "types": [
+            "Normal"
+          ],
+          "fast": "Hidden Power",
+          "charged": "Crush Grip",
+          "dps": 32.21,
+          "tdo": 28986.0,
+          "avg_faints": 50
+        },
+        {
+          "name": "Quaquaval",
+          "types": [
+            "Water",
+            "Fighting"
+          ],
+          "fast": "Water Gun",
+          "charged": "Hydro Cannon",
+          "dps": 32.06,
+          "tdo": 28854.0,
+          "avg_faints": 55
+        },
+        {
+          "name": "Rampardos",
+          "types": [
+            "Rock"
+          ],
+          "fast": "Smack Down",
+          "charged": "Rock Slide",
+          "dps": 31.85,
+          "tdo": 28661.0,
+          "avg_faints": 65
+        },
+        {
+          "name": "Aerodactyl (MEGA)",
+          "types": [
+            "Rock",
+            "Flying"
+          ],
+          "fast": "Rock Throw",
+          "charged": "Rock Slide",
+          "dps": 31.76,
+          "tdo": 28585.0,
+          "avg_faints": 48
+        },
+        {
+          "name": "Shadow Crawdaunt",
+          "types": [
+            "Water",
+            "Dark"
+          ],
+          "fast": "Waterfall",
+          "charged": "Crabhammer",
+          "dps": 31.68,
+          "tdo": 28508.0,
+          "avg_faints": 78
+        },
+        {
+          "name": "Shadow Mamoswine",
+          "types": [
+            "Ice",
+            "Ground"
+          ],
+          "fast": "Mud Slap",
+          "charged": "High Horsepower",
+          "dps": 31.61,
+          "tdo": 28451.0,
+          "avg_faints": 57
+        },
+        {
+          "name": "Eternatus",
+          "types": [
+            "Poison",
+            "Dragon"
+          ],
+          "fast": "Dragon Tail",
+          "charged": "Dragon Energy",
+          "dps": 31.04,
+          "tdo": 27935.0,
+          "avg_faints": 38
+        },
+        {
+          "name": "Sharpedo (MEGA)",
+          "types": [
+            "Water",
+            "Dark"
+          ],
+          "fast": "Waterfall",
+          "charged": "Hydro Pump",
+          "dps": 31.01,
+          "tdo": 27912.0,
+          "avg_faints": 64
         }
       ]
     },
