@@ -1,15 +1,6 @@
 {
   "bosses": [
     {
-      "name": "Bagon",
-      "tier": "T1",
-      "types": [
-        "Dragon"
-      ],
-      "cp20": 660,
-      "cp25": 826
-    },
-    {
       "name": "Buzzwole",
       "tier": "T5",
       "types": [
@@ -29,22 +20,14 @@
       "cp25": 2041
     },
     {
-      "name": "Druddigon",
-      "tier": "T3",
-      "types": [
-        "Dragon"
-      ],
-      "cp20": 1561,
-      "cp25": 1951
-    },
-    {
-      "name": "Espurr",
+      "name": "Doduo",
       "tier": "T1",
       "types": [
-        "Psychic"
+        "Normal",
+        "Flying"
       ],
-      "cp20": 719,
-      "cp25": 899
+      "cp20": 686,
+      "cp25": 857
     },
     {
       "name": "Glalie (MEGA)",
@@ -56,14 +39,13 @@
       "cp25": 2306
     },
     {
-      "name": "Nidoqueen",
-      "tier": "T3",
+      "name": "Machop",
+      "tier": "T1",
       "types": [
-        "Poison",
-        "Ground"
+        "Fighting"
       ],
-      "cp20": 1421,
-      "cp25": 1777
+      "cp20": 730,
+      "cp25": 913
     },
     {
       "name": "Pheromosa",
@@ -74,6 +56,34 @@
       ],
       "cp20": 1624,
       "cp25": 2029
+    },
+    {
+      "name": "Rapidash",
+      "tier": "T3",
+      "types": [
+        "Fire"
+      ],
+      "cp20": 1406,
+      "cp25": 1757
+    },
+    {
+      "name": "Rockruff",
+      "tier": "T1",
+      "types": [
+        "Rock"
+      ],
+      "cp20": 543,
+      "cp25": 679
+    },
+    {
+      "name": "Scolipede",
+      "tier": "T3",
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "cp20": 1398,
+      "cp25": 1747
     },
     {
       "name": "Shadow Inkay",
@@ -144,36 +154,6 @@
       "cp25": 687
     },
     {
-      "name": "Shieldon",
-      "tier": "T1",
-      "types": [
-        "Rock",
-        "Steel"
-      ],
-      "cp20": 509,
-      "cp25": 636
-    },
-    {
-      "name": "Starmie",
-      "tier": "T3",
-      "types": [
-        "Water",
-        "Psychic"
-      ],
-      "cp20": 1476,
-      "cp25": 1846
-    },
-    {
-      "name": "Voltorb (Hisuian)",
-      "tier": "T1",
-      "types": [
-        "Electric",
-        "Grass"
-      ],
-      "cp20": 577,
-      "cp25": 721
-    },
-    {
       "name": "Xurkitree",
       "tier": "T5",
       "types": [
@@ -181,6 +161,15 @@
       ],
       "cp20": 2249,
       "cp25": 2812
+    },
+    {
+      "name": "Zebstrika",
+      "tier": "T3",
+      "types": [
+        "Electric"
+      ],
+      "cp20": 1387,
+      "cp25": 1734
     }
   ]
 }
