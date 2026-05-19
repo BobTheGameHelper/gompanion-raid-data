@@ -1,6 +1,16 @@
 {
   "bosses": [
     {
+      "name": "Altaria (MEGA)",
+      "tier": "Mega",
+      "types": [
+        "Dragon",
+        "Fairy"
+      ],
+      "cp20": 1807,
+      "cp25": 2259
+    },
+    {
       "name": "Buzzwole",
       "tier": "T5",
       "types": [
@@ -152,6 +162,16 @@
       ],
       "cp20": 550,
       "cp25": 687
+    },
+    {
+      "name": "Tapu Bulu",
+      "tier": "T5",
+      "types": [
+        "Grass",
+        "Fairy"
+      ],
+      "cp20": 1953,
+      "cp25": 2442
     },
     {
       "name": "Xurkitree",
