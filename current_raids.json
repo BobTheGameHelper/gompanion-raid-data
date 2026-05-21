@@ -11,6 +11,15 @@
       "cp25": 2259
     },
     {
+      "name": "Clefairy",
+      "tier": "T1",
+      "types": [
+        "Fairy"
+      ],
+      "cp20": 660,
+      "cp25": 825
+    },
+    {
       "name": "Cresselia",
       "tier": "Shadow T5",
       "types": [
@@ -20,51 +29,33 @@
       "cp25": 2041
     },
     {
-      "name": "Doduo",
+      "name": "Gible",
       "tier": "T1",
       "types": [
-        "Normal",
-        "Flying"
+        "Dragon",
+        "Ground"
       ],
-      "cp20": 686,
-      "cp25": 857
+      "cp20": 635,
+      "cp25": 794
     },
     {
-      "name": "Machop",
-      "tier": "T1",
-      "types": [
-        "Fighting"
-      ],
-      "cp20": 730,
-      "cp25": 913
-    },
-    {
-      "name": "Rapidash",
+      "name": "Klawf",
       "tier": "T3",
-      "types": [
-        "Fire"
-      ],
-      "cp20": 1406,
-      "cp25": 1757
-    },
-    {
-      "name": "Rockruff",
-      "tier": "T1",
       "types": [
         "Rock"
       ],
-      "cp20": 543,
-      "cp25": 679
+      "cp20": 1373,
+      "cp25": 1716
     },
     {
-      "name": "Scolipede",
+      "name": "Piloswine",
       "tier": "T3",
       "types": [
-        "Bug",
-        "Poison"
+        "Ice",
+        "Ground"
       ],
-      "cp20": 1398,
-      "cp25": 1747
+      "cp20": 1340,
+      "cp25": 1675
     },
     {
       "name": "Shadow Inkay",
@@ -145,13 +136,24 @@
       "cp25": 2442
     },
     {
-      "name": "Zebstrika",
+      "name": "Turtonator",
       "tier": "T3",
       "types": [
-        "Electric"
+        "Fire",
+        "Dragon"
       ],
-      "cp20": 1387,
-      "cp25": 1734
+      "cp20": 1270,
+      "cp25": 1587
+    },
+    {
+      "name": "Wimpod",
+      "tier": "T1",
+      "types": [
+        "Bug",
+        "Water"
+      ],
+      "cp20": 286,
+      "cp25": 358
     }
   ]
 }
