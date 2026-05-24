@@ -1,169 +1,130 @@
 {
   "bosses": [
     {
-      "name": "Altaria (MEGA)",
+      "name": "Mewtwo",
+      "tier": "T5",
+      "types": [
+        "Psychic"
+      ],
+      "cp20": 2387,
+      "cp25": 2984
+    },
+    {
+      "name": "Kyogre (PRIMAL)",
       "tier": "Mega",
       "types": [
-        "Dragon",
-        "Fairy"
-      ],
-      "cp20": 1807,
-      "cp25": 2259
-    },
-    {
-      "name": "Clefairy",
-      "tier": "T1",
-      "types": [
-        "Fairy"
-      ],
-      "cp20": 660,
-      "cp25": 825
-    },
-    {
-      "name": "Cresselia",
-      "tier": "Shadow T5",
-      "types": [
-        "Psychic"
-      ],
-      "cp20": 1633,
-      "cp25": 2041
-    },
-    {
-      "name": "Gible",
-      "tier": "T1",
-      "types": [
-        "Dragon",
-        "Ground"
-      ],
-      "cp20": 635,
-      "cp25": 794
-    },
-    {
-      "name": "Grimer (Alola)",
-      "tier": "T1",
-      "types": [
-        "Poison",
-        "Dark"
-      ],
-      "cp20": 785,
-      "cp25": 981
-    },
-    {
-      "name": "Klawf",
-      "tier": "T3",
-      "types": [
-        "Rock"
-      ],
-      "cp20": 1373,
-      "cp25": 1716
-    },
-    {
-      "name": "Piloswine",
-      "tier": "T3",
-      "types": [
-        "Ice",
-        "Ground"
-      ],
-      "cp20": 1340,
-      "cp25": 1675
-    },
-    {
-      "name": "Shadow Inkay",
-      "tier": "Shadow T1",
-      "types": [
-        "Dark",
-        "Psychic"
-      ],
-      "cp20": 529,
-      "cp25": 662
-    },
-    {
-      "name": "Shadow Larvitar",
-      "tier": "Shadow T1",
-      "types": [
-        "Rock",
-        "Ground"
-      ],
-      "cp20": 594,
-      "cp25": 743
-    },
-    {
-      "name": "Shadow Ninetales",
-      "tier": "Shadow T3",
-      "types": [
-        "Fire"
-      ],
-      "cp20": 1302,
-      "cp25": 1628
-    },
-    {
-      "name": "Shadow Onix",
-      "tier": "Shadow T3",
-      "types": [
-        "Rock",
-        "Ground"
-      ],
-      "cp20": 629,
-      "cp25": 786
-    },
-    {
-      "name": "Shadow Primeape",
-      "tier": "Shadow T3",
-      "types": [
-        "Fighting"
-      ],
-      "cp20": 1307,
-      "cp25": 1634
-    },
-    {
-      "name": "Shadow Sableye",
-      "tier": "Shadow T1",
-      "types": [
-        "Dark",
-        "Ghost"
-      ],
-      "cp20": 843,
-      "cp25": 1054
-    },
-    {
-      "name": "Shadow Spheal",
-      "tier": "Shadow T1",
-      "types": [
-        "Ice",
         "Water"
       ],
-      "cp20": 550,
-      "cp25": 687
+      "cp20": 3372,
+      "cp25": 4215
     },
     {
-      "name": "Tapu Bulu",
+      "name": "Shadow Articuno",
+      "tier": "Shadow T5",
+      "types": [
+        "Ice",
+        "Flying"
+      ],
+      "cp20": 1743,
+      "cp25": 2179
+    },
+    {
+      "name": "Necrozma",
+      "tier": "T5",
+      "types": [
+        "Psychic"
+      ],
+      "cp20": 2104,
+      "cp25": 2630
+    },
+    {
+      "name": "Necrozma (Dawn Wings)",
+      "tier": "T5",
+      "types": [
+        "Psychic",
+        "Ghost"
+      ],
+      "cp20": 2342,
+      "cp25": 2927
+    },
+    {
+      "name": "Necrozma (Dusk Mane)",
+      "tier": "T5",
+      "types": [
+        "Psychic",
+        "Steel"
+      ],
+      "cp20": 2342,
+      "cp25": 2927
+    },
+    {
+      "name": "Nihilego",
+      "tier": "T5",
+      "types": [
+        "Rock",
+        "Poison"
+      ],
+      "cp20": 2256,
+      "cp25": 2820
+    },
+    {
+      "name": "Xurkitree",
+      "tier": "T5",
+      "types": [
+        "Electric"
+      ],
+      "cp20": 2249,
+      "cp25": 2812
+    },
+    {
+      "name": "Pheromosa",
+      "tier": "T5",
+      "types": [
+        "Bug",
+        "Fighting"
+      ],
+      "cp20": 1624,
+      "cp25": 2029
+    },
+    {
+      "name": "Buzzwole",
+      "tier": "T5",
+      "types": [
+        "Bug",
+        "Fighting"
+      ],
+      "cp20": 1977,
+      "cp25": 2471
+    },
+    {
+      "name": "Guzzlord",
+      "tier": "T5",
+      "types": [
+        "Dark",
+        "Dragon"
+      ],
+      "cp20": 1650,
+      "cp25": 2062
+    },
+    {
+      "name": "Blacephalon",
+      "tier": "T5",
+      "types": [
+        "Fire",
+        "Ghost"
+      ],
+      "cp20": 1884,
+      "cp25": 2354
+    },
+    {
+      "name": "Kartana",
       "tier": "T5",
       "types": [
         "Grass",
-        "Fairy"
+        "Steel"
       ],
-      "cp20": 1953,
-      "cp25": 2442
-    },
-    {
-      "name": "Turtonator",
-      "tier": "T3",
-      "types": [
-        "Fire",
-        "Dragon"
-      ],
-      "cp20": 1270,
-      "cp25": 1587
-    },
-    {
-      "name": "Wimpod",
-      "tier": "T1",
-      "types": [
-        "Bug",
-        "Water"
-      ],
-      "cp20": 286,
-      "cp25": 358
+      "cp20": 2101,
+      "cp25": 2626
     }
   ]
 }
