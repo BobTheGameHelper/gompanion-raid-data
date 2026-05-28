@@ -1,15 +1,6 @@
 {
   "bosses": [
     {
-      "name": "Clefairy",
-      "tier": "T1",
-      "types": [
-        "Fairy"
-      ],
-      "cp20": 660,
-      "cp25": 825
-    },
-    {
       "name": "Cresselia",
       "tier": "Shadow T5",
       "types": [
@@ -19,33 +10,43 @@
       "cp25": 2041
     },
     {
-      "name": "Gible",
+      "name": "Electabuzz",
       "tier": "T1",
       "types": [
-        "Dragon",
-        "Ground"
+        "Electric"
       ],
-      "cp20": 635,
-      "cp25": 794
+      "cp20": 1333,
+      "cp25": 1667
     },
     {
-      "name": "Grimer (Alola)",
-      "tier": "T1",
-      "types": [
-        "Poison",
-        "Dark"
-      ],
-      "cp20": 785,
-      "cp25": 981
-    },
-    {
-      "name": "Klawf",
+      "name": "Houndoom",
       "tier": "T3",
       "types": [
-        "Rock"
+        "Dark",
+        "Fire"
       ],
-      "cp20": 1373,
-      "cp25": 1716
+      "cp20": 1505,
+      "cp25": 1882
+    },
+    {
+      "name": "Lapras",
+      "tier": "T3",
+      "types": [
+        "Water",
+        "Ice"
+      ],
+      "cp20": 1509,
+      "cp25": 1886
+    },
+    {
+      "name": "Larvitar",
+      "tier": "T1",
+      "types": [
+        "Rock",
+        "Ground"
+      ],
+      "cp20": 594,
+      "cp25": 743
     },
     {
       "name": "Medicham (MEGA)",
@@ -58,14 +59,32 @@
       "cp25": 1782
     },
     {
-      "name": "Piloswine",
+      "name": "Meowth",
+      "tier": "T1",
+      "types": [
+        "Normal"
+      ],
+      "cp20": 427,
+      "cp25": 534
+    },
+    {
+      "name": "Ponyta",
+      "tier": "T1",
+      "types": [
+        "Fire"
+      ],
+      "cp20": 969,
+      "cp25": 1212
+    },
+    {
+      "name": "Scyther",
       "tier": "T3",
       "types": [
-        "Ice",
-        "Ground"
+        "Bug",
+        "Flying"
       ],
-      "cp20": 1340,
-      "cp25": 1675
+      "cp20": 1546,
+      "cp25": 1933
     },
     {
       "name": "Shadow Inkay",
@@ -144,26 +163,6 @@
       ],
       "cp20": 1632,
       "cp25": 2041
-    },
-    {
-      "name": "Turtonator",
-      "tier": "T3",
-      "types": [
-        "Fire",
-        "Dragon"
-      ],
-      "cp20": 1270,
-      "cp25": 1587
-    },
-    {
-      "name": "Wimpod",
-      "tier": "T1",
-      "types": [
-        "Bug",
-        "Water"
-      ],
-      "cp20": 286,
-      "cp25": 358
     }
   ]
 }
