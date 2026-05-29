@@ -1,6 +1,16 @@
 {
   "bosses": [
     {
+      "name": "Articuno",
+      "tier": "T5",
+      "types": [
+        "Ice",
+        "Flying"
+      ],
+      "cp20": 1743,
+      "cp25": 2179
+    },
+    {
       "name": "Cresselia",
       "tier": "Shadow T5",
       "types": [
@@ -19,6 +29,16 @@
       "cp25": 1667
     },
     {
+      "name": "Groudon (PRIMAL)",
+      "tier": "T5",
+      "types": [
+        "Ground",
+        "Fire"
+      ],
+      "cp20": 3372,
+      "cp25": 4215
+    },
+    {
       "name": "Houndoom",
       "tier": "T3",
       "types": [
@@ -27,6 +47,15 @@
       ],
       "cp20": 1505,
       "cp25": 1882
+    },
+    {
+      "name": "Kyogre (PRIMAL)",
+      "tier": "T5",
+      "types": [
+        "Water"
+      ],
+      "cp20": 3372,
+      "cp25": 4215
     },
     {
       "name": "Lapras",
@@ -96,6 +125,25 @@
       "cp25": 1933
     },
     {
+      "name": "Shadow Articuno",
+      "tier": "Shadow T5",
+      "types": [
+        "Ice",
+        "Flying"
+      ],
+      "cp20": 1743,
+      "cp25": 2179
+    },
+    {
+      "name": "Shadow Groudon",
+      "tier": "Shadow T5",
+      "types": [
+        "Ground"
+      ],
+      "cp20": 2351,
+      "cp25": 2939
+    },
+    {
       "name": "Shadow Inkay",
       "tier": "Shadow T1",
       "types": [
@@ -106,6 +154,15 @@
       "cp25": 662
     },
     {
+      "name": "Shadow Kyogre",
+      "tier": "Shadow T5",
+      "types": [
+        "Water"
+      ],
+      "cp20": 2351,
+      "cp25": 2939
+    },
+    {
       "name": "Shadow Larvitar",
       "tier": "Shadow T1",
       "types": [
@@ -114,6 +171,15 @@
       ],
       "cp20": 594,
       "cp25": 743
+    },
+    {
+      "name": "Shadow Mewtwo",
+      "tier": "Shadow T5",
+      "types": [
+        "Psychic"
+      ],
+      "cp20": 2387,
+      "cp25": 2984
     },
     {
       "name": "Shadow Ninetales",
@@ -162,6 +228,24 @@
       ],
       "cp20": 550,
       "cp25": 687
+    },
+    {
+      "name": "Shadow Suicune",
+      "tier": "Shadow T5",
+      "types": [
+        "Water"
+      ],
+      "cp20": 1704,
+      "cp25": 2130
+    },
+    {
+      "name": "Suicune",
+      "tier": "T5",
+      "types": [
+        "Water"
+      ],
+      "cp20": 1704,
+      "cp25": 2130
     },
     {
       "name": "Tapu Fini",
