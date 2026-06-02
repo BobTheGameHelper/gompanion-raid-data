@@ -1,23 +1,24 @@
 {
   "bosses": [
     {
-      "name": "Articuno",
-      "tier": "T5",
+      "name": "Audino (MEGA)",
+      "tier": "Mega",
       "types": [
-        "Ice",
-        "Flying"
+        "Normal",
+        "Fairy"
       ],
-      "cp20": 1743,
-      "cp25": 2179
+      "cp20": 1442,
+      "cp25": 1802
     },
     {
-      "name": "Cresselia",
+      "name": "Dialga",
       "tier": "Shadow T5",
       "types": [
-        "Psychic"
+        "Steel",
+        "Dragon"
       ],
-      "cp20": 1633,
-      "cp25": 2041
+      "cp20": 2307,
+      "cp25": 2884
     },
     {
       "name": "Electabuzz",
@@ -29,16 +30,6 @@
       "cp25": 1667
     },
     {
-      "name": "Groudon (PRIMAL)",
-      "tier": "T5",
-      "types": [
-        "Ground",
-        "Fire"
-      ],
-      "cp20": 2351,
-      "cp25": 2939
-    },
-    {
       "name": "Houndoom",
       "tier": "T3",
       "types": [
@@ -47,15 +38,6 @@
       ],
       "cp20": 1505,
       "cp25": 1882
-    },
-    {
-      "name": "Kyogre (PRIMAL)",
-      "tier": "T5",
-      "types": [
-        "Water"
-      ],
-      "cp20": 2351,
-      "cp25": 2939
     },
     {
       "name": "Lapras",
@@ -97,15 +79,6 @@
       "cp25": 534
     },
     {
-      "name": "Mewtwo",
-      "tier": "T5",
-      "types": [
-        "Psychic"
-      ],
-      "cp20": 2387,
-      "cp25": 2984
-    },
-    {
       "name": "Ponyta",
       "tier": "T1",
       "types": [
@@ -113,6 +86,16 @@
       ],
       "cp20": 969,
       "cp25": 1212
+    },
+    {
+      "name": "Reshiram",
+      "tier": "T5",
+      "types": [
+        "Dragon",
+        "Fire"
+      ],
+      "cp20": 2307,
+      "cp25": 2884
     },
     {
       "name": "Scyther",
@@ -125,23 +108,14 @@
       "cp25": 1933
     },
     {
-      "name": "Shadow Articuno",
+      "name": "Shadow Dialga",
       "tier": "Shadow T5",
       "types": [
-        "Ice",
-        "Flying"
+        "Steel",
+        "Dragon"
       ],
-      "cp20": 1743,
-      "cp25": 2179
-    },
-    {
-      "name": "Shadow Groudon",
-      "tier": "Shadow T5",
-      "types": [
-        "Ground"
-      ],
-      "cp20": 2351,
-      "cp25": 2939
+      "cp20": 2307,
+      "cp25": 2884
     },
     {
       "name": "Shadow Inkay",
@@ -154,15 +128,6 @@
       "cp25": 662
     },
     {
-      "name": "Shadow Kyogre",
-      "tier": "Shadow T5",
-      "types": [
-        "Water"
-      ],
-      "cp20": 2351,
-      "cp25": 2939
-    },
-    {
       "name": "Shadow Larvitar",
       "tier": "Shadow T1",
       "types": [
@@ -171,15 +136,6 @@
       ],
       "cp20": 594,
       "cp25": 743
-    },
-    {
-      "name": "Shadow Mewtwo",
-      "tier": "Shadow T5",
-      "types": [
-        "Psychic"
-      ],
-      "cp20": 2387,
-      "cp25": 2984
     },
     {
       "name": "Shadow Ninetales",
@@ -228,24 +184,6 @@
       ],
       "cp20": 550,
       "cp25": 687
-    },
-    {
-      "name": "Shadow Suicune",
-      "tier": "Shadow T5",
-      "types": [
-        "Water"
-      ],
-      "cp20": 1704,
-      "cp25": 2130
-    },
-    {
-      "name": "Suicune",
-      "tier": "T5",
-      "types": [
-        "Water"
-      ],
-      "cp20": 1704,
-      "cp25": 2130
     },
     {
       "name": "Tapu Fini",
