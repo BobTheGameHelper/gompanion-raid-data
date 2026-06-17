@@ -1,14 +1,42 @@
 {
   "bosses": [
     {
-      "name": "Lopunny (MEGA)",
-      "tier": "Mega",
+      "name": "Espurr",
+      "tier": "T1",
       "types": [
-        "Normal",
-        "Fighting"
+        "Psychic"
       ],
-      "cp20": 2140,
-      "cp25": 2674
+      "cp20": 719,
+      "cp25": 899
+    },
+    {
+      "name": "Fidough",
+      "tier": "T1",
+      "types": [
+        "Fairy"
+      ],
+      "cp20": 563,
+      "cp25": 703
+    },
+    {
+      "name": "Flygon",
+      "tier": "T3",
+      "types": [
+        "Ground",
+        "Dragon"
+      ],
+      "cp20": 1520,
+      "cp25": 1900
+    },
+    {
+      "name": "Magcargo",
+      "tier": "T3",
+      "types": [
+        "Fire",
+        "Rock"
+      ],
+      "cp20": 972,
+      "cp25": 1215
     },
     {
       "name": "Necrozma",
@@ -18,6 +46,26 @@
       ],
       "cp20": 2104,
       "cp25": 2630
+    },
+    {
+      "name": "Raichu (Alola)",
+      "tier": "T3",
+      "types": [
+        "Electric",
+        "Psychic"
+      ],
+      "cp20": 1306,
+      "cp25": 1633
+    },
+    {
+      "name": "Rhyhorn",
+      "tier": "T1",
+      "types": [
+        "Ground",
+        "Rock"
+      ],
+      "cp20": 943,
+      "cp25": 1179
     },
     {
       "name": "Scizor (MEGA)",
@@ -107,14 +155,13 @@
       "cp25": 1228
     },
     {
-      "name": "Zekrom",
-      "tier": "T5",
+      "name": "Skiddo",
+      "tier": "T1",
       "types": [
-        "Dragon",
-        "Electric"
+        "Grass"
       ],
-      "cp20": 2307,
-      "cp25": 2884
+      "cp20": 714,
+      "cp25": 893
     }
   ]
 }
