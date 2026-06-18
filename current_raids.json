@@ -1,42 +1,53 @@
 {
   "bosses": [
     {
-      "name": "Espurr",
+      "name": "Aerodactyl",
+      "tier": "T3",
+      "types": [
+        "Rock",
+        "Flying"
+      ],
+      "cp20": 1590,
+      "cp25": 1988
+    },
+    {
+      "name": "Beldum",
       "tier": "T1",
       "types": [
+        "Steel",
         "Psychic"
       ],
-      "cp20": 719,
-      "cp25": 899
+      "cp20": 558,
+      "cp25": 697
     },
     {
-      "name": "Fidough",
-      "tier": "T1",
-      "types": [
-        "Fairy"
-      ],
-      "cp20": 563,
-      "cp25": 703
-    },
-    {
-      "name": "Flygon",
+      "name": "Decidueye (Hisuian)",
       "tier": "T3",
       "types": [
-        "Ground",
+        "Grass",
+        "Fighting"
+      ],
+      "cp20": 1655,
+      "cp25": 2069
+    },
+    {
+      "name": "Druddigon",
+      "tier": "T3",
+      "types": [
         "Dragon"
       ],
-      "cp20": 1520,
-      "cp25": 1900
+      "cp20": 1561,
+      "cp25": 1951
     },
     {
-      "name": "Magcargo",
-      "tier": "T3",
+      "name": "Kabuto",
+      "tier": "T1",
       "types": [
-        "Fire",
-        "Rock"
+        "Rock",
+        "Water"
       ],
-      "cp20": 972,
-      "cp25": 1215
+      "cp20": 783,
+      "cp25": 979
     },
     {
       "name": "Necrozma",
@@ -48,24 +59,23 @@
       "cp25": 2630
     },
     {
-      "name": "Raichu (Alola)",
-      "tier": "T3",
-      "types": [
-        "Electric",
-        "Psychic"
-      ],
-      "cp20": 1306,
-      "cp25": 1633
-    },
-    {
-      "name": "Rhyhorn",
+      "name": "Omanyte",
       "tier": "T1",
       "types": [
-        "Ground",
+        "Rock",
+        "Water"
+      ],
+      "cp20": 882,
+      "cp25": 1103
+    },
+    {
+      "name": "Rockruff",
+      "tier": "T1",
+      "types": [
         "Rock"
       ],
-      "cp20": 943,
-      "cp25": 1179
+      "cp20": 543,
+      "cp25": 679
     },
     {
       "name": "Scizor (MEGA)",
@@ -153,15 +163,6 @@
       ],
       "cp20": 982,
       "cp25": 1228
-    },
-    {
-      "name": "Skiddo",
-      "tier": "T1",
-      "types": [
-        "Grass"
-      ],
-      "cp20": 714,
-      "cp25": 893
     }
   ]
 }
