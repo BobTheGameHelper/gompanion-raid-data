@@ -1,24 +1,24 @@
 {
   "bosses": [
     {
-      "name": "Aerodactyl",
+      "name": "Bombirdier",
       "tier": "T3",
       "types": [
-        "Rock",
-        "Flying"
+        "Flying",
+        "Dark"
       ],
-      "cp20": 1590,
-      "cp25": 1988
+      "cp20": 1421,
+      "cp25": 1776
     },
     {
-      "name": "Beldum",
-      "tier": "T1",
+      "name": "Braviary (Hisuian)",
+      "tier": "T3",
       "types": [
-        "Steel",
-        "Psychic"
+        "Psychic",
+        "Flying"
       ],
-      "cp20": 558,
-      "cp25": 697
+      "cp20": 1608,
+      "cp25": 2010
     },
     {
       "name": "Celesteela",
@@ -31,33 +31,13 @@
       "cp25": 2216
     },
     {
-      "name": "Decidueye (Hisuian)",
+      "name": "Corvisquire",
       "tier": "T3",
       "types": [
-        "Grass",
-        "Fighting"
+        "Flying"
       ],
-      "cp20": 1655,
-      "cp25": 2069
-    },
-    {
-      "name": "Druddigon",
-      "tier": "T3",
-      "types": [
-        "Dragon"
-      ],
-      "cp20": 1561,
-      "cp25": 1951
-    },
-    {
-      "name": "Kabuto",
-      "tier": "T1",
-      "types": [
-        "Rock",
-        "Water"
-      ],
-      "cp20": 783,
-      "cp25": 979
+      "cp20": 779,
+      "cp25": 974
     },
     {
       "name": "Kartana",
@@ -70,25 +50,6 @@
       "cp25": 2626
     },
     {
-      "name": "Necrozma",
-      "tier": "T5",
-      "types": [
-        "Psychic"
-      ],
-      "cp20": 2104,
-      "cp25": 2630
-    },
-    {
-      "name": "Omanyte",
-      "tier": "T1",
-      "types": [
-        "Rock",
-        "Water"
-      ],
-      "cp20": 882,
-      "cp25": 1103
-    },
-    {
       "name": "Pidgeot (MEGA)",
       "tier": "Mega",
       "types": [
@@ -97,25 +58,6 @@
       ],
       "cp20": 2102,
       "cp25": 2628
-    },
-    {
-      "name": "Rockruff",
-      "tier": "T1",
-      "types": [
-        "Rock"
-      ],
-      "cp20": 543,
-      "cp25": 679
-    },
-    {
-      "name": "Scizor (MEGA)",
-      "tier": "Mega",
-      "types": [
-        "Bug",
-        "Steel"
-      ],
-      "cp20": 2335,
-      "cp25": 2919
     },
     {
       "name": "Shadow Beldum",
@@ -193,6 +135,36 @@
       ],
       "cp20": 982,
       "cp25": 1228
+    },
+    {
+      "name": "Starly",
+      "tier": "T1",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "cp20": 410,
+      "cp25": 513
+    },
+    {
+      "name": "Swablu",
+      "tier": "T1",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "cp20": 470,
+      "cp25": 588
+    },
+    {
+      "name": "Vullaby",
+      "tier": "T1",
+      "types": [
+        "Dark",
+        "Flying"
+      ],
+      "cp20": 726,
+      "cp25": 908
     }
   ]
 }
