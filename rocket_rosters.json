@@ -1,0 +1,470 @@
+[
+  {
+    "id": "ghost_grunt",
+    "name": "Ghost Grunt",
+    "type": "Ghost",
+    "dialogue": "Ke-ke-ke-ke-ke!",
+    "gender": "Female",
+    "roster": {
+      "slot1": [
+        "Duskull",
+        "Gastly",
+        "Yamask"
+      ],
+      "slot2": [
+        "Sableye",
+        "Cofagrigus"
+      ],
+      "slot3": [
+        "Froslass"
+      ]
+    }
+  },
+  {
+    "id": "normal_grunt",
+    "name": "Normal Grunt",
+    "type": "Normal",
+    "dialogue": "Normal does not mean weak.",
+    "gender": "Male",
+    "roster": {
+      "slot1": [
+        "Teddiursa",
+        "Hoothoot",
+        "Porygon"
+      ],
+      "slot2": [
+        "Loudred",
+        "Stufful",
+        "Starly"
+      ],
+      "slot3": [
+        "Ursaring",
+        "Swellow",
+        "Kangaskhan"
+      ]
+    }
+  },
+  {
+    "id": "fire_grunt",
+    "name": "Fire Grunt",
+    "type": "Fire",
+    "dialogue": "Do you know how hot Monster fire breath can get?",
+    "gender": "Female",
+    "roster": {
+      "slot1": [
+        "Ponyta",
+        "Torchic"
+      ],
+      "slot2": [
+        "Blaziken"
+      ],
+      "slot3": [
+        "Magmortar"
+      ]
+    }
+  },
+  {
+    "id": "water_grunt",
+    "name": "Water Grunt",
+    "type": "Water",
+    "dialogue": "These waters are treacherous!",
+    "gender": "Female",
+    "roster": {
+      "slot1": [
+        "Mudkip",
+        "Krabby"
+      ],
+      "slot2": [
+        "Sharpedo"
+      ],
+      "slot3": [
+        "Greninja"
+      ]
+    }
+  },
+  {
+    "id": "electric_grunt",
+    "name": "Electric Grunt",
+    "type": "Electric",
+    "dialogue": "Get ready to be shocked!",
+    "gender": "Male",
+    "roster": {
+      "slot1": [
+        "Shinx"
+      ],
+      "slot2": [
+        "Voltorb"
+      ],
+      "slot3": [
+        "Luxray"
+      ]
+    }
+  },
+  {
+    "id": "grass_grunt",
+    "name": "Grass Grunt",
+    "type": "Grass",
+    "dialogue": "Don't tangle with us!",
+    "gender": "Male",
+    "roster": {
+      "slot1": [
+        "Treecko",
+        "Tangela"
+      ],
+      "slot2": [
+        "Morelull",
+        "Phantump"
+      ],
+      "slot3": [
+        "Sceptile",
+        "Trevenant",
+        "Chesnaught"
+      ]
+    }
+  },
+  {
+    "id": "ice_grunt",
+    "name": "Ice Grunt",
+    "type": "Ice",
+    "dialogue": "You're gonna be frozen in your tracks.",
+    "gender": "Female",
+    "roster": {
+      "slot1": [
+        "Seel",
+        "Delibird",
+        "Spheal"
+      ],
+      "slot2": [
+        "Sealeo",
+        "Froslass"
+      ],
+      "slot3": [
+        "Aurorus",
+        "Froslass",
+        "Glalie"
+      ]
+    }
+  },
+  {
+    "id": "fighting_grunt",
+    "name": "Fighting Grunt",
+    "type": "Fighting",
+    "dialogue": "This buff physique isn't just for show!",
+    "gender": "Male",
+    "roster": {
+      "slot1": [
+        "Timburr",
+        "Mankey",
+        "Machop"
+      ],
+      "slot2": [
+        "Hitmontop",
+        "Hitmonlee",
+        "Hitmonchan"
+      ],
+      "slot3": []
+    }
+  },
+  {
+    "id": "poison_grunt",
+    "name": "Poison Grunt",
+    "type": "Poison",
+    "dialogue": "Coiled and ready to strike!",
+    "gender": "Female",
+    "roster": {
+      "slot1": [
+        "Zubat",
+        "Qwilfish"
+      ],
+      "slot2": [
+        "Nidorino"
+      ],
+      "slot3": [
+        "Amoonguss"
+      ]
+    }
+  },
+  {
+    "id": "ground_grunt",
+    "name": "Ground Grunt",
+    "type": "Ground",
+    "dialogue": "You'll be defeated into the ground!",
+    "gender": "Male",
+    "roster": {
+      "slot1": [
+        "Rhyhorn",
+        "Gligar",
+        "Golurk"
+      ],
+      "slot2": [
+        "Vibrava"
+      ],
+      "slot3": [
+        "Flygon"
+      ]
+    }
+  },
+  {
+    "id": "flying_grunt",
+    "name": "Flying Grunt",
+    "type": "Flying",
+    "dialogue": "Battle against my Flying-type Monster!",
+    "gender": "Female",
+    "roster": {
+      "slot1": [
+        "Taillow",
+        "Rookidee",
+        "Swablu"
+      ],
+      "slot2": [
+        "Scyther",
+        "Zubat"
+      ],
+      "slot3": [
+        "Dragonite",
+        "Toucannon"
+      ]
+    }
+  },
+  {
+    "id": "psychic_grunt",
+    "name": "Psychic Grunt",
+    "type": "Psychic",
+    "dialogue": "Are you scared of psychics that use unseen power?",
+    "gender": "Male",
+    "roster": {
+      "slot1": [
+        "Wobbuffet",
+        "Ralts",
+        "Drowzee"
+      ],
+      "slot2": [
+        "Wobbuffet"
+      ],
+      "slot3": [
+        "Malamar",
+        "Reuniclus"
+      ]
+    }
+  },
+  {
+    "id": "bug_grunt",
+    "name": "Bug Grunt",
+    "type": "Bug",
+    "dialogue": "Go, my super bug Monster!",
+    "gender": "Female",
+    "roster": {
+      "slot1": [
+        "Weedle",
+        "Grubbin"
+      ],
+      "slot2": [
+        "Anorith"
+      ],
+      "slot3": [
+        "Vikavolt"
+      ]
+    }
+  },
+  {
+    "id": "rock_grunt",
+    "name": "Rock Grunt",
+    "type": "Rock",
+    "dialogue": "Let's rock and roll!",
+    "gender": "Male",
+    "roster": {
+      "slot1": [
+        "Onix",
+        "Kabuto",
+        "Cranidos"
+      ],
+      "slot2": [
+        "Shieldon",
+        "Graveler",
+        "Cranidos"
+      ],
+      "slot3": [
+        "Tyrantrum",
+        "Golem",
+        "Aurorus"
+      ]
+    }
+  },
+  {
+    "id": "dragon_grunt",
+    "name": "Dragon Grunt",
+    "type": "Dragon",
+    "dialogue": "ROAR! ...How'd that sound?",
+    "gender": "Female",
+    "roster": {
+      "slot1": [
+        "Noibat",
+        "Deino",
+        "Dratini"
+      ],
+      "slot2": [
+        "Alolan Exeggutor",
+        "Dragonair"
+      ],
+      "slot3": [
+        "Dragonite"
+      ]
+    }
+  },
+  {
+    "id": "dark_grunt",
+    "name": "Dark Grunt",
+    "type": "Dark",
+    "dialogue": "Wherever there is light, there is also shadow.",
+    "gender": "Female",
+    "roster": {
+      "slot1": [
+        "Carvanha",
+        "Poochyena",
+        "Alolan Rattata"
+      ],
+      "slot2": [
+        "Absol"
+      ],
+      "slot3": []
+    }
+  },
+  {
+    "id": "steel_grunt",
+    "name": "Steel Grunt",
+    "type": "Steel",
+    "dialogue": "You're no match for my iron will!",
+    "gender": "Male",
+    "roster": {
+      "slot1": [
+        "Alolan Sandshrew",
+        "Aron",
+        "Beldum"
+      ],
+      "slot2": [],
+      "slot3": []
+    }
+  },
+  {
+    "id": "fairy_grunt",
+    "name": "Fairy Grunt",
+    "type": "Fairy",
+    "dialogue": "Check out my cute Monster!",
+    "gender": "Female",
+    "roster": {
+      "slot1": [
+        "Alolan Vulpix"
+      ],
+      "slot2": [
+        "Kirlia"
+      ],
+      "slot3": [
+        "Granbull"
+      ]
+    }
+  },
+  {
+    "id": "snorlax_grunt",
+    "name": "Snorlax Grunt",
+    "type": "Normal",
+    "dialogue": "Winning is for winners.",
+    "gender": "Female",
+    "roster": {
+      "slot1": [
+        "Snorlax",
+        "Lapras"
+      ],
+      "slot2": [
+        "Poliwrath",
+        "Gardevoir",
+        "Snorlax"
+      ],
+      "slot3": [
+        "Gyarados",
+        "Dragonite",
+        "Snorlax"
+      ]
+    }
+  },
+  {
+    "id": "arlo",
+    "name": "Arlo",
+    "type": "Leader",
+    "dialogue": "I'm Arlo!",
+    "gender": "Male",
+    "roster": {
+      "slot1": [
+        "Tyrunt"
+      ],
+      "slot2": [
+        "Steelix",
+        "Golurk",
+        "Slowbro"
+      ],
+      "slot3": [
+        "Alakazam",
+        "Charizard",
+        "Scizor"
+      ]
+    }
+  },
+  {
+    "id": "cliff",
+    "name": "Cliff",
+    "type": "Leader",
+    "dialogue": "I'm Cliff!",
+    "gender": "Male",
+    "roster": {
+      "slot1": [
+        "Axew"
+      ],
+      "slot2": [
+        "Snorlax"
+      ],
+      "slot3": [
+        "Tyranitar",
+        "Camerupt",
+        "Gallade"
+      ]
+    }
+  },
+  {
+    "id": "sierra",
+    "name": "Sierra",
+    "type": "Leader",
+    "dialogue": "I'm Sierra!",
+    "gender": "Female",
+    "roster": {
+      "slot1": [
+        "Amaura"
+      ],
+      "slot2": [
+        "Blastoise",
+        "Flygon",
+        "Ferrothorn"
+      ],
+      "slot3": [
+        "Houndoom"
+      ]
+    }
+  },
+  {
+    "id": "giovanni",
+    "name": "Giovanni",
+    "type": "Leader",
+    "dialogue": "I'm Giovanni!",
+    "gender": "Male",
+    "roster": {
+      "slot1": [
+        "Persian"
+      ],
+      "slot2": [
+        "Kangaskhan",
+        "Rhyperior"
+      ],
+      "slot3": [
+        "Reshiram"
+      ]
+    }
+  }
+]
