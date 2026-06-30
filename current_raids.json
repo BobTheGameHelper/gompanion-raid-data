@@ -1,6 +1,16 @@
 {
   "bosses": [
     {
+      "name": "Articuno",
+      "tier": "T5",
+      "types": [
+        "Ice",
+        "Flying"
+      ],
+      "cp20": 1743,
+      "cp25": 2179
+    },
+    {
       "name": "Bombirdier",
       "tier": "T3",
       "types": [
@@ -48,6 +58,26 @@
       ],
       "cp20": 2101,
       "cp25": 2626
+    },
+    {
+      "name": "Lucario (MEGA)",
+      "tier": "Mega",
+      "types": [
+        "Fighting",
+        "Steel"
+      ],
+      "cp20": 2186,
+      "cp25": 2732
+    },
+    {
+      "name": "Moltres",
+      "tier": "T5",
+      "types": [
+        "Fire",
+        "Flying"
+      ],
+      "cp20": 1980,
+      "cp25": 2475
     },
     {
       "name": "Pidgeot (MEGA)",
@@ -128,6 +158,16 @@
       "cp25": 1311
     },
     {
+      "name": "Shadow Palkia",
+      "tier": "Shadow T5",
+      "types": [
+        "Water",
+        "Dragon"
+      ],
+      "cp20": 2280,
+      "cp25": 2850
+    },
+    {
       "name": "Shadow Porygon",
       "tier": "Shadow T1",
       "types": [
@@ -165,6 +205,16 @@
       ],
       "cp20": 726,
       "cp25": 908
+    },
+    {
+      "name": "Zapdos",
+      "tier": "T5",
+      "types": [
+        "Electric",
+        "Flying"
+      ],
+      "cp20": 2015,
+      "cp25": 2519
     }
   ]
 }
