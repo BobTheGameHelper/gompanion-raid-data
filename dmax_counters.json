@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T04:07:43.613433Z",
+  "generated_at": "2026-07-05T04:07:44.491569Z",
   "bosses": {
     "Bulbasaur": {
       "types": [
@@ -177,9 +177,9 @@
             "charged": "Wild Charge",
             "maxMove": "G-Max Stun Shock",
             "role": "tank",
-            "dps": 283.9,
+            "dps": 282.6,
             "tdo": 3895.0,
-            "ttw": 13.7,
+            "ttw": 13.8,
             "faints": 0,
             "survivalRate": 100.0
           },
@@ -316,7 +316,7 @@
               "Normal"
             ],
             "fast": "Zen Headbutt",
-            "charged": "Hyper Beam",
+            "charged": "Skull Bash",
             "maxMove": "Max Mindstorm",
             "role": "healer",
             "dps": 288.1,
@@ -381,7 +381,7 @@
             "charged": "Wild Charge",
             "maxMove": "G-Max Stun Shock",
             "role": "tank",
-            "dps": 298.7,
+            "dps": 298.6,
             "tdo": 3895.0,
             "ttw": 13.0,
             "faints": 0,
@@ -577,7 +577,7 @@
               "Normal"
             ],
             "fast": "Zen Headbutt",
-            "charged": "Earthquake",
+            "charged": "Skull Bash",
             "maxMove": "Max Mindstorm",
             "role": "healer",
             "dps": 328.0,
@@ -658,8 +658,8 @@
             "charged": "Wild Charge",
             "maxMove": "G-Max Stun Shock",
             "role": "tank",
-            "dps": 302.8,
-            "tdo": 4142.0,
+            "dps": 302.4,
+            "tdo": 4139.0,
             "ttw": 13.7,
             "faints": 0,
             "survivalRate": 100.0
@@ -672,7 +672,7 @@
               "Fire",
               "Flying"
             ],
-            "fast": "Ember",
+            "fast": "Wing Attack",
             "charged": "Blast Burn",
             "maxMove": "G-Max Wildfire",
             "role": "tank",
@@ -838,16 +838,17 @@
             "survivalRate": 100.0
           },
           {
-            "name": "Inteleon",
+            "name": "Toxtricity",
             "types": [
-              "Water"
+              "Electric",
+              "Poison"
             ],
-            "fast": "Water Gun",
-            "charged": "Shadow Ball",
-            "maxMove": "Max Geyser",
-            "role": "healer",
-            "dps": 131.6,
-            "tdo": 1712.0,
+            "fast": "Poison Jab",
+            "charged": "Wild Charge",
+            "maxMove": "G-Max Stun Shock",
+            "role": "tank",
+            "dps": 318.0,
+            "tdo": 4142.0,
             "ttw": 13.0,
             "faints": 0,
             "survivalRate": 100.0
@@ -918,7 +919,7 @@
                 "Flying"
               ],
               "role": "tank",
-              "fast": "Ember",
+              "fast": "Wing Attack",
               "charged": "Blast Burn",
               "maxMove": "G-Max Wildfire",
               "dps": 345.8,
@@ -958,11 +959,26 @@
               "Steel"
             ],
             "fast": "Mud Slap",
-            "charged": "Scorching Sands",
+            "charged": "Iron Head",
             "maxMove": "Max Quake",
             "role": "attacker",
             "dps": 1078.0,
             "tdo": 5390.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Inteleon",
+            "types": [
+              "Water"
+            ],
+            "fast": "Water Gun",
+            "charged": "Hydro Cannon",
+            "maxMove": "Max Geyser",
+            "role": "healer",
+            "dps": 363.6,
+            "tdo": 1818.0,
             "ttw": 5.0,
             "faints": 0,
             "survivalRate": 100.0
@@ -984,27 +1000,12 @@
             "survivalRate": 100.0
           },
           {
-            "name": "Inteleon",
-            "types": [
-              "Water"
-            ],
-            "fast": "Water Gun",
-            "charged": "Surf",
-            "maxMove": "Max Geyser",
-            "role": "attacker",
-            "dps": 770.6,
-            "tdo": 6165.0,
-            "ttw": 8.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
             "name": "Machamp",
             "types": [
               "Fighting"
             ],
             "fast": "Counter",
-            "charged": "Stone Edge",
+            "charged": "Payback",
             "maxMove": "G-Max Chi Strike",
             "role": "attacker",
             "dps": 486.5,
@@ -1098,7 +1099,7 @@
             "fast": "Mud Slap",
             "charged": "Drill Run",
             "maxMove": "Max Quake",
-            "role": "tank",
+            "role": "attacker",
             "dps": 390.0,
             "tdo": 4350.0,
             "ttw": 11.2,
@@ -1131,9 +1132,9 @@
             "charged": "Wild Charge",
             "maxMove": "G-Max Stun Shock",
             "role": "tank",
-            "dps": 150.0,
-            "tdo": 1752.0,
-            "ttw": 11.7,
+            "dps": 151.2,
+            "tdo": 1749.0,
+            "ttw": 11.6,
             "faints": 0,
             "survivalRate": 100.0
           }
@@ -1146,11 +1147,26 @@
               "Steel"
             ],
             "fast": "Mud Slap",
-            "charged": "Rock Slide",
+            "charged": "Earthquake",
             "maxMove": "Max Quake",
             "role": "attacker",
             "dps": 1078.0,
             "tdo": 5390.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Inteleon",
+            "types": [
+              "Water"
+            ],
+            "fast": "Water Gun",
+            "charged": "Hydro Cannon",
+            "maxMove": "Max Geyser",
+            "role": "healer",
+            "dps": 363.6,
+            "tdo": 1818.0,
             "ttw": 5.0,
             "faints": 0,
             "survivalRate": 100.0
@@ -1168,21 +1184,6 @@
             "dps": 262.8,
             "tdo": 1708.0,
             "ttw": 6.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Inteleon",
-            "types": [
-              "Water"
-            ],
-            "fast": "Water Gun",
-            "charged": "Surf",
-            "maxMove": "Max Geyser",
-            "role": "attacker",
-            "dps": 770.6,
-            "tdo": 6165.0,
-            "ttw": 8.0,
             "faints": 0,
             "survivalRate": 100.0
           },
@@ -1208,7 +1209,7 @@
               "Poison"
             ],
             "fast": "Shadow Claw",
-            "charged": "Focus Blast",
+            "charged": "Sludge Wave",
             "maxMove": "G-Max Terror",
             "role": "attacker",
             "dps": 502.0,
@@ -1286,7 +1287,7 @@
             "fast": "Mud Slap",
             "charged": "Drill Run",
             "maxMove": "Max Quake",
-            "role": "tank",
+            "role": "attacker",
             "dps": 395.5,
             "tdo": 4350.0,
             "ttw": 11.0,
@@ -1338,7 +1339,7 @@
               ],
               "role": "attacker",
               "fast": "Mud Slap",
-              "charged": "Scorching Sands",
+              "charged": "Iron Head",
               "maxMove": "Max Quake",
               "dps": 1078.0,
               "tdo": 5390.0
@@ -1357,17 +1358,16 @@
               "tdo": 4059.0
             },
             "slot3": {
-              "name": "Metagross",
+              "name": "Inteleon",
               "types": [
-                "Steel",
-                "Psychic"
+                "Water"
               ],
               "role": "healer",
-              "fast": "Fury Cutter",
-              "charged": "Earthquake",
-              "maxMove": "Max Flutterby",
-              "dps": 262.8,
-              "tdo": 1708.0
+              "fast": "Water Gun",
+              "charged": "Hydro Cannon",
+              "maxMove": "Max Geyser",
+              "dps": 363.6,
+              "tdo": 1818.0
             }
           },
           "dodging": {
@@ -1381,7 +1381,7 @@
               ],
               "role": "attacker",
               "fast": "Mud Slap",
-              "charged": "Rock Slide",
+              "charged": "Earthquake",
               "maxMove": "Max Quake",
               "dps": 1078.0,
               "tdo": 5390.0
@@ -1400,17 +1400,16 @@
               "tdo": 4059.0
             },
             "slot3": {
-              "name": "Metagross",
+              "name": "Inteleon",
               "types": [
-                "Steel",
-                "Psychic"
+                "Water"
               ],
               "role": "healer",
-              "fast": "Fury Cutter",
-              "charged": "Earthquake",
-              "maxMove": "Max Flutterby",
-              "dps": 262.8,
-              "tdo": 1708.0
+              "fast": "Water Gun",
+              "charged": "Hydro Cannon",
+              "maxMove": "Max Geyser",
+              "dps": 363.6,
+              "tdo": 1818.0
             }
           }
         }
@@ -1424,11 +1423,26 @@
               "Steel"
             ],
             "fast": "Mud Slap",
-            "charged": "Earthquake",
+            "charged": "Rock Slide",
             "maxMove": "Max Quake",
             "role": "attacker",
             "dps": 1146.0,
             "tdo": 5730.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Inteleon",
+            "types": [
+              "Water"
+            ],
+            "fast": "Water Gun",
+            "charged": "Hydro Cannon",
+            "maxMove": "Max Geyser",
+            "role": "healer",
+            "dps": 386.4,
+            "tdo": 1932.0,
             "ttw": 5.0,
             "faints": 0,
             "survivalRate": 100.0
@@ -1446,21 +1460,6 @@
             "dps": 279.2,
             "tdo": 1815.0,
             "ttw": 6.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Inteleon",
-            "types": [
-              "Water"
-            ],
-            "fast": "Water Gun",
-            "charged": "Surf",
-            "maxMove": "Max Geyser",
-            "role": "healer",
-            "dps": 230.0,
-            "tdo": 1725.0,
-            "ttw": 7.5,
             "faints": 0,
             "survivalRate": 100.0
           },
@@ -1486,7 +1485,7 @@
               "Poison"
             ],
             "fast": "Shadow Claw",
-            "charged": "Sludge Wave",
+            "charged": "Focus Blast",
             "maxMove": "G-Max Terror",
             "role": "attacker",
             "dps": 558.8,
@@ -1517,7 +1516,7 @@
               "Flying"
             ],
             "fast": "Air Slash",
-            "charged": "Fire Blast",
+            "charged": "Overheat",
             "maxMove": "G-Max Wildfire",
             "role": "attacker",
             "dps": 444.6,
@@ -1566,7 +1565,7 @@
             "charged": "Discharge",
             "maxMove": "G-Max Stun Shock",
             "role": "tank",
-            "dps": 171.2,
+            "dps": 171.1,
             "tdo": 1803.0,
             "ttw": 10.5,
             "faints": 0,
@@ -1612,11 +1611,26 @@
               "Steel"
             ],
             "fast": "Mud Slap",
-            "charged": "Rock Slide",
+            "charged": "Scorching Sands",
             "maxMove": "Max Quake",
             "role": "attacker",
             "dps": 1146.0,
             "tdo": 5730.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Inteleon",
+            "types": [
+              "Water"
+            ],
+            "fast": "Water Gun",
+            "charged": "Hydro Cannon",
+            "maxMove": "Max Geyser",
+            "role": "healer",
+            "dps": 386.4,
+            "tdo": 1932.0,
             "ttw": 5.0,
             "faints": 0,
             "survivalRate": 100.0
@@ -1634,21 +1648,6 @@
             "dps": 279.2,
             "tdo": 1815.0,
             "ttw": 6.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Inteleon",
-            "types": [
-              "Water"
-            ],
-            "fast": "Water Gun",
-            "charged": "Surf",
-            "maxMove": "Max Geyser",
-            "role": "healer",
-            "dps": 230.0,
-            "tdo": 1725.0,
-            "ttw": 7.5,
             "faints": 0,
             "survivalRate": 100.0
           },
@@ -1674,7 +1673,7 @@
               "Poison"
             ],
             "fast": "Shadow Claw",
-            "charged": "Sludge Wave",
+            "charged": "Focus Blast",
             "maxMove": "G-Max Terror",
             "role": "attacker",
             "dps": 558.8,
@@ -1705,7 +1704,7 @@
               "Flying"
             ],
             "fast": "Air Slash",
-            "charged": "Overheat",
+            "charged": "Fire Blast",
             "maxMove": "G-Max Wildfire",
             "role": "attacker",
             "dps": 444.6,
@@ -1804,48 +1803,6 @@
               ],
               "role": "attacker",
               "fast": "Mud Slap",
-              "charged": "Earthquake",
-              "maxMove": "Max Quake",
-              "dps": 1146.0,
-              "tdo": 5730.0
-            },
-            "slot2": {
-              "name": "Machamp",
-              "types": [
-                "Fighting"
-              ],
-              "role": "tank",
-              "fast": "Karate Chop",
-              "charged": "Stone Edge",
-              "maxMove": "G-Max Chi Strike",
-              "dps": 213.6,
-              "tdo": 1709.0
-            },
-            "slot3": {
-              "name": "Metagross",
-              "types": [
-                "Steel",
-                "Psychic"
-              ],
-              "role": "healer",
-              "fast": "Fury Cutter",
-              "charged": "Earthquake",
-              "maxMove": "Max Flutterby",
-              "dps": 279.2,
-              "tdo": 1815.0
-            }
-          },
-          "dodging": {
-            "min_players_needed": 1,
-            "strategy_label": "1 Attacker + 1 Tank + 1 Healer",
-            "slot1": {
-              "name": "Excadrill",
-              "types": [
-                "Ground",
-                "Steel"
-              ],
-              "role": "attacker",
-              "fast": "Mud Slap",
               "charged": "Rock Slide",
               "maxMove": "Max Quake",
               "dps": 1146.0,
@@ -1864,17 +1821,57 @@
               "tdo": 1709.0
             },
             "slot3": {
-              "name": "Metagross",
+              "name": "Inteleon",
               "types": [
-                "Steel",
-                "Psychic"
+                "Water"
               ],
               "role": "healer",
-              "fast": "Fury Cutter",
-              "charged": "Earthquake",
-              "maxMove": "Max Flutterby",
-              "dps": 279.2,
-              "tdo": 1815.0
+              "fast": "Water Gun",
+              "charged": "Hydro Cannon",
+              "maxMove": "Max Geyser",
+              "dps": 386.4,
+              "tdo": 1932.0
+            }
+          },
+          "dodging": {
+            "min_players_needed": 1,
+            "strategy_label": "1 Attacker + 1 Tank + 1 Healer",
+            "slot1": {
+              "name": "Excadrill",
+              "types": [
+                "Ground",
+                "Steel"
+              ],
+              "role": "attacker",
+              "fast": "Mud Slap",
+              "charged": "Scorching Sands",
+              "maxMove": "Max Quake",
+              "dps": 1146.0,
+              "tdo": 5730.0
+            },
+            "slot2": {
+              "name": "Machamp",
+              "types": [
+                "Fighting"
+              ],
+              "role": "tank",
+              "fast": "Karate Chop",
+              "charged": "Stone Edge",
+              "maxMove": "G-Max Chi Strike",
+              "dps": 213.6,
+              "tdo": 1709.0
+            },
+            "slot3": {
+              "name": "Inteleon",
+              "types": [
+                "Water"
+              ],
+              "role": "healer",
+              "fast": "Water Gun",
+              "charged": "Hydro Cannon",
+              "maxMove": "Max Geyser",
+              "dps": 386.4,
+              "tdo": 1932.0
             }
           }
         }
@@ -1962,9 +1959,9 @@
             "charged": "Discharge",
             "maxMove": "G-Max Stun Shock",
             "role": "tank",
-            "dps": 164.4,
-            "tdo": 1743.0,
-            "ttw": 10.6,
+            "dps": 163.2,
+            "tdo": 1746.0,
+            "ttw": 10.7,
             "faints": 0,
             "survivalRate": 100.0
           },
@@ -2195,7 +2192,7 @@
               "Fighting"
             ],
             "fast": "Counter",
-            "charged": "Close Combat",
+            "charged": "Payback",
             "maxMove": "G-Max Chi Strike",
             "role": "attacker",
             "dps": 305.8,
@@ -2445,22 +2442,6 @@
             "survivalRate": 100.0
           },
           {
-            "name": "Toxtricity",
-            "types": [
-              "Electric",
-              "Poison"
-            ],
-            "fast": "Poison Jab",
-            "charged": "Discharge",
-            "maxMove": "G-Max Stun Shock",
-            "role": "tank",
-            "dps": 175.8,
-            "tdo": 1846.0,
-            "ttw": 10.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
             "name": "Gengar",
             "types": [
               "Ghost",
@@ -2473,6 +2454,22 @@
             "dps": 373.4,
             "tdo": 3931.0,
             "ttw": 10.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Toxtricity",
+            "types": [
+              "Electric",
+              "Poison"
+            ],
+            "fast": "Poison Jab",
+            "charged": "Discharge",
+            "maxMove": "G-Max Stun Shock",
+            "role": "tank",
+            "dps": 173.1,
+            "tdo": 1852.0,
+            "ttw": 10.7,
             "faints": 0,
             "survivalRate": 100.0
           },
@@ -2532,8 +2529,8 @@
             "charged": "Megahorn",
             "maxMove": "Max Knuckle",
             "role": "tank",
-            "dps": 207.2,
-            "tdo": 3022.0,
+            "dps": 207.1,
+            "tdo": 3031.0,
             "ttw": 14.6,
             "faints": 0,
             "survivalRate": 100.0
@@ -2688,7 +2685,7 @@
               "Psychic"
             ],
             "fast": "Zen Headbutt",
-            "charged": "Earthquake",
+            "charged": "Flash Cannon",
             "maxMove": "Max Mindstorm",
             "role": "healer",
             "dps": 281.8,
@@ -2807,7 +2804,7 @@
               ],
               "role": "healer",
               "fast": "Zen Headbutt",
-              "charged": "Earthquake",
+              "charged": "Flash Cannon",
               "maxMove": "Max Mindstorm",
               "dps": 281.8,
               "tdo": 3241.0
@@ -2826,194 +2823,6 @@
       "strategy_guide": "Wooloo is a Normal-type boss. Bring Machamp or Falinks with Counter. Fighting-type Max Knuckle will deal super-effective damage. This is one of the easiest Tier 1 battles — no strategy needed.",
       "l40": {
         "standard": [
-          {
-            "name": "Machamp",
-            "types": [
-              "Fighting"
-            ],
-            "fast": "Counter",
-            "charged": "Payback",
-            "maxMove": "G-Max Chi Strike",
-            "role": "attacker",
-            "dps": 1080.5,
-            "tdo": 5943.0,
-            "ttw": 5.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Falinks",
-            "types": [
-              "Fighting"
-            ],
-            "fast": "Counter",
-            "charged": "Megahorn",
-            "maxMove": "Max Knuckle",
-            "role": "attacker",
-            "dps": 638.3,
-            "tdo": 4149.0,
-            "ttw": 6.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Excadrill",
-            "types": [
-              "Ground",
-              "Steel"
-            ],
-            "fast": "Mud Slap",
-            "charged": "Earthquake",
-            "maxMove": "Max Quake",
-            "role": "attacker",
-            "dps": 442.3,
-            "tdo": 3538.0,
-            "ttw": 8.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Gengar",
-            "types": [
-              "Ghost",
-              "Poison"
-            ],
-            "fast": "Sucker Punch",
-            "charged": "Focus Blast",
-            "maxMove": "G-Max Terror",
-            "role": "tank",
-            "dps": 237.2,
-            "tdo": 2016.0,
-            "ttw": 8.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Metagross",
-            "types": [
-              "Steel",
-              "Psychic"
-            ],
-            "fast": "Fury Cutter",
-            "charged": "Meteor Mash",
-            "maxMove": "Max Flutterby",
-            "role": "healer",
-            "dps": 208.2,
-            "tdo": 1874.0,
-            "ttw": 9.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Cinderace",
-            "types": [
-              "Fire"
-            ],
-            "fast": "Fire Spin",
-            "charged": "Focus Blast",
-            "maxMove": "G-Max Fireball",
-            "role": "attacker",
-            "dps": 436.2,
-            "tdo": 4144.0,
-            "ttw": 9.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Charizard",
-            "types": [
-              "Fire",
-              "Flying"
-            ],
-            "fast": "Fire Spin",
-            "charged": "Fire Blast",
-            "maxMove": "G-Max Wildfire",
-            "role": "tank",
-            "dps": 410.8,
-            "tdo": 3903.0,
-            "ttw": 9.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Venusaur",
-            "types": [
-              "Grass",
-              "Poison"
-            ],
-            "fast": "Vine Whip",
-            "charged": "Solar Beam",
-            "maxMove": "G-Max Vine Lash",
-            "role": "healer",
-            "dps": 182.3,
-            "tdo": 1823.0,
-            "ttw": 10.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Machoke",
-            "types": [
-              "Fighting"
-            ],
-            "fast": "Karate Chop",
-            "charged": "Dynamic Punch",
-            "maxMove": "Max Knuckle",
-            "role": "tank",
-            "dps": 206.9,
-            "tdo": 2172.0,
-            "ttw": 10.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Rillaboom",
-            "types": [
-              "Grass"
-            ],
-            "fast": "Razor Leaf",
-            "charged": "Grass Knot",
-            "maxMove": "G-Max Drum Solo",
-            "role": "attacker",
-            "dps": 426.1,
-            "tdo": 4719.0,
-            "ttw": 11.1,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Inteleon",
-            "types": [
-              "Water"
-            ],
-            "fast": "Water Gun",
-            "charged": "Surf",
-            "maxMove": "Max Geyser",
-            "role": "healer",
-            "dps": 168.4,
-            "tdo": 1975.0,
-            "ttw": 11.7,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Toxtricity",
-            "types": [
-              "Electric",
-              "Poison"
-            ],
-            "fast": "Poison Jab",
-            "charged": "Wild Charge",
-            "maxMove": "G-Max Stun Shock",
-            "role": "tank",
-            "dps": 367.7,
-            "tdo": 4524.0,
-            "ttw": 12.3,
-            "faints": 0,
-            "survivalRate": 100.0
-          }
-        ],
-        "dodging": [
           {
             "name": "Machamp",
             "types": [
@@ -3160,6 +2969,194 @@
               "Grass"
             ],
             "fast": "Razor Leaf",
+            "charged": "Grass Knot",
+            "maxMove": "G-Max Drum Solo",
+            "role": "attacker",
+            "dps": 426.1,
+            "tdo": 4719.0,
+            "ttw": 11.1,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Inteleon",
+            "types": [
+              "Water"
+            ],
+            "fast": "Water Gun",
+            "charged": "Surf",
+            "maxMove": "Max Geyser",
+            "role": "healer",
+            "dps": 188.0,
+            "tdo": 2256.0,
+            "ttw": 12.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Toxtricity",
+            "types": [
+              "Electric",
+              "Poison"
+            ],
+            "fast": "Poison Jab",
+            "charged": "Wild Charge",
+            "maxMove": "G-Max Stun Shock",
+            "role": "tank",
+            "dps": 368.3,
+            "tdo": 4524.0,
+            "ttw": 12.3,
+            "faints": 0,
+            "survivalRate": 100.0
+          }
+        ],
+        "dodging": [
+          {
+            "name": "Machamp",
+            "types": [
+              "Fighting"
+            ],
+            "fast": "Counter",
+            "charged": "Payback",
+            "maxMove": "G-Max Chi Strike",
+            "role": "attacker",
+            "dps": 1080.5,
+            "tdo": 5943.0,
+            "ttw": 5.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Falinks",
+            "types": [
+              "Fighting"
+            ],
+            "fast": "Counter",
+            "charged": "Megahorn",
+            "maxMove": "Max Knuckle",
+            "role": "attacker",
+            "dps": 638.3,
+            "tdo": 4149.0,
+            "ttw": 6.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Excadrill",
+            "types": [
+              "Ground",
+              "Steel"
+            ],
+            "fast": "Mud Slap",
+            "charged": "Earthquake",
+            "maxMove": "Max Quake",
+            "role": "attacker",
+            "dps": 442.3,
+            "tdo": 3538.0,
+            "ttw": 8.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Gengar",
+            "types": [
+              "Ghost",
+              "Poison"
+            ],
+            "fast": "Sucker Punch",
+            "charged": "Focus Blast",
+            "maxMove": "G-Max Terror",
+            "role": "tank",
+            "dps": 237.2,
+            "tdo": 2016.0,
+            "ttw": 8.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Metagross",
+            "types": [
+              "Steel",
+              "Psychic"
+            ],
+            "fast": "Fury Cutter",
+            "charged": "Meteor Mash",
+            "maxMove": "Max Flutterby",
+            "role": "healer",
+            "dps": 208.2,
+            "tdo": 1874.0,
+            "ttw": 9.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Cinderace",
+            "types": [
+              "Fire"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Focus Blast",
+            "maxMove": "G-Max Fireball",
+            "role": "attacker",
+            "dps": 436.2,
+            "tdo": 4144.0,
+            "ttw": 9.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Charizard",
+            "types": [
+              "Fire",
+              "Flying"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Overheat",
+            "maxMove": "G-Max Wildfire",
+            "role": "tank",
+            "dps": 410.8,
+            "tdo": 3903.0,
+            "ttw": 9.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Venusaur",
+            "types": [
+              "Grass",
+              "Poison"
+            ],
+            "fast": "Vine Whip",
+            "charged": "Solar Beam",
+            "maxMove": "G-Max Vine Lash",
+            "role": "healer",
+            "dps": 182.3,
+            "tdo": 1823.0,
+            "ttw": 10.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Machoke",
+            "types": [
+              "Fighting"
+            ],
+            "fast": "Karate Chop",
+            "charged": "Dynamic Punch",
+            "maxMove": "Max Knuckle",
+            "role": "tank",
+            "dps": 206.9,
+            "tdo": 2172.0,
+            "ttw": 10.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Rillaboom",
+            "types": [
+              "Grass"
+            ],
+            "fast": "Razor Leaf",
             "charged": "Frenzy Plant",
             "maxMove": "G-Max Drum Solo",
             "role": "attacker",
@@ -3212,7 +3209,7 @@
               ],
               "role": "attacker",
               "fast": "Counter",
-              "charged": "Payback",
+              "charged": "Heavy Slam",
               "maxMove": "G-Max Chi Strike",
               "dps": 1080.5,
               "tdo": 5943.0
@@ -3254,7 +3251,7 @@
               ],
               "role": "attacker",
               "fast": "Counter",
-              "charged": "Heavy Slam",
+              "charged": "Payback",
               "maxMove": "G-Max Chi Strike",
               "dps": 1080.5,
               "tdo": 5943.0
@@ -3358,7 +3355,7 @@
               "Fire"
             ],
             "fast": "Fire Spin",
-            "charged": "Pyroball",
+            "charged": "Focus Blast",
             "maxMove": "G-Max Fireball",
             "role": "attacker",
             "dps": 506.8,
@@ -3546,7 +3543,7 @@
               "Fire"
             ],
             "fast": "Fire Spin",
-            "charged": "Pyroball",
+            "charged": "Focus Blast",
             "maxMove": "G-Max Fireball",
             "role": "attacker",
             "dps": 506.8,
@@ -3578,7 +3575,7 @@
               "Flying"
             ],
             "fast": "Fire Spin",
-            "charged": "Fire Blast",
+            "charged": "Overheat",
             "maxMove": "G-Max Wildfire",
             "role": "tank",
             "dps": 436.3,
@@ -3769,7 +3766,7 @@
               "Fighting"
             ],
             "fast": "Counter",
-            "charged": "Close Combat",
+            "charged": "Payback",
             "maxMove": "G-Max Chi Strike",
             "role": "attacker",
             "dps": 1198.2,
@@ -3831,7 +3828,7 @@
               "Fire"
             ],
             "fast": "Fire Spin",
-            "charged": "Focus Blast",
+            "charged": "Pyroball",
             "maxMove": "G-Max Fireball",
             "role": "attacker",
             "dps": 528.4,
@@ -3847,7 +3844,7 @@
               "Flying"
             ],
             "fast": "Fire Spin",
-            "charged": "Fire Blast",
+            "charged": "Overheat",
             "maxMove": "G-Max Wildfire",
             "role": "attacker",
             "dps": 497.2,
@@ -3879,7 +3876,7 @@
               "Poison"
             ],
             "fast": "Razor Leaf",
-            "charged": "Solar Beam",
+            "charged": "Petal Blizzard",
             "maxMove": "G-Max Vine Lash",
             "role": "attacker",
             "dps": 407.5,
@@ -3957,7 +3954,7 @@
               "Fighting"
             ],
             "fast": "Counter",
-            "charged": "Stone Edge",
+            "charged": "Payback",
             "maxMove": "G-Max Chi Strike",
             "role": "attacker",
             "dps": 1198.2,
@@ -4067,7 +4064,7 @@
               "Poison"
             ],
             "fast": "Razor Leaf",
-            "charged": "Solar Beam",
+            "charged": "Petal Blizzard",
             "maxMove": "G-Max Vine Lash",
             "role": "attacker",
             "dps": 407.5,
@@ -4149,7 +4146,7 @@
               ],
               "role": "attacker",
               "fast": "Counter",
-              "charged": "Close Combat",
+              "charged": "Payback",
               "maxMove": "G-Max Chi Strike",
               "dps": 1198.2,
               "tdo": 6590.0
@@ -4190,7 +4187,7 @@
               ],
               "role": "attacker",
               "fast": "Counter",
-              "charged": "Stone Edge",
+              "charged": "Payback",
               "maxMove": "G-Max Chi Strike",
               "dps": 1198.2,
               "tdo": 6590.0
@@ -4277,7 +4274,7 @@
               "Grass"
             ],
             "fast": "Razor Leaf",
-            "charged": "Energy Ball",
+            "charged": "Grass Knot",
             "maxMove": "G-Max Drum Solo",
             "role": "attacker",
             "dps": 624.5,
@@ -4293,6 +4290,194 @@
             ],
             "fast": "Fire Spin",
             "charged": "Focus Blast",
+            "maxMove": "G-Max Fireball",
+            "role": "attacker",
+            "dps": 622.5,
+            "tdo": 4669.0,
+            "ttw": 7.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Gengar",
+            "types": [
+              "Ghost",
+              "Poison"
+            ],
+            "fast": "Hex",
+            "charged": "Focus Blast",
+            "maxMove": "G-Max Terror",
+            "role": "tank",
+            "dps": 243.4,
+            "tdo": 1947.0,
+            "ttw": 8.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Charizard",
+            "types": [
+              "Fire",
+              "Flying"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Overheat",
+            "maxMove": "G-Max Wildfire",
+            "role": "tank",
+            "dps": 528.5,
+            "tdo": 4492.0,
+            "ttw": 8.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Metagross",
+            "types": [
+              "Steel",
+              "Psychic"
+            ],
+            "fast": "Zen Headbutt",
+            "charged": "Earthquake",
+            "maxMove": "Max Mindstorm",
+            "role": "healer",
+            "dps": 478.7,
+            "tdo": 4069.0,
+            "ttw": 8.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Venusaur",
+            "types": [
+              "Grass",
+              "Poison"
+            ],
+            "fast": "Razor Leaf",
+            "charged": "Solar Beam",
+            "maxMove": "G-Max Vine Lash",
+            "role": "healer",
+            "dps": 433.7,
+            "tdo": 4120.0,
+            "ttw": 9.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Machoke",
+            "types": [
+              "Fighting"
+            ],
+            "fast": "Karate Chop",
+            "charged": "Cross Chop",
+            "maxMove": "Max Knuckle",
+            "role": "tank",
+            "dps": 194.5,
+            "tdo": 1848.0,
+            "ttw": 9.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Toxtricity",
+            "types": [
+              "Electric",
+              "Poison"
+            ],
+            "fast": "Poison Jab",
+            "charged": "Power Up Punch",
+            "maxMove": "G-Max Stun Shock",
+            "role": "tank",
+            "dps": 189.4,
+            "tdo": 1894.0,
+            "ttw": 10.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Inteleon",
+            "types": [
+              "Water"
+            ],
+            "fast": "Pound",
+            "charged": "Surf",
+            "maxMove": "Max Strike",
+            "role": "healer",
+            "dps": 389.4,
+            "tdo": 4089.0,
+            "ttw": 10.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          }
+        ],
+        "dodging": [
+          {
+            "name": "Machamp",
+            "types": [
+              "Fighting"
+            ],
+            "fast": "Counter",
+            "charged": "Heavy Slam",
+            "maxMove": "G-Max Chi Strike",
+            "role": "attacker",
+            "dps": 1518.2,
+            "tdo": 6832.0,
+            "ttw": 4.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Falinks",
+            "types": [
+              "Fighting"
+            ],
+            "fast": "Counter",
+            "charged": "Super Power",
+            "maxMove": "Max Knuckle",
+            "role": "attacker",
+            "dps": 862.0,
+            "tdo": 4741.0,
+            "ttw": 5.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Excadrill",
+            "types": [
+              "Ground",
+              "Steel"
+            ],
+            "fast": "Mud Slap",
+            "charged": "Earthquake",
+            "maxMove": "Max Quake",
+            "role": "attacker",
+            "dps": 615.4,
+            "tdo": 4000.0,
+            "ttw": 6.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Rillaboom",
+            "types": [
+              "Grass"
+            ],
+            "fast": "Razor Leaf",
+            "charged": "Energy Ball",
+            "maxMove": "G-Max Drum Solo",
+            "role": "attacker",
+            "dps": 624.5,
+            "tdo": 4684.0,
+            "ttw": 7.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Cinderace",
+            "types": [
+              "Fire"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Pyroball",
             "maxMove": "G-Max Fireball",
             "role": "attacker",
             "dps": 622.5,
@@ -4401,194 +4586,6 @@
             "types": [
               "Water"
             ],
-            "fast": "Pound",
-            "charged": "Surf",
-            "maxMove": "Max Strike",
-            "role": "healer",
-            "dps": 389.4,
-            "tdo": 4089.0,
-            "ttw": 10.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          }
-        ],
-        "dodging": [
-          {
-            "name": "Machamp",
-            "types": [
-              "Fighting"
-            ],
-            "fast": "Counter",
-            "charged": "Payback",
-            "maxMove": "G-Max Chi Strike",
-            "role": "attacker",
-            "dps": 1518.2,
-            "tdo": 6832.0,
-            "ttw": 4.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Falinks",
-            "types": [
-              "Fighting"
-            ],
-            "fast": "Counter",
-            "charged": "Megahorn",
-            "maxMove": "Max Knuckle",
-            "role": "attacker",
-            "dps": 862.0,
-            "tdo": 4741.0,
-            "ttw": 5.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Excadrill",
-            "types": [
-              "Ground",
-              "Steel"
-            ],
-            "fast": "Mud Slap",
-            "charged": "Earthquake",
-            "maxMove": "Max Quake",
-            "role": "attacker",
-            "dps": 615.4,
-            "tdo": 4000.0,
-            "ttw": 6.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Rillaboom",
-            "types": [
-              "Grass"
-            ],
-            "fast": "Razor Leaf",
-            "charged": "Energy Ball",
-            "maxMove": "G-Max Drum Solo",
-            "role": "attacker",
-            "dps": 624.5,
-            "tdo": 4684.0,
-            "ttw": 7.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Cinderace",
-            "types": [
-              "Fire"
-            ],
-            "fast": "Fire Spin",
-            "charged": "Pyroball",
-            "maxMove": "G-Max Fireball",
-            "role": "attacker",
-            "dps": 622.5,
-            "tdo": 4669.0,
-            "ttw": 7.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Gengar",
-            "types": [
-              "Ghost",
-              "Poison"
-            ],
-            "fast": "Hex",
-            "charged": "Focus Blast",
-            "maxMove": "G-Max Terror",
-            "role": "tank",
-            "dps": 243.4,
-            "tdo": 1947.0,
-            "ttw": 8.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Charizard",
-            "types": [
-              "Fire",
-              "Flying"
-            ],
-            "fast": "Fire Spin",
-            "charged": "Fire Blast",
-            "maxMove": "G-Max Wildfire",
-            "role": "tank",
-            "dps": 528.5,
-            "tdo": 4492.0,
-            "ttw": 8.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Metagross",
-            "types": [
-              "Steel",
-              "Psychic"
-            ],
-            "fast": "Zen Headbutt",
-            "charged": "Earthquake",
-            "maxMove": "Max Mindstorm",
-            "role": "healer",
-            "dps": 478.7,
-            "tdo": 4069.0,
-            "ttw": 8.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Venusaur",
-            "types": [
-              "Grass",
-              "Poison"
-            ],
-            "fast": "Razor Leaf",
-            "charged": "Petal Blizzard",
-            "maxMove": "G-Max Vine Lash",
-            "role": "healer",
-            "dps": 433.7,
-            "tdo": 4120.0,
-            "ttw": 9.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Machoke",
-            "types": [
-              "Fighting"
-            ],
-            "fast": "Karate Chop",
-            "charged": "Cross Chop",
-            "maxMove": "Max Knuckle",
-            "role": "tank",
-            "dps": 194.5,
-            "tdo": 1848.0,
-            "ttw": 9.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Toxtricity",
-            "types": [
-              "Electric",
-              "Poison"
-            ],
-            "fast": "Poison Jab",
-            "charged": "Power Up Punch",
-            "maxMove": "G-Max Stun Shock",
-            "role": "tank",
-            "dps": 189.4,
-            "tdo": 1894.0,
-            "ttw": 10.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Inteleon",
-            "types": [
-              "Water"
-            ],
             "fast": "Water Gun",
             "charged": "Surf",
             "maxMove": "Max Geyser",
@@ -4637,7 +4634,7 @@
               ],
               "role": "healer",
               "fast": "Zen Headbutt",
-              "charged": "Flash Cannon",
+              "charged": "Earthquake",
               "maxMove": "Max Mindstorm",
               "dps": 478.7,
               "tdo": 4069.0
@@ -4653,7 +4650,7 @@
               ],
               "role": "attacker",
               "fast": "Counter",
-              "charged": "Payback",
+              "charged": "Heavy Slam",
               "maxMove": "G-Max Chi Strike",
               "dps": 1518.2,
               "tdo": 6832.0
@@ -4679,7 +4676,7 @@
               ],
               "role": "healer",
               "fast": "Zen Headbutt",
-              "charged": "Earthquake",
+              "charged": "Flash Cannon",
               "maxMove": "Max Mindstorm",
               "dps": 478.7,
               "tdo": 4069.0
@@ -4803,9 +4800,9 @@
             "charged": "Shadow Ball",
             "maxMove": "Max Geyser",
             "role": "healer",
-            "dps": 54.3,
-            "tdo": 10073.0,
-            "ttw": 185.3,
+            "dps": 54.2,
+            "tdo": 10084.0,
+            "ttw": 186.0,
             "faints": 1,
             "survivalRate": 100.0
           },
@@ -4849,9 +4846,9 @@
             "charged": "Wild Charge",
             "maxMove": "G-Max Stun Shock",
             "role": "tank",
-            "dps": 43.8,
-            "tdo": 10352.0,
-            "ttw": 236.4,
+            "dps": 43.5,
+            "tdo": 10370.0,
+            "ttw": 238.2,
             "faints": 1,
             "survivalRate": 100.0
           },
@@ -4991,9 +4988,9 @@
             "charged": "Shadow Ball",
             "maxMove": "Max Geyser",
             "role": "healer",
-            "dps": 61.5,
-            "tdo": 10066.0,
-            "ttw": 163.7,
+            "dps": 61.7,
+            "tdo": 10075.0,
+            "ttw": 163.2,
             "faints": 0,
             "survivalRate": 100.0
           },
@@ -5101,8 +5098,8 @@
               "fast": "Spark",
               "charged": "Wild Charge",
               "maxMove": "G-Max Stun Shock",
-              "dps": 43.8,
-              "tdo": 10352.0
+              "dps": 43.5,
+              "tdo": 10370.0
             },
             "slot3": {
               "name": "Metagross",
@@ -5268,9 +5265,9 @@
             "charged": "Shadow Ball",
             "maxMove": "Max Geyser",
             "role": "healer",
-            "dps": 60.5,
-            "tdo": 10064.0,
-            "ttw": 166.3,
+            "dps": 60.4,
+            "tdo": 10068.0,
+            "ttw": 166.7,
             "faints": 0,
             "survivalRate": 100.0
           },
@@ -5314,9 +5311,9 @@
             "charged": "Wild Charge",
             "maxMove": "G-Max Stun Shock",
             "role": "tank",
-            "dps": 45.7,
-            "tdo": 10170.0,
-            "ttw": 222.7,
+            "dps": 45.2,
+            "tdo": 10085.0,
+            "ttw": 223.1,
             "faints": 1,
             "survivalRate": 100.0
           },
@@ -5487,9 +5484,9 @@
             "charged": "Shadow Ball",
             "maxMove": "Max Geyser",
             "role": "healer",
-            "dps": 65.8,
+            "dps": 65.7,
             "tdo": 10014.0,
-            "ttw": 152.2,
+            "ttw": 152.3,
             "faints": 0,
             "survivalRate": 100.0
           },
@@ -5578,8 +5575,8 @@
               "fast": "Water Gun",
               "charged": "Shadow Ball",
               "maxMove": "Max Geyser",
-              "dps": 60.5,
-              "tdo": 10064.0
+              "dps": 60.4,
+              "tdo": 10068.0
             }
           },
           "dodging": {
@@ -5727,7 +5724,7 @@
             "maxMove": "G-Max Stun Shock",
             "role": "attacker",
             "dps": 5.2,
-            "tdo": 4712.0,
+            "tdo": 4700.0,
             "ttw": 9999.0,
             "faints": 3,
             "survivalRate": 0.0
@@ -5933,8 +5930,8 @@
             "charged": "Wild Charge",
             "maxMove": "G-Max Stun Shock",
             "role": "attacker",
-            "dps": 10.5,
-            "tdo": 9437.0,
+            "dps": 10.4,
+            "tdo": 9403.0,
             "ttw": 9999.0,
             "faints": 3,
             "survivalRate": 0.0
@@ -6194,8 +6191,8 @@
             "charged": "Wild Charge",
             "maxMove": "G-Max Stun Shock",
             "role": "attacker",
-            "dps": 7.0,
-            "tdo": 6269.0,
+            "dps": 6.9,
+            "tdo": 6201.0,
             "ttw": 9999.0,
             "faints": 3,
             "survivalRate": 0.0
@@ -6262,6 +6259,21 @@
             "survivalRate": 0.0
           },
           {
+            "name": "Inteleon",
+            "types": [
+              "Water"
+            ],
+            "fast": "Water Gun",
+            "charged": "Hydro Cannon",
+            "maxMove": "Max Geyser",
+            "role": "tank",
+            "dps": 4.8,
+            "tdo": 4345.0,
+            "ttw": 9999.0,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
             "name": "Excadrill",
             "types": [
               "Ground",
@@ -6275,21 +6287,6 @@
             "tdo": 4203.0,
             "ttw": 9999.0,
             "faints": 3,
-            "survivalRate": 0.0
-          },
-          {
-            "name": "Snorlax",
-            "types": [
-              "Normal"
-            ],
-            "fast": "Zen Headbutt",
-            "charged": "Skull Bash",
-            "maxMove": "Max Mindstorm",
-            "role": "tank",
-            "dps": 4.6,
-            "tdo": 4167.0,
-            "ttw": 9999.0,
-            "faints": 2,
             "survivalRate": 0.0
           }
         ],
@@ -6352,9 +6349,9 @@
             "charged": "Wild Charge",
             "maxMove": "G-Max Stun Shock",
             "role": "attacker",
-            "dps": 50.8,
-            "tdo": 10198.0,
-            "ttw": 200.6,
+            "dps": 50.4,
+            "tdo": 10181.0,
+            "ttw": 202.0,
             "faints": 2,
             "survivalRate": 100.0
           },
@@ -6718,8 +6715,8 @@
             "maxMove": "G-Max Stun Shock",
             "role": "attacker",
             "dps": 71.6,
-            "tdo": 10168.0,
-            "ttw": 142.0,
+            "tdo": 10203.0,
+            "ttw": 142.5,
             "faints": 2,
             "survivalRate": 100.0
           },
@@ -6760,14 +6757,14 @@
               "Normal"
             ],
             "fast": "Bite",
-            "charged": "Body Slam",
+            "charged": "Crunch",
             "maxMove": "Max Darkness",
             "role": "healer",
-            "dps": 56.7,
-            "tdo": 10011.0,
-            "ttw": 176.6,
+            "dps": 58.1,
+            "tdo": 10444.0,
+            "ttw": 179.8,
             "faints": 1,
-            "survivalRate": 100.0
+            "survivalRate": 98.0
           }
         ],
         "dodging": [
@@ -6874,9 +6871,9 @@
             "charged": "Shadow Ball",
             "maxMove": "Max Geyser",
             "role": "healer",
-            "dps": 112.2,
-            "tdo": 10775.0,
-            "ttw": 96.0,
+            "dps": 112.1,
+            "tdo": 10752.0,
+            "ttw": 95.9,
             "faints": 1,
             "survivalRate": 100.0
           },
@@ -6906,9 +6903,9 @@
             "charged": "Wild Charge",
             "maxMove": "G-Max Stun Shock",
             "role": "tank",
-            "dps": 100.1,
-            "tdo": 10244.0,
-            "ttw": 102.4,
+            "dps": 102.9,
+            "tdo": 10287.0,
+            "ttw": 100.0,
             "faints": 1,
             "survivalRate": 100.0
           },
@@ -7113,21 +7110,6 @@
             "survivalRate": 100.0
           },
           {
-            "name": "Inteleon",
-            "types": [
-              "Water"
-            ],
-            "fast": "Water Gun",
-            "charged": "Shadow Ball",
-            "maxMove": "Max Geyser",
-            "role": "healer",
-            "dps": 86.9,
-            "tdo": 10016.0,
-            "ttw": 115.2,
-            "faints": 1,
-            "survivalRate": 98.0
-          },
-          {
             "name": "Cinderace",
             "types": [
               "Fire"
@@ -7198,9 +7180,24 @@
             "charged": "Wild Charge",
             "maxMove": "G-Max Stun Shock",
             "role": "tank",
-            "dps": 74.9,
-            "tdo": 10162.0,
-            "ttw": 135.6,
+            "dps": 74.7,
+            "tdo": 10150.0,
+            "ttw": 135.9,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Greedent",
+            "types": [
+              "Normal"
+            ],
+            "fast": "Bite",
+            "charged": "Trailblaze",
+            "maxMove": "Max Darkness",
+            "role": "healer",
+            "dps": 69.0,
+            "tdo": 10146.0,
+            "ttw": 147.1,
             "faints": 0,
             "survivalRate": 100.0
           },
@@ -7309,9 +7306,9 @@
             "charged": "Surf",
             "maxMove": "Max Geyser",
             "role": "attacker",
-            "dps": 118.2,
-            "tdo": 10481.0,
-            "ttw": 88.7,
+            "dps": 118.0,
+            "tdo": 10497.0,
+            "ttw": 88.9,
             "faints": 1,
             "survivalRate": 100.0
           },
@@ -7371,9 +7368,9 @@
             "charged": "Wild Charge",
             "maxMove": "G-Max Stun Shock",
             "role": "tank",
-            "dps": 114.5,
-            "tdo": 10610.0,
-            "ttw": 92.6,
+            "dps": 117.5,
+            "tdo": 10837.0,
+            "ttw": 92.3,
             "faints": 1,
             "survivalRate": 100.0
           },
@@ -7455,16 +7452,16 @@
               "tdo": 10337.0
             },
             "slot3": {
-              "name": "Inteleon",
+              "name": "Snorlax",
               "types": [
-                "Water"
+                "Normal"
               ],
               "role": "healer",
-              "fast": "Water Gun",
-              "charged": "Shadow Ball",
-              "maxMove": "Max Geyser",
-              "dps": 86.9,
-              "tdo": 10016.0
+              "fast": "Lick",
+              "charged": "Earthquake",
+              "maxMove": "Max Phantasm",
+              "dps": 78.1,
+              "tdo": 10036.0
             }
           },
           "dodging": {
@@ -7624,9 +7621,9 @@
             "charged": "Trailblaze",
             "maxMove": "Max Strike",
             "role": "tank",
-            "dps": 49.5,
-            "tdo": 10344.0,
-            "ttw": 208.9,
+            "dps": 49.6,
+            "tdo": 10307.0,
+            "ttw": 207.8,
             "faints": 2,
             "survivalRate": 100.0
           },
@@ -7644,6 +7641,21 @@
             "ttw": 210.8,
             "faints": 2,
             "survivalRate": 100.0
+          },
+          {
+            "name": "Inteleon",
+            "types": [
+              "Water"
+            ],
+            "fast": "Water Gun",
+            "charged": "Hydro Cannon",
+            "maxMove": "Max Geyser",
+            "role": "healer",
+            "dps": 35.5,
+            "tdo": 9961.0,
+            "ttw": 280.8,
+            "faints": 0,
+            "survivalRate": 82.0
           },
           {
             "name": "Gengar",
@@ -7676,21 +7688,6 @@
             "ttw": 383.5,
             "faints": 1,
             "survivalRate": 80.0
-          },
-          {
-            "name": "Inteleon",
-            "types": [
-              "Water"
-            ],
-            "fast": "Water Gun",
-            "charged": "Shadow Ball",
-            "maxMove": "Max Geyser",
-            "role": "tank",
-            "dps": 1.0,
-            "tdo": 8483.0,
-            "ttw": 8217.0,
-            "faints": 1,
-            "survivalRate": 10.0
           },
           {
             "name": "Butterfree",
@@ -7750,9 +7747,9 @@
             "charged": "Surf",
             "maxMove": "Max Geyser",
             "role": "attacker",
-            "dps": 123.4,
-            "tdo": 10728.0,
-            "ttw": 86.9,
+            "dps": 122.5,
+            "tdo": 10720.0,
+            "ttw": 87.5,
             "faints": 1,
             "survivalRate": 100.0
           },
@@ -7922,8 +7919,8 @@
               "fast": "Tackle",
               "charged": "Trailblaze",
               "maxMove": "Max Strike",
-              "dps": 49.5,
-              "tdo": 10344.0
+              "dps": 49.6,
+              "tdo": 10307.0
             },
             "slot3": {
               "name": "Metagross",
@@ -7986,6 +7983,21 @@
       "l50": {
         "standard": [
           {
+            "name": "Inteleon",
+            "types": [
+              "Water"
+            ],
+            "fast": "Water Gun",
+            "charged": "Hydro Cannon",
+            "maxMove": "Max Geyser",
+            "role": "attacker",
+            "dps": 130.9,
+            "tdo": 10023.0,
+            "ttw": 76.6,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
             "name": "Venusaur",
             "types": [
               "Grass",
@@ -8000,21 +8012,6 @@
             "ttw": 91.7,
             "faints": 0,
             "survivalRate": 100.0
-          },
-          {
-            "name": "Inteleon",
-            "types": [
-              "Water"
-            ],
-            "fast": "Water Gun",
-            "charged": "Surf",
-            "maxMove": "Max Geyser",
-            "role": "attacker",
-            "dps": 91.7,
-            "tdo": 9998.0,
-            "ttw": 109.1,
-            "faints": 1,
-            "survivalRate": 98.0
           },
           {
             "name": "Rillaboom",
@@ -8163,10 +8160,10 @@
             "fast": "Tackle",
             "charged": "Trailblaze",
             "maxMove": "Max Strike",
-            "role": "healer",
-            "dps": 49.3,
-            "tdo": 10304.0,
-            "ttw": 208.9,
+            "role": "tank",
+            "dps": 49.6,
+            "tdo": 10352.0,
+            "ttw": 208.8,
             "faints": 2,
             "survivalRate": 100.0
           }
@@ -8209,13 +8206,13 @@
               "Water"
             ],
             "fast": "Water Gun",
-            "charged": "Surf",
+            "charged": "Hydro Cannon",
             "maxMove": "Max Geyser",
             "role": "attacker",
-            "dps": 124.3,
-            "tdo": 10539.0,
-            "ttw": 84.8,
-            "faints": 1,
+            "dps": 122.9,
+            "tdo": 10232.0,
+            "ttw": 83.2,
+            "faints": 0,
             "survivalRate": 100.0
           },
           {
@@ -8364,17 +8361,16 @@
             "min_players_needed": 1,
             "strategy_label": "1 Attacker + 1 Tank + 1 Healer",
             "slot1": {
-              "name": "Venusaur",
+              "name": "Inteleon",
               "types": [
-                "Grass",
-                "Poison"
+                "Water"
               ],
               "role": "attacker",
-              "fast": "Vine Whip",
-              "charged": "Frenzy Plant",
-              "maxMove": "G-Max Vine Lash",
-              "dps": 110.3,
-              "tdo": 10114.0
+              "fast": "Water Gun",
+              "charged": "Hydro Cannon",
+              "maxMove": "Max Geyser",
+              "dps": 130.9,
+              "tdo": 10023.0
             },
             "slot2": {
               "name": "Charizard",
@@ -8537,6 +8533,21 @@
             "survivalRate": 0.0
           },
           {
+            "name": "Inteleon",
+            "types": [
+              "Water"
+            ],
+            "fast": "Water Gun",
+            "charged": "Hydro Cannon",
+            "maxMove": "Max Geyser",
+            "role": "tank",
+            "dps": 1.4,
+            "tdo": 1284.0,
+            "ttw": 9999.0,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
             "name": "Charizard",
             "types": [
               "Fire",
@@ -8578,22 +8589,7 @@
             "maxMove": "G-Max Stun Shock",
             "role": "attacker",
             "dps": 1.3,
-            "tdo": 1196.0,
-            "ttw": 9999.0,
-            "faints": 3,
-            "survivalRate": 0.0
-          },
-          {
-            "name": "Inteleon",
-            "types": [
-              "Water"
-            ],
-            "fast": "Water Gun",
-            "charged": "Shadow Ball",
-            "maxMove": "Max Geyser",
-            "role": "tank",
-            "dps": 1.3,
-            "tdo": 1189.0,
+            "tdo": 1195.0,
             "ttw": 9999.0,
             "faints": 3,
             "survivalRate": 0.0
@@ -8785,16 +8781,16 @@
             "survivalRate": 0.0
           },
           {
-            "name": "Machoke",
+            "name": "Inteleon",
             "types": [
-              "Fighting"
+              "Water"
             ],
-            "fast": "Low Kick",
-            "charged": "Dynamic Punch",
-            "maxMove": "Max Knuckle",
-            "role": "attacker",
-            "dps": 2.1,
-            "tdo": 1909.0,
+            "fast": "Water Gun",
+            "charged": "Hydro Cannon",
+            "maxMove": "Max Geyser",
+            "role": "tank",
+            "dps": 2.2,
+            "tdo": 1942.0,
             "ttw": 9999.0,
             "faints": 3,
             "survivalRate": 0.0
@@ -8809,23 +8805,22 @@
             "maxMove": "Max Knuckle",
             "role": "attacker",
             "dps": 2.1,
-            "tdo": 1905.0,
+            "tdo": 1911.0,
             "ttw": 9999.0,
             "faints": 3,
             "survivalRate": 0.0
           },
           {
-            "name": "Toxtricity",
+            "name": "Machoke",
             "types": [
-              "Electric",
-              "Poison"
+              "Fighting"
             ],
-            "fast": "Spark",
-            "charged": "Wild Charge",
-            "maxMove": "G-Max Stun Shock",
+            "fast": "Low Kick",
+            "charged": "Dynamic Punch",
+            "maxMove": "Max Knuckle",
             "role": "attacker",
             "dps": 2.1,
-            "tdo": 1869.0,
+            "tdo": 1909.0,
             "ttw": 9999.0,
             "faints": 3,
             "survivalRate": 0.0
@@ -8868,10 +8863,10 @@
               ],
               "role": "tank",
               "fast": "Water Gun",
-              "charged": "Shadow Ball",
+              "charged": "Hydro Cannon",
               "maxMove": "Max Geyser",
-              "dps": 1.3,
-              "tdo": 1189.0
+              "dps": 1.4,
+              "tdo": 1284.0
             }
           },
           "dodging": {
@@ -9060,6 +9055,21 @@
             "survivalRate": 0.0
           },
           {
+            "name": "Inteleon",
+            "types": [
+              "Water"
+            ],
+            "fast": "Water Gun",
+            "charged": "Hydro Cannon",
+            "maxMove": "Max Geyser",
+            "role": "tank",
+            "dps": 1.5,
+            "tdo": 1339.0,
+            "ttw": 9999.0,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
             "name": "Toxtricity",
             "types": [
               "Electric",
@@ -9070,22 +9080,7 @@
             "maxMove": "G-Max Stun Shock",
             "role": "attacker",
             "dps": 1.4,
-            "tdo": 1272.0,
-            "ttw": 9999.0,
-            "faints": 3,
-            "survivalRate": 0.0
-          },
-          {
-            "name": "Inteleon",
-            "types": [
-              "Water"
-            ],
-            "fast": "Water Gun",
-            "charged": "Shadow Ball",
-            "maxMove": "Max Geyser",
-            "role": "tank",
-            "dps": 1.4,
-            "tdo": 1246.0,
+            "tdo": 1264.0,
             "ttw": 9999.0,
             "faints": 3,
             "survivalRate": 0.0
@@ -9256,7 +9251,7 @@
             "maxMove": "Max Knuckle",
             "role": "attacker",
             "dps": 2.6,
-            "tdo": 2341.0,
+            "tdo": 2343.0,
             "ttw": 9999.0,
             "faints": 3,
             "survivalRate": 0.0
@@ -9271,7 +9266,7 @@
             "maxMove": "Max Quake",
             "role": "tank",
             "dps": 2.6,
-            "tdo": 2320.0,
+            "tdo": 2336.0,
             "ttw": 9999.0,
             "faints": 3,
             "survivalRate": 0.0
@@ -9282,11 +9277,11 @@
               "Water"
             ],
             "fast": "Water Gun",
-            "charged": "Surf",
+            "charged": "Hydro Cannon",
             "maxMove": "Max Geyser",
             "role": "tank",
             "dps": 2.5,
-            "tdo": 2240.0,
+            "tdo": 2292.0,
             "ttw": 9999.0,
             "faints": 3,
             "survivalRate": 0.0
@@ -9542,7 +9537,7 @@
             "maxMove": "Max Strike",
             "role": "tank",
             "dps": 1.0,
-            "tdo": 938.0,
+            "tdo": 911.0,
             "ttw": 9999.0,
             "faints": 3,
             "survivalRate": 0.0
@@ -9748,7 +9743,7 @@
             "maxMove": "G-Max Stun Shock",
             "role": "attacker",
             "dps": 2.0,
-            "tdo": 1843.0,
+            "tdo": 1831.0,
             "ttw": 9999.0,
             "faints": 3,
             "survivalRate": 0.0
@@ -10027,7 +10022,7 @@
             "maxMove": "G-Max Stun Shock",
             "role": "attacker",
             "dps": 1.3,
-            "tdo": 1142.0,
+            "tdo": 1160.0,
             "ttw": 9999.0,
             "faints": 3,
             "survivalRate": 0.0
@@ -10042,7 +10037,7 @@
             "maxMove": "Max Strike",
             "role": "tank",
             "dps": 1.2,
-            "tdo": 1061.0,
+            "tdo": 1074.0,
             "ttw": 9999.0,
             "faints": 3,
             "survivalRate": 0.0
@@ -10222,16 +10217,17 @@
             "survivalRate": 0.0
           },
           {
-            "name": "Charmeleon",
+            "name": "Toxtricity",
             "types": [
-              "Fire"
+              "Electric",
+              "Poison"
             ],
-            "fast": "Fire Fang",
-            "charged": "Flamethrower",
-            "maxMove": "Max Flare",
+            "fast": "Poison Jab",
+            "charged": "Wild Charge",
+            "maxMove": "G-Max Stun Shock",
             "role": "attacker",
-            "dps": 2.1,
-            "tdo": 1904.0,
+            "dps": 2.2,
+            "tdo": 1948.0,
             "ttw": 9999.0,
             "faints": 3,
             "survivalRate": 0.0
@@ -10338,6 +10334,21 @@
       "l40": {
         "standard": [
           {
+            "name": "Inteleon",
+            "types": [
+              "Water"
+            ],
+            "fast": "Water Gun",
+            "charged": "Hydro Cannon",
+            "maxMove": "Max Geyser",
+            "role": "tank",
+            "dps": 0.8,
+            "tdo": 2113.0,
+            "ttw": 2627.8,
+            "faints": 3,
+            "survivalRate": 26.0
+          },
+          {
             "name": "Blastoise",
             "types": [
               "Water"
@@ -10351,21 +10362,6 @@
             "ttw": 5622.3,
             "faints": 3,
             "survivalRate": 14.0
-          },
-          {
-            "name": "Inteleon",
-            "types": [
-              "Water"
-            ],
-            "fast": "Water Gun",
-            "charged": "Surf",
-            "maxMove": "Max Geyser",
-            "role": "attacker",
-            "dps": 2.6,
-            "tdo": 2321.0,
-            "ttw": 9999.0,
-            "faints": 3,
-            "survivalRate": 0.0
           },
           {
             "name": "Cinderace",
@@ -10455,7 +10451,7 @@
             "maxMove": "G-Max Stun Shock",
             "role": "attacker",
             "dps": 0.9,
-            "tdo": 842.0,
+            "tdo": 831.0,
             "ttw": 9999.0,
             "faints": 3,
             "survivalRate": 0.0
@@ -10485,7 +10481,7 @@
             "maxMove": "Max Darkness",
             "role": "tank",
             "dps": 0.9,
-            "tdo": 782.0,
+            "tdo": 772.0,
             "ttw": 9999.0,
             "faints": 3,
             "survivalRate": 0.0
@@ -10547,11 +10543,11 @@
             "charged": "Surf",
             "maxMove": "Max Geyser",
             "role": "tank",
-            "dps": 1.6,
-            "tdo": 3946.0,
-            "ttw": 2405.3,
+            "dps": 1.1,
+            "tdo": 3927.0,
+            "ttw": 3691.3,
             "faints": 3,
-            "survivalRate": 28.0
+            "survivalRate": 20.0
           },
           {
             "name": "Cinderace",
@@ -10595,7 +10591,7 @@
             "maxMove": "G-Max Stun Shock",
             "role": "attacker",
             "dps": 2.4,
-            "tdo": 2132.0,
+            "tdo": 2116.0,
             "ttw": 9999.0,
             "faints": 3,
             "survivalRate": 0.0
@@ -10713,18 +10709,6 @@
             "min_players_needed": 33,
             "strategy_label": "2 Attackers + 1 Tank",
             "slot1": {
-              "name": "Inteleon",
-              "types": [
-                "Water"
-              ],
-              "role": "attacker",
-              "fast": "Water Gun",
-              "charged": "Surf",
-              "maxMove": "Max Geyser",
-              "dps": 2.6,
-              "tdo": 2321.0
-            },
-            "slot2": {
               "name": "Cinderace",
               "types": [
                 "Fire"
@@ -10736,17 +10720,29 @@
               "dps": 1.8,
               "tdo": 1621.0
             },
+            "slot2": {
+              "name": "Snorlax",
+              "types": [
+                "Normal"
+              ],
+              "role": "attacker",
+              "fast": "Lick",
+              "charged": "Hyper Beam",
+              "maxMove": "Max Phantasm",
+              "dps": 1.5,
+              "tdo": 1376.0
+            },
             "slot3": {
-              "name": "Blastoise",
+              "name": "Inteleon",
               "types": [
                 "Water"
               ],
               "role": "tank",
               "fast": "Water Gun",
               "charged": "Hydro Cannon",
-              "maxMove": "G-Max Cannonade",
-              "dps": 0.5,
-              "tdo": 2621.0
+              "maxMove": "Max Geyser",
+              "dps": 0.8,
+              "tdo": 2113.0
             }
           },
           "dodging": {
@@ -10785,14 +10781,29 @@
               "fast": "Water Gun",
               "charged": "Surf",
               "maxMove": "Max Geyser",
-              "dps": 1.6,
-              "tdo": 3946.0
+              "dps": 1.1,
+              "tdo": 3927.0
             }
           }
         }
       },
       "l50": {
         "standard": [
+          {
+            "name": "Inteleon",
+            "types": [
+              "Water"
+            ],
+            "fast": "Water Gun",
+            "charged": "Hydro Cannon",
+            "maxMove": "Max Geyser",
+            "role": "tank",
+            "dps": 1.4,
+            "tdo": 3009.0,
+            "ttw": 2171.3,
+            "faints": 3,
+            "survivalRate": 30.0
+          },
           {
             "name": "Blastoise",
             "types": [
@@ -10801,26 +10812,11 @@
             "fast": "Water Gun",
             "charged": "Hydro Cannon",
             "maxMove": "G-Max Cannonade",
-            "role": "tank",
-            "dps": 0.3,
-            "tdo": 1830.0,
-            "ttw": 6701.4,
-            "faints": 2,
-            "survivalRate": 12.0
-          },
-          {
-            "name": "Inteleon",
-            "types": [
-              "Water"
-            ],
-            "fast": "Water Gun",
-            "charged": "Surf",
-            "maxMove": "Max Geyser",
             "role": "attacker",
-            "dps": 3.1,
-            "tdo": 2827.0,
+            "dps": 2.1,
+            "tdo": 1907.0,
             "ttw": 9999.0,
-            "faints": 3,
+            "faints": 2,
             "survivalRate": 0.0
           },
           {
@@ -10909,7 +10905,7 @@
             "maxMove": "Max Strike",
             "role": "tank",
             "dps": 1.2,
-            "tdo": 1085.0,
+            "tdo": 1062.0,
             "ttw": 9999.0,
             "faints": 3,
             "survivalRate": 0.0
@@ -10971,7 +10967,7 @@
             "maxMove": "Max Strike",
             "role": "tank",
             "dps": 0.9,
-            "tdo": 838.0,
+            "tdo": 845.0,
             "ttw": 9999.0,
             "faints": 3,
             "survivalRate": 0.0
@@ -10999,11 +10995,11 @@
               "Water"
             ],
             "fast": "Water Gun",
-            "charged": "Surf",
+            "charged": "Hydro Cannon",
             "maxMove": "Max Geyser",
             "role": "attacker",
-            "dps": 5.2,
-            "tdo": 4723.0,
+            "dps": 5.3,
+            "tdo": 4750.0,
             "ttw": 9999.0,
             "faints": 3,
             "survivalRate": 0.0
@@ -11034,7 +11030,7 @@
             "maxMove": "G-Max Stun Shock",
             "role": "attacker",
             "dps": 3.2,
-            "tdo": 2864.0,
+            "tdo": 2867.0,
             "ttw": 9999.0,
             "faints": 3,
             "survivalRate": 0.0
@@ -11156,7 +11152,7 @@
             "maxMove": "Max Strike",
             "role": "tank",
             "dps": 1.8,
-            "tdo": 1658.0,
+            "tdo": 1645.0,
             "ttw": 9999.0,
             "faints": 3,
             "survivalRate": 0.0
@@ -11164,19 +11160,19 @@
         ],
         "team_composition": {
           "standard": {
-            "min_players_needed": 30,
+            "min_players_needed": 29,
             "strategy_label": "2 Attackers + 1 Tank",
             "slot1": {
-              "name": "Inteleon",
+              "name": "Blastoise",
               "types": [
                 "Water"
               ],
               "role": "attacker",
               "fast": "Water Gun",
-              "charged": "Surf",
-              "maxMove": "Max Geyser",
-              "dps": 3.1,
-              "tdo": 2827.0
+              "charged": "Hydro Cannon",
+              "maxMove": "G-Max Cannonade",
+              "dps": 2.1,
+              "tdo": 1907.0
             },
             "slot2": {
               "name": "Cinderace",
@@ -11191,16 +11187,16 @@
               "tdo": 1824.0
             },
             "slot3": {
-              "name": "Blastoise",
+              "name": "Inteleon",
               "types": [
                 "Water"
               ],
               "role": "tank",
               "fast": "Water Gun",
               "charged": "Hydro Cannon",
-              "maxMove": "G-Max Cannonade",
-              "dps": 0.3,
-              "tdo": 1830.0
+              "maxMove": "Max Geyser",
+              "dps": 1.4,
+              "tdo": 3009.0
             }
           },
           "dodging": {
@@ -11225,10 +11221,10 @@
               ],
               "role": "attacker",
               "fast": "Water Gun",
-              "charged": "Surf",
+              "charged": "Hydro Cannon",
               "maxMove": "Max Geyser",
-              "dps": 5.2,
-              "tdo": 4723.0
+              "dps": 5.3,
+              "tdo": 4750.0
             },
             "slot3": {
               "name": "Snorlax",
@@ -11298,7 +11294,7 @@
             "maxMove": "G-Max Stun Shock",
             "role": "attacker",
             "dps": 2.9,
-            "tdo": 2571.0,
+            "tdo": 2574.0,
             "ttw": 9999.0,
             "faints": 3,
             "survivalRate": 0.0
@@ -11436,7 +11432,7 @@
             "maxMove": "Max Strike",
             "role": "tank",
             "dps": 1.6,
-            "tdo": 1412.0,
+            "tdo": 1413.0,
             "ttw": 9999.0,
             "faints": 3,
             "survivalRate": 0.0
@@ -11546,7 +11542,7 @@
             "maxMove": "G-Max Stun Shock",
             "role": "attacker",
             "dps": 4.2,
-            "tdo": 3807.0,
+            "tdo": 3797.0,
             "ttw": 9999.0,
             "faints": 3,
             "survivalRate": 0.0
@@ -11606,8 +11602,8 @@
             "charged": "Trailblaze",
             "maxMove": "Max Strike",
             "role": "tank",
-            "dps": 3.5,
-            "tdo": 3106.0,
+            "dps": 3.4,
+            "tdo": 3097.0,
             "ttw": 9999.0,
             "faints": 3,
             "survivalRate": 0.0
@@ -11656,7 +11652,7 @@
               "charged": "Wild Charge",
               "maxMove": "G-Max Stun Shock",
               "dps": 2.9,
-              "tdo": 2571.0
+              "tdo": 2574.0
             },
             "slot3": {
               "name": "Venusaur",
@@ -11759,7 +11755,7 @@
             "maxMove": "G-Max Stun Shock",
             "role": "attacker",
             "dps": 3.2,
-            "tdo": 2836.0,
+            "tdo": 2858.0,
             "ttw": 9999.0,
             "faints": 3,
             "survivalRate": 0.0
@@ -11882,7 +11878,7 @@
             "maxMove": "Max Strike",
             "role": "tank",
             "dps": 1.7,
-            "tdo": 1530.0,
+            "tdo": 1519.0,
             "ttw": 9999.0,
             "faints": 3,
             "survivalRate": 0.0
@@ -12039,7 +12035,7 @@
             "maxMove": "G-Max Stun Shock",
             "role": "attacker",
             "dps": 4.9,
-            "tdo": 4397.0,
+            "tdo": 4404.0,
             "ttw": 9999.0,
             "faints": 3,
             "survivalRate": 0.0
@@ -12079,12 +12075,12 @@
             "types": [
               "Normal"
             ],
-            "fast": "Tackle",
+            "fast": "Bullet Seed",
             "charged": "Trailblaze",
-            "maxMove": "Max Strike",
+            "maxMove": "Max Overgrowth",
             "role": "tank",
-            "dps": 3.8,
-            "tdo": 3443.0,
+            "dps": 3.9,
+            "tdo": 3506.0,
             "ttw": 9999.0,
             "faints": 3,
             "survivalRate": 0.0
@@ -12117,7 +12113,7 @@
               "charged": "Wild Charge",
               "maxMove": "G-Max Stun Shock",
               "dps": 3.2,
-              "tdo": 2836.0
+              "tdo": 2858.0
             },
             "slot3": {
               "name": "Venusaur",
@@ -12262,8 +12258,8 @@
             "charged": "Wild Charge",
             "maxMove": "G-Max Stun Shock",
             "role": "attacker",
-            "dps": 1.9,
-            "tdo": 1741.0,
+            "dps": 1.8,
+            "tdo": 1649.0,
             "ttw": 9999.0,
             "faints": 3,
             "survivalRate": 0.0
@@ -12325,7 +12321,7 @@
             "maxMove": "Max Geyser",
             "role": "tank",
             "dps": 1.4,
-            "tdo": 1220.0,
+            "tdo": 1248.0,
             "ttw": 9999.0,
             "faints": 3,
             "survivalRate": 0.0
@@ -12483,7 +12479,7 @@
             "maxMove": "G-Max Stun Shock",
             "role": "attacker",
             "dps": 3.1,
-            "tdo": 2794.0,
+            "tdo": 2774.0,
             "ttw": 9999.0,
             "faints": 3,
             "survivalRate": 0.0
@@ -12528,8 +12524,8 @@
             "charged": "Shadow Ball",
             "maxMove": "Max Geyser",
             "role": "tank",
-            "dps": 2.6,
-            "tdo": 2382.0,
+            "dps": 2.7,
+            "tdo": 2421.0,
             "ttw": 9999.0,
             "faints": 3,
             "survivalRate": 0.0
@@ -12647,8 +12643,8 @@
               "fast": "Water Gun",
               "charged": "Shadow Ball",
               "maxMove": "Max Geyser",
-              "dps": 2.6,
-              "tdo": 2382.0
+              "dps": 2.7,
+              "tdo": 2421.0
             }
           }
         }
@@ -12743,8 +12739,8 @@
             "charged": "Wild Charge",
             "maxMove": "G-Max Stun Shock",
             "role": "attacker",
-            "dps": 2.2,
-            "tdo": 1974.0,
+            "dps": 2.3,
+            "tdo": 2031.0,
             "ttw": 9999.0,
             "faints": 3,
             "survivalRate": 0.0
@@ -12837,7 +12833,7 @@
             "maxMove": "Max Geyser",
             "role": "tank",
             "dps": 1.5,
-            "tdo": 1342.0,
+            "tdo": 1344.0,
             "ttw": 9999.0,
             "faints": 3,
             "survivalRate": 0.0
@@ -12949,7 +12945,7 @@
             "maxMove": "G-Max Stun Shock",
             "role": "attacker",
             "dps": 3.8,
-            "tdo": 3453.0,
+            "tdo": 3431.0,
             "ttw": 9999.0,
             "faints": 3,
             "survivalRate": 0.0
@@ -13024,8 +13020,8 @@
             "charged": "Shadow Ball",
             "maxMove": "Max Geyser",
             "role": "tank",
-            "dps": 3.0,
-            "tdo": 2662.0,
+            "dps": 2.9,
+            "tdo": 2650.0,
             "ttw": 9999.0,
             "faints": 3,
             "survivalRate": 0.0
@@ -13297,23 +13293,22 @@
             "maxMove": "Max Quake",
             "role": "tank",
             "dps": 1.6,
-            "tdo": 1431.0,
+            "tdo": 1450.0,
             "ttw": 9999.0,
             "faints": 2,
             "survivalRate": 0.0
           },
           {
-            "name": "Toxtricity",
+            "name": "Dubwool",
             "types": [
-              "Electric",
-              "Poison"
+              "Normal"
             ],
-            "fast": "Spark",
-            "charged": "Wild Charge",
-            "maxMove": "G-Max Stun Shock",
-            "role": "attacker",
+            "fast": "Tackle",
+            "charged": "Body Slam",
+            "maxMove": "Max Strike",
+            "role": "tank",
             "dps": 1.5,
-            "tdo": 1374.0,
+            "tdo": 1369.0,
             "ttw": 9999.0,
             "faints": 3,
             "survivalRate": 0.0
@@ -13393,7 +13388,7 @@
             "maxMove": "Max Quake",
             "role": "attacker",
             "dps": 4.6,
-            "tdo": 4136.0,
+            "tdo": 4174.0,
             "ttw": 9999.0,
             "faints": 3,
             "survivalRate": 0.0
@@ -13470,7 +13465,7 @@
             "maxMove": "G-Max Stun Shock",
             "role": "attacker",
             "dps": 2.9,
-            "tdo": 2619.0,
+            "tdo": 2612.0,
             "ttw": 9999.0,
             "faints": 3,
             "survivalRate": 0.0
@@ -13684,7 +13679,7 @@
             "maxMove": "Max Quake",
             "role": "tank",
             "dps": 3.1,
-            "tdo": 2774.0,
+            "tdo": 2768.0,
             "ttw": 9999.0,
             "faints": 3,
             "survivalRate": 0.0
@@ -13857,7 +13852,7 @@
             "maxMove": "Max Quake",
             "role": "attacker",
             "dps": 5.3,
-            "tdo": 4738.0,
+            "tdo": 4728.0,
             "ttw": 9999.0,
             "faints": 3,
             "survivalRate": 0.0
@@ -14011,7 +14006,7 @@
               "charged": "Body Slam",
               "maxMove": "Max Quake",
               "dps": 3.1,
-              "tdo": 2774.0
+              "tdo": 2768.0
             }
           },
           "dodging": {
