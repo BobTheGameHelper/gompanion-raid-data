@@ -1,7 +1,17 @@
 {
   "bosses": [
     {
-      "name": "Kyurem (White)",
+      "name": "Gardevoir (MEGA)",
+      "tier": "Mega",
+      "types": [
+        "Psychic",
+        "Fairy"
+      ],
+      "cp20": 2578,
+      "cp25": 3223
+    },
+    {
+      "name": "Kyurem (Black)",
       "tier": "T5",
       "types": [
         "Dragon",
@@ -11,14 +21,24 @@
       "cp25": 3289
     },
     {
-      "name": "Necrozma (Dawn Wings)",
+      "name": "Necrozma (Dusk Mane)",
       "tier": "T5",
       "types": [
         "Psychic",
-        "Ghost"
+        "Steel"
       ],
       "cp20": 2342,
       "cp25": 2927
+    },
+    {
+      "name": "Reshiram",
+      "tier": "T5",
+      "types": [
+        "Dragon",
+        "Fire"
+      ],
+      "cp20": 2307,
+      "cp25": 2884
     },
     {
       "name": "Shadow Darumaka",
@@ -95,26 +115,6 @@
       ],
       "cp20": 1546,
       "cp25": 1933
-    },
-    {
-      "name": "Tyranitar (MEGA)",
-      "tier": "Mega",
-      "types": [
-        "Rock",
-        "Dark"
-      ],
-      "cp20": 3055,
-      "cp25": 3819
-    },
-    {
-      "name": "Zekrom",
-      "tier": "T5",
-      "types": [
-        "Dragon",
-        "Electric"
-      ],
-      "cp20": 2307,
-      "cp25": 2884
     }
   ]
 }
