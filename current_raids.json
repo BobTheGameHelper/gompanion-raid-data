@@ -1,44 +1,14 @@
 {
   "bosses": [
     {
-      "name": "Gardevoir (MEGA)",
+      "name": "Gengar (MEGA)",
       "tier": "Mega",
       "types": [
-        "Psychic",
-        "Fairy"
+        "Ghost",
+        "Poison"
       ],
-      "cp20": 2578,
-      "cp25": 3223
-    },
-    {
-      "name": "Kyurem (Black)",
-      "tier": "T5",
-      "types": [
-        "Dragon",
-        "Ice"
-      ],
-      "cp20": 2631,
-      "cp25": 3289
-    },
-    {
-      "name": "Necrozma (Dusk Mane)",
-      "tier": "T5",
-      "types": [
-        "Psychic",
-        "Steel"
-      ],
-      "cp20": 2342,
-      "cp25": 2927
-    },
-    {
-      "name": "Reshiram",
-      "tier": "T5",
-      "types": [
-        "Dragon",
-        "Fire"
-      ],
-      "cp20": 2307,
-      "cp25": 2884
+      "cp20": 2477,
+      "cp25": 3097
     },
     {
       "name": "Shadow Darumaka",
@@ -115,6 +85,26 @@
       ],
       "cp20": 1546,
       "cp25": 1933
+    },
+    {
+      "name": "Zacian (Crowned Sword)",
+      "tier": "T5",
+      "types": [
+        "Fairy",
+        "Steel"
+      ],
+      "cp20": 2845,
+      "cp25": 3556
+    },
+    {
+      "name": "Zamazenta (Crowned Shield)",
+      "tier": "T5",
+      "types": [
+        "Fighting",
+        "Steel"
+      ],
+      "cp20": 2384,
+      "cp25": 2980
     }
   ]
 }
