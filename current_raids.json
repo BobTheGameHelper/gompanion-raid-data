@@ -1,14 +1,43 @@
 {
   "bosses": [
     {
-      "name": "Gengar (MEGA)",
-      "tier": "Mega",
+      "name": "Dialga (Origin)",
+      "tier": "T5",
       "types": [
-        "Ghost",
-        "Poison"
+        "Steel",
+        "Dragon"
       ],
-      "cp20": 2477,
-      "cp25": 3097
+      "cp20": 2337,
+      "cp25": 2921
+    },
+    {
+      "name": "Groudon (PRIMAL)",
+      "tier": "T5",
+      "types": [
+        "Ground",
+        "Fire"
+      ],
+      "cp20": 2351,
+      "cp25": 2939
+    },
+    {
+      "name": "Kyogre (PRIMAL)",
+      "tier": "T5",
+      "types": [
+        "Water"
+      ],
+      "cp20": 2351,
+      "cp25": 2939
+    },
+    {
+      "name": "Palkia (Origin)",
+      "tier": "T5",
+      "types": [
+        "Water",
+        "Dragon"
+      ],
+      "cp20": 2367,
+      "cp25": 2958
     },
     {
       "name": "Shadow Darumaka",
@@ -85,26 +114,6 @@
       ],
       "cp20": 1546,
       "cp25": 1933
-    },
-    {
-      "name": "Zacian (Crowned Sword)",
-      "tier": "T5",
-      "types": [
-        "Fairy",
-        "Steel"
-      ],
-      "cp20": 2845,
-      "cp25": 3556
-    },
-    {
-      "name": "Zamazenta (Crowned Shield)",
-      "tier": "T5",
-      "types": [
-        "Fighting",
-        "Steel"
-      ],
-      "cp20": 2384,
-      "cp25": 2980
     }
   ]
 }
