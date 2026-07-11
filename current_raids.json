@@ -1,6 +1,356 @@
 {
   "bosses": [
     {
+      "name": "Articuno",
+      "tier": "T5",
+      "types": [
+        "Ice",
+        "Flying"
+      ],
+      "cp20": 1743,
+      "cp25": 2179
+    },
+    {
+      "name": "Azelf",
+      "tier": "T5",
+      "types": [
+        "Psychic"
+      ],
+      "cp20": 1834,
+      "cp25": 2293
+    },
+    {
+      "name": "Blacephalon",
+      "tier": "T5",
+      "types": [
+        "Fire",
+        "Ghost"
+      ],
+      "cp20": 1884,
+      "cp25": 2354
+    },
+    {
+      "name": "Buzzwole",
+      "tier": "T5",
+      "types": [
+        "Bug",
+        "Fighting"
+      ],
+      "cp20": 1977,
+      "cp25": 2471
+    },
+    {
+      "name": "Celesteela",
+      "tier": "T5",
+      "types": [
+        "Steel",
+        "Flying"
+      ],
+      "cp20": 1772,
+      "cp25": 2216
+    },
+    {
+      "name": "Cobalion",
+      "tier": "T5",
+      "types": [
+        "Steel",
+        "Fighting"
+      ],
+      "cp20": 1727,
+      "cp25": 2158
+    },
+    {
+      "name": "Cresselia",
+      "tier": "T5",
+      "types": [
+        "Psychic"
+      ],
+      "cp20": 1633,
+      "cp25": 2041
+    },
+    {
+      "name": "Darkrai",
+      "tier": "T5",
+      "types": [
+        "Dark"
+      ],
+      "cp20": 2136,
+      "cp25": 2670
+    },
+    {
+      "name": "Deoxys (Attack)",
+      "tier": "T5",
+      "types": [
+        "Psychic"
+      ],
+      "cp20": 1474,
+      "cp25": 1842
+    },
+    {
+      "name": "Deoxys (Defense)",
+      "tier": "T5",
+      "types": [
+        "Psychic"
+      ],
+      "cp20": 1299,
+      "cp25": 1624
+    },
+    {
+      "name": "Deoxys (Speed)",
+      "tier": "T5",
+      "types": [
+        "Psychic"
+      ],
+      "cp20": 1645,
+      "cp25": 2056
+    },
+    {
+      "name": "Dialga",
+      "tier": "T5",
+      "types": [
+        "Steel",
+        "Dragon"
+      ],
+      "cp20": 2307,
+      "cp25": 2884
+    },
+    {
+      "name": "Dialga (Origin)",
+      "tier": "T5",
+      "types": [
+        "Steel",
+        "Dragon"
+      ],
+      "cp20": 2337,
+      "cp25": 2921
+    },
+    {
+      "name": "Enamorus (Incarnate)",
+      "tier": "T5",
+      "types": [
+        "Fairy",
+        "Flying"
+      ],
+      "cp20": 1957,
+      "cp25": 2446
+    },
+    {
+      "name": "Enamorus (Therian)",
+      "tier": "T5",
+      "types": [
+        "Fairy",
+        "Flying"
+      ],
+      "cp20": 1935,
+      "cp25": 2419
+    },
+    {
+      "name": "Entei",
+      "tier": "T5",
+      "types": [
+        "Fire"
+      ],
+      "cp20": 1984,
+      "cp25": 2480
+    },
+    {
+      "name": "Genesect",
+      "tier": "T5",
+      "types": [
+        "Bug",
+        "Steel"
+      ],
+      "cp20": 1916,
+      "cp25": 2395
+    },
+    {
+      "name": "Genesect (Burn)",
+      "tier": "T5",
+      "types": [
+        "Bug",
+        "Steel"
+      ],
+      "cp20": 1916,
+      "cp25": 2395
+    },
+    {
+      "name": "Genesect (Chill)",
+      "tier": "T5",
+      "types": [
+        "Bug",
+        "Steel"
+      ],
+      "cp20": 1916,
+      "cp25": 2395
+    },
+    {
+      "name": "Genesect (Douse)",
+      "tier": "T5",
+      "types": [
+        "Bug",
+        "Steel"
+      ],
+      "cp20": 1916,
+      "cp25": 2395
+    },
+    {
+      "name": "Genesect (Shock)",
+      "tier": "T5",
+      "types": [
+        "Bug",
+        "Steel"
+      ],
+      "cp20": 1916,
+      "cp25": 2395
+    },
+    {
+      "name": "Giratina (Altered)",
+      "tier": "T5",
+      "types": [
+        "Ghost",
+        "Dragon"
+      ],
+      "cp20": 1931,
+      "cp25": 2413
+    },
+    {
+      "name": "Giratina (Origin)",
+      "tier": "T5",
+      "types": [
+        "Ghost",
+        "Dragon"
+      ],
+      "cp20": 2105,
+      "cp25": 2631
+    },
+    {
+      "name": "Groudon",
+      "tier": "T5",
+      "types": [
+        "Ground"
+      ],
+      "cp20": 2351,
+      "cp25": 2939
+    },
+    {
+      "name": "Guzzlord",
+      "tier": "T5",
+      "types": [
+        "Dark",
+        "Dragon"
+      ],
+      "cp20": 1650,
+      "cp25": 2062
+    },
+    {
+      "name": "Heatran",
+      "tier": "T5",
+      "types": [
+        "Fire",
+        "Steel"
+      ],
+      "cp20": 2145,
+      "cp25": 2681
+    },
+    {
+      "name": "Kartana",
+      "tier": "T5",
+      "types": [
+        "Grass",
+        "Steel"
+      ],
+      "cp20": 2101,
+      "cp25": 2626
+    },
+    {
+      "name": "Kyogre",
+      "tier": "T5",
+      "types": [
+        "Water"
+      ],
+      "cp20": 2351,
+      "cp25": 2939
+    },
+    {
+      "name": "Kyurem",
+      "tier": "T5",
+      "types": [
+        "Dragon",
+        "Ice"
+      ],
+      "cp20": 2042,
+      "cp25": 2553
+    },
+    {
+      "name": "Landorus (Incarnate)",
+      "tier": "T5",
+      "types": [
+        "Ground",
+        "Flying"
+      ],
+      "cp20": 2050,
+      "cp25": 2563
+    },
+    {
+      "name": "Landorus (Therian)",
+      "tier": "T5",
+      "types": [
+        "Ground",
+        "Flying"
+      ],
+      "cp20": 2241,
+      "cp25": 2801
+    },
+    {
+      "name": "Latias",
+      "tier": "T5",
+      "types": [
+        "Dragon",
+        "Psychic"
+      ],
+      "cp20": 2006,
+      "cp25": 2507
+    },
+    {
+      "name": "Latios",
+      "tier": "T5",
+      "types": [
+        "Dragon",
+        "Psychic"
+      ],
+      "cp20": 2178,
+      "cp25": 2723
+    },
+    {
+      "name": "Lugia",
+      "tier": "T5",
+      "types": [
+        "Psychic",
+        "Flying"
+      ],
+      "cp20": 2115,
+      "cp25": 2644
+    },
+    {
+      "name": "Lunala",
+      "tier": "T5",
+      "types": [
+        "Psychic",
+        "Ghost"
+      ],
+      "cp20": 2310,
+      "cp25": 2887
+    },
+    {
+      "name": "Mesprit",
+      "tier": "T5",
+      "types": [
+        "Psychic"
+      ],
+      "cp20": 1747,
+      "cp25": 2184
+    },
+    {
       "name": "Mewtwo (MEGA X)",
       "tier": "Mega",
       "types": [
@@ -18,6 +368,158 @@
       ],
       "cp20": 3673,
       "cp25": 4591
+    },
+    {
+      "name": "Moltres",
+      "tier": "T5",
+      "types": [
+        "Fire",
+        "Flying"
+      ],
+      "cp20": 1980,
+      "cp25": 2475
+    },
+    {
+      "name": "Necrozma",
+      "tier": "T5",
+      "types": [
+        "Psychic"
+      ],
+      "cp20": 2104,
+      "cp25": 2630
+    },
+    {
+      "name": "Nihilego",
+      "tier": "T5",
+      "types": [
+        "Rock",
+        "Poison"
+      ],
+      "cp20": 2256,
+      "cp25": 2820
+    },
+    {
+      "name": "Palkia",
+      "tier": "T5",
+      "types": [
+        "Water",
+        "Dragon"
+      ],
+      "cp20": 2280,
+      "cp25": 2850
+    },
+    {
+      "name": "Palkia (Origin)",
+      "tier": "T5",
+      "types": [
+        "Water",
+        "Dragon"
+      ],
+      "cp20": 2367,
+      "cp25": 2958
+    },
+    {
+      "name": "Pheromosa",
+      "tier": "T5",
+      "types": [
+        "Bug",
+        "Fighting"
+      ],
+      "cp20": 1624,
+      "cp25": 2029
+    },
+    {
+      "name": "Raikou",
+      "tier": "T5",
+      "types": [
+        "Electric"
+      ],
+      "cp20": 1972,
+      "cp25": 2465
+    },
+    {
+      "name": "Rayquaza",
+      "tier": "T5",
+      "types": [
+        "Dragon",
+        "Flying"
+      ],
+      "cp20": 2191,
+      "cp25": 2739
+    },
+    {
+      "name": "Regice",
+      "tier": "T5",
+      "types": [
+        "Ice"
+      ],
+      "cp20": 1784,
+      "cp25": 2230
+    },
+    {
+      "name": "Regidrago",
+      "tier": "T5",
+      "types": [
+        "Dragon"
+      ],
+      "cp20": 1699,
+      "cp25": 2123
+    },
+    {
+      "name": "Regieleki",
+      "tier": "T5",
+      "types": [
+        "Electric"
+      ],
+      "cp20": 1602,
+      "cp25": 2002
+    },
+    {
+      "name": "Regigigas",
+      "tier": "T5",
+      "types": [
+        "Normal"
+      ],
+      "cp20": 2483,
+      "cp25": 3104
+    },
+    {
+      "name": "Regirock",
+      "tier": "T5",
+      "types": [
+        "Rock"
+      ],
+      "cp20": 1784,
+      "cp25": 2230
+    },
+    {
+      "name": "Registeel",
+      "tier": "T5",
+      "types": [
+        "Steel"
+      ],
+      "cp20": 1398,
+      "cp25": 1747
+    },
+    {
+      "name": "Reshiram",
+      "tier": "T5",
+      "types": [
+        "Dragon",
+        "Fire"
+      ],
+      "cp20": 2307,
+      "cp25": 2884
+    },
+    {
+      "name": "Salamence (MEGA)",
+      "tier": "Mega",
+      "types": [
+        "Dragon",
+        "Flying"
+      ],
+      "cp20": 2875,
+      "cp25": 3593
     },
     {
       "name": "Shadow Darumaka",
@@ -94,6 +596,208 @@
       ],
       "cp20": 1546,
       "cp25": 1933
+    },
+    {
+      "name": "Solgaleo",
+      "tier": "T5",
+      "types": [
+        "Psychic",
+        "Steel"
+      ],
+      "cp20": 2310,
+      "cp25": 2887
+    },
+    {
+      "name": "Stakataka",
+      "tier": "T5",
+      "types": [
+        "Rock",
+        "Steel"
+      ],
+      "cp20": 1882,
+      "cp25": 2353
+    },
+    {
+      "name": "Suicune",
+      "tier": "T5",
+      "types": [
+        "Water"
+      ],
+      "cp20": 1704,
+      "cp25": 2130
+    },
+    {
+      "name": "Tapu Bulu",
+      "tier": "T5",
+      "types": [
+        "Grass",
+        "Fairy"
+      ],
+      "cp20": 1953,
+      "cp25": 2442
+    },
+    {
+      "name": "Tapu Fini",
+      "tier": "T5",
+      "types": [
+        "Water",
+        "Fairy"
+      ],
+      "cp20": 1632,
+      "cp25": 2041
+    },
+    {
+      "name": "Tapu Koko",
+      "tier": "T5",
+      "types": [
+        "Electric",
+        "Fairy"
+      ],
+      "cp20": 1810,
+      "cp25": 2263
+    },
+    {
+      "name": "Tapu Lele",
+      "tier": "T5",
+      "types": [
+        "Psychic",
+        "Fairy"
+      ],
+      "cp20": 1996,
+      "cp25": 2496
+    },
+    {
+      "name": "Terrakion",
+      "tier": "T5",
+      "types": [
+        "Rock",
+        "Fighting"
+      ],
+      "cp20": 2113,
+      "cp25": 2641
+    },
+    {
+      "name": "Thundurus (Incarnate)",
+      "tier": "T5",
+      "types": [
+        "Electric",
+        "Flying"
+      ],
+      "cp20": 1911,
+      "cp25": 2389
+    },
+    {
+      "name": "Thundurus (Therian)",
+      "tier": "T5",
+      "types": [
+        "Electric",
+        "Flying"
+      ],
+      "cp20": 2091,
+      "cp25": 2613
+    },
+    {
+      "name": "Tornadus (Incarnate)",
+      "tier": "T5",
+      "types": [
+        "Flying"
+      ],
+      "cp20": 1911,
+      "cp25": 2389
+    },
+    {
+      "name": "Tornadus (Therian)",
+      "tier": "T5",
+      "types": [
+        "Flying"
+      ],
+      "cp20": 1837,
+      "cp25": 2296
+    },
+    {
+      "name": "Uxie",
+      "tier": "T5",
+      "types": [
+        "Psychic"
+      ],
+      "cp20": 1442,
+      "cp25": 1802
+    },
+    {
+      "name": "Virizion",
+      "tier": "T5",
+      "types": [
+        "Grass",
+        "Fighting"
+      ],
+      "cp20": 1727,
+      "cp25": 2158
+    },
+    {
+      "name": "Xerneas",
+      "tier": "T5",
+      "types": [
+        "Fairy"
+      ],
+      "cp20": 2160,
+      "cp25": 2700
+    },
+    {
+      "name": "Xurkitree",
+      "tier": "T5",
+      "types": [
+        "Electric"
+      ],
+      "cp20": 2249,
+      "cp25": 2812
+    },
+    {
+      "name": "Yveltal",
+      "tier": "T5",
+      "types": [
+        "Dark",
+        "Flying"
+      ],
+      "cp20": 2160,
+      "cp25": 2700
+    },
+    {
+      "name": "Zacian (Hero)",
+      "tier": "T5",
+      "types": [
+        "Fairy"
+      ],
+      "cp20": 2188,
+      "cp25": 2735
+    },
+    {
+      "name": "Zamazenta (Hero)",
+      "tier": "T5",
+      "types": [
+        "Fighting"
+      ],
+      "cp20": 2188,
+      "cp25": 2735
+    },
+    {
+      "name": "Zapdos",
+      "tier": "T5",
+      "types": [
+        "Electric",
+        "Flying"
+      ],
+      "cp20": 2015,
+      "cp25": 2519
+    },
+    {
+      "name": "Zekrom",
+      "tier": "T5",
+      "types": [
+        "Dragon",
+        "Electric"
+      ],
+      "cp20": 2307,
+      "cp25": 2884
     }
   ]
 }
