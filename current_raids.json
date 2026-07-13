@@ -1,6 +1,16 @@
 {
   "bosses": [
     {
+      "name": "Articuno",
+      "tier": "T5",
+      "types": [
+        "Ice",
+        "Flying"
+      ],
+      "cp20": 1743,
+      "cp25": 2179
+    },
+    {
       "name": "Lucario (MEGA)",
       "tier": "Mega",
       "types": [
@@ -9,6 +19,16 @@
       ],
       "cp20": 2186,
       "cp25": 2732
+    },
+    {
+      "name": "Moltres",
+      "tier": "T5",
+      "types": [
+        "Fire",
+        "Flying"
+      ],
+      "cp20": 1980,
+      "cp25": 2475
     },
     {
       "name": "Shadow Darumaka",
@@ -85,6 +105,16 @@
       ],
       "cp20": 1546,
       "cp25": 1933
+    },
+    {
+      "name": "Zapdos",
+      "tier": "T5",
+      "types": [
+        "Electric",
+        "Flying"
+      ],
+      "cp20": 2015,
+      "cp25": 2519
     }
   ]
 }
