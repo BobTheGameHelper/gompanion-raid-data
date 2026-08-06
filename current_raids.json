@@ -1,14 +1,14 @@
 {
   "bosses": [
     {
-      "name": "Aggron (MEGA)",
-      "tier": "Mega",
+      "name": "Avalugg (Hisuian)",
+      "tier": "T3",
       "types": [
-        "Steel",
+        "Ice",
         "Rock"
       ],
-      "cp20": 2378,
-      "cp25": 2972
+      "cp20": 1975,
+      "cp25": 2469
     },
     {
       "name": "Azelf",
@@ -30,53 +30,42 @@
       "cp25": 2972
     },
     {
-      "name": "Cranidos",
+      "name": "Darumaka",
       "tier": "T1",
       "types": [
-        "Rock"
+        "Fire"
       ],
-      "cp20": 1040,
-      "cp25": 1300
+      "cp20": 823,
+      "cp25": 1029
     },
     {
-      "name": "Drampa",
-      "tier": "T3",
+      "name": "Darumaka (Galarian)",
+      "tier": "T1",
       "types": [
-        "Normal",
-        "Dragon"
-      ],
-      "cp20": 1665,
-      "cp25": 2081
-    },
-    {
-      "name": "Excadrill",
-      "tier": "T3",
-      "types": [
-        "Ground",
-        "Steel"
-      ],
-      "cp20": 1853,
-      "cp25": 2317
-    },
-    {
-      "name": "Kyurem",
-      "tier": "T5",
-      "types": [
-        "Dragon",
         "Ice"
       ],
-      "cp20": 2042,
-      "cp25": 2553
+      "cp20": 823,
+      "cp25": 1029
     },
     {
-      "name": "Larvitar",
+      "name": "Growlithe (Hisuian)",
       "tier": "T1",
       "types": [
-        "Rock",
-        "Ground"
+        "Fire",
+        "Rock"
       ],
-      "cp20": 594,
-      "cp25": 743
+      "cp20": 755,
+      "cp25": 944
+    },
+    {
+      "name": "Marowak (Alola)",
+      "tier": "T3",
+      "types": [
+        "Fire",
+        "Ghost"
+      ],
+      "cp20": 1048,
+      "cp25": 1311
     },
     {
       "name": "Mesprit",
@@ -88,99 +77,80 @@
       "cp25": 2184
     },
     {
-      "name": "Samurott (Hisuian)",
-      "tier": "T3",
-      "types": [
-        "Water",
-        "Dark"
-      ],
-      "cp20": 1601,
-      "cp25": 2001
-    },
-    {
-      "name": "Shadow Darumaka",
-      "tier": "Shadow T1",
-      "types": [
-        "Fire"
-      ],
-      "cp20": 823,
-      "cp25": 1029
-    },
-    {
-      "name": "Shadow Graveler",
-      "tier": "Shadow T3",
-      "types": [
-        "Rock",
-        "Ground"
-      ],
-      "cp20": 1084,
-      "cp25": 1355
-    },
-    {
-      "name": "Shadow Hitmonchan",
-      "tier": "Shadow T3",
-      "types": [
-        "Fighting"
-      ],
-      "cp20": 1332,
-      "cp25": 1665
-    },
-    {
-      "name": "Shadow Mankey",
-      "tier": "Shadow T1",
-      "types": [
-        "Fighting"
-      ],
-      "cp20": 665,
-      "cp25": 832
-    },
-    {
-      "name": "Shadow Phanpy",
-      "tier": "Shadow T1",
-      "types": [
-        "Ground"
-      ],
-      "cp20": 689,
-      "cp25": 861
-    },
-    {
-      "name": "Shadow Ralts",
-      "tier": "Shadow T1",
-      "types": [
-        "Psychic",
-        "Fairy"
-      ],
-      "cp20": 308,
-      "cp25": 385
-    },
-    {
-      "name": "Shadow Scyther",
-      "tier": "Shadow T3",
-      "types": [
-        "Bug",
-        "Flying"
-      ],
-      "cp20": 1546,
-      "cp25": 1933
-    },
-    {
-      "name": "Shieldon",
+      "name": "Sandshrew (Alola)",
       "tier": "T1",
       "types": [
-        "Rock",
+        "Ice",
         "Steel"
       ],
-      "cp20": 509,
-      "cp25": 636
+      "cp20": 739,
+      "cp25": 923
     },
     {
-      "name": "Sinistea",
-      "tier": "T1",
+      "name": "Shadow Aipom",
+      "tier": "Shadow T1",
       "types": [
-        "Ghost"
+        "Normal"
       ],
-      "cp20": 650,
-      "cp25": 813
+      "cp20": 770,
+      "cp25": 963
+    },
+    {
+      "name": "Shadow Croagunk",
+      "tier": "Shadow T1",
+      "types": [
+        "Poison",
+        "Fighting"
+      ],
+      "cp20": 544,
+      "cp25": 680
+    },
+    {
+      "name": "Shadow Grubbin",
+      "tier": "Shadow T1",
+      "types": [
+        "Bug"
+      ],
+      "cp20": 562,
+      "cp25": 703
+    },
+    {
+      "name": "Shadow Hitmontop",
+      "tier": "Shadow T3",
+      "types": [
+        "Fighting"
+      ],
+      "cp20": 1232,
+      "cp25": 1540
+    },
+    {
+      "name": "Shadow Lampent",
+      "tier": "Shadow T3",
+      "types": [
+        "Ghost",
+        "Fire"
+      ],
+      "cp20": 976,
+      "cp25": 1220
+    },
+    {
+      "name": "Shadow Slowpoke",
+      "tier": "Shadow T1",
+      "types": [
+        "Water",
+        "Psychic"
+      ],
+      "cp20": 700,
+      "cp25": 876
+    },
+    {
+      "name": "Shadow Snorlax",
+      "tier": "Shadow T3",
+      "types": [
+        "Normal"
+      ],
+      "cp20": 1843,
+      "cp25": 2304
     },
     {
       "name": "Uxie",
@@ -190,6 +160,16 @@
       ],
       "cp20": 1442,
       "cp25": 1802
+    },
+    {
+      "name": "Wyrdeer",
+      "tier": "T3",
+      "types": [
+        "Normal",
+        "Psychic"
+      ],
+      "cp20": 1561,
+      "cp25": 1951
     }
   ]
 }
