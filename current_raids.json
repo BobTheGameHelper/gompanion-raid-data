@@ -1,33 +1,13 @@
 {
   "bosses": [
     {
-      "name": "Archen",
-      "tier": "T1",
-      "types": [
-        "Rock",
-        "Flying"
-      ],
-      "cp20": 1052,
-      "cp25": 1316
-    },
-    {
-      "name": "Axew",
-      "tier": "T1",
-      "types": [
-        "Dragon"
-      ],
-      "cp20": 782,
-      "cp25": 977
-    },
-    {
-      "name": "Kleavor",
+      "name": "Dondozo",
       "tier": "T3",
       "types": [
-        "Bug",
-        "Rock"
+        "Water"
       ],
-      "cp20": 1798,
-      "cp25": 2247
+      "cp20": 1712,
+      "cp25": 2140
     },
     {
       "name": "Lunala",
@@ -40,14 +20,14 @@
       "cp25": 2887
     },
     {
-      "name": "Poltchageist",
-      "tier": "T1",
+      "name": "Samurott (Hisuian)",
+      "tier": "T3",
       "types": [
-        "Grass",
-        "Ghost"
+        "Water",
+        "Dark"
       ],
-      "cp20": 650,
-      "cp25": 813
+      "cp20": 1601,
+      "cp25": 2001
     },
     {
       "name": "Shadow Aipom",
@@ -136,24 +116,34 @@
       "cp25": 3143
     },
     {
-      "name": "Tirtouga",
+      "name": "Tatsugiri (Curly)",
       "tier": "T1",
       "types": [
-        "Water",
-        "Rock"
+        "Dragon",
+        "Water"
       ],
-      "cp20": 850,
-      "cp25": 1063
+      "cp20": 1569,
+      "cp25": 1961
     },
     {
-      "name": "Turtonator",
-      "tier": "T3",
+      "name": "Tatsugiri (Droopy)",
+      "tier": "T1",
       "types": [
-        "Fire",
-        "Dragon"
+        "Dragon",
+        "Water"
       ],
-      "cp20": 1270,
-      "cp25": 1587
+      "cp20": 1569,
+      "cp25": 1961
+    },
+    {
+      "name": "Tatsugiri (Stretchy)",
+      "tier": "T1",
+      "types": [
+        "Dragon",
+        "Water"
+      ],
+      "cp20": 1569,
+      "cp25": 1961
     }
   ]
 }
