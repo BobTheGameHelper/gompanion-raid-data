@@ -1,24 +1,63 @@
 {
   "bosses": [
     {
+      "name": "Dragonite (MEGA)",
+      "tier": "Mega",
+      "types": [
+        "Dragon",
+        "Flying"
+      ],
+      "cp20": 2167,
+      "cp25": 2708
+    },
+    {
+      "name": "Falinks (MEGA)",
+      "tier": "Mega",
+      "types": [
+        "Fighting"
+      ],
+      "cp20": 1347,
+      "cp25": 1683
+    },
+    {
       "name": "Gyarados (MEGA)",
       "tier": "Mega",
       "types": [
         "Water",
         "Dark"
       ],
-      "cp20": 2695,
-      "cp25": 3369
+      "cp20": 1937,
+      "cp25": 2422
     },
     {
-      "name": "Honedge",
-      "tier": "T1",
+      "name": "Latias (MEGA)",
+      "tier": "Mega",
       "types": [
-        "Steel",
-        "Ghost"
+        "Dragon",
+        "Psychic"
       ],
-      "cp20": 794,
-      "cp25": 992
+      "cp20": 2006,
+      "cp25": 2507
+    },
+    {
+      "name": "Latios (MEGA)",
+      "tier": "Mega",
+      "types": [
+        "Dragon",
+        "Psychic"
+      ],
+      "cp20": 2178,
+      "cp25": 2723
+    },
+    {
+      "name": "Malamar (MEGA)",
+      "tier": "Mega",
+      "types": [
+        "Dark",
+        "Psychic"
+      ],
+      "cp20": 1347,
+      "cp25": 1684
     },
     {
       "name": "Regice",
@@ -122,6 +161,26 @@
       ],
       "cp20": 1843,
       "cp25": 2304
+    },
+    {
+      "name": "Skarmory (MEGA)",
+      "tier": "Mega",
+      "types": [
+        "Steel",
+        "Flying"
+      ],
+      "cp20": 1204,
+      "cp25": 1506
+    },
+    {
+      "name": "Victreebel (MEGA)",
+      "tier": "Mega",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "cp20": 1389,
+      "cp25": 1736
     }
   ]
 }
