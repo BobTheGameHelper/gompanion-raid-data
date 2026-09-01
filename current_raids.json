@@ -1,6 +1,16 @@
 {
   "bosses": [
     {
+      "name": "Amaura",
+      "tier": "T1",
+      "types": [
+        "Rock",
+        "Ice"
+      ],
+      "cp20": 779,
+      "cp25": 974
+    },
+    {
       "name": "Dragonite (MEGA)",
       "tier": "Mega",
       "types": [
@@ -9,6 +19,15 @@
       ],
       "cp20": 2167,
       "cp25": 2708
+    },
+    {
+      "name": "Dratini",
+      "tier": "T1",
+      "types": [
+        "Dragon"
+      ],
+      "cp20": 574,
+      "cp25": 717
     },
     {
       "name": "Falinks (MEGA)",
@@ -28,6 +47,16 @@
       ],
       "cp20": 1937,
       "cp25": 2422
+    },
+    {
+      "name": "Honedge",
+      "tier": "T1",
+      "types": [
+        "Steel",
+        "Ghost"
+      ],
+      "cp20": 794,
+      "cp25": 992
     },
     {
       "name": "Latias (MEGA)",
@@ -50,6 +79,16 @@
       "cp25": 2723
     },
     {
+      "name": "Lilligant (Hisuian)",
+      "tier": "T3",
+      "types": [
+        "Grass",
+        "Fighting"
+      ],
+      "cp20": 1435,
+      "cp25": 1794
+    },
+    {
       "name": "Malamar (MEGA)",
       "tier": "Mega",
       "types": [
@@ -58,6 +97,15 @@
       ],
       "cp20": 1347,
       "cp25": 1684
+    },
+    {
+      "name": "Passimian",
+      "tier": "T3",
+      "types": [
+        "Fighting"
+      ],
+      "cp20": 1733,
+      "cp25": 2166
     },
     {
       "name": "Regice",
@@ -171,6 +219,26 @@
       ],
       "cp20": 1204,
       "cp25": 1506
+    },
+    {
+      "name": "Sneasel (Hisuian)",
+      "tier": "T3",
+      "types": [
+        "Fighting",
+        "Poison"
+      ],
+      "cp20": 1172,
+      "cp25": 1465
+    },
+    {
+      "name": "Tyrunt",
+      "tier": "T1",
+      "types": [
+        "Rock",
+        "Dragon"
+      ],
+      "cp20": 934,
+      "cp25": 1168
     },
     {
       "name": "Victreebel (MEGA)",
