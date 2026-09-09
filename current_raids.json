@@ -1,16 +1,6 @@
 {
   "bosses": [
     {
-      "name": "Amaura",
-      "tier": "T1",
-      "types": [
-        "Rock",
-        "Ice"
-      ],
-      "cp20": 779,
-      "cp25": 974
-    },
-    {
       "name": "Beedrill (MEGA)",
       "tier": "Mega",
       "types": [
@@ -21,126 +11,90 @@
       "cp25": 1318
     },
     {
-      "name": "Dratini",
-      "tier": "T1",
-      "types": [
-        "Dragon"
-      ],
-      "cp20": 574,
-      "cp25": 717
-    },
-    {
-      "name": "Gyarados (MEGA)",
-      "tier": "Mega",
-      "types": [
-        "Water",
-        "Dark"
-      ],
-      "cp20": 1937,
-      "cp25": 2422
-    },
-    {
-      "name": "Honedge",
-      "tier": "T1",
-      "types": [
-        "Steel",
-        "Ghost"
-      ],
-      "cp20": 794,
-      "cp25": 992
-    },
-    {
-      "name": "Lilligant (Hisuian)",
+      "name": "Dugtrio (Alola)",
       "tier": "T3",
       "types": [
-        "Grass",
-        "Fighting"
-      ],
-      "cp20": 1435,
-      "cp25": 1794
-    },
-    {
-      "name": "Passimian",
-      "tier": "T3",
-      "types": [
-        "Fighting"
-      ],
-      "cp20": 1733,
-      "cp25": 2166
-    },
-    {
-      "name": "Regice",
-      "tier": "T5",
-      "types": [
-        "Ice"
-      ],
-      "cp20": 1784,
-      "cp25": 2230
-    },
-    {
-      "name": "Regirock",
-      "tier": "T5",
-      "types": [
-        "Rock"
-      ],
-      "cp20": 1784,
-      "cp25": 2230
-    },
-    {
-      "name": "Registeel",
-      "tier": "T5",
-      "types": [
+        "Ground",
         "Steel"
       ],
-      "cp20": 1398,
-      "cp25": 1747
+      "cp20": 1084,
+      "cp25": 1355
     },
     {
-      "name": "Shadow Aipom",
-      "tier": "Shadow T1",
+      "name": "Dunsparce",
+      "tier": "T1",
       "types": [
         "Normal"
       ],
-      "cp20": 770,
-      "cp25": 963
+      "cp20": 965,
+      "cp25": 1206
     },
     {
-      "name": "Shadow Croagunk",
-      "tier": "Shadow T1",
+      "name": "Falinks",
+      "tier": "T3",
       "types": [
-        "Poison",
         "Fighting"
       ],
-      "cp20": 544,
-      "cp25": 680
+      "cp20": 1347,
+      "cp25": 1683
     },
     {
-      "name": "Shadow Giratina (Altered)",
-      "tier": "Shadow T5",
+      "name": "Fidough",
+      "tier": "T1",
       "types": [
-        "Ghost",
-        "Dragon"
+        "Fairy"
       ],
-      "cp20": 1931,
-      "cp25": 2413
-    },
-    {
-      "name": "Shadow Grubbin",
-      "tier": "Shadow T1",
-      "types": [
-        "Bug"
-      ],
-      "cp20": 562,
+      "cp20": 563,
       "cp25": 703
     },
     {
-      "name": "Shadow Hitmontop",
-      "tier": "Shadow T3",
+      "name": "Lapras",
+      "tier": "T3",
       "types": [
+        "Water",
+        "Ice"
+      ],
+      "cp20": 1509,
+      "cp25": 1886
+    },
+    {
+      "name": "Rattata (Alola)",
+      "tier": "T1",
+      "types": [
+        "Dark",
+        "Normal"
+      ],
+      "cp20": 419,
+      "cp25": 524
+    },
+    {
+      "name": "Scraggy",
+      "tier": "T1",
+      "types": [
+        "Dark",
         "Fighting"
       ],
-      "cp20": 1232,
-      "cp25": 1540
+      "cp20": 784,
+      "cp25": 980
+    },
+    {
+      "name": "Shadow Bagon",
+      "tier": "Shadow T1",
+      "types": [
+        "Dragon"
+      ],
+      "cp20": 660,
+      "cp25": 826
+    },
+    {
+      "name": "Shadow Bellsprout",
+      "tier": "Shadow T1",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "cp20": 590,
+      "cp25": 738
     },
     {
       "name": "Shadow Lampent",
@@ -153,23 +107,33 @@
       "cp25": 1220
     },
     {
-      "name": "Shadow Slowpoke",
+      "name": "Shadow Machop",
       "tier": "Shadow T1",
       "types": [
-        "Water",
-        "Psychic"
+        "Fighting"
       ],
-      "cp20": 700,
-      "cp25": 876
+      "cp20": 730,
+      "cp25": 913
     },
     {
-      "name": "Shadow Snorlax",
+      "name": "Shadow Quagsire",
       "tier": "Shadow T3",
       "types": [
-        "Normal"
+        "Water",
+        "Ground"
       ],
-      "cp20": 1843,
-      "cp25": 2304
+      "cp20": 1138,
+      "cp25": 1423
+    },
+    {
+      "name": "Shadow Sandslash (Alola)",
+      "tier": "Shadow T3",
+      "types": [
+        "Ice",
+        "Steel"
+      ],
+      "cp20": 1390,
+      "cp25": 1737
     },
     {
       "name": "Shadow Thundurus (Incarnate)",
@@ -182,24 +146,13 @@
       "cp25": 2389
     },
     {
-      "name": "Sneasel (Hisuian)",
-      "tier": "T3",
+      "name": "Shadow Torchic",
+      "tier": "Shadow T1",
       "types": [
-        "Fighting",
-        "Poison"
+        "Fire"
       ],
-      "cp20": 1172,
-      "cp25": 1465
-    },
-    {
-      "name": "Tyrunt",
-      "tier": "T1",
-      "types": [
-        "Rock",
-        "Dragon"
-      ],
-      "cp20": 934,
-      "cp25": 1168
+      "cp20": 624,
+      "cp25": 781
     },
     {
       "name": "Zacian (Hero)",
