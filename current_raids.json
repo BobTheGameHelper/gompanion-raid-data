@@ -1,6 +1,26 @@
 {
   "bosses": [
     {
+      "name": "Meowscarada",
+      "tier": "T3",
+      "types": [
+        "Grass",
+        "Dark"
+      ],
+      "cp20": 1614,
+      "cp25": 2017
+    },
+    {
+      "name": "Quaquaval",
+      "tier": "T3",
+      "types": [
+        "Water",
+        "Fighting"
+      ],
+      "cp20": 1724,
+      "cp25": 2155
+    },
+    {
       "name": "Shadow Bagon",
       "tier": "Shadow T1",
       "types": [
@@ -76,6 +96,16 @@
       ],
       "cp20": 624,
       "cp25": 781
+    },
+    {
+      "name": "Skeledirge",
+      "tier": "T3",
+      "types": [
+        "Fire",
+        "Ghost"
+      ],
+      "cp20": 1729,
+      "cp25": 2162
     },
     {
       "name": "Venusaur (MEGA)",
