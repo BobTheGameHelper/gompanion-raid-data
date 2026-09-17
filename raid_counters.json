@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T14:00:34.242710",
+  "generated_at": "2026-09-17T06:00:35.324324",
   "bosses": {
     "Shadow Bagon": {
       "types": [
@@ -279,8 +279,8 @@
             ],
             "fast": "Powder Snow",
             "charged": "Weather Ball Ice",
-            "dps": 41.85,
-            "tdo": 7323.0,
+            "dps": 41.82,
+            "tdo": 7319.0,
             "avg_faints": 6,
             "ttw": 44.3,
             "estimator": 0.25
@@ -375,10 +375,10 @@
             ],
             "fast": "Double Kick",
             "charged": "Triple Axel",
-            "dps": 38.38,
-            "tdo": 6717.0,
+            "dps": 38.26,
+            "tdo": 6695.0,
             "avg_faints": 3,
-            "ttw": 30.6,
+            "ttw": 30.7,
             "estimator": 0.18
           },
           {
@@ -2666,6 +2666,20 @@
             "estimator": 0.13
           },
           {
+            "name": "Staraptor (MEGA)",
+            "types": [
+              "Fighting",
+              "Flying"
+            ],
+            "fast": "Wing Attack",
+            "charged": "Fly",
+            "dps": 77.23,
+            "tdo": 13515.0,
+            "avg_faints": 3,
+            "ttw": 22.8,
+            "estimator": 0.13
+          },
+          {
             "name": "Charizard (MEGA X)",
             "types": [
               "Fire",
@@ -2701,8 +2715,8 @@
             ],
             "fast": "Zen Headbutt",
             "charged": "Psychic",
-            "dps": 73.15,
-            "tdo": 12801.0,
+            "dps": 73.24,
+            "tdo": 12817.0,
             "avg_faints": 1,
             "ttw": 13.2,
             "estimator": 0.08
@@ -2715,25 +2729,11 @@
             ],
             "fast": "Zen Headbutt",
             "charged": "Psychic",
-            "dps": 70.4,
-            "tdo": 12320.0,
+            "dps": 70.57,
+            "tdo": 12349.0,
             "avg_faints": 2,
             "ttw": 18.5,
             "estimator": 0.11
-          },
-          {
-            "name": "Gengar (MEGA)",
-            "types": [
-              "Ghost",
-              "Poison"
-            ],
-            "fast": "Lick",
-            "charged": "Psychic",
-            "dps": 68.22,
-            "tdo": 11939.0,
-            "avg_faints": 3,
-            "ttw": 23.8,
-            "estimator": 0.14
           },
           {
             "name": "Skarmory (MEGA)",
@@ -2742,9 +2742,9 @@
               "Flying"
             ],
             "fast": "Air Slash",
-            "charged": "Sky Attack",
-            "dps": 67.94,
-            "tdo": 11889.0,
+            "charged": "Brave Bird",
+            "dps": 68.22,
+            "tdo": 11938.0,
             "avg_faints": 2,
             "ttw": 18.8,
             "estimator": 0.11
@@ -2757,25 +2757,25 @@
             ],
             "fast": "Fire Fang",
             "charged": "Flamethrower",
-            "dps": 67.91,
-            "tdo": 11885.0,
+            "dps": 67.88,
+            "tdo": 11878.0,
             "avg_faints": 4,
             "ttw": 28.8,
             "estimator": 0.16
           },
           {
-            "name": "Starmie (MEGA)",
+            "name": "Gengar (MEGA)",
             "types": [
-              "Water",
-              "Psychic"
+              "Ghost",
+              "Poison"
             ],
-            "fast": "Psywave",
+            "fast": "Lick",
             "charged": "Psychic",
-            "dps": 66.59,
-            "tdo": 11654.0,
-            "avg_faints": 6,
-            "ttw": 39.0,
-            "estimator": 0.22
+            "dps": 67.77,
+            "tdo": 11859.0,
+            "avg_faints": 3,
+            "ttw": 23.9,
+            "estimator": 0.14
           },
           {
             "name": "Groudon (PRIMAL)",
@@ -2785,25 +2785,25 @@
             ],
             "fast": "Mud Shot",
             "charged": "Fire Blast",
-            "dps": 66.1,
-            "tdo": 11567.0,
-            "avg_faints": 2,
-            "ttw": 19.1,
-            "estimator": 0.11
+            "dps": 66.54,
+            "tdo": 11645.0,
+            "avg_faints": 3,
+            "ttw": 24.0,
+            "estimator": 0.14
           },
           {
-            "name": "Camerupt (MEGA)",
+            "name": "Starmie (MEGA)",
             "types": [
-              "Fire",
-              "Ground"
+              "Water",
+              "Psychic"
             ],
-            "fast": "Incinerate",
-            "charged": "Overheat",
-            "dps": 61.46,
-            "tdo": 10755.0,
-            "avg_faints": 5,
-            "ttw": 34.8,
-            "estimator": 0.2
+            "fast": "Psywave",
+            "charged": "Psychic",
+            "dps": 66.34,
+            "tdo": 11609.0,
+            "avg_faints": 6,
+            "ttw": 39.0,
+            "estimator": 0.22
           },
           {
             "name": "Garchomp (MEGA)",
@@ -2813,10 +2813,10 @@
             ],
             "fast": "Dragon Tail",
             "charged": "Fire Blast",
-            "dps": 60.96,
-            "tdo": 10668.0,
+            "dps": 60.7,
+            "tdo": 10623.0,
             "avg_faints": 3,
-            "ttw": 24.8,
+            "ttw": 24.9,
             "estimator": 0.14
           },
           {
@@ -2826,8 +2826,22 @@
             ],
             "fast": "Frost Breath",
             "charged": "Avalanche",
-            "dps": 60.8,
-            "tdo": 10639.0,
+            "dps": 60.61,
+            "tdo": 10607.0,
+            "avg_faints": 5,
+            "ttw": 34.9,
+            "estimator": 0.2
+          },
+          {
+            "name": "Camerupt (MEGA)",
+            "types": [
+              "Fire",
+              "Ground"
+            ],
+            "fast": "Incinerate",
+            "charged": "Overheat",
+            "dps": 60.47,
+            "tdo": 10582.0,
             "avg_faints": 5,
             "ttw": 34.9,
             "estimator": 0.2
@@ -2840,8 +2854,8 @@
             ],
             "fast": "Powder Snow",
             "charged": "Weather Ball Ice",
-            "dps": 60.21,
-            "tdo": 10537.0,
+            "dps": 59.98,
+            "tdo": 10497.0,
             "avg_faints": 5,
             "ttw": 35.0,
             "estimator": 0.2
@@ -2854,8 +2868,8 @@
             ],
             "fast": "Confusion",
             "charged": "Psychic",
-            "dps": 59.24,
-            "tdo": 10366.0,
+            "dps": 59.31,
+            "tdo": 10380.0,
             "avg_faints": 4,
             "ttw": 30.1,
             "estimator": 0.17
@@ -2868,11 +2882,11 @@
             ],
             "fast": "Dragon Tail",
             "charged": "Hurricane",
-            "dps": 55.44,
-            "tdo": 9703.0,
-            "avg_faints": 2,
-            "ttw": 20.8,
-            "estimator": 0.12
+            "dps": 55.2,
+            "tdo": 9660.0,
+            "avg_faints": 3,
+            "ttw": 25.9,
+            "estimator": 0.15
           },
           {
             "name": "Lucario (MEGA)",
@@ -2882,10 +2896,10 @@
             ],
             "fast": "Bullet Punch",
             "charged": "Blaze Kick",
-            "dps": 54.22,
-            "tdo": 9489.0,
+            "dps": 54.36,
+            "tdo": 9513.0,
             "avg_faints": 3,
-            "ttw": 26.1,
+            "ttw": 26.0,
             "estimator": 0.15
           },
           {
@@ -2895,8 +2909,8 @@
             ],
             "fast": "Waterfall",
             "charged": "Avalanche",
-            "dps": 53.89,
-            "tdo": 9431.0,
+            "dps": 54.26,
+            "tdo": 9495.0,
             "avg_faints": 4,
             "ttw": 31.1,
             "estimator": 0.18
@@ -2909,23 +2923,10 @@
             ],
             "fast": "Pound",
             "charged": "Triple Axel",
-            "dps": 53.48,
-            "tdo": 9359.0,
+            "dps": 53.51,
+            "tdo": 9364.0,
             "avg_faints": 5,
             "ttw": 36.2,
-            "estimator": 0.21
-          },
-          {
-            "name": "Manectric (MEGA)",
-            "types": [
-              "Electric"
-            ],
-            "fast": "Snarl",
-            "charged": "Overheat",
-            "dps": 52.62,
-            "tdo": 9209.0,
-            "avg_faints": 5,
-            "ttw": 36.4,
             "estimator": 0.21
           }
         ],
@@ -3916,6 +3917,20 @@
             "estimator": 0.13
           },
           {
+            "name": "Staraptor (MEGA)",
+            "types": [
+              "Fighting",
+              "Flying"
+            ],
+            "fast": "Wing Attack",
+            "charged": "Fly",
+            "dps": 81.92,
+            "tdo": 14336.0,
+            "avg_faints": 3,
+            "ttw": 22.3,
+            "estimator": 0.13
+          },
+          {
             "name": "Charizard (MEGA X)",
             "types": [
               "Fire",
@@ -3951,8 +3966,8 @@
             ],
             "fast": "Zen Headbutt",
             "charged": "Psychic",
-            "dps": 77.75,
-            "tdo": 13606.0,
+            "dps": 77.62,
+            "tdo": 13584.0,
             "avg_faints": 1,
             "ttw": 12.7,
             "estimator": 0.07
@@ -3965,8 +3980,8 @@
             ],
             "fast": "Zen Headbutt",
             "charged": "Psychic",
-            "dps": 74.69,
-            "tdo": 13071.0,
+            "dps": 74.68,
+            "tdo": 13068.0,
             "avg_faints": 2,
             "ttw": 18.0,
             "estimator": 0.1
@@ -3979,8 +3994,8 @@
             ],
             "fast": "Fire Fang",
             "charged": "Flamethrower",
-            "dps": 73.52,
-            "tdo": 12865.0,
+            "dps": 73.62,
+            "tdo": 12883.0,
             "avg_faints": 4,
             "ttw": 28.2,
             "estimator": 0.16
@@ -3993,10 +4008,24 @@
             ],
             "fast": "Lick",
             "charged": "Psychic",
-            "dps": 73.02,
-            "tdo": 12779.0,
+            "dps": 72.68,
+            "tdo": 12719.0,
             "avg_faints": 2,
-            "ttw": 18.2,
+            "ttw": 18.3,
+            "estimator": 0.1
+          },
+          {
+            "name": "Skarmory (MEGA)",
+            "types": [
+              "Steel",
+              "Flying"
+            ],
+            "fast": "Air Slash",
+            "charged": "Brave Bird",
+            "dps": 72.66,
+            "tdo": 12715.0,
+            "avg_faints": 2,
+            "ttw": 18.3,
             "estimator": 0.1
           },
           {
@@ -4007,25 +4036,11 @@
             ],
             "fast": "Psywave",
             "charged": "Psychic",
-            "dps": 72.8,
-            "tdo": 12739.0,
+            "dps": 72.37,
+            "tdo": 12665.0,
             "avg_faints": 5,
-            "ttw": 33.2,
+            "ttw": 33.3,
             "estimator": 0.19
-          },
-          {
-            "name": "Skarmory (MEGA)",
-            "types": [
-              "Steel",
-              "Flying"
-            ],
-            "fast": "Air Slash",
-            "charged": "Brave Bird",
-            "dps": 72.6,
-            "tdo": 12705.0,
-            "avg_faints": 2,
-            "ttw": 18.3,
-            "estimator": 0.1
           },
           {
             "name": "Groudon (PRIMAL)",
@@ -4035,10 +4050,10 @@
             ],
             "fast": "Mud Shot",
             "charged": "Fire Blast",
-            "dps": 71.81,
-            "tdo": 12567.0,
+            "dps": 71.89,
+            "tdo": 12581.0,
             "avg_faints": 2,
-            "ttw": 18.4,
+            "ttw": 18.3,
             "estimator": 0.1
           },
           {
@@ -4049,10 +4064,10 @@
             ],
             "fast": "Incinerate",
             "charged": "Overheat",
-            "dps": 66.0,
-            "tdo": 11550.0,
+            "dps": 66.81,
+            "tdo": 11691.0,
             "avg_faints": 4,
-            "ttw": 29.1,
+            "ttw": 29.0,
             "estimator": 0.17
           },
           {
@@ -4060,13 +4075,27 @@
             "types": [
               "Ice"
             ],
-            "fast": "Frost Breath",
+            "fast": "Ice Shard",
             "charged": "Avalanche",
-            "dps": 64.9,
-            "tdo": 11357.0,
+            "dps": 64.65,
+            "tdo": 11313.0,
             "avg_faints": 5,
-            "ttw": 34.2,
+            "ttw": 34.3,
             "estimator": 0.2
+          },
+          {
+            "name": "Garchomp (MEGA)",
+            "types": [
+              "Dragon",
+              "Ground"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Fire Blast",
+            "dps": 64.35,
+            "tdo": 11261.0,
+            "avg_faints": 2,
+            "ttw": 19.3,
+            "estimator": 0.11
           },
           {
             "name": "Abomasnow (MEGA)",
@@ -4077,24 +4106,10 @@
             "fast": "Powder Snow",
             "charged": "Weather Ball Ice",
             "dps": 64.03,
-            "tdo": 11205.0,
+            "tdo": 11206.0,
             "avg_faints": 4,
             "ttw": 29.4,
             "estimator": 0.17
-          },
-          {
-            "name": "Garchomp (MEGA)",
-            "types": [
-              "Dragon",
-              "Ground"
-            ],
-            "fast": "Dragon Tail",
-            "charged": "Fire Blast",
-            "dps": 63.79,
-            "tdo": 11164.0,
-            "avg_faints": 2,
-            "ttw": 19.4,
-            "estimator": 0.11
           },
           {
             "name": "Slowbro (MEGA)",
@@ -4104,8 +4119,8 @@
             ],
             "fast": "Confusion",
             "charged": "Psychic",
-            "dps": 62.67,
-            "tdo": 10968.0,
+            "dps": 62.55,
+            "tdo": 10945.0,
             "avg_faints": 3,
             "ttw": 24.6,
             "estimator": 0.14
@@ -4118,8 +4133,8 @@
             ],
             "fast": "Dragon Tail",
             "charged": "Hurricane",
-            "dps": 59.08,
-            "tdo": 10339.0,
+            "dps": 58.8,
+            "tdo": 10289.0,
             "avg_faints": 2,
             "ttw": 20.2,
             "estimator": 0.12
@@ -4132,8 +4147,8 @@
             ],
             "fast": "Bullet Punch",
             "charged": "Blaze Kick",
-            "dps": 58.19,
-            "tdo": 10184.0,
+            "dps": 58.43,
+            "tdo": 10226.0,
             "avg_faints": 3,
             "ttw": 25.3,
             "estimator": 0.14
@@ -4145,38 +4160,25 @@
             ],
             "fast": "Waterfall",
             "charged": "Avalanche",
-            "dps": 57.84,
-            "tdo": 10121.0,
+            "dps": 58.36,
+            "tdo": 10213.0,
             "avg_faints": 3,
-            "ttw": 25.4,
+            "ttw": 25.3,
             "estimator": 0.14
           },
           {
-            "name": "Lopunny (MEGA)",
+            "name": "Beedrill (MEGA)",
             "types": [
-              "Normal",
-              "Fighting"
+              "Bug",
+              "Poison"
             ],
-            "fast": "Pound",
-            "charged": "Triple Axel",
-            "dps": 56.18,
-            "tdo": 9832.0,
+            "fast": "Bug Bite",
+            "charged": "Fell Stinger +",
+            "dps": 56.35,
+            "tdo": 9861.0,
             "avg_faints": 4,
-            "ttw": 30.7,
+            "ttw": 30.6,
             "estimator": 0.18
-          },
-          {
-            "name": "Absol (MEGA)",
-            "types": [
-              "Dark"
-            ],
-            "fast": "Psycho Cut",
-            "charged": "Brutal Swing",
-            "dps": 56.17,
-            "tdo": 9829.0,
-            "avg_faints": 7,
-            "ttw": 45.7,
-            "estimator": 0.26
           }
         ],
         "shadows": [
@@ -5102,6 +5104,20 @@
             "estimator": 0.57
           },
           {
+            "name": "Mewtwo (MEGA X)",
+            "types": [
+              "Psychic",
+              "Fighting"
+            ],
+            "fast": "Psycho Cut",
+            "charged": "Shadow Ball",
+            "dps": 47.48,
+            "tdo": 8309.0,
+            "avg_faints": 4,
+            "ttw": 95.8,
+            "estimator": 0.55
+          },
+          {
             "name": "Absol (MEGA)",
             "types": [
               "Dark"
@@ -5115,20 +5131,6 @@
             "estimator": 0.66
           },
           {
-            "name": "Mewtwo (MEGA X)",
-            "types": [
-              "Psychic",
-              "Fighting"
-            ],
-            "fast": "Psycho Cut",
-            "charged": "Shadow Ball",
-            "dps": 47.21,
-            "tdo": 8261.0,
-            "avg_faints": 4,
-            "ttw": 96.3,
-            "estimator": 0.55
-          },
-          {
             "name": "Swampert (MEGA)",
             "types": [
               "Water",
@@ -5136,10 +5138,10 @@
             ],
             "fast": "Water Gun",
             "charged": "Hydro Cannon",
-            "dps": 46.44,
-            "tdo": 8126.0,
+            "dps": 46.51,
+            "tdo": 8140.0,
             "avg_faints": 4,
-            "ttw": 97.5,
+            "ttw": 97.4,
             "estimator": 0.56
           },
           {
@@ -5191,10 +5193,10 @@
             ],
             "fast": "Shadow Claw",
             "charged": "Shadow Ball",
-            "dps": 44.19,
-            "tdo": 7733.0,
+            "dps": 44.22,
+            "tdo": 7739.0,
             "avg_faints": 7,
-            "ttw": 116.5,
+            "ttw": 116.4,
             "estimator": 0.67
           },
           {
@@ -5391,6 +5393,20 @@
             "estimator": 0.8
           },
           {
+            "name": "Staraptor (MEGA)",
+            "types": [
+              "Fighting",
+              "Flying"
+            ],
+            "fast": "Sand Attack",
+            "charged": "Fly",
+            "dps": 31.67,
+            "tdo": 5542.0,
+            "avg_faints": 4,
+            "ttw": 133.7,
+            "estimator": 0.76
+          },
+          {
             "name": "Heracross (MEGA)",
             "types": [
               "Bug",
@@ -5416,19 +5432,6 @@
             "avg_faints": 6,
             "ttw": 145.6,
             "estimator": 0.83
-          },
-          {
-            "name": "Glalie (MEGA)",
-            "types": [
-              "Ice"
-            ],
-            "fast": "Rollout",
-            "charged": "Shadow Ball",
-            "dps": 30.57,
-            "tdo": 5350.0,
-            "avg_faints": 7,
-            "ttw": 152.8,
-            "estimator": 0.87
           }
         ],
         "shadows": [
@@ -6634,6 +6637,20 @@
             "estimator": 0.74
           },
           {
+            "name": "Staraptor (MEGA)",
+            "types": [
+              "Fighting",
+              "Flying"
+            ],
+            "fast": "Sand Attack",
+            "charged": "Fly",
+            "dps": 33.48,
+            "tdo": 5858.0,
+            "avg_faints": 3,
+            "ttw": 122.5,
+            "estimator": 0.7
+          },
+          {
             "name": "Heracross (MEGA)",
             "types": [
               "Bug",
@@ -6659,20 +6676,6 @@
             "avg_faints": 7,
             "ttw": 143.7,
             "estimator": 0.82
-          },
-          {
-            "name": "Slowbro (MEGA)",
-            "types": [
-              "Water",
-              "Psychic"
-            ],
-            "fast": "Water Gun",
-            "charged": "Surf",
-            "dps": 32.92,
-            "tdo": 5762.0,
-            "avg_faints": 3,
-            "ttw": 124.3,
-            "estimator": 0.71
           }
         ],
         "shadows": [
@@ -7565,20 +7568,6 @@
             "estimator": 0.1
           },
           {
-            "name": "Gallade (MEGA)",
-            "types": [
-              "Psychic",
-              "Fighting"
-            ],
-            "fast": "Confusion",
-            "charged": "Psychic",
-            "dps": 65.88,
-            "tdo": 11529.0,
-            "avg_faints": 2,
-            "ttw": 19.1,
-            "estimator": 0.11
-          },
-          {
             "name": "Gardevoir (MEGA)",
             "types": [
               "Psychic",
@@ -7586,11 +7575,25 @@
             ],
             "fast": "Confusion",
             "charged": "Psychic",
-            "dps": 65.78,
-            "tdo": 11511.0,
+            "dps": 65.77,
+            "tdo": 11509.0,
             "avg_faints": 1,
             "ttw": 14.1,
             "estimator": 0.08
+          },
+          {
+            "name": "Gallade (MEGA)",
+            "types": [
+              "Psychic",
+              "Fighting"
+            ],
+            "fast": "Confusion",
+            "charged": "Psychic",
+            "dps": 65.53,
+            "tdo": 11468.0,
+            "avg_faints": 2,
+            "ttw": 19.2,
+            "estimator": 0.11
           },
           {
             "name": "Latios (MEGA)",
@@ -7600,8 +7603,8 @@
             ],
             "fast": "Zen Headbutt",
             "charged": "Psychic",
-            "dps": 63.85,
-            "tdo": 11174.0,
+            "dps": 63.86,
+            "tdo": 11176.0,
             "avg_faints": 1,
             "ttw": 14.4,
             "estimator": 0.08
@@ -7614,10 +7617,24 @@
             ],
             "fast": "Zen Headbutt",
             "charged": "Psychic",
-            "dps": 62.76,
-            "tdo": 10983.0,
+            "dps": 62.84,
+            "tdo": 10998.0,
             "avg_faints": 2,
-            "ttw": 19.6,
+            "ttw": 19.5,
+            "estimator": 0.11
+          },
+          {
+            "name": "Staraptor (MEGA)",
+            "types": [
+              "Fighting",
+              "Flying"
+            ],
+            "fast": "Wing Attack",
+            "charged": "Fly",
+            "dps": 59.59,
+            "tdo": 10428.0,
+            "avg_faints": 2,
+            "ttw": 20.1,
             "estimator": 0.11
           },
           {
@@ -7628,8 +7645,8 @@
             ],
             "fast": "Dragon Tail",
             "charged": "Fly",
-            "dps": 57.83,
-            "tdo": 10120.0,
+            "dps": 57.82,
+            "tdo": 10118.0,
             "avg_faints": 1,
             "ttw": 15.4,
             "estimator": 0.09
@@ -7642,8 +7659,8 @@
             ],
             "fast": "Gust",
             "charged": "Brave Bird",
-            "dps": 57.69,
-            "tdo": 10095.0,
+            "dps": 57.76,
+            "tdo": 10108.0,
             "avg_faints": 4,
             "ttw": 30.4,
             "estimator": 0.17
@@ -7656,8 +7673,8 @@
             ],
             "fast": "Zen Headbutt",
             "charged": "Psychic",
-            "dps": 57.27,
-            "tdo": 10023.0,
+            "dps": 57.04,
+            "tdo": 9982.0,
             "avg_faints": 2,
             "ttw": 20.5,
             "estimator": 0.12
@@ -7671,7 +7688,7 @@
             "fast": "Zen Headbutt",
             "charged": "Psychic",
             "dps": 55.52,
-            "tdo": 9715.0,
+            "tdo": 9716.0,
             "avg_faints": 1,
             "ttw": 15.8,
             "estimator": 0.09
@@ -7684,10 +7701,10 @@
             ],
             "fast": "Psywave",
             "charged": "Psychic",
-            "dps": 54.39,
-            "tdo": 9519.0,
+            "dps": 54.26,
+            "tdo": 9496.0,
             "avg_faints": 2,
-            "ttw": 21.0,
+            "ttw": 21.1,
             "estimator": 0.12
           },
           {
@@ -7698,8 +7715,8 @@
             ],
             "fast": "Lick",
             "charged": "Psychic",
-            "dps": 53.59,
-            "tdo": 9378.0,
+            "dps": 53.49,
+            "tdo": 9361.0,
             "avg_faints": 1,
             "ttw": 16.2,
             "estimator": 0.09
@@ -7711,11 +7728,11 @@
               "Flying"
             ],
             "fast": "Air Slash",
-            "charged": "Brave Bird",
-            "dps": 53.28,
-            "tdo": 9323.0,
+            "charged": "Sky Attack",
+            "dps": 53.45,
+            "tdo": 9354.0,
             "avg_faints": 3,
-            "ttw": 26.3,
+            "ttw": 26.2,
             "estimator": 0.15
           },
           {
@@ -7726,11 +7743,11 @@
             ],
             "fast": "Force Palm",
             "charged": "Aura Sphere",
-            "dps": 50.35,
-            "tdo": 8811.0,
-            "avg_faints": 6,
-            "ttw": 41.9,
-            "estimator": 0.24
+            "dps": 50.25,
+            "tdo": 8793.0,
+            "avg_faints": 7,
+            "ttw": 46.9,
+            "estimator": 0.27
           },
           {
             "name": "Charizard (MEGA Y)",
@@ -7740,8 +7757,8 @@
             ],
             "fast": "Air Slash",
             "charged": "Blast Burn",
-            "dps": 49.95,
-            "tdo": 8741.0,
+            "dps": 49.93,
+            "tdo": 8738.0,
             "avg_faints": 2,
             "ttw": 22.0,
             "estimator": 0.13
@@ -7754,10 +7771,10 @@
             ],
             "fast": "Fire Spin",
             "charged": "Brave Bird",
-            "dps": 49.18,
-            "tdo": 8606.0,
+            "dps": 48.91,
+            "tdo": 8560.0,
             "avg_faints": 4,
-            "ttw": 32.2,
+            "ttw": 32.3,
             "estimator": 0.18
           },
           {
@@ -7767,8 +7784,8 @@
             ],
             "fast": "Charm",
             "charged": "Wild Charge",
-            "dps": 48.07,
-            "tdo": 8411.0,
+            "dps": 48.16,
+            "tdo": 8428.0,
             "avg_faints": 5,
             "ttw": 37.5,
             "estimator": 0.21
@@ -7781,8 +7798,8 @@
             ],
             "fast": "Confusion",
             "charged": "Psychic",
-            "dps": 46.3,
-            "tdo": 8102.0,
+            "dps": 46.07,
+            "tdo": 8062.0,
             "avg_faints": 1,
             "ttw": 18.0,
             "estimator": 0.1
@@ -7794,8 +7811,8 @@
             ],
             "fast": "Hex",
             "charged": "Dazzling Gleam",
-            "dps": 45.01,
-            "tdo": 7877.0,
+            "dps": 45.04,
+            "tdo": 7882.0,
             "avg_faints": 2,
             "ttw": 23.3,
             "estimator": 0.13
@@ -7808,25 +7825,11 @@
             ],
             "fast": "Dragon Tail",
             "charged": "Breaking Swipe",
-            "dps": 44.77,
-            "tdo": 7835.0,
+            "dps": 44.76,
+            "tdo": 7833.0,
             "avg_faints": 2,
             "ttw": 23.4,
             "estimator": 0.13
-          },
-          {
-            "name": "Dragonite (MEGA)",
-            "types": [
-              "Dragon",
-              "Flying"
-            ],
-            "fast": "Dragon Tail",
-            "charged": "Hurricane",
-            "dps": 44.59,
-            "tdo": 7803.0,
-            "avg_faints": 1,
-            "ttw": 18.5,
-            "estimator": 0.11
           },
           {
             "name": "Diancie (MEGA)",
@@ -7836,11 +7839,25 @@
             ],
             "fast": "Tackle",
             "charged": "Moonblast",
-            "dps": 43.7,
-            "tdo": 7648.0,
+            "dps": 44.49,
+            "tdo": 7786.0,
             "avg_faints": 4,
-            "ttw": 33.7,
+            "ttw": 33.5,
             "estimator": 0.19
+          },
+          {
+            "name": "Dragonite (MEGA)",
+            "types": [
+              "Dragon",
+              "Flying"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Hurricane",
+            "dps": 44.36,
+            "tdo": 7762.0,
+            "avg_faints": 1,
+            "ttw": 18.5,
+            "estimator": 0.11
           },
           {
             "name": "Groudon (PRIMAL)",
@@ -7850,8 +7867,8 @@
             ],
             "fast": "Mud Shot",
             "charged": "Precipice Blades",
-            "dps": 43.58,
-            "tdo": 7627.0,
+            "dps": 43.62,
+            "tdo": 7633.0,
             "avg_faints": 2,
             "ttw": 23.8,
             "estimator": 0.14
@@ -7863,8 +7880,8 @@
             ],
             "fast": "Waterfall",
             "charged": "Origin Pulse",
-            "dps": 43.43,
-            "tdo": 7601.0,
+            "dps": 43.38,
+            "tdo": 7592.0,
             "avg_faints": 2,
             "ttw": 23.8,
             "estimator": 0.14
@@ -7877,8 +7894,8 @@
             ],
             "fast": "Fury Cutter",
             "charged": "Frenzy Plant",
-            "dps": 41.61,
-            "tdo": 7282.0,
+            "dps": 41.73,
+            "tdo": 7303.0,
             "avg_faints": 4,
             "ttw": 34.4,
             "estimator": 0.2
@@ -7891,8 +7908,8 @@
             ],
             "fast": "Psycho Cut",
             "charged": "Psychic",
-            "dps": 40.79,
-            "tdo": 7137.0,
+            "dps": 40.75,
+            "tdo": 7132.0,
             "avg_faints": 3,
             "ttw": 29.7,
             "estimator": 0.17
@@ -7904,25 +7921,11 @@
             ],
             "fast": "Charm",
             "charged": "Wild Charge",
-            "dps": 40.29,
-            "tdo": 7051.0,
+            "dps": 40.4,
+            "tdo": 7070.0,
             "avg_faints": 4,
             "ttw": 34.9,
             "estimator": 0.2
-          },
-          {
-            "name": "Charizard (MEGA X)",
-            "types": [
-              "Fire",
-              "Dragon"
-            ],
-            "fast": "Air Slash",
-            "charged": "Blast Burn",
-            "dps": 39.61,
-            "tdo": 6931.0,
-            "avg_faints": 3,
-            "ttw": 30.1,
-            "estimator": 0.17
           }
         ],
         "shadows": [
@@ -8867,6 +8870,20 @@
             "estimator": 0.08
           },
           {
+            "name": "Staraptor (MEGA)",
+            "types": [
+              "Fighting",
+              "Flying"
+            ],
+            "fast": "Wing Attack",
+            "charged": "Fly",
+            "dps": 63.94,
+            "tdo": 11189.0,
+            "avg_faints": 2,
+            "ttw": 19.4,
+            "estimator": 0.11
+          },
+          {
             "name": "Pidgeot (MEGA)",
             "types": [
               "Normal",
@@ -8888,10 +8905,10 @@
             ],
             "fast": "Zen Headbutt",
             "charged": "Psychic",
-            "dps": 61.04,
-            "tdo": 10682.0,
+            "dps": 60.91,
+            "tdo": 10660.0,
             "avg_faints": 2,
-            "ttw": 19.8,
+            "ttw": 19.9,
             "estimator": 0.11
           },
           {
@@ -8902,10 +8919,10 @@
             ],
             "fast": "Dragon Tail",
             "charged": "Fly",
-            "dps": 60.3,
-            "tdo": 10552.0,
+            "dps": 60.44,
+            "tdo": 10578.0,
             "avg_faints": 1,
-            "ttw": 15.0,
+            "ttw": 14.9,
             "estimator": 0.09
           },
           {
@@ -8916,8 +8933,8 @@
             ],
             "fast": "Zen Headbutt",
             "charged": "Psychic",
-            "dps": 59.05,
-            "tdo": 10334.0,
+            "dps": 58.93,
+            "tdo": 10313.0,
             "avg_faints": 1,
             "ttw": 15.2,
             "estimator": 0.09
@@ -8930,8 +8947,8 @@
             ],
             "fast": "Psywave",
             "charged": "Psychic",
-            "dps": 58.08,
-            "tdo": 10163.0,
+            "dps": 58.17,
+            "tdo": 10181.0,
             "avg_faints": 2,
             "ttw": 20.3,
             "estimator": 0.12
@@ -8943,11 +8960,11 @@
               "Flying"
             ],
             "fast": "Air Slash",
-            "charged": "Sky Attack",
-            "dps": 56.69,
-            "tdo": 9920.0,
+            "charged": "Brave Bird",
+            "dps": 56.9,
+            "tdo": 9957.0,
             "avg_faints": 3,
-            "ttw": 25.6,
+            "ttw": 25.5,
             "estimator": 0.15
           },
           {
@@ -8958,8 +8975,8 @@
             ],
             "fast": "Lick",
             "charged": "Psychic",
-            "dps": 56.08,
-            "tdo": 9814.0,
+            "dps": 56.1,
+            "tdo": 9817.0,
             "avg_faints": 1,
             "ttw": 15.7,
             "estimator": 0.09
@@ -8972,11 +8989,11 @@
             ],
             "fast": "Air Slash",
             "charged": "Blast Burn",
-            "dps": 53.84,
-            "tdo": 9422.0,
-            "avg_faints": 1,
-            "ttw": 16.1,
-            "estimator": 0.09
+            "dps": 53.87,
+            "tdo": 9426.0,
+            "avg_faints": 2,
+            "ttw": 21.1,
+            "estimator": 0.12
           },
           {
             "name": "Lucario (MEGA)",
@@ -8986,8 +9003,8 @@
             ],
             "fast": "Force Palm",
             "charged": "Aura Sphere",
-            "dps": 53.56,
-            "tdo": 9374.0,
+            "dps": 53.41,
+            "tdo": 9347.0,
             "avg_faints": 6,
             "ttw": 41.2,
             "estimator": 0.24
@@ -9000,10 +9017,10 @@
             ],
             "fast": "Counter",
             "charged": "Brave Bird",
-            "dps": 53.19,
-            "tdo": 9309.0,
+            "dps": 53.35,
+            "tdo": 9335.0,
             "avg_faints": 3,
-            "ttw": 26.3,
+            "ttw": 26.2,
             "estimator": 0.15
           },
           {
@@ -9013,10 +9030,10 @@
             ],
             "fast": "Charm",
             "charged": "Wild Charge",
-            "dps": 51.24,
-            "tdo": 8967.0,
+            "dps": 51.56,
+            "tdo": 9023.0,
             "avg_faints": 4,
-            "ttw": 31.7,
+            "ttw": 31.6,
             "estimator": 0.18
           },
           {
@@ -9027,8 +9044,8 @@
             ],
             "fast": "Confusion",
             "charged": "Psychic",
-            "dps": 49.1,
-            "tdo": 8593.0,
+            "dps": 49.16,
+            "tdo": 8603.0,
             "avg_faints": 1,
             "ttw": 17.2,
             "estimator": 0.1
@@ -9040,10 +9057,10 @@
             ],
             "fast": "Hex",
             "charged": "Dazzling Gleam",
-            "dps": 48.22,
-            "tdo": 8438.0,
+            "dps": 48.15,
+            "tdo": 8427.0,
             "avg_faints": 1,
-            "ttw": 17.4,
+            "ttw": 17.5,
             "estimator": 0.1
           },
           {
@@ -9054,8 +9071,8 @@
             ],
             "fast": "Dragon Tail",
             "charged": "Breaking Swipe",
-            "dps": 47.65,
-            "tdo": 8339.0,
+            "dps": 47.75,
+            "tdo": 8356.0,
             "avg_faints": 2,
             "ttw": 22.6,
             "estimator": 0.13
@@ -9068,24 +9085,11 @@
             ],
             "fast": "Tackle",
             "charged": "Moonblast",
-            "dps": 46.64,
-            "tdo": 8162.0,
+            "dps": 46.57,
+            "tdo": 8150.0,
             "avg_faints": 3,
             "ttw": 27.9,
             "estimator": 0.16
-          },
-          {
-            "name": "Kyogre (PRIMAL)",
-            "types": [
-              "Water"
-            ],
-            "fast": "Waterfall",
-            "charged": "Origin Pulse",
-            "dps": 46.36,
-            "tdo": 8113.0,
-            "avg_faints": 2,
-            "ttw": 22.9,
-            "estimator": 0.13
           },
           {
             "name": "Dragonite (MEGA)",
@@ -9095,11 +9099,24 @@
             ],
             "fast": "Dragon Tail",
             "charged": "Hurricane",
-            "dps": 46.34,
-            "tdo": 8110.0,
+            "dps": 46.23,
+            "tdo": 8089.0,
             "avg_faints": 1,
-            "ttw": 17.9,
+            "ttw": 18.0,
             "estimator": 0.1
+          },
+          {
+            "name": "Kyogre (PRIMAL)",
+            "types": [
+              "Water"
+            ],
+            "fast": "Waterfall",
+            "charged": "Origin Pulse",
+            "dps": 45.86,
+            "tdo": 8025.0,
+            "avg_faints": 2,
+            "ttw": 23.1,
+            "estimator": 0.13
           },
           {
             "name": "Greninja (MEGA)",
@@ -9109,8 +9126,8 @@
             ],
             "fast": "Water Shuriken",
             "charged": "Hydro Cannon",
-            "dps": 45.65,
-            "tdo": 7989.0,
+            "dps": 45.67,
+            "tdo": 7991.0,
             "avg_faints": 5,
             "ttw": 38.1,
             "estimator": 0.22
@@ -9123,8 +9140,8 @@
             ],
             "fast": "Dragon Tail",
             "charged": "Precipice Blades",
-            "dps": 45.42,
-            "tdo": 7949.0,
+            "dps": 45.46,
+            "tdo": 7955.0,
             "avg_faints": 2,
             "ttw": 23.2,
             "estimator": 0.13
@@ -9137,8 +9154,8 @@
             ],
             "fast": "Fury Cutter",
             "charged": "Frenzy Plant",
-            "dps": 44.2,
-            "tdo": 7735.0,
+            "dps": 44.15,
+            "tdo": 7727.0,
             "avg_faints": 3,
             "ttw": 28.6,
             "estimator": 0.16
@@ -9151,24 +9168,11 @@
             ],
             "fast": "Psycho Cut",
             "charged": "Psychic",
-            "dps": 44.03,
-            "tdo": 7704.0,
+            "dps": 44.12,
+            "tdo": 7721.0,
             "avg_faints": 2,
             "ttw": 23.6,
-            "estimator": 0.14
-          },
-          {
-            "name": "Raichu (MEGA X)",
-            "types": [
-              "Electric"
-            ],
-            "fast": "Charm",
-            "charged": "Wild Charge",
-            "dps": 42.93,
-            "tdo": 7512.0,
-            "avg_faints": 3,
-            "ttw": 29.0,
-            "estimator": 0.17
+            "estimator": 0.13
           }
         ],
         "shadows": [
@@ -11420,10 +11424,10 @@
             ],
             "fast": "Confusion",
             "charged": "Psystrike",
-            "dps": 36.41,
-            "tdo": 6371.0,
+            "dps": 36.43,
+            "tdo": 6376.0,
             "avg_faints": 3,
-            "ttw": 113.9,
+            "ttw": 113.8,
             "estimator": 0.65
           },
           {
@@ -11446,12 +11450,12 @@
               "Electric",
               "Dragon"
             ],
-            "fast": "Charge Beam",
+            "fast": "Volt Switch",
             "charged": "Trailblaze",
-            "dps": 35.53,
-            "tdo": 6218.0,
+            "dps": 35.51,
+            "tdo": 6215.0,
             "avg_faints": 4,
-            "ttw": 121.3,
+            "ttw": 121.4,
             "estimator": 0.69
           },
           {
@@ -11462,10 +11466,10 @@
             ],
             "fast": "Counter",
             "charged": "Psystrike",
-            "dps": 35.3,
-            "tdo": 6177.0,
+            "dps": 35.34,
+            "tdo": 6185.0,
             "avg_faints": 2,
-            "ttw": 112.0,
+            "ttw": 111.9,
             "estimator": 0.64
           },
           {
@@ -11476,10 +11480,10 @@
             ],
             "fast": "Force Palm",
             "charged": "Aura Sphere",
-            "dps": 33.21,
-            "tdo": 5812.0,
+            "dps": 33.26,
+            "tdo": 5820.0,
             "avg_faints": 4,
-            "ttw": 128.4,
+            "ttw": 128.2,
             "estimator": 0.73
           },
           {
@@ -11489,10 +11493,10 @@
             ],
             "fast": "Thunder Shock",
             "charged": "Trailblaze",
-            "dps": 32.73,
-            "tdo": 5728.0,
+            "dps": 32.83,
+            "tdo": 5746.0,
             "avg_faints": 5,
-            "ttw": 135.0,
+            "ttw": 134.6,
             "estimator": 0.77
           },
           {
@@ -11517,11 +11521,11 @@
             ],
             "fast": "Ember",
             "charged": "Solar Beam",
-            "dps": 30.65,
-            "tdo": 5363.0,
+            "dps": 30.33,
+            "tdo": 5308.0,
             "avg_faints": 5,
-            "ttw": 142.5,
-            "estimator": 0.81
+            "ttw": 143.7,
+            "estimator": 0.82
           },
           {
             "name": "Garchomp (MEGA)",
@@ -11544,10 +11548,10 @@
             ],
             "fast": "Confusion",
             "charged": "Psychic",
-            "dps": 29.65,
-            "tdo": 5189.0,
+            "dps": 29.76,
+            "tdo": 5207.0,
             "avg_faints": 4,
-            "ttw": 141.4,
+            "ttw": 141.0,
             "estimator": 0.81
           },
           {
@@ -11565,6 +11569,19 @@
             "estimator": 0.77
           },
           {
+            "name": "Kyogre (PRIMAL)",
+            "types": [
+              "Water"
+            ],
+            "fast": "Waterfall",
+            "charged": "Origin Pulse",
+            "dps": 28.72,
+            "tdo": 5026.0,
+            "avg_faints": 2,
+            "ttw": 135.3,
+            "estimator": 0.77
+          },
+          {
             "name": "Gengar (MEGA)",
             "types": [
               "Ghost",
@@ -11572,24 +11589,11 @@
             ],
             "fast": "Lick",
             "charged": "Shadow Ball",
-            "dps": 28.77,
-            "tdo": 5036.0,
+            "dps": 28.68,
+            "tdo": 5019.0,
             "avg_faints": 4,
-            "ttw": 145.1,
+            "ttw": 145.5,
             "estimator": 0.83
-          },
-          {
-            "name": "Kyogre (PRIMAL)",
-            "types": [
-              "Water"
-            ],
-            "fast": "Waterfall",
-            "charged": "Origin Pulse",
-            "dps": 28.75,
-            "tdo": 5031.0,
-            "avg_faints": 2,
-            "ttw": 135.2,
-            "estimator": 0.77
           },
           {
             "name": "Greninja (MEGA)",
@@ -12526,10 +12530,10 @@
               "Fire",
               "Fighting"
             ],
-            "fast": "Fire Spin",
+            "fast": "Counter",
             "charged": "Aura Sphere",
-            "dps": 57.42,
-            "tdo": 10049.0,
+            "dps": 57.4,
+            "tdo": 10046.0,
             "avg_faints": 6,
             "ttw": 92.7,
             "estimator": 0.53
@@ -12721,10 +12725,10 @@
             ],
             "fast": "Zen Headbutt",
             "charged": "Aura Sphere",
-            "dps": 34.57,
-            "tdo": 6049.0,
+            "dps": 34.4,
+            "tdo": 6020.0,
             "avg_faints": 5,
-            "ttw": 129.1,
+            "ttw": 129.7,
             "estimator": 0.74
           },
           {
@@ -12764,7 +12768,7 @@
             "fast": "Rock Smash",
             "charged": "Super Power",
             "dps": 31.88,
-            "tdo": 5580.0,
+            "tdo": 5579.0,
             "avg_faints": 5,
             "ttw": 137.9,
             "estimator": 0.79
@@ -12791,10 +12795,10 @@
             ],
             "fast": "Zen Headbutt",
             "charged": "Aura Sphere",
-            "dps": 29.8,
-            "tdo": 5215.0,
+            "dps": 29.86,
+            "tdo": 5225.0,
             "avg_faints": 4,
-            "ttw": 140.8,
+            "ttw": 140.6,
             "estimator": 0.8
           },
           {
@@ -12805,11 +12809,38 @@
             ],
             "fast": "Counter",
             "charged": "Dynamic Punch",
-            "dps": 29.77,
-            "tdo": 5209.0,
+            "dps": 29.82,
+            "tdo": 5218.0,
             "avg_faints": 7,
-            "ttw": 155.9,
+            "ttw": 155.7,
             "estimator": 0.89
+          },
+          {
+            "name": "Staraptor (MEGA)",
+            "types": [
+              "Fighting",
+              "Flying"
+            ],
+            "fast": "Sand Attack",
+            "charged": "Close Combat",
+            "dps": 29.06,
+            "tdo": 5086.0,
+            "avg_faints": 5,
+            "ttw": 148.9,
+            "estimator": 0.85
+          },
+          {
+            "name": "Manectric (MEGA)",
+            "types": [
+              "Electric"
+            ],
+            "fast": "Thunder Fang",
+            "charged": "Overheat",
+            "dps": 27.77,
+            "tdo": 4860.0,
+            "avg_faints": 6,
+            "ttw": 159.6,
+            "estimator": 0.91
           },
           {
             "name": "Raichu (MEGA Y)",
@@ -12819,23 +12850,10 @@
             "fast": "Thunder Shock",
             "charged": "Brick Break",
             "dps": 27.74,
-            "tdo": 4854.0,
+            "tdo": 4855.0,
             "avg_faints": 8,
             "ttw": 169.8,
             "estimator": 0.97
-          },
-          {
-            "name": "Manectric (MEGA)",
-            "types": [
-              "Electric"
-            ],
-            "fast": "Thunder Fang",
-            "charged": "Overheat",
-            "dps": 27.7,
-            "tdo": 4848.0,
-            "avg_faints": 6,
-            "ttw": 160.0,
-            "estimator": 0.91
           },
           {
             "name": "Ampharos (MEGA)",
@@ -12845,10 +12863,10 @@
             ],
             "fast": "Charge Beam",
             "charged": "Focus Blast",
-            "dps": 26.35,
-            "tdo": 4612.0,
+            "dps": 26.55,
+            "tdo": 4647.0,
             "avg_faints": 5,
-            "ttw": 161.6,
+            "ttw": 160.6,
             "estimator": 0.92
           },
           {
@@ -12859,10 +12877,10 @@
             ],
             "fast": "Steel Wing",
             "charged": "Super Power",
-            "dps": 25.36,
-            "tdo": 4438.0,
+            "dps": 25.33,
+            "tdo": 4433.0,
             "avg_faints": 4,
-            "ttw": 161.9,
+            "ttw": 162.1,
             "estimator": 0.93
           },
           {
@@ -12873,10 +12891,10 @@
             ],
             "fast": "Bite",
             "charged": "Fire Blast",
-            "dps": 25.27,
-            "tdo": 4423.0,
+            "dps": 25.33,
+            "tdo": 4432.0,
             "avg_faints": 4,
-            "ttw": 162.4,
+            "ttw": 162.2,
             "estimator": 0.93
           },
           {
@@ -12886,25 +12904,11 @@
             ],
             "fast": "Low Kick",
             "charged": "Power Up Punch",
-            "dps": 25.11,
-            "tdo": 4395.0,
+            "dps": 25.15,
+            "tdo": 4402.0,
             "avg_faints": 4,
-            "ttw": 163.4,
+            "ttw": 163.1,
             "estimator": 0.93
-          },
-          {
-            "name": "Swampert (MEGA)",
-            "types": [
-              "Water",
-              "Ground"
-            ],
-            "fast": "Mud Shot",
-            "charged": "Earthquake",
-            "dps": 23.62,
-            "tdo": 4133.0,
-            "avg_faints": 3,
-            "ttw": 167.4,
-            "estimator": 0.96
           }
         ],
         "shadows": [
@@ -14034,10 +14038,10 @@
             ],
             "fast": "Zen Headbutt",
             "charged": "Aura Sphere",
-            "dps": 32.43,
-            "tdo": 5676.0,
+            "dps": 32.49,
+            "tdo": 5687.0,
             "avg_faints": 4,
-            "ttw": 131.0,
+            "ttw": 130.8,
             "estimator": 0.75
           },
           {
@@ -14053,6 +14057,20 @@
             "avg_faints": 6,
             "ttw": 142.9,
             "estimator": 0.82
+          },
+          {
+            "name": "Staraptor (MEGA)",
+            "types": [
+              "Fighting",
+              "Flying"
+            ],
+            "fast": "Sand Attack",
+            "charged": "Close Combat",
+            "dps": 30.62,
+            "tdo": 5358.0,
+            "avg_faints": 4,
+            "ttw": 137.6,
+            "estimator": 0.79
           },
           {
             "name": "Manectric (MEGA)",
@@ -14074,10 +14092,10 @@
             ],
             "fast": "Thunder Shock",
             "charged": "Brick Break",
-            "dps": 29.32,
-            "tdo": 5131.0,
+            "dps": 29.36,
+            "tdo": 5137.0,
             "avg_faints": 7,
-            "ttw": 157.8,
+            "ttw": 157.6,
             "estimator": 0.9
           },
           {
@@ -14088,11 +14106,11 @@
             ],
             "fast": "Charge Beam",
             "charged": "Focus Blast",
-            "dps": 27.99,
-            "tdo": 4898.0,
+            "dps": 28.16,
+            "tdo": 4927.0,
             "avg_faints": 5,
-            "ttw": 153.6,
-            "estimator": 0.88
+            "ttw": 152.9,
+            "estimator": 0.87
           },
           {
             "name": "Dragonite (MEGA)",
@@ -14102,10 +14120,10 @@
             ],
             "fast": "Steel Wing",
             "charged": "Super Power",
-            "dps": 27.28,
-            "tdo": 4775.0,
+            "dps": 27.36,
+            "tdo": 4788.0,
             "avg_faints": 4,
-            "ttw": 152.0,
+            "ttw": 151.6,
             "estimator": 0.87
           },
           {
@@ -14115,10 +14133,10 @@
             ],
             "fast": "Low Kick",
             "charged": "Power Up Punch",
-            "dps": 27.2,
-            "tdo": 4761.0,
+            "dps": 27.27,
+            "tdo": 4773.0,
             "avg_faints": 3,
-            "ttw": 147.3,
+            "ttw": 147.0,
             "estimator": 0.84
           },
           {
@@ -14129,25 +14147,11 @@
             ],
             "fast": "Bite",
             "charged": "Fire Blast",
-            "dps": 26.51,
-            "tdo": 4640.0,
+            "dps": 26.27,
+            "tdo": 4597.0,
             "avg_faints": 3,
-            "ttw": 150.8,
-            "estimator": 0.86
-          },
-          {
-            "name": "Swampert (MEGA)",
-            "types": [
-              "Water",
-              "Ground"
-            ],
-            "fast": "Mud Shot",
-            "charged": "Earthquake",
-            "dps": 24.73,
-            "tdo": 4328.0,
-            "avg_faints": 3,
-            "ttw": 160.6,
-            "estimator": 0.92
+            "ttw": 152.1,
+            "estimator": 0.87
           }
         ],
         "shadows": [
@@ -15186,7 +15190,7 @@
             "fast": "Lick",
             "charged": "Shadow Ball",
             "dps": 23.43,
-            "tdo": 6911.0,
+            "tdo": 6910.0,
             "avg_faints": 13,
             "ttw": 705.3,
             "estimator": 2.39
@@ -17820,6 +17824,34 @@
             "estimator": 0.14
           },
           {
+            "name": "Staraptor (MEGA)",
+            "types": [
+              "Fighting",
+              "Flying"
+            ],
+            "fast": "Sand Attack",
+            "charged": "Fly",
+            "dps": 40.32,
+            "tdo": 7057.0,
+            "avg_faints": 3,
+            "ttw": 29.9,
+            "estimator": 0.17
+          },
+          {
+            "name": "Slowbro (MEGA)",
+            "types": [
+              "Water",
+              "Psychic"
+            ],
+            "fast": "Water Gun",
+            "charged": "Surf",
+            "dps": 39.45,
+            "tdo": 6904.0,
+            "avg_faints": 2,
+            "ttw": 25.2,
+            "estimator": 0.14
+          },
+          {
             "name": "Beedrill (MEGA)",
             "types": [
               "Bug",
@@ -17834,20 +17866,6 @@
             "estimator": 0.32
           },
           {
-            "name": "Slowbro (MEGA)",
-            "types": [
-              "Water",
-              "Psychic"
-            ],
-            "fast": "Water Gun",
-            "charged": "Surf",
-            "dps": 39.32,
-            "tdo": 6882.0,
-            "avg_faints": 2,
-            "ttw": 25.3,
-            "estimator": 0.14
-          },
-          {
             "name": "Gallade (MEGA)",
             "types": [
               "Psychic",
@@ -17855,8 +17873,8 @@
             ],
             "fast": "Confusion",
             "charged": "Psychic",
-            "dps": 39.0,
-            "tdo": 6825.0,
+            "dps": 39.06,
+            "tdo": 6835.0,
             "avg_faints": 3,
             "ttw": 30.4,
             "estimator": 0.17
@@ -17869,24 +17887,11 @@
             ],
             "fast": "Confusion",
             "charged": "Psychic",
-            "dps": 38.81,
-            "tdo": 6791.0,
+            "dps": 39.03,
+            "tdo": 6831.0,
             "avg_faints": 3,
-            "ttw": 30.5,
+            "ttw": 30.4,
             "estimator": 0.17
-          },
-          {
-            "name": "Absol (MEGA)",
-            "types": [
-              "Dark"
-            ],
-            "fast": "Snarl",
-            "charged": "Brutal Swing",
-            "dps": 38.78,
-            "tdo": 6786.0,
-            "avg_faints": 6,
-            "ttw": 45.5,
-            "estimator": 0.26
           }
         ],
         "shadows": [
@@ -19063,6 +19068,20 @@
             "estimator": 0.16
           },
           {
+            "name": "Staraptor (MEGA)",
+            "types": [
+              "Fighting",
+              "Flying"
+            ],
+            "fast": "Sand Attack",
+            "charged": "Fly",
+            "dps": 42.42,
+            "tdo": 7423.0,
+            "avg_faints": 3,
+            "ttw": 29.1,
+            "estimator": 0.17
+          },
+          {
             "name": "Metagross (MEGA)",
             "types": [
               "Steel",
@@ -19112,24 +19131,11 @@
             ],
             "fast": "Confusion",
             "charged": "Psychic",
-            "dps": 41.39,
-            "tdo": 7244.0,
+            "dps": 41.46,
+            "tdo": 7256.0,
             "avg_faints": 3,
             "ttw": 29.5,
             "estimator": 0.17
-          },
-          {
-            "name": "Absol (MEGA)",
-            "types": [
-              "Dark"
-            ],
-            "fast": "Snarl",
-            "charged": "Brutal Swing",
-            "dps": 41.28,
-            "tdo": 7223.0,
-            "avg_faints": 5,
-            "ttw": 39.5,
-            "estimator": 0.23
           }
         ],
         "shadows": [
@@ -20120,6 +20126,20 @@
             "estimator": 1.58
           },
           {
+            "name": "Staraptor (MEGA)",
+            "types": [
+              "Fighting",
+              "Flying"
+            ],
+            "fast": "Wing Attack",
+            "charged": "Fly",
+            "dps": 22.23,
+            "tdo": 6558.0,
+            "avg_faints": 9,
+            "ttw": 449.9,
+            "estimator": 1.52
+          },
+          {
             "name": "Charizard (MEGA X)",
             "types": [
               "Fire",
@@ -20183,10 +20203,10 @@
             ],
             "fast": "Lick",
             "charged": "Psychic",
-            "dps": 20.0,
-            "tdo": 5901.0,
+            "dps": 20.01,
+            "tdo": 5902.0,
             "avg_faints": 8,
-            "ttw": 490.0,
+            "ttw": 489.8,
             "estimator": 1.66
           },
           {
@@ -20197,10 +20217,10 @@
             ],
             "fast": "Air Slash",
             "charged": "Brave Bird",
-            "dps": 19.84,
-            "tdo": 5852.0,
+            "dps": 19.83,
+            "tdo": 5849.0,
             "avg_faints": 5,
-            "ttw": 478.7,
+            "ttw": 478.9,
             "estimator": 1.62
           },
           {
@@ -20211,8 +20231,8 @@
             ],
             "fast": "Fire Fang",
             "charged": "Flamethrower",
-            "dps": 19.62,
-            "tdo": 5787.0,
+            "dps": 19.61,
+            "tdo": 5786.0,
             "avg_faints": 11,
             "ttw": 513.8,
             "estimator": 1.74
@@ -20225,10 +20245,10 @@
             ],
             "fast": "Mud Shot",
             "charged": "Fire Blast",
-            "dps": 19.54,
-            "tdo": 5766.0,
+            "dps": 19.55,
+            "tdo": 5768.0,
             "avg_faints": 7,
-            "ttw": 495.5,
+            "ttw": 495.3,
             "estimator": 1.68
           },
           {
@@ -20240,9 +20260,9 @@
             "fast": "Psywave",
             "charged": "Psychic",
             "dps": 18.94,
-            "tdo": 5586.0,
+            "tdo": 5587.0,
             "avg_faints": 17,
-            "ttw": 560.3,
+            "ttw": 560.2,
             "estimator": 1.9
           },
           {
@@ -20253,10 +20273,10 @@
             ],
             "fast": "Incinerate",
             "charged": "Overheat",
-            "dps": 17.44,
-            "tdo": 5145.0,
+            "dps": 17.43,
+            "tdo": 5142.0,
             "avg_faints": 12,
-            "ttw": 576.0,
+            "ttw": 576.3,
             "estimator": 1.95
           },
           {
@@ -20267,9 +20287,9 @@
             "fast": "Frost Breath",
             "charged": "Avalanche",
             "dps": 17.42,
-            "tdo": 5138.0,
+            "tdo": 5140.0,
             "avg_faints": 14,
-            "ttw": 586.7,
+            "ttw": 586.5,
             "estimator": 1.99
           },
           {
@@ -20280,10 +20300,10 @@
             ],
             "fast": "Dragon Tail",
             "charged": "Fire Blast",
-            "dps": 17.39,
-            "tdo": 5131.0,
+            "dps": 17.38,
+            "tdo": 5128.0,
             "avg_faints": 8,
-            "ttw": 557.5,
+            "ttw": 557.7,
             "estimator": 1.89
           },
           {
@@ -20294,10 +20314,10 @@
             ],
             "fast": "Powder Snow",
             "charged": "Weather Ball Ice",
-            "dps": 17.34,
-            "tdo": 5115.0,
+            "dps": 17.35,
+            "tdo": 5117.0,
             "avg_faints": 11,
-            "ttw": 574.1,
+            "ttw": 573.9,
             "estimator": 1.95
           },
           {
@@ -20311,7 +20331,7 @@
             "dps": 17.03,
             "tdo": 5023.0,
             "avg_faints": 11,
-            "ttw": 583.6,
+            "ttw": 583.5,
             "estimator": 1.98
           },
           {
@@ -20322,11 +20342,11 @@
             ],
             "fast": "Dragon Tail",
             "charged": "Hurricane",
-            "dps": 16.76,
-            "tdo": 4944.0,
+            "dps": 16.77,
+            "tdo": 4947.0,
             "avg_faints": 5,
-            "ttw": 562.0,
-            "estimator": 1.91
+            "ttw": 561.7,
+            "estimator": 1.9
           },
           {
             "name": "Lopunny (MEGA)",
@@ -20337,9 +20357,9 @@
             "fast": "Pound",
             "charged": "Triple Axel",
             "dps": 16.1,
-            "tdo": 4750.0,
+            "tdo": 4748.0,
             "avg_faints": 12,
-            "ttw": 618.9,
+            "ttw": 619.2,
             "estimator": 2.1
           },
           {
@@ -20353,7 +20373,7 @@
             "dps": 15.98,
             "tdo": 4714.0,
             "avg_faints": 9,
-            "ttw": 608.3,
+            "ttw": 608.2,
             "estimator": 2.06
           },
           {
@@ -20363,25 +20383,11 @@
             ],
             "fast": "Waterfall",
             "charged": "Avalanche",
-            "dps": 15.79,
-            "tdo": 4660.0,
+            "dps": 15.8,
+            "tdo": 4662.0,
             "avg_faints": 11,
-            "ttw": 624.8,
+            "ttw": 624.5,
             "estimator": 2.12
-          },
-          {
-            "name": "Beedrill (MEGA)",
-            "types": [
-              "Bug",
-              "Poison"
-            ],
-            "fast": "Bug Bite",
-            "charged": "Fell Stinger +",
-            "dps": 15.46,
-            "tdo": 4561.0,
-            "avg_faints": 9,
-            "ttw": 627.1,
-            "estimator": 2.13
           }
         ],
         "shadows": [
@@ -21324,7 +21330,7 @@
             "fast": "Fire Fang",
             "charged": "Fly",
             "dps": 25.79,
-            "tdo": 7607.0,
+            "tdo": 7608.0,
             "avg_faints": 5,
             "ttw": 374.0,
             "estimator": 1.27
@@ -21338,9 +21344,9 @@
             "fast": "Zen Headbutt",
             "charged": "Psychic",
             "dps": 25.6,
-            "tdo": 7553.0,
+            "tdo": 7552.0,
             "avg_faints": 8,
-            "ttw": 391.5,
+            "ttw": 391.6,
             "estimator": 1.33
           },
           {
@@ -21352,9 +21358,9 @@
             "fast": "Confusion",
             "charged": "Psychic",
             "dps": 25.22,
-            "tdo": 7439.0,
+            "tdo": 7441.0,
             "avg_faints": 11,
-            "ttw": 411.9,
+            "ttw": 411.8,
             "estimator": 1.4
           },
           {
@@ -21365,11 +21371,25 @@
             ],
             "fast": "Confusion",
             "charged": "Psychic",
-            "dps": 25.14,
-            "tdo": 7417.0,
+            "dps": 25.15,
+            "tdo": 7421.0,
             "avg_faints": 13,
-            "ttw": 422.9,
+            "ttw": 422.8,
             "estimator": 1.43
+          },
+          {
+            "name": "Staraptor (MEGA)",
+            "types": [
+              "Fighting",
+              "Flying"
+            ],
+            "fast": "Wing Attack",
+            "charged": "Fly",
+            "dps": 24.09,
+            "tdo": 7108.0,
+            "avg_faints": 8,
+            "ttw": 413.5,
+            "estimator": 1.4
           },
           {
             "name": "Charizard (MEGA X)",
@@ -21379,8 +21399,8 @@
             ],
             "fast": "Fire Spin",
             "charged": "Blast Burn",
-            "dps": 23.59,
-            "tdo": 6960.0,
+            "dps": 23.6,
+            "tdo": 6961.0,
             "avg_faints": 7,
             "ttw": 416.4,
             "estimator": 1.41
@@ -21393,11 +21413,11 @@
             ],
             "fast": "Zen Headbutt",
             "charged": "Psychic",
-            "dps": 22.93,
+            "dps": 22.94,
             "tdo": 6766.0,
             "avg_faints": 5,
             "ttw": 417.4,
-            "estimator": 1.42
+            "estimator": 1.41
           },
           {
             "name": "Pidgeot (MEGA)",
@@ -21408,9 +21428,9 @@
             "fast": "Gust",
             "charged": "Brave Bird",
             "dps": 22.68,
-            "tdo": 6691.0,
+            "tdo": 6690.0,
             "avg_faints": 10,
-            "ttw": 446.8,
+            "ttw": 446.9,
             "estimator": 1.51
           },
           {
@@ -21421,8 +21441,8 @@
             ],
             "fast": "Zen Headbutt",
             "charged": "Psychic",
-            "dps": 22.25,
-            "tdo": 6565.0,
+            "dps": 22.26,
+            "tdo": 6566.0,
             "avg_faints": 6,
             "ttw": 434.4,
             "estimator": 1.47
@@ -21448,7 +21468,7 @@
               "Flying"
             ],
             "fast": "Air Slash",
-            "charged": "Brave Bird",
+            "charged": "Sky Attack",
             "dps": 21.36,
             "tdo": 6302.0,
             "avg_faints": 5,
@@ -21463,10 +21483,10 @@
             ],
             "fast": "Lick",
             "charged": "Psychic",
-            "dps": 20.97,
-            "tdo": 6186.0,
+            "dps": 20.96,
+            "tdo": 6183.0,
             "avg_faints": 8,
-            "ttw": 469.2,
+            "ttw": 469.4,
             "estimator": 1.59
           },
           {
@@ -21477,10 +21497,10 @@
             ],
             "fast": "Mud Shot",
             "charged": "Fire Blast",
-            "dps": 20.69,
-            "tdo": 6103.0,
+            "dps": 20.68,
+            "tdo": 6101.0,
             "avg_faints": 7,
-            "ttw": 470.0,
+            "ttw": 470.1,
             "estimator": 1.59
           },
           {
@@ -21491,7 +21511,7 @@
             ],
             "fast": "Psywave",
             "charged": "Psychic",
-            "dps": 20.25,
+            "dps": 20.24,
             "tdo": 5972.0,
             "avg_faints": 16,
             "ttw": 524.6,
@@ -21505,10 +21525,10 @@
             ],
             "fast": "Dragon Tail",
             "charged": "Fire Blast",
-            "dps": 18.88,
-            "tdo": 5570.0,
+            "dps": 18.89,
+            "tdo": 5573.0,
             "avg_faints": 7,
-            "ttw": 511.6,
+            "ttw": 511.4,
             "estimator": 1.73
           },
           {
@@ -21519,9 +21539,9 @@
             "fast": "Ice Shard",
             "charged": "Avalanche",
             "dps": 18.77,
-            "tdo": 5537.0,
+            "tdo": 5538.0,
             "avg_faints": 12,
-            "ttw": 539.5,
+            "ttw": 539.4,
             "estimator": 1.83
           },
           {
@@ -21532,10 +21552,10 @@
             ],
             "fast": "Incinerate",
             "charged": "Overheat",
-            "dps": 18.68,
-            "tdo": 5511.0,
+            "dps": 18.69,
+            "tdo": 5512.0,
             "avg_faints": 11,
-            "ttw": 536.8,
+            "ttw": 536.7,
             "estimator": 1.82
           },
           {
@@ -21547,9 +21567,9 @@
             "fast": "Powder Snow",
             "charged": "Weather Ball Ice",
             "dps": 18.46,
-            "tdo": 5445.0,
+            "tdo": 5446.0,
             "avg_faints": 10,
-            "ttw": 537.6,
+            "ttw": 537.5,
             "estimator": 1.82
           },
           {
@@ -21561,9 +21581,9 @@
             "fast": "Confusion",
             "charged": "Psychic",
             "dps": 17.96,
-            "tdo": 5298.0,
+            "tdo": 5297.0,
             "avg_faints": 10,
-            "ttw": 551.1,
+            "ttw": 551.2,
             "estimator": 1.87
           },
           {
@@ -21574,10 +21594,10 @@
             ],
             "fast": "Dragon Tail",
             "charged": "Hurricane",
-            "dps": 17.27,
-            "tdo": 5094.0,
+            "dps": 17.28,
+            "tdo": 5096.0,
             "avg_faints": 5,
-            "ttw": 546.2,
+            "ttw": 546.0,
             "estimator": 1.85
           },
           {
@@ -21587,11 +21607,11 @@
             ],
             "fast": "Waterfall",
             "charged": "Avalanche",
-            "dps": 17.19,
-            "tdo": 5070.0,
+            "dps": 17.18,
+            "tdo": 5067.0,
             "avg_faints": 10,
-            "ttw": 573.7,
-            "estimator": 1.94
+            "ttw": 573.9,
+            "estimator": 1.95
           },
           {
             "name": "Lucario (MEGA)",
@@ -21602,7 +21622,7 @@
             "fast": "Bullet Punch",
             "charged": "Blaze Kick",
             "dps": 16.87,
-            "tdo": 4977.0,
+            "tdo": 4978.0,
             "avg_faints": 8,
             "ttw": 573.4,
             "estimator": 1.94
@@ -21616,24 +21636,10 @@
             "fast": "Pound",
             "charged": "Triple Axel",
             "dps": 16.87,
-            "tdo": 4977.0,
+            "tdo": 4975.0,
             "avg_faints": 11,
-            "ttw": 588.5,
-            "estimator": 1.99
-          },
-          {
-            "name": "Beedrill (MEGA)",
-            "types": [
-              "Bug",
-              "Poison"
-            ],
-            "fast": "Poison Jab",
-            "charged": "Fell Stinger +",
-            "dps": 16.61,
-            "tdo": 4901.0,
-            "avg_faints": 8,
-            "ttw": 581.7,
-            "estimator": 1.97
+            "ttw": 588.6,
+            "estimator": 2.0
           }
         ],
         "shadows": [
@@ -22589,6 +22595,20 @@
             "estimator": 2.28
           },
           {
+            "name": "Staraptor (MEGA)",
+            "types": [
+              "Fighting",
+              "Flying"
+            ],
+            "fast": "Wing Attack",
+            "charged": "Fly",
+            "dps": 23.34,
+            "tdo": 6886.0,
+            "avg_faints": 10,
+            "ttw": 692.6,
+            "estimator": 2.35
+          },
+          {
             "name": "Salamence (MEGA)",
             "types": [
               "Dragon",
@@ -22596,10 +22616,10 @@
             ],
             "fast": "Dragon Tail",
             "charged": "Fly",
-            "dps": 22.34,
-            "tdo": 6590.0,
+            "dps": 22.33,
+            "tdo": 6588.0,
             "avg_faints": 9,
-            "ttw": 716.5,
+            "ttw": 716.7,
             "estimator": 2.43
           },
           {
@@ -22611,9 +22631,9 @@
             "fast": "Zen Headbutt",
             "charged": "Psychic",
             "dps": 22.3,
-            "tdo": 6577.0,
+            "tdo": 6578.0,
             "avg_faints": 8,
-            "ttw": 712.8,
+            "ttw": 712.7,
             "estimator": 2.42
           },
           {
@@ -22639,7 +22659,7 @@
             "fast": "Zen Headbutt",
             "charged": "Psychic",
             "dps": 21.1,
-            "tdo": 6223.0,
+            "tdo": 6224.0,
             "avg_faints": 9,
             "ttw": 756.0,
             "estimator": 2.56
@@ -22652,10 +22672,10 @@
             ],
             "fast": "Psywave",
             "charged": "Psychic",
-            "dps": 20.59,
+            "dps": 20.58,
             "tdo": 6073.0,
             "avg_faints": 11,
-            "ttw": 783.6,
+            "ttw": 783.7,
             "estimator": 2.66
           },
           {
@@ -22667,9 +22687,9 @@
             "fast": "Air Slash",
             "charged": "Sky Attack",
             "dps": 20.58,
-            "tdo": 6070.0,
+            "tdo": 6071.0,
             "avg_faints": 9,
-            "ttw": 774.0,
+            "ttw": 773.9,
             "estimator": 2.62
           },
           {
@@ -22683,7 +22703,7 @@
             "dps": 20.41,
             "tdo": 6022.0,
             "avg_faints": 12,
-            "ttw": 794.8,
+            "ttw": 794.9,
             "estimator": 2.69
           },
           {
@@ -22697,7 +22717,7 @@
             "dps": 19.24,
             "tdo": 5675.0,
             "avg_faints": 11,
-            "ttw": 834.8,
+            "ttw": 834.7,
             "estimator": 2.83
           },
           {
@@ -22709,10 +22729,10 @@
             "fast": "Air Slash",
             "charged": "Blast Burn",
             "dps": 19.05,
-            "tdo": 5618.0,
+            "tdo": 5621.0,
             "avg_faints": 8,
-            "ttw": 827.6,
-            "estimator": 2.81
+            "ttw": 827.3,
+            "estimator": 2.8
           },
           {
             "name": "Blaziken (MEGA)",
@@ -22722,10 +22742,10 @@
             ],
             "fast": "Fire Spin",
             "charged": "Brave Bird",
-            "dps": 18.65,
-            "tdo": 5502.0,
+            "dps": 18.64,
+            "tdo": 5500.0,
             "avg_faints": 10,
-            "ttw": 854.2,
+            "ttw": 854.5,
             "estimator": 2.9
           },
           {
@@ -22750,9 +22770,9 @@
             "fast": "Confusion",
             "charged": "Psychic",
             "dps": 17.92,
-            "tdo": 5288.0,
+            "tdo": 5286.0,
             "avg_faints": 7,
-            "ttw": 871.9,
+            "ttw": 872.1,
             "estimator": 2.96
           },
           {
@@ -22777,24 +22797,11 @@
             ],
             "fast": "Mud Shot",
             "charged": "Precipice Blades",
-            "dps": 16.86,
+            "dps": 16.87,
             "tdo": 4975.0,
             "avg_faints": 6,
-            "ttw": 919.5,
+            "ttw": 919.4,
             "estimator": 3.12
-          },
-          {
-            "name": "Kyogre (PRIMAL)",
-            "types": [
-              "Water"
-            ],
-            "fast": "Waterfall",
-            "charged": "Origin Pulse",
-            "dps": 16.78,
-            "tdo": 4950.0,
-            "avg_faints": 6,
-            "ttw": 923.9,
-            "estimator": 3.13
           },
           {
             "name": "Dragonite (MEGA)",
@@ -22805,10 +22812,23 @@
             "fast": "Dragon Tail",
             "charged": "Hurricane",
             "dps": 16.78,
-            "tdo": 4949.0,
+            "tdo": 4951.0,
             "avg_faints": 9,
-            "ttw": 939.1,
+            "ttw": 938.8,
             "estimator": 3.18
+          },
+          {
+            "name": "Kyogre (PRIMAL)",
+            "types": [
+              "Water"
+            ],
+            "fast": "Waterfall",
+            "charged": "Origin Pulse",
+            "dps": 16.78,
+            "tdo": 4949.0,
+            "avg_faints": 6,
+            "ttw": 924.1,
+            "estimator": 3.13
           },
           {
             "name": "Diancie (MEGA)",
@@ -22818,10 +22838,10 @@
             ],
             "fast": "Tackle",
             "charged": "Moonblast",
-            "dps": 16.3,
-            "tdo": 4807.0,
+            "dps": 16.28,
+            "tdo": 4804.0,
             "avg_faints": 13,
-            "ttw": 985.5,
+            "ttw": 986.1,
             "estimator": 3.34
           },
           {
@@ -22832,9 +22852,9 @@
             "fast": "Shadow Claw",
             "charged": "Dazzling Gleam",
             "dps": 16.2,
-            "tdo": 4778.0,
+            "tdo": 4779.0,
             "avg_faints": 15,
-            "ttw": 1001.1,
+            "ttw": 1000.9,
             "estimator": 3.39
           },
           {
@@ -22848,7 +22868,7 @@
             "dps": 15.35,
             "tdo": 4527.0,
             "avg_faints": 9,
-            "ttw": 1022.4,
+            "ttw": 1022.5,
             "estimator": 3.47
           },
           {
@@ -22875,22 +22895,8 @@
             "dps": 15.09,
             "tdo": 4451.0,
             "avg_faints": 11,
-            "ttw": 1049.2,
+            "ttw": 1049.3,
             "estimator": 3.56
-          },
-          {
-            "name": "Altaria (MEGA)",
-            "types": [
-              "Dragon",
-              "Fairy"
-            ],
-            "fast": "Peck",
-            "charged": "Dazzling Gleam",
-            "dps": 15.03,
-            "tdo": 4434.0,
-            "avg_faints": 11,
-            "ttw": 1053.0,
-            "estimator": 3.57
           }
         ],
         "shadows": [
@@ -23838,6 +23844,20 @@
             "estimator": 2.1
           },
           {
+            "name": "Staraptor (MEGA)",
+            "types": [
+              "Fighting",
+              "Flying"
+            ],
+            "fast": "Wing Attack",
+            "charged": "Fly",
+            "dps": 24.75,
+            "tdo": 7300.0,
+            "avg_faints": 9,
+            "ttw": 651.2,
+            "estimator": 2.21
+          },
+          {
             "name": "Salamence (MEGA)",
             "types": [
               "Dragon",
@@ -23846,9 +23866,9 @@
             "fast": "Dragon Tail",
             "charged": "Fly",
             "dps": 24.01,
-            "tdo": 7082.0,
+            "tdo": 7084.0,
             "avg_faints": 8,
-            "ttw": 664.8,
+            "ttw": 664.6,
             "estimator": 2.25
           },
           {
@@ -23860,9 +23880,9 @@
             "fast": "Zen Headbutt",
             "charged": "Psychic",
             "dps": 23.92,
-            "tdo": 7055.0,
+            "tdo": 7057.0,
             "avg_faints": 7,
-            "ttw": 662.2,
+            "ttw": 662.0,
             "estimator": 2.24
           },
           {
@@ -23901,10 +23921,10 @@
             ],
             "fast": "Air Slash",
             "charged": "Sky Attack",
-            "dps": 22.13,
-            "tdo": 6528.0,
+            "dps": 22.12,
+            "tdo": 6525.0,
             "avg_faints": 8,
-            "ttw": 717.8,
+            "ttw": 718.1,
             "estimator": 2.43
           },
           {
@@ -23916,7 +23936,7 @@
             "fast": "Psywave",
             "charged": "Psychic",
             "dps": 21.8,
-            "tdo": 6431.0,
+            "tdo": 6430.0,
             "avg_faints": 10,
             "ttw": 738.1,
             "estimator": 2.5
@@ -23929,11 +23949,11 @@
             ],
             "fast": "Lick",
             "charged": "Psychic",
-            "dps": 21.73,
-            "tdo": 6411.0,
+            "dps": 21.75,
+            "tdo": 6415.0,
             "avg_faints": 11,
-            "ttw": 745.2,
-            "estimator": 2.53
+            "ttw": 744.8,
+            "estimator": 2.52
           },
           {
             "name": "Lucario (MEGA)",
@@ -23943,10 +23963,10 @@
             ],
             "fast": "Force Palm",
             "charged": "Aura Sphere",
-            "dps": 20.67,
-            "tdo": 6099.0,
+            "dps": 20.68,
+            "tdo": 6101.0,
             "avg_faints": 10,
-            "ttw": 775.6,
+            "ttw": 775.3,
             "estimator": 2.63
           },
           {
@@ -23969,12 +23989,12 @@
               "Fire",
               "Fighting"
             ],
-            "fast": "Counter",
+            "fast": "Fire Spin",
             "charged": "Brave Bird",
-            "dps": 20.21,
-            "tdo": 5962.0,
+            "dps": 20.2,
+            "tdo": 5960.0,
             "avg_faints": 9,
-            "ttw": 787.2,
+            "ttw": 787.5,
             "estimator": 2.67
           },
           {
@@ -23987,7 +24007,7 @@
             "dps": 19.18,
             "tdo": 5659.0,
             "avg_faints": 12,
-            "ttw": 842.0,
+            "ttw": 841.9,
             "estimator": 2.85
           },
           {
@@ -23999,9 +24019,9 @@
             "fast": "Confusion",
             "charged": "Psychic",
             "dps": 19.17,
-            "tdo": 5655.0,
+            "tdo": 5656.0,
             "avg_faints": 7,
-            "ttw": 817.4,
+            "ttw": 817.3,
             "estimator": 2.77
           },
           {
@@ -24025,10 +24045,10 @@
             ],
             "fast": "Waterfall",
             "charged": "Origin Pulse",
-            "dps": 18.23,
-            "tdo": 5379.0,
+            "dps": 18.24,
+            "tdo": 5381.0,
             "avg_faints": 6,
-            "ttw": 852.6,
+            "ttw": 852.3,
             "estimator": 2.89
           },
           {
@@ -24042,7 +24062,7 @@
             "dps": 18.18,
             "tdo": 5362.0,
             "avg_faints": 8,
-            "ttw": 865.2,
+            "ttw": 865.3,
             "estimator": 2.93
           },
           {
@@ -24081,9 +24101,9 @@
             "fast": "Hex",
             "charged": "Dazzling Gleam",
             "dps": 17.4,
-            "tdo": 5134.0,
+            "tdo": 5132.0,
             "avg_faints": 14,
-            "ttw": 931.9,
+            "ttw": 932.3,
             "estimator": 3.16
           },
           {
@@ -24094,10 +24114,10 @@
             ],
             "fast": "Tackle",
             "charged": "Moonblast",
-            "dps": 17.0,
-            "tdo": 5014.0,
+            "dps": 16.99,
+            "tdo": 5013.0,
             "avg_faints": 12,
-            "ttw": 942.6,
+            "ttw": 942.7,
             "estimator": 3.2
           },
           {
@@ -24111,7 +24131,7 @@
             "dps": 16.98,
             "tdo": 5009.0,
             "avg_faints": 7,
-            "ttw": 918.4,
+            "ttw": 918.3,
             "estimator": 3.11
           },
           {
@@ -24125,22 +24145,8 @@
             "dps": 16.5,
             "tdo": 4868.0,
             "avg_faints": 10,
-            "ttw": 959.1,
+            "ttw": 958.9,
             "estimator": 3.25
-          },
-          {
-            "name": "Sceptile (MEGA)",
-            "types": [
-              "Grass",
-              "Dragon"
-            ],
-            "fast": "Fury Cutter",
-            "charged": "Frenzy Plant",
-            "dps": 16.31,
-            "tdo": 4810.0,
-            "avg_faints": 13,
-            "ttw": 984.9,
-            "estimator": 3.34
           }
         ],
         "shadows": [
