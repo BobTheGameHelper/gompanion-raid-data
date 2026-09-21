@@ -1,6 +1,16 @@
 {
   "bosses": [
     {
+      "name": "Buzzwole",
+      "tier": "T5",
+      "types": [
+        "Bug",
+        "Fighting"
+      ],
+      "cp20": 1977,
+      "cp25": 2471
+    },
+    {
       "name": "Charizard wearing Friede's goggles",
       "tier": "T3",
       "types": [
@@ -9,6 +19,16 @@
       ],
       "cp20": 1651,
       "cp25": 2063
+    },
+    {
+      "name": "Malamar (Mega)",
+      "tier": "Mega",
+      "types": [
+        "Dark",
+        "Psychic"
+      ],
+      "cp20": 1347,
+      "cp25": 1684
     },
     {
       "name": "Meowscarada",
@@ -21,14 +41,14 @@
       "cp25": 2017
     },
     {
-      "name": "Moltres",
-      "tier": "Max T1",
+      "name": "Pheromosa",
+      "tier": "T5",
       "types": [
-        "Fire",
-        "Flying"
+        "Bug",
+        "Fighting"
       ],
-      "cp20": 1980,
-      "cp25": 2475
+      "cp20": 1624,
+      "cp25": 2029
     },
     {
       "name": "Quaquaval",
@@ -138,6 +158,15 @@
       "cp25": 1943
     },
     {
+      "name": "Xurkitree",
+      "tier": "T5",
+      "types": [
+        "Electric"
+      ],
+      "cp20": 2249,
+      "cp25": 2812
+    },
+    {
       "name": "Zamazenta (Hero)",
       "tier": "T5",
       "types": [
@@ -145,16 +174,6 @@
       ],
       "cp20": 2188,
       "cp25": 2735
-    },
-    {
-      "name": "Zapdos",
-      "tier": "Max T1",
-      "types": [
-        "Electric",
-        "Flying"
-      ],
-      "cp20": 2015,
-      "cp25": 2519
     }
   ]
 }
