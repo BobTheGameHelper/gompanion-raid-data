@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T21:15:39.006538Z",
+  "generated_at": "2026-09-21T21:26:15.667358Z",
   "bosses": {
     "Bulbasaur": {
       "types": [
@@ -138,22 +138,6 @@
             "survivalRate": 100.0
           },
           {
-            "name": "Zacian (Crowned Sword)",
-            "types": [
-              "Fairy",
-              "Steel"
-            ],
-            "fast": "Air Slash",
-            "charged": "Behemoth Blade",
-            "maxMove": "Max Airstream",
-            "role": "attacker",
-            "dps": 775.8,
-            "tdo": 5043.0,
-            "ttw": 6.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
             "name": "Flareon",
             "types": [
               "Fire"
@@ -164,6 +148,22 @@
             "role": "attacker",
             "dps": 711.7,
             "tdo": 4626.0,
+            "ttw": 6.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Zacian (Crowned Sword)",
+            "types": [
+              "Fairy",
+              "Steel"
+            ],
+            "fast": "Air Slash",
+            "charged": "Behemoth Blade",
+            "maxMove": "Behemoth Blade",
+            "role": "attacker",
+            "dps": 619.7,
+            "tdo": 4028.0,
             "ttw": 6.5,
             "faints": 0,
             "survivalRate": 100.0
@@ -326,22 +326,6 @@
             "survivalRate": 100.0
           },
           {
-            "name": "Zacian (Crowned Sword)",
-            "types": [
-              "Fairy",
-              "Steel"
-            ],
-            "fast": "Air Slash",
-            "charged": "Close Combat",
-            "maxMove": "Max Airstream",
-            "role": "attacker",
-            "dps": 775.8,
-            "tdo": 5043.0,
-            "ttw": 6.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
             "name": "Flareon",
             "types": [
               "Fire"
@@ -352,6 +336,22 @@
             "role": "attacker",
             "dps": 711.7,
             "tdo": 4626.0,
+            "ttw": 6.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Zacian (Crowned Sword)",
+            "types": [
+              "Fairy",
+              "Steel"
+            ],
+            "fast": "Air Slash",
+            "charged": "Close Combat",
+            "maxMove": "Behemoth Blade",
+            "role": "attacker",
+            "dps": 619.7,
+            "tdo": 4028.0,
             "ttw": 6.5,
             "faints": 0,
             "survivalRate": 100.0
@@ -570,10 +570,10 @@
             "survivalRate": 100.0
           },
           {
-            "name": "Gardevoir",
+            "name": "Gallade",
             "types": [
               "Psychic",
-              "Fairy"
+              "Fighting"
             ],
             "fast": "Confusion",
             "charged": "Psychic",
@@ -586,10 +586,10 @@
             "survivalRate": 100.0
           },
           {
-            "name": "Gallade",
+            "name": "Gardevoir",
             "types": [
               "Psychic",
-              "Fighting"
+              "Fairy"
             ],
             "fast": "Confusion",
             "charged": "Psychic",
@@ -617,6 +617,21 @@
             "survivalRate": 100.0
           },
           {
+            "name": "Flareon",
+            "types": [
+              "Fire"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Fire Blast",
+            "maxMove": "Max Flare",
+            "role": "attacker",
+            "dps": 756.0,
+            "tdo": 4914.0,
+            "ttw": 6.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
             "name": "Zacian (Crowned Sword)",
             "types": [
               "Fairy",
@@ -624,25 +639,10 @@
             ],
             "fast": "Air Slash",
             "charged": "Behemoth Blade",
-            "maxMove": "Max Airstream",
+            "maxMove": "Behemoth Blade",
             "role": "attacker",
-            "dps": 825.1,
-            "tdo": 5363.0,
-            "ttw": 6.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Flareon",
-            "types": [
-              "Fire"
-            ],
-            "fast": "Fire Spin",
-            "charged": "Overheat",
-            "maxMove": "Max Flare",
-            "role": "attacker",
-            "dps": 756.0,
-            "tdo": 4914.0,
+            "dps": 658.9,
+            "tdo": 4283.0,
             "ttw": 6.5,
             "faints": 0,
             "survivalRate": 100.0
@@ -805,22 +805,6 @@
             "survivalRate": 100.0
           },
           {
-            "name": "Zacian (Crowned Sword)",
-            "types": [
-              "Fairy",
-              "Steel"
-            ],
-            "fast": "Air Slash",
-            "charged": "Close Combat",
-            "maxMove": "Max Airstream",
-            "role": "attacker",
-            "dps": 825.1,
-            "tdo": 5363.0,
-            "ttw": 6.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
             "name": "Flareon",
             "types": [
               "Fire"
@@ -831,6 +815,22 @@
             "role": "attacker",
             "dps": 756.0,
             "tdo": 4914.0,
+            "ttw": 6.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Zacian (Crowned Sword)",
+            "types": [
+              "Fairy",
+              "Steel"
+            ],
+            "fast": "Air Slash",
+            "charged": "Close Combat",
+            "maxMove": "Behemoth Blade",
+            "role": "attacker",
+            "dps": 658.9,
+            "tdo": 4283.0,
             "ttw": 6.5,
             "faints": 0,
             "survivalRate": 100.0
@@ -971,196 +971,6 @@
               "Steel"
             ],
             "fast": "Mud Slap",
-            "charged": "Drill Run",
-            "maxMove": "Max Quake",
-            "role": "attacker",
-            "dps": 1078.0,
-            "tdo": 5390.0,
-            "ttw": 5.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Rhyperior",
-            "types": [
-              "Ground",
-              "Rock"
-            ],
-            "fast": "Mud Slap",
-            "charged": "Rock Wrecker",
-            "maxMove": "Max Quake",
-            "role": "healer",
-            "dps": 371.8,
-            "tdo": 2231.0,
-            "ttw": 6.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Rhydon",
-            "types": [
-              "Ground",
-              "Rock"
-            ],
-            "fast": "Mud Slap",
-            "charged": "Megahorn",
-            "maxMove": "Max Quake",
-            "role": "attacker",
-            "dps": 760.0,
-            "tdo": 4940.0,
-            "ttw": 6.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Omastar",
-            "types": [
-              "Rock",
-              "Water"
-            ],
-            "fast": "Rock Throw",
-            "charged": "Rock Slide",
-            "maxMove": "Max Rockfall",
-            "role": "attacker",
-            "dps": 706.3,
-            "tdo": 4591.0,
-            "ttw": 6.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Kingler",
-            "types": [
-              "Water"
-            ],
-            "fast": "Bubble",
-            "charged": "Crabhammer",
-            "maxMove": "G-Max Foam Burst",
-            "role": "tank",
-            "dps": 248.0,
-            "tdo": 1736.0,
-            "ttw": 7.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Eternatus",
-            "types": [
-              "Poison",
-              "Dragon"
-            ],
-            "fast": "Dragon Tail",
-            "charged": "Dynamax Cannon",
-            "maxMove": "Max Wyrmwind",
-            "role": "attacker",
-            "dps": 529.3,
-            "tdo": 3970.0,
-            "ttw": 7.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Duraludon",
-            "types": [
-              "Steel",
-              "Dragon"
-            ],
-            "fast": "Dragon Tail",
-            "charged": "Hyper Beam",
-            "maxMove": "G-Max Depletion",
-            "role": "attacker",
-            "dps": 504.8,
-            "tdo": 4291.0,
-            "ttw": 8.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Zapdos",
-            "types": [
-              "Electric",
-              "Flying"
-            ],
-            "fast": "Thunder Shock",
-            "charged": "Ancient Power",
-            "maxMove": "Max Lightning",
-            "role": "tank",
-            "dps": 210.1,
-            "tdo": 1786.0,
-            "ttw": 8.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Vaporeon",
-            "types": [
-              "Water"
-            ],
-            "fast": "Water Gun",
-            "charged": "Aqua Tail",
-            "maxMove": "Max Geyser",
-            "role": "tank",
-            "dps": 195.6,
-            "tdo": 1760.0,
-            "ttw": 9.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Machamp",
-            "types": [
-              "Fighting"
-            ],
-            "fast": "Counter",
-            "charged": "Payback",
-            "maxMove": "G-Max Chi Strike",
-            "role": "tank",
-            "dps": 445.3,
-            "tdo": 4230.0,
-            "ttw": 9.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Zacian (Crowned Sword)",
-            "types": [
-              "Fairy",
-              "Steel"
-            ],
-            "fast": "Air Slash",
-            "charged": "Behemoth Blade",
-            "maxMove": "Max Airstream",
-            "role": "tank",
-            "dps": 419.3,
-            "tdo": 3983.0,
-            "ttw": 9.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          }
-        ],
-        "dodging": [
-          {
-            "name": "Inteleon",
-            "types": [
-              "Water"
-            ],
-            "fast": "Water Gun",
-            "charged": "592",
-            "maxMove": "G-Max Hydrosnipe",
-            "role": "healer",
-            "dps": 500.9,
-            "tdo": 1753.0,
-            "ttw": 3.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Excadrill",
-            "types": [
-              "Ground",
-              "Steel"
-            ],
-            "fast": "Mud Slap",
             "charged": "Scorching Sands",
             "maxMove": "Max Quake",
             "role": "attacker",
@@ -1241,7 +1051,196 @@
             ],
             "fast": "Dragon Tail",
             "charged": "Dynamax Cannon",
-            "maxMove": "Max Wyrmwind",
+            "maxMove": "Dynamax Cannon",
+            "role": "attacker",
+            "dps": 529.3,
+            "tdo": 3970.0,
+            "ttw": 7.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Duraludon",
+            "types": [
+              "Steel",
+              "Dragon"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Flash Cannon",
+            "maxMove": "G-Max Depletion",
+            "role": "attacker",
+            "dps": 504.8,
+            "tdo": 4291.0,
+            "ttw": 8.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Zapdos",
+            "types": [
+              "Electric",
+              "Flying"
+            ],
+            "fast": "Thunder Shock",
+            "charged": "Ancient Power",
+            "maxMove": "Max Lightning",
+            "role": "tank",
+            "dps": 210.1,
+            "tdo": 1786.0,
+            "ttw": 8.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Vaporeon",
+            "types": [
+              "Water"
+            ],
+            "fast": "Water Gun",
+            "charged": "Aqua Tail",
+            "maxMove": "Max Geyser",
+            "role": "tank",
+            "dps": 195.6,
+            "tdo": 1760.0,
+            "ttw": 9.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Machamp",
+            "types": [
+              "Fighting"
+            ],
+            "fast": "Counter",
+            "charged": "Payback",
+            "maxMove": "G-Max Chi Strike",
+            "role": "tank",
+            "dps": 445.3,
+            "tdo": 4230.0,
+            "ttw": 9.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Espeon",
+            "types": [
+              "Psychic"
+            ],
+            "fast": "Confusion",
+            "charged": "Futuresight",
+            "maxMove": "Max Mindstorm",
+            "role": "tank",
+            "dps": 411.2,
+            "tdo": 3906.0,
+            "ttw": 9.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          }
+        ],
+        "dodging": [
+          {
+            "name": "Inteleon",
+            "types": [
+              "Water"
+            ],
+            "fast": "Water Gun",
+            "charged": "592",
+            "maxMove": "G-Max Hydrosnipe",
+            "role": "healer",
+            "dps": 500.9,
+            "tdo": 1753.0,
+            "ttw": 3.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Excadrill",
+            "types": [
+              "Ground",
+              "Steel"
+            ],
+            "fast": "Mud Slap",
+            "charged": "Scorching Sands",
+            "maxMove": "Max Quake",
+            "role": "attacker",
+            "dps": 1078.0,
+            "tdo": 5390.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Rhyperior",
+            "types": [
+              "Ground",
+              "Rock"
+            ],
+            "fast": "Mud Slap",
+            "charged": "Rock Wrecker",
+            "maxMove": "Max Quake",
+            "role": "healer",
+            "dps": 371.8,
+            "tdo": 2231.0,
+            "ttw": 6.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Rhydon",
+            "types": [
+              "Ground",
+              "Rock"
+            ],
+            "fast": "Mud Slap",
+            "charged": "Earthquake",
+            "maxMove": "Max Quake",
+            "role": "attacker",
+            "dps": 760.0,
+            "tdo": 4940.0,
+            "ttw": 6.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Omastar",
+            "types": [
+              "Rock",
+              "Water"
+            ],
+            "fast": "Rock Throw",
+            "charged": "Rock Slide",
+            "maxMove": "Max Rockfall",
+            "role": "attacker",
+            "dps": 706.3,
+            "tdo": 4591.0,
+            "ttw": 6.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Kingler",
+            "types": [
+              "Water"
+            ],
+            "fast": "Bubble",
+            "charged": "Crabhammer",
+            "maxMove": "G-Max Foam Burst",
+            "role": "tank",
+            "dps": 248.0,
+            "tdo": 1736.0,
+            "ttw": 7.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Eternatus",
+            "types": [
+              "Poison",
+              "Dragon"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Dynamax Cannon",
+            "maxMove": "Dynamax Cannon",
             "role": "attacker",
             "dps": 529.3,
             "tdo": 3970.0,
@@ -1302,7 +1301,7 @@
               "Fighting"
             ],
             "fast": "Counter",
-            "charged": "Close Combat",
+            "charged": "Payback",
             "maxMove": "G-Max Chi Strike",
             "role": "tank",
             "dps": 445.3,
@@ -1312,17 +1311,16 @@
             "survivalRate": 100.0
           },
           {
-            "name": "Zacian (Crowned Sword)",
+            "name": "Espeon",
             "types": [
-              "Fairy",
-              "Steel"
+              "Psychic"
             ],
-            "fast": "Air Slash",
-            "charged": "Behemoth Blade",
-            "maxMove": "Max Airstream",
+            "fast": "Confusion",
+            "charged": "Futuresight",
+            "maxMove": "Max Mindstorm",
             "role": "tank",
-            "dps": 419.3,
-            "tdo": 3983.0,
+            "dps": 411.2,
+            "tdo": 3906.0,
             "ttw": 9.5,
             "faints": 0,
             "survivalRate": 100.0
@@ -1340,7 +1338,7 @@
               ],
               "role": "attacker",
               "fast": "Mud Slap",
-              "charged": "Drill Run",
+              "charged": "Scorching Sands",
               "maxMove": "Max Quake",
               "dps": 1078.0,
               "tdo": 5390.0
@@ -1437,7 +1435,7 @@
               "Steel"
             ],
             "fast": "Mud Slap",
-            "charged": "Drill Run",
+            "charged": "Scorching Sands",
             "maxMove": "Max Quake",
             "role": "attacker",
             "dps": 1146.0,
@@ -1453,197 +1451,7 @@
               "Rock"
             ],
             "fast": "Mud Slap",
-            "charged": "Skull Bash",
-            "maxMove": "Max Quake",
-            "role": "attacker",
-            "dps": 1086.8,
-            "tdo": 5434.0,
-            "ttw": 5.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Kingler",
-            "types": [
-              "Water"
-            ],
-            "fast": "Bubble",
-            "charged": "Crabhammer",
-            "maxMove": "G-Max Foam Burst",
-            "role": "tank",
-            "dps": 343.0,
-            "tdo": 1715.0,
-            "ttw": 5.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Rhydon",
-            "types": [
-              "Ground",
-              "Rock"
-            ],
-            "fast": "Mud Slap",
-            "charged": "Megahorn",
-            "maxMove": "Max Quake",
-            "role": "attacker",
-            "dps": 808.6,
-            "tdo": 5256.0,
-            "ttw": 6.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Omastar",
-            "types": [
-              "Rock",
-              "Water"
-            ],
-            "fast": "Rock Throw",
-            "charged": "Hydro Pump",
-            "maxMove": "Max Rockfall",
-            "role": "attacker",
-            "dps": 750.5,
-            "tdo": 4878.0,
-            "ttw": 6.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Eternatus",
-            "types": [
-              "Poison",
-              "Dragon"
-            ],
-            "fast": "Dragon Tail",
-            "charged": "Dragon Pulse",
-            "maxMove": "Max Wyrmwind",
-            "role": "healer",
-            "dps": 245.3,
-            "tdo": 1717.0,
-            "ttw": 7.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Espeon",
-            "types": [
-              "Psychic"
-            ],
-            "fast": "Confusion",
-            "charged": "Futuresight",
-            "maxMove": "Max Mindstorm",
-            "role": "tank",
-            "dps": 498.9,
-            "tdo": 3991.0,
-            "ttw": 8.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Machamp",
-            "types": [
-              "Fighting"
-            ],
-            "fast": "Karate Chop",
-            "charged": "Stone Edge",
-            "maxMove": "G-Max Chi Strike",
-            "role": "tank",
-            "dps": 213.6,
-            "tdo": 1709.0,
-            "ttw": 8.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Duraludon",
-            "types": [
-              "Steel",
-              "Dragon"
-            ],
-            "fast": "Dragon Tail",
-            "charged": "Flash Cannon",
-            "maxMove": "G-Max Depletion",
-            "role": "attacker",
-            "dps": 536.1,
-            "tdo": 4557.0,
-            "ttw": 8.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Zacian (Crowned Sword)",
-            "types": [
-              "Fairy",
-              "Steel"
-            ],
-            "fast": "Air Slash",
-            "charged": "Behemoth Blade",
-            "maxMove": "Max Airstream",
-            "role": "tank",
-            "dps": 484.9,
-            "tdo": 4122.0,
-            "ttw": 8.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Zapdos",
-            "types": [
-              "Electric",
-              "Flying"
-            ],
-            "fast": "Thunder Shock",
-            "charged": "Ancient Power",
-            "maxMove": "Max Lightning",
-            "role": "tank",
-            "dps": 223.3,
-            "tdo": 1898.0,
-            "ttw": 8.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          }
-        ],
-        "dodging": [
-          {
-            "name": "Inteleon",
-            "types": [
-              "Water"
-            ],
-            "fast": "Water Gun",
-            "charged": "592",
-            "maxMove": "G-Max Hydrosnipe",
-            "role": "healer",
-            "dps": 532.3,
-            "tdo": 1863.0,
-            "ttw": 3.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Excadrill",
-            "types": [
-              "Ground",
-              "Steel"
-            ],
-            "fast": "Mud Slap",
             "charged": "Drill Run",
-            "maxMove": "Max Quake",
-            "role": "attacker",
-            "dps": 1146.0,
-            "tdo": 5730.0,
-            "ttw": 5.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Rhyperior",
-            "types": [
-              "Ground",
-              "Rock"
-            ],
-            "fast": "Mud Slap",
-            "charged": "Rock Wrecker",
             "maxMove": "Max Quake",
             "role": "attacker",
             "dps": 1086.8,
@@ -1707,7 +1515,7 @@
             ],
             "fast": "Dragon Tail",
             "charged": "Dragon Pulse",
-            "maxMove": "Max Wyrmwind",
+            "maxMove": "Dynamax Cannon",
             "role": "healer",
             "dps": 245.3,
             "tdo": 1717.0,
@@ -1762,17 +1570,190 @@
             "survivalRate": 100.0
           },
           {
-            "name": "Zacian (Crowned Sword)",
+            "name": "Zapdos",
             "types": [
-              "Fairy",
+              "Electric",
+              "Flying"
+            ],
+            "fast": "Thunder Shock",
+            "charged": "Ancient Power",
+            "maxMove": "Max Lightning",
+            "role": "tank",
+            "dps": 223.3,
+            "tdo": 1898.0,
+            "ttw": 8.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Vaporeon",
+            "types": [
+              "Water"
+            ],
+            "fast": "Water Gun",
+            "charged": "Hydro Pump",
+            "maxMove": "Max Geyser",
+            "role": "tank",
+            "dps": 536.1,
+            "tdo": 4825.0,
+            "ttw": 9.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          }
+        ],
+        "dodging": [
+          {
+            "name": "Inteleon",
+            "types": [
+              "Water"
+            ],
+            "fast": "Water Gun",
+            "charged": "592",
+            "maxMove": "G-Max Hydrosnipe",
+            "role": "healer",
+            "dps": 532.3,
+            "tdo": 1863.0,
+            "ttw": 3.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Excadrill",
+            "types": [
+              "Ground",
               "Steel"
             ],
-            "fast": "Air Slash",
-            "charged": "Close Combat",
-            "maxMove": "Max Airstream",
+            "fast": "Mud Slap",
+            "charged": "Scorching Sands",
+            "maxMove": "Max Quake",
+            "role": "attacker",
+            "dps": 1146.0,
+            "tdo": 5730.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Rhyperior",
+            "types": [
+              "Ground",
+              "Rock"
+            ],
+            "fast": "Mud Slap",
+            "charged": "Drill Run",
+            "maxMove": "Max Quake",
+            "role": "attacker",
+            "dps": 1086.8,
+            "tdo": 5434.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Kingler",
+            "types": [
+              "Water"
+            ],
+            "fast": "Bubble",
+            "charged": "Crabhammer",
+            "maxMove": "G-Max Foam Burst",
             "role": "tank",
-            "dps": 484.9,
-            "tdo": 4122.0,
+            "dps": 343.0,
+            "tdo": 1715.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Rhydon",
+            "types": [
+              "Ground",
+              "Rock"
+            ],
+            "fast": "Mud Slap",
+            "charged": "Earthquake",
+            "maxMove": "Max Quake",
+            "role": "attacker",
+            "dps": 808.6,
+            "tdo": 5256.0,
+            "ttw": 6.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Omastar",
+            "types": [
+              "Rock",
+              "Water"
+            ],
+            "fast": "Rock Throw",
+            "charged": "Rock Slide",
+            "maxMove": "Max Rockfall",
+            "role": "attacker",
+            "dps": 750.5,
+            "tdo": 4878.0,
+            "ttw": 6.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Eternatus",
+            "types": [
+              "Poison",
+              "Dragon"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Dragon Pulse",
+            "maxMove": "Dynamax Cannon",
+            "role": "healer",
+            "dps": 245.3,
+            "tdo": 1717.0,
+            "ttw": 7.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Espeon",
+            "types": [
+              "Psychic"
+            ],
+            "fast": "Confusion",
+            "charged": "Futuresight",
+            "maxMove": "Max Mindstorm",
+            "role": "tank",
+            "dps": 498.9,
+            "tdo": 3991.0,
+            "ttw": 8.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Machamp",
+            "types": [
+              "Fighting"
+            ],
+            "fast": "Karate Chop",
+            "charged": "Stone Edge",
+            "maxMove": "G-Max Chi Strike",
+            "role": "tank",
+            "dps": 213.6,
+            "tdo": 1709.0,
+            "ttw": 8.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Duraludon",
+            "types": [
+              "Steel",
+              "Dragon"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Flash Cannon",
+            "maxMove": "G-Max Depletion",
+            "role": "attacker",
+            "dps": 536.1,
+            "tdo": 4557.0,
             "ttw": 8.5,
             "faints": 0,
             "survivalRate": 100.0
@@ -1792,6 +1773,21 @@
             "ttw": 8.5,
             "faints": 0,
             "survivalRate": 100.0
+          },
+          {
+            "name": "Vaporeon",
+            "types": [
+              "Water"
+            ],
+            "fast": "Water Gun",
+            "charged": "Hydro Pump",
+            "maxMove": "Max Geyser",
+            "role": "tank",
+            "dps": 536.1,
+            "tdo": 4825.0,
+            "ttw": 9.0,
+            "faints": 0,
+            "survivalRate": 100.0
           }
         ],
         "team_composition": {
@@ -1806,7 +1802,7 @@
               ],
               "role": "attacker",
               "fast": "Mud Slap",
-              "charged": "Drill Run",
+              "charged": "Scorching Sands",
               "maxMove": "Max Quake",
               "dps": 1146.0,
               "tdo": 5730.0
@@ -1847,7 +1843,7 @@
               ],
               "role": "attacker",
               "fast": "Mud Slap",
-              "charged": "Drill Run",
+              "charged": "Scorching Sands",
               "maxMove": "Max Quake",
               "dps": 1146.0,
               "tdo": 5730.0
@@ -1975,7 +1971,7 @@
             ],
             "fast": "Dragon Tail",
             "charged": "Dynamax Cannon",
-            "maxMove": "Max Wyrmwind",
+            "maxMove": "Dynamax Cannon",
             "role": "attacker",
             "dps": 352.0,
             "tdo": 3344.0,
@@ -1989,7 +1985,7 @@
               "Electric"
             ],
             "fast": "Volt Switch",
-            "charged": "Volt Tackle",
+            "charged": "Wild Charge",
             "maxMove": "Max Lightning",
             "role": "tank",
             "dps": 189.9,
@@ -2035,29 +2031,13 @@
             "types": [
               "Fairy"
             ],
-            "fast": "Snarl",
+            "fast": "Quick Attack",
             "charged": "Wild Charge",
-            "maxMove": "Max Darkness",
+            "maxMove": "Max Strike",
             "role": "tank",
-            "dps": 185.8,
-            "tdo": 1968.0,
-            "ttw": 10.6,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Zacian (Crowned Sword)",
-            "types": [
-              "Fairy",
-              "Steel"
-            ],
-            "fast": "Air Slash",
-            "charged": "Giga Impact",
-            "maxMove": "Max Airstream",
-            "role": "attacker",
-            "dps": 305.8,
-            "tdo": 3246.0,
-            "ttw": 10.6,
+            "dps": 183.4,
+            "tdo": 1926.0,
+            "ttw": 10.5,
             "faints": 0,
             "survivalRate": 100.0
           },
@@ -2073,6 +2053,22 @@
             "dps": 298.8,
             "tdo": 3190.0,
             "ttw": 10.7,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Duraludon",
+            "types": [
+              "Steel",
+              "Dragon"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Flash Cannon",
+            "maxMove": "G-Max Depletion",
+            "role": "attacker",
+            "dps": 331.5,
+            "tdo": 3585.0,
+            "ttw": 10.8,
             "faints": 0,
             "survivalRate": 100.0
           }
@@ -2163,7 +2159,7 @@
             ],
             "fast": "Dragon Tail",
             "charged": "Dynamax Cannon",
-            "maxMove": "Max Wyrmwind",
+            "maxMove": "Dynamax Cannon",
             "role": "attacker",
             "dps": 352.0,
             "tdo": 3344.0,
@@ -2177,7 +2173,7 @@
               "Electric"
             ],
             "fast": "Volt Switch",
-            "charged": "Volt Tackle",
+            "charged": "Wild Charge",
             "maxMove": "Max Lightning",
             "role": "tank",
             "dps": 189.9,
@@ -2233,22 +2229,6 @@
             "survivalRate": 100.0
           },
           {
-            "name": "Zacian (Crowned Sword)",
-            "types": [
-              "Fairy",
-              "Steel"
-            ],
-            "fast": "Air Slash",
-            "charged": "Giga Impact",
-            "maxMove": "Max Airstream",
-            "role": "attacker",
-            "dps": 306.4,
-            "tdo": 3254.0,
-            "ttw": 10.6,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
             "name": "Excadrill",
             "types": [
               "Ground",
@@ -2261,6 +2241,22 @@
             "dps": 292.2,
             "tdo": 3135.0,
             "ttw": 10.7,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Duraludon",
+            "types": [
+              "Steel",
+              "Dragon"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Hyper Beam",
+            "maxMove": "G-Max Depletion",
+            "role": "attacker",
+            "dps": 331.5,
+            "tdo": 3600.0,
+            "ttw": 10.9,
             "faints": 0,
             "survivalRate": 100.0
           }
@@ -2375,7 +2371,7 @@
               "Grass"
             ],
             "fast": "Razor Leaf",
-            "charged": "Solar Beam",
+            "charged": "Last Resort",
             "maxMove": "Max Overgrowth",
             "role": "attacker",
             "dps": 553.3,
@@ -2439,10 +2435,10 @@
             ],
             "fast": "Dragon Tail",
             "charged": "Dynamax Cannon",
-            "maxMove": "Max Wyrmwind",
+            "maxMove": "Dynamax Cannon",
             "role": "attacker",
-            "dps": 374.8,
-            "tdo": 3553.0,
+            "dps": 374.2,
+            "tdo": 3555.0,
             "ttw": 9.5,
             "faints": 0,
             "survivalRate": 100.0
@@ -2511,33 +2507,33 @@
             "survivalRate": 100.0
           },
           {
-            "name": "Zacian (Crowned Sword)",
-            "types": [
-              "Fairy",
-              "Steel"
-            ],
-            "fast": "Air Slash",
-            "charged": "Giga Impact",
-            "maxMove": "Max Airstream",
-            "role": "attacker",
-            "dps": 335.0,
-            "tdo": 3424.0,
-            "ttw": 10.2,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
             "name": "Zacian (Hero)",
             "types": [
               "Fairy"
             ],
-            "fast": "Quick Attack",
+            "fast": "Snarl",
             "charged": "Wild Charge",
-            "maxMove": "Max Strike",
+            "maxMove": "Max Darkness",
             "role": "tank",
-            "dps": 193.2,
-            "tdo": 2046.0,
-            "ttw": 10.6,
+            "dps": 198.5,
+            "tdo": 2084.0,
+            "ttw": 10.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Excadrill",
+            "types": [
+              "Ground",
+              "Steel"
+            ],
+            "fast": "Mud Slap",
+            "charged": "Earthquake",
+            "maxMove": "Max Quake",
+            "role": "attacker",
+            "dps": 310.7,
+            "tdo": 3322.0,
+            "ttw": 10.7,
             "faints": 0,
             "survivalRate": 100.0
           }
@@ -2564,7 +2560,7 @@
               "Grass"
             ],
             "fast": "Razor Leaf",
-            "charged": "Last Resort",
+            "charged": "Solar Beam",
             "maxMove": "Max Overgrowth",
             "role": "attacker",
             "dps": 553.3,
@@ -2628,7 +2624,7 @@
             ],
             "fast": "Dragon Tail",
             "charged": "Dynamax Cannon",
-            "maxMove": "Max Wyrmwind",
+            "maxMove": "Dynamax Cannon",
             "role": "attacker",
             "dps": 374.2,
             "tdo": 3555.0,
@@ -2684,22 +2680,6 @@
             "survivalRate": 100.0
           },
           {
-            "name": "Zacian (Crowned Sword)",
-            "types": [
-              "Fairy",
-              "Steel"
-            ],
-            "fast": "Air Slash",
-            "charged": "Behemoth Blade",
-            "maxMove": "Max Airstream",
-            "role": "attacker",
-            "dps": 336.0,
-            "tdo": 3420.0,
-            "ttw": 10.2,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
             "name": "Duraludon",
             "types": [
               "Steel",
@@ -2726,6 +2706,22 @@
             "role": "tank",
             "dps": 198.5,
             "tdo": 2084.0,
+            "ttw": 10.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Rhyperior",
+            "types": [
+              "Ground",
+              "Rock"
+            ],
+            "fast": "Smack Down",
+            "charged": "Stone Edge",
+            "maxMove": "Max Rockfall",
+            "role": "attacker",
+            "dps": 297.1,
+            "tdo": 3131.0,
             "ttw": 10.5,
             "faints": 0,
             "survivalRate": 100.0
@@ -2929,7 +2925,7 @@
             ],
             "fast": "Metal Claw",
             "charged": "Giga Impact",
-            "maxMove": "Max Steelspike",
+            "maxMove": "Behemoth Blade",
             "role": "attacker",
             "dps": 521.3,
             "tdo": 4431.0,
@@ -2945,7 +2941,7 @@
             ],
             "fast": "Dragon Tail",
             "charged": "Dynamax Cannon",
-            "maxMove": "Max Wyrmwind",
+            "maxMove": "Dynamax Cannon",
             "role": "attacker",
             "dps": 463.4,
             "tdo": 3939.0,
@@ -2961,7 +2957,7 @@
             ],
             "fast": "Ice Fang",
             "charged": "Behemoth Bash",
-            "maxMove": "Max Hailstorm",
+            "maxMove": "Behemoth Bash",
             "role": "healer",
             "dps": 249.4,
             "tdo": 2245.0,
@@ -3119,7 +3115,7 @@
             ],
             "fast": "Metal Claw",
             "charged": "Close Combat",
-            "maxMove": "Max Steelspike",
+            "maxMove": "Behemoth Blade",
             "role": "attacker",
             "dps": 521.3,
             "tdo": 4431.0,
@@ -3135,7 +3131,7 @@
             ],
             "fast": "Dragon Tail",
             "charged": "Dynamax Cannon",
-            "maxMove": "Max Wyrmwind",
+            "maxMove": "Dynamax Cannon",
             "role": "attacker",
             "dps": 463.4,
             "tdo": 3939.0,
@@ -3151,7 +3147,7 @@
             ],
             "fast": "Ice Fang",
             "charged": "Behemoth Bash",
-            "maxMove": "Max Hailstorm",
+            "maxMove": "Behemoth Bash",
             "role": "healer",
             "dps": 249.4,
             "tdo": 2245.0,
@@ -3316,7 +3312,7 @@
             ],
             "fast": "Metal Claw",
             "charged": "Close Combat",
-            "maxMove": "Max Steelspike",
+            "maxMove": "Behemoth Blade",
             "role": "attacker",
             "dps": 612.0,
             "tdo": 4590.0,
@@ -3347,7 +3343,7 @@
             ],
             "fast": "Dragon Tail",
             "charged": "Dynamax Cannon",
-            "maxMove": "Max Wyrmwind",
+            "maxMove": "Dynamax Cannon",
             "role": "attacker",
             "dps": 542.7,
             "tdo": 4070.0,
@@ -3378,7 +3374,7 @@
             ],
             "fast": "Ice Fang",
             "charged": "Close Combat",
-            "maxMove": "Max Hailstorm",
+            "maxMove": "Behemoth Bash",
             "role": "healer",
             "dps": 231.6,
             "tdo": 1737.0,
@@ -3409,7 +3405,7 @@
               "Rock"
             ],
             "fast": "Rock Smash",
-            "charged": "Megahorn",
+            "charged": "Earthquake",
             "maxMove": "Max Knuckle",
             "role": "attacker",
             "dps": 536.5,
@@ -3424,7 +3420,7 @@
               "Fire"
             ],
             "fast": "Incinerate",
-            "charged": "Focus Blast",
+            "charged": "Overheat",
             "maxMove": "Max Flare",
             "role": "attacker",
             "dps": 498.6,
@@ -3504,7 +3500,7 @@
             ],
             "fast": "Metal Claw",
             "charged": "Behemoth Blade",
-            "maxMove": "Max Steelspike",
+            "maxMove": "Behemoth Blade",
             "role": "attacker",
             "dps": 612.0,
             "tdo": 4590.0,
@@ -3535,7 +3531,7 @@
             ],
             "fast": "Dragon Tail",
             "charged": "Dynamax Cannon",
-            "maxMove": "Max Wyrmwind",
+            "maxMove": "Dynamax Cannon",
             "role": "attacker",
             "dps": 542.7,
             "tdo": 4070.0,
@@ -3566,7 +3562,7 @@
             ],
             "fast": "Ice Fang",
             "charged": "Close Combat",
-            "maxMove": "Max Hailstorm",
+            "maxMove": "Behemoth Bash",
             "role": "healer",
             "dps": 231.6,
             "tdo": 1737.0,
@@ -3681,7 +3677,7 @@
               "role": "attacker",
               "fast": "Metal Claw",
               "charged": "Close Combat",
-              "maxMove": "Max Steelspike",
+              "maxMove": "Behemoth Blade",
               "dps": 612.0,
               "tdo": 4590.0
             },
@@ -3722,7 +3718,7 @@
               "role": "attacker",
               "fast": "Metal Claw",
               "charged": "Behemoth Blade",
-              "maxMove": "Max Steelspike",
+              "maxMove": "Behemoth Blade",
               "dps": 612.0,
               "tdo": 4590.0
             },
@@ -3802,7 +3798,7 @@
             ],
             "fast": "Air Slash",
             "charged": "Play Rough",
-            "maxMove": "Max Airstream",
+            "maxMove": "Behemoth Blade",
             "role": "tank",
             "dps": 248.7,
             "tdo": 1741.0,
@@ -3818,7 +3814,7 @@
             ],
             "fast": "Dragon Tail",
             "charged": "Dragon Pulse",
-            "maxMove": "Max Wyrmwind",
+            "maxMove": "Dynamax Cannon",
             "role": "healer",
             "dps": 247.0,
             "tdo": 1729.0,
@@ -3865,7 +3861,7 @@
             ],
             "fast": "Ice Fang",
             "charged": "Close Combat",
-            "maxMove": "Max Hailstorm",
+            "maxMove": "Behemoth Bash",
             "role": "healer",
             "dps": 241.2,
             "tdo": 1809.0,
@@ -3959,7 +3955,7 @@
               "Fighting"
             ],
             "fast": "Counter",
-            "charged": "Cross Chop",
+            "charged": "Close Combat",
             "maxMove": "G-Max Chi Strike",
             "role": "attacker",
             "dps": 1198.2,
@@ -3991,7 +3987,7 @@
             ],
             "fast": "Air Slash",
             "charged": "Play Rough",
-            "maxMove": "Max Airstream",
+            "maxMove": "Behemoth Blade",
             "role": "tank",
             "dps": 248.7,
             "tdo": 1741.0,
@@ -4007,7 +4003,7 @@
             ],
             "fast": "Dragon Tail",
             "charged": "Dragon Pulse",
-            "maxMove": "Max Wyrmwind",
+            "maxMove": "Dynamax Cannon",
             "role": "healer",
             "dps": 247.0,
             "tdo": 1729.0,
@@ -4054,7 +4050,7 @@
             ],
             "fast": "Ice Fang",
             "charged": "Close Combat",
-            "maxMove": "Max Hailstorm",
+            "maxMove": "Behemoth Bash",
             "role": "healer",
             "dps": 241.2,
             "tdo": 1809.0,
@@ -4069,7 +4065,7 @@
               "Rock"
             ],
             "fast": "Rock Smash",
-            "charged": "Stone Edge",
+            "charged": "Megahorn",
             "maxMove": "Max Knuckle",
             "role": "attacker",
             "dps": 559.5,
@@ -4178,7 +4174,7 @@
               "role": "healer",
               "fast": "Dragon Tail",
               "charged": "Dragon Pulse",
-              "maxMove": "Max Wyrmwind",
+              "maxMove": "Dynamax Cannon",
               "dps": 247.0,
               "tdo": 1729.0
             }
@@ -4193,7 +4189,7 @@
               ],
               "role": "attacker",
               "fast": "Counter",
-              "charged": "Cross Chop",
+              "charged": "Close Combat",
               "maxMove": "G-Max Chi Strike",
               "dps": 1198.2,
               "tdo": 6590.0
@@ -4219,7 +4215,7 @@
               "role": "healer",
               "fast": "Dragon Tail",
               "charged": "Dragon Pulse",
-              "maxMove": "Max Wyrmwind",
+              "maxMove": "Dynamax Cannon",
               "dps": 247.0,
               "tdo": 1729.0
             }
@@ -4236,7 +4232,7 @@
             ],
             "fast": "Metal Claw",
             "charged": "Play Rough",
-            "maxMove": "Max Steelspike",
+            "maxMove": "Behemoth Blade",
             "role": "tank",
             "dps": 348.0,
             "tdo": 1740.0,
@@ -4282,7 +4278,7 @@
             ],
             "fast": "Dragon Tail",
             "charged": "Dynamax Cannon",
-            "maxMove": "Max Wyrmwind",
+            "maxMove": "Dynamax Cannon",
             "role": "attacker",
             "dps": 672.6,
             "tdo": 4372.0,
@@ -4314,7 +4310,7 @@
             ],
             "fast": "Metal Claw",
             "charged": "Behemoth Bash",
-            "maxMove": "Max Steelspike",
+            "maxMove": "Behemoth Bash",
             "role": "healer",
             "dps": 248.4,
             "tdo": 1739.0,
@@ -4425,7 +4421,7 @@
             ],
             "fast": "Metal Claw",
             "charged": "Play Rough",
-            "maxMove": "Max Steelspike",
+            "maxMove": "Behemoth Blade",
             "role": "tank",
             "dps": 348.0,
             "tdo": 1740.0,
@@ -4439,7 +4435,7 @@
               "Fighting"
             ],
             "fast": "Counter",
-            "charged": "Heavy Slam",
+            "charged": "Dynamic Punch",
             "maxMove": "G-Max Chi Strike",
             "role": "attacker",
             "dps": 1273.6,
@@ -4471,7 +4467,7 @@
             ],
             "fast": "Dragon Tail",
             "charged": "Dynamax Cannon",
-            "maxMove": "Max Wyrmwind",
+            "maxMove": "Dynamax Cannon",
             "role": "attacker",
             "dps": 672.6,
             "tdo": 4372.0,
@@ -4503,7 +4499,7 @@
             ],
             "fast": "Metal Claw",
             "charged": "Behemoth Bash",
-            "maxMove": "Max Steelspike",
+            "maxMove": "Behemoth Bash",
             "role": "healer",
             "dps": 248.4,
             "tdo": 1739.0,
@@ -4630,7 +4626,7 @@
               "role": "tank",
               "fast": "Metal Claw",
               "charged": "Play Rough",
-              "maxMove": "Max Steelspike",
+              "maxMove": "Behemoth Blade",
               "dps": 348.0,
               "tdo": 1740.0
             },
@@ -4643,7 +4639,7 @@
               "role": "healer",
               "fast": "Metal Claw",
               "charged": "Behemoth Bash",
-              "maxMove": "Max Steelspike",
+              "maxMove": "Behemoth Bash",
               "dps": 248.4,
               "tdo": 1739.0
             }
@@ -4658,7 +4654,7 @@
               ],
               "role": "attacker",
               "fast": "Counter",
-              "charged": "Heavy Slam",
+              "charged": "Dynamic Punch",
               "maxMove": "G-Max Chi Strike",
               "dps": 1273.6,
               "tdo": 7005.0
@@ -4672,7 +4668,7 @@
               "role": "tank",
               "fast": "Metal Claw",
               "charged": "Play Rough",
-              "maxMove": "Max Steelspike",
+              "maxMove": "Behemoth Blade",
               "dps": 348.0,
               "tdo": 1740.0
             },
@@ -4685,7 +4681,7 @@
               "role": "healer",
               "fast": "Metal Claw",
               "charged": "Behemoth Bash",
-              "maxMove": "Max Steelspike",
+              "maxMove": "Behemoth Bash",
               "dps": 248.4,
               "tdo": 1739.0
             }
@@ -5663,13 +5659,13 @@
               "Fairy",
               "Steel"
             ],
-            "fast": "Air Slash",
-            "charged": "Close Combat",
-            "maxMove": "Max Airstream",
+            "fast": "Metal Claw",
+            "charged": "Behemoth Blade",
+            "maxMove": "Behemoth Blade",
             "role": "attacker",
-            "dps": 83.2,
-            "tdo": 10458.0,
-            "ttw": 125.6,
+            "dps": 82.0,
+            "tdo": 10434.0,
+            "ttw": 127.2,
             "faints": 1,
             "survivalRate": 100.0
           },
@@ -5760,11 +5756,11 @@
             ],
             "fast": "Metal Claw",
             "charged": "Behemoth Bash",
-            "maxMove": "Max Steelspike",
+            "maxMove": "Behemoth Bash",
             "role": "tank",
             "dps": 65.4,
-            "tdo": 10182.0,
-            "ttw": 155.7,
+            "tdo": 10193.0,
+            "ttw": 156.0,
             "faints": 1,
             "survivalRate": 100.0
           },
@@ -5806,10 +5802,10 @@
             ],
             "fast": "Poison Jab",
             "charged": "Dynamax Cannon",
-            "maxMove": "Max Ooze",
+            "maxMove": "Dynamax Cannon",
             "role": "healer",
             "dps": 63.1,
-            "tdo": 10240.0,
+            "tdo": 10235.0,
             "ttw": 162.3,
             "faints": 0,
             "survivalRate": 100.0
@@ -5869,13 +5865,13 @@
               "Fairy",
               "Steel"
             ],
-            "fast": "Air Slash",
-            "charged": "Play Rough",
-            "maxMove": "Max Airstream",
+            "fast": "Metal Claw",
+            "charged": "Behemoth Blade",
+            "maxMove": "Behemoth Blade",
             "role": "attacker",
-            "dps": 85.1,
-            "tdo": 10598.0,
-            "ttw": 124.6,
+            "dps": 81.7,
+            "tdo": 10337.0,
+            "ttw": 126.5,
             "faints": 0,
             "survivalRate": 100.0
           },
@@ -5918,11 +5914,11 @@
             ],
             "fast": "Dragon Tail",
             "charged": "Dynamax Cannon",
-            "maxMove": "Max Wyrmwind",
+            "maxMove": "Dynamax Cannon",
             "role": "healer",
-            "dps": 73.5,
-            "tdo": 10135.0,
-            "ttw": 138.0,
+            "dps": 73.6,
+            "tdo": 10134.0,
+            "ttw": 137.7,
             "faints": 0,
             "survivalRate": 100.0
           },
@@ -6045,9 +6041,9 @@
               "role": "tank",
               "fast": "Metal Claw",
               "charged": "Behemoth Bash",
-              "maxMove": "Max Steelspike",
+              "maxMove": "Behemoth Bash",
               "dps": 65.4,
-              "tdo": 10182.0
+              "tdo": 10193.0
             },
             "slot3": {
               "name": "Eternatus",
@@ -6058,9 +6054,9 @@
               "role": "healer",
               "fast": "Poison Jab",
               "charged": "Dynamax Cannon",
-              "maxMove": "Max Ooze",
+              "maxMove": "Dynamax Cannon",
               "dps": 63.1,
-              "tdo": 10240.0
+              "tdo": 10235.0
             }
           },
           "dodging": {
@@ -6100,9 +6096,9 @@
               "role": "healer",
               "fast": "Dragon Tail",
               "charged": "Dynamax Cannon",
-              "maxMove": "Max Wyrmwind",
-              "dps": 73.5,
-              "tdo": 10135.0
+              "maxMove": "Dynamax Cannon",
+              "dps": 73.6,
+              "tdo": 10134.0
             }
           }
         }
@@ -6148,7 +6144,7 @@
             ],
             "fast": "Metal Claw",
             "charged": "Play Rough",
-            "maxMove": "Max Steelspike",
+            "maxMove": "Behemoth Blade",
             "role": "attacker",
             "dps": 87.5,
             "tdo": 10027.0,
@@ -6204,6 +6200,22 @@
             "survivalRate": 0.0
           },
           {
+            "name": "Zamazenta (Crowned Shield)",
+            "types": [
+              "Fighting",
+              "Steel"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Behemoth Bash",
+            "maxMove": "Behemoth Bash",
+            "role": "healer",
+            "dps": 70.7,
+            "tdo": 10043.0,
+            "ttw": 142.1,
+            "faints": 1,
+            "survivalRate": 100.0
+          },
+          {
             "name": "Gardevoir",
             "types": [
               "Psychic",
@@ -6217,22 +6229,6 @@
             "tdo": 10138.0,
             "ttw": 142.4,
             "faints": 2,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Zamazenta (Crowned Shield)",
-            "types": [
-              "Fighting",
-              "Steel"
-            ],
-            "fast": "Metal Claw",
-            "charged": "Behemoth Bash",
-            "maxMove": "Max Steelspike",
-            "role": "healer",
-            "dps": 70.4,
-            "tdo": 10025.0,
-            "ttw": 142.4,
-            "faints": 1,
             "survivalRate": 100.0
           },
           {
@@ -6337,13 +6333,13 @@
               "Fairy",
               "Steel"
             ],
-            "fast": "Air Slash",
+            "fast": "Metal Claw",
             "charged": "Play Rough",
-            "maxMove": "Max Airstream",
+            "maxMove": "Behemoth Blade",
             "role": "attacker",
-            "dps": 91.3,
-            "tdo": 10012.0,
-            "ttw": 109.7,
+            "dps": 89.9,
+            "tdo": 10009.0,
+            "ttw": 111.3,
             "faints": 0,
             "survivalRate": 100.0
           },
@@ -6386,11 +6382,11 @@
             ],
             "fast": "Dragon Tail",
             "charged": "Dynamax Cannon",
-            "maxMove": "Max Wyrmwind",
+            "maxMove": "Dynamax Cannon",
             "role": "healer",
-            "dps": 80.6,
-            "tdo": 10188.0,
-            "ttw": 126.4,
+            "dps": 80.7,
+            "tdo": 10194.0,
+            "ttw": 126.3,
             "faints": 0,
             "survivalRate": 100.0
           },
@@ -6526,9 +6522,9 @@
               "role": "healer",
               "fast": "Metal Claw",
               "charged": "Behemoth Bash",
-              "maxMove": "Max Steelspike",
-              "dps": 70.4,
-              "tdo": 10025.0
+              "maxMove": "Behemoth Bash",
+              "dps": 70.7,
+              "tdo": 10043.0
             }
           },
           "dodging": {
@@ -6568,9 +6564,9 @@
               "role": "healer",
               "fast": "Dragon Tail",
               "charged": "Dynamax Cannon",
-              "maxMove": "Max Wyrmwind",
-              "dps": 80.6,
-              "tdo": 10188.0
+              "maxMove": "Dynamax Cannon",
+              "dps": 80.7,
+              "tdo": 10194.0
             }
           }
         }
@@ -6642,7 +6638,7 @@
             ],
             "fast": "Metal Claw",
             "charged": "Behemoth Blade",
-            "maxMove": "Max Steelspike",
+            "maxMove": "Behemoth Blade",
             "role": "attacker",
             "dps": 178.4,
             "tdo": 10947.0,
@@ -6689,11 +6685,11 @@
             ],
             "fast": "Metal Claw",
             "charged": "Behemoth Bash",
-            "maxMove": "Max Steelspike",
+            "maxMove": "Behemoth Bash",
             "role": "healer",
-            "dps": 159.3,
-            "tdo": 10225.0,
-            "ttw": 64.2,
+            "dps": 159.0,
+            "tdo": 10262.0,
+            "ttw": 64.5,
             "faints": 0,
             "survivalRate": 100.0
           },
@@ -6819,7 +6815,7 @@
             ],
             "fast": "Metal Claw",
             "charged": "Behemoth Blade",
-            "maxMove": "Max Steelspike",
+            "maxMove": "Behemoth Blade",
             "role": "attacker",
             "dps": 226.2,
             "tdo": 10888.0,
@@ -6859,22 +6855,6 @@
             "survivalRate": 100.0
           },
           {
-            "name": "Zamazenta (Crowned Shield)",
-            "types": [
-              "Fighting",
-              "Steel"
-            ],
-            "fast": "Metal Claw",
-            "charged": "Behemoth Bash",
-            "maxMove": "Max Steelspike",
-            "role": "healer",
-            "dps": 184.0,
-            "tdo": 10016.0,
-            "ttw": 54.4,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
             "name": "Inteleon",
             "types": [
               "Water"
@@ -6886,6 +6866,22 @@
             "dps": 188.1,
             "tdo": 10246.0,
             "ttw": 54.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Zamazenta (Crowned Shield)",
+            "types": [
+              "Fighting",
+              "Steel"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Behemoth Bash",
+            "maxMove": "Behemoth Bash",
+            "role": "healer",
+            "dps": 183.6,
+            "tdo": 10016.0,
+            "ttw": 54.6,
             "faints": 0,
             "survivalRate": 100.0
           },
@@ -6929,11 +6925,11 @@
             ],
             "fast": "Dragon Tail",
             "charged": "Dynamax Cannon",
-            "maxMove": "Max Wyrmwind",
+            "maxMove": "Dynamax Cannon",
             "role": "healer",
-            "dps": 169.4,
-            "tdo": 10453.0,
-            "ttw": 61.7,
+            "dps": 169.9,
+            "tdo": 10467.0,
+            "ttw": 61.6,
             "faints": 0,
             "survivalRate": 100.0
           },
@@ -6954,17 +6950,17 @@
             "survivalRate": 100.0
           },
           {
-            "name": "Zamazenta (Hero)",
+            "name": "Zacian (Hero)",
             "types": [
-              "Fighting"
+              "Fairy"
             ],
             "fast": "Snarl",
             "charged": "Iron Head",
             "maxMove": "Max Darkness",
-            "role": "healer",
+            "role": "tank",
             "dps": 166.2,
-            "tdo": 10383.0,
-            "ttw": 62.5,
+            "tdo": 10368.0,
+            "ttw": 62.4,
             "faints": 0,
             "survivalRate": 100.0
           }
@@ -7041,17 +7037,16 @@
               "tdo": 10221.0
             },
             "slot3": {
-              "name": "Zamazenta (Crowned Shield)",
+              "name": "Inteleon",
               "types": [
-                "Fighting",
-                "Steel"
+                "Water"
               ],
               "role": "healer",
-              "fast": "Metal Claw",
-              "charged": "Behemoth Bash",
-              "maxMove": "Max Steelspike",
-              "dps": 184.0,
-              "tdo": 10016.0
+              "fast": "Water Gun",
+              "charged": "Shadow Ball",
+              "maxMove": "G-Max Hydrosnipe",
+              "dps": 188.1,
+              "tdo": 10246.0
             }
           }
         }
@@ -7145,7 +7140,7 @@
             ],
             "fast": "Metal Claw",
             "charged": "Behemoth Blade",
-            "maxMove": "Max Steelspike",
+            "maxMove": "Behemoth Blade",
             "role": "attacker",
             "dps": 176.5,
             "tdo": 10597.0,
@@ -7208,11 +7203,11 @@
             ],
             "fast": "Metal Claw",
             "charged": "Behemoth Bash",
-            "maxMove": "Max Steelspike",
+            "maxMove": "Behemoth Bash",
             "role": "healer",
             "dps": 167.3,
-            "tdo": 10539.0,
-            "ttw": 63.0,
+            "tdo": 10517.0,
+            "ttw": 62.9,
             "faints": 0,
             "survivalRate": 100.0
           },
@@ -7289,7 +7284,7 @@
             ],
             "fast": "Metal Claw",
             "charged": "Behemoth Blade",
-            "maxMove": "Max Steelspike",
+            "maxMove": "Behemoth Blade",
             "role": "attacker",
             "dps": 217.9,
             "tdo": 10150.0,
@@ -7329,22 +7324,6 @@
             "survivalRate": 100.0
           },
           {
-            "name": "Zamazenta (Crowned Shield)",
-            "types": [
-              "Fighting",
-              "Steel"
-            ],
-            "fast": "Metal Claw",
-            "charged": "Behemoth Bash",
-            "maxMove": "Max Steelspike",
-            "role": "healer",
-            "dps": 210.1,
-            "tdo": 10346.0,
-            "ttw": 49.2,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
             "name": "Gallade",
             "types": [
               "Psychic",
@@ -7357,6 +7336,22 @@
             "dps": 206.0,
             "tdo": 10203.0,
             "ttw": 49.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Zamazenta (Crowned Shield)",
+            "types": [
+              "Fighting",
+              "Steel"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Behemoth Bash",
+            "maxMove": "Behemoth Bash",
+            "role": "healer",
+            "dps": 209.2,
+            "tdo": 10410.0,
+            "ttw": 49.8,
             "faints": 0,
             "survivalRate": 100.0
           },
@@ -7521,9 +7516,9 @@
               "role": "healer",
               "fast": "Metal Claw",
               "charged": "Behemoth Bash",
-              "maxMove": "Max Steelspike",
-              "dps": 210.1,
-              "tdo": 10346.0
+              "maxMove": "Behemoth Bash",
+              "dps": 209.2,
+              "tdo": 10410.0
             }
           }
         }
@@ -7578,7 +7573,7 @@
             ],
             "fast": "Metal Claw",
             "charged": "Behemoth Blade",
-            "maxMove": "Max Steelspike",
+            "maxMove": "Behemoth Blade",
             "role": "attacker",
             "dps": 158.7,
             "tdo": 10347.0,
@@ -7764,7 +7759,7 @@
             ],
             "fast": "Metal Claw",
             "charged": "Behemoth Blade",
-            "maxMove": "Max Steelspike",
+            "maxMove": "Behemoth Blade",
             "role": "attacker",
             "dps": 201.7,
             "tdo": 10105.0,
@@ -7895,18 +7890,18 @@
             "survivalRate": 100.0
           },
           {
-            "name": "Zamazenta (Crowned Shield)",
+            "name": "Eternatus",
             "types": [
-              "Fighting",
-              "Steel"
+              "Poison",
+              "Dragon"
             ],
-            "fast": "Ice Fang",
-            "charged": "Behemoth Bash",
-            "maxMove": "Max Hailstorm",
+            "fast": "Dragon Tail",
+            "charged": "Dynamax Cannon",
+            "maxMove": "Dynamax Cannon",
             "role": "healer",
-            "dps": 159.4,
-            "tdo": 10422.0,
-            "ttw": 65.4,
+            "dps": 151.4,
+            "tdo": 10260.0,
+            "ttw": 67.8,
             "faints": 0,
             "survivalRate": 100.0
           }
@@ -7982,17 +7977,17 @@
               "tdo": 10260.0
             },
             "slot3": {
-              "name": "Zamazenta (Crowned Shield)",
+              "name": "Eternatus",
               "types": [
-                "Fighting",
-                "Steel"
+                "Poison",
+                "Dragon"
               ],
               "role": "healer",
-              "fast": "Ice Fang",
-              "charged": "Behemoth Bash",
-              "maxMove": "Max Hailstorm",
-              "dps": 159.4,
-              "tdo": 10422.0
+              "fast": "Dragon Tail",
+              "charged": "Dynamax Cannon",
+              "maxMove": "Dynamax Cannon",
+              "dps": 151.4,
+              "tdo": 10260.0
             }
           }
         }
@@ -8038,7 +8033,7 @@
             ],
             "fast": "Metal Claw",
             "charged": "Behemoth Blade",
-            "maxMove": "Max Steelspike",
+            "maxMove": "Behemoth Blade",
             "role": "attacker",
             "dps": 169.4,
             "tdo": 10830.0,
@@ -8160,11 +8155,11 @@
             ],
             "fast": "Metal Claw",
             "charged": "Behemoth Bash",
-            "maxMove": "Max Steelspike",
+            "maxMove": "Behemoth Bash",
             "role": "healer",
-            "dps": 125.0,
-            "tdo": 10254.0,
-            "ttw": 82.0,
+            "dps": 124.5,
+            "tdo": 10202.0,
+            "ttw": 81.9,
             "faints": 0,
             "survivalRate": 100.0
           },
@@ -8176,7 +8171,7 @@
             ],
             "fast": "Dragon Tail",
             "charged": "Dynamax Cannon",
-            "maxMove": "Max Wyrmwind",
+            "maxMove": "Dynamax Cannon",
             "role": "healer",
             "dps": 126.6,
             "tdo": 10523.0,
@@ -8256,7 +8251,7 @@
             ],
             "fast": "Metal Claw",
             "charged": "Behemoth Blade",
-            "maxMove": "Max Steelspike",
+            "maxMove": "Behemoth Blade",
             "role": "attacker",
             "dps": 209.7,
             "tdo": 10677.0,
@@ -8363,11 +8358,11 @@
             ],
             "fast": "Dragon Tail",
             "charged": "Dynamax Cannon",
-            "maxMove": "Max Wyrmwind",
+            "maxMove": "Dynamax Cannon",
             "role": "healer",
-            "dps": 161.2,
-            "tdo": 10269.0,
-            "ttw": 63.7,
+            "dps": 161.4,
+            "tdo": 10296.0,
+            "ttw": 63.8,
             "faints": 0,
             "survivalRate": 100.0
           }
@@ -8409,9 +8404,9 @@
               "role": "healer",
               "fast": "Metal Claw",
               "charged": "Behemoth Bash",
-              "maxMove": "Max Steelspike",
-              "dps": 125.0,
-              "tdo": 10254.0
+              "maxMove": "Behemoth Bash",
+              "dps": 124.5,
+              "tdo": 10202.0
             }
           },
           "dodging": {
@@ -8450,9 +8445,9 @@
               "role": "healer",
               "fast": "Dragon Tail",
               "charged": "Dynamax Cannon",
-              "maxMove": "Max Wyrmwind",
-              "dps": 161.2,
-              "tdo": 10269.0
+              "maxMove": "Dynamax Cannon",
+              "dps": 161.4,
+              "tdo": 10296.0
             }
           }
         }
@@ -8477,7 +8472,7 @@
             ],
             "fast": "Metal Claw",
             "charged": "Behemoth Blade",
-            "maxMove": "Max Steelspike",
+            "maxMove": "Behemoth Blade",
             "role": "attacker",
             "dps": 62.8,
             "tdo": 8898.0,
@@ -8493,7 +8488,7 @@
             ],
             "fast": "Metal Claw",
             "charged": "Behemoth Bash",
-            "maxMove": "Max Steelspike",
+            "maxMove": "Behemoth Bash",
             "role": "attacker",
             "dps": 52.1,
             "tdo": 8769.0,
@@ -8683,7 +8678,7 @@
             ],
             "fast": "Metal Claw",
             "charged": "Behemoth Blade",
-            "maxMove": "Max Steelspike",
+            "maxMove": "Behemoth Blade",
             "role": "attacker",
             "dps": 45.1,
             "tdo": 17631.0,
@@ -8699,7 +8694,7 @@
             ],
             "fast": "Metal Claw",
             "charged": "Behemoth Bash",
-            "maxMove": "Max Steelspike",
+            "maxMove": "Behemoth Bash",
             "role": "attacker",
             "dps": 44.0,
             "tdo": 17626.0,
@@ -8862,7 +8857,7 @@
               "role": "attacker",
               "fast": "Metal Claw",
               "charged": "Behemoth Blade",
-              "maxMove": "Max Steelspike",
+              "maxMove": "Behemoth Blade",
               "dps": 62.8,
               "tdo": 8898.0
             },
@@ -8875,7 +8870,7 @@
               "role": "attacker",
               "fast": "Metal Claw",
               "charged": "Behemoth Bash",
-              "maxMove": "Max Steelspike",
+              "maxMove": "Behemoth Bash",
               "dps": 52.1,
               "tdo": 8769.0
             },
@@ -8918,7 +8913,7 @@
               "role": "attacker",
               "fast": "Metal Claw",
               "charged": "Behemoth Blade",
-              "maxMove": "Max Steelspike",
+              "maxMove": "Behemoth Blade",
               "dps": 45.1,
               "tdo": 17631.0
             },
@@ -8948,7 +8943,7 @@
             ],
             "fast": "Metal Claw",
             "charged": "Behemoth Blade",
-            "maxMove": "Max Steelspike",
+            "maxMove": "Behemoth Blade",
             "role": "attacker",
             "dps": 67.4,
             "tdo": 8955.0,
@@ -8964,11 +8959,11 @@
             ],
             "fast": "Metal Claw",
             "charged": "Behemoth Bash",
-            "maxMove": "Max Steelspike",
+            "maxMove": "Behemoth Bash",
             "role": "attacker",
             "dps": 56.6,
-            "tdo": 8924.0,
-            "ttw": 157.8,
+            "tdo": 8923.0,
+            "ttw": 157.5,
             "faints": 1,
             "survivalRate": 100.0
           },
@@ -9068,21 +9063,6 @@
             "survivalRate": 0.0
           },
           {
-            "name": "Zamazenta (Hero)",
-            "types": [
-              "Fighting"
-            ],
-            "fast": "Metal Claw",
-            "charged": "Iron Head",
-            "maxMove": "Max Steelspike",
-            "role": "tank",
-            "dps": 39.1,
-            "tdo": 5512.0,
-            "ttw": 208.1,
-            "faints": 3,
-            "survivalRate": 2.0
-          },
-          {
             "name": "Metagross",
             "types": [
               "Steel",
@@ -9127,6 +9107,22 @@
             "ttw": 227.1,
             "faints": 3,
             "survivalRate": 0.0
+          },
+          {
+            "name": "Charizard",
+            "types": [
+              "Fire",
+              "Flying"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Blast Burn",
+            "maxMove": "G-Max Wildfire",
+            "role": "attacker",
+            "dps": 40.2,
+            "tdo": 4028.0,
+            "ttw": 232.9,
+            "faints": 3,
+            "survivalRate": 0.0
           }
         ],
         "dodging": [
@@ -9138,7 +9134,7 @@
             ],
             "fast": "Metal Claw",
             "charged": "Behemoth Blade",
-            "maxMove": "Max Steelspike",
+            "maxMove": "Behemoth Blade",
             "role": "attacker",
             "dps": 55.2,
             "tdo": 17753.0,
@@ -9186,11 +9182,11 @@
             ],
             "fast": "Metal Claw",
             "charged": "Behemoth Bash",
-            "maxMove": "Max Steelspike",
+            "maxMove": "Behemoth Bash",
             "role": "attacker",
-            "dps": 46.7,
-            "tdo": 17608.0,
-            "ttw": 376.7,
+            "dps": 46.5,
+            "tdo": 17618.0,
+            "ttw": 379.3,
             "faints": 1,
             "survivalRate": 100.0
           },
@@ -9333,7 +9329,7 @@
               "role": "attacker",
               "fast": "Metal Claw",
               "charged": "Behemoth Blade",
-              "maxMove": "Max Steelspike",
+              "maxMove": "Behemoth Blade",
               "dps": 67.4,
               "tdo": 8955.0
             },
@@ -9346,21 +9342,22 @@
               "role": "attacker",
               "fast": "Metal Claw",
               "charged": "Behemoth Bash",
-              "maxMove": "Max Steelspike",
+              "maxMove": "Behemoth Bash",
               "dps": 56.6,
-              "tdo": 8924.0
+              "tdo": 8923.0
             },
             "slot3": {
-              "name": "Zamazenta (Hero)",
+              "name": "Metagross",
               "types": [
-                "Fighting"
+                "Steel",
+                "Psychic"
               ],
               "role": "tank",
-              "fast": "Metal Claw",
-              "charged": "Iron Head",
+              "fast": "Bullet Punch",
+              "charged": "Meteor Mash",
               "maxMove": "Max Steelspike",
-              "dps": 39.1,
-              "tdo": 5512.0
+              "dps": 39.8,
+              "tdo": 7404.0
             }
           },
           "dodging": {
@@ -9375,7 +9372,7 @@
               "role": "attacker",
               "fast": "Metal Claw",
               "charged": "Behemoth Blade",
-              "maxMove": "Max Steelspike",
+              "maxMove": "Behemoth Blade",
               "dps": 55.2,
               "tdo": 17753.0
             },
@@ -9459,13 +9456,13 @@
             ],
             "fast": "Poison Jab",
             "charged": "Dynamax Cannon",
-            "maxMove": "Max Ooze",
+            "maxMove": "Dynamax Cannon",
             "role": "tank",
-            "dps": 37.6,
-            "tdo": 7364.0,
-            "ttw": 226.5,
+            "dps": 37.2,
+            "tdo": 7216.0,
+            "ttw": 228.6,
             "faints": 3,
-            "survivalRate": 18.0
+            "survivalRate": 20.0
           },
           {
             "name": "Glaceon",
@@ -9562,22 +9559,6 @@
             "survivalRate": 0.0
           },
           {
-            "name": "Zamazenta (Crowned Shield)",
-            "types": [
-              "Fighting",
-              "Steel"
-            ],
-            "fast": "Ice Fang",
-            "charged": "Behemoth Bash",
-            "maxMove": "Max Hailstorm",
-            "role": "tank",
-            "dps": 33.3,
-            "tdo": 4967.0,
-            "ttw": 277.4,
-            "faints": 3,
-            "survivalRate": 0.0
-          },
-          {
             "name": "Snorlax",
             "types": [
               "Normal"
@@ -9605,6 +9586,21 @@
             "dps": 32.9,
             "tdo": 2468.0,
             "ttw": 280.9,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Darmanitan (Standard)",
+            "types": [
+              "Fire"
+            ],
+            "fast": "Tackle",
+            "charged": "Rock Slide",
+            "maxMove": "Max Strike",
+            "role": "attacker",
+            "dps": 32.1,
+            "tdo": 2565.0,
+            "ttw": 287.7,
             "faints": 3,
             "survivalRate": 0.0
           }
@@ -9704,22 +9700,6 @@
             "survivalRate": 0.0
           },
           {
-            "name": "Zamazenta (Crowned Shield)",
-            "types": [
-              "Fighting",
-              "Steel"
-            ],
-            "fast": "Ice Fang",
-            "charged": "Behemoth Bash",
-            "maxMove": "Max Hailstorm",
-            "role": "tank",
-            "dps": 32.7,
-            "tdo": 11184.0,
-            "ttw": 549.4,
-            "faints": 3,
-            "survivalRate": 0.0
-          },
-          {
             "name": "Kingler",
             "types": [
               "Water"
@@ -9790,11 +9770,26 @@
             ],
             "fast": "Poison Jab",
             "charged": "Dynamax Cannon",
-            "maxMove": "Max Ooze",
+            "maxMove": "Dynamax Cannon",
             "role": "tank",
-            "dps": 31.9,
-            "tdo": 13543.0,
-            "ttw": 563.5,
+            "dps": 31.8,
+            "tdo": 13567.0,
+            "ttw": 565.3,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Cinderace",
+            "types": [
+              "Fire"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Pyroball",
+            "maxMove": "G-Max Fireball",
+            "role": "attacker",
+            "dps": 29.2,
+            "tdo": 4498.0,
+            "ttw": 614.0,
             "faints": 3,
             "survivalRate": 0.0
           }
@@ -9837,9 +9832,9 @@
               "role": "tank",
               "fast": "Poison Jab",
               "charged": "Dynamax Cannon",
-              "maxMove": "Max Ooze",
-              "dps": 37.6,
-              "tdo": 7364.0
+              "maxMove": "Dynamax Cannon",
+              "dps": 37.2,
+              "tdo": 7216.0
             }
           },
           "dodging": {
@@ -9871,17 +9866,17 @@
               "tdo": 6778.0
             },
             "slot3": {
-              "name": "Zamazenta (Crowned Shield)",
+              "name": "Eternatus",
               "types": [
-                "Fighting",
-                "Steel"
+                "Poison",
+                "Dragon"
               ],
               "role": "tank",
-              "fast": "Ice Fang",
-              "charged": "Behemoth Bash",
-              "maxMove": "Max Hailstorm",
-              "dps": 32.7,
-              "tdo": 11184.0
+              "fast": "Poison Jab",
+              "charged": "Dynamax Cannon",
+              "maxMove": "Dynamax Cannon",
+              "dps": 31.8,
+              "tdo": 13567.0
             }
           }
         }
@@ -9942,13 +9937,13 @@
             ],
             "fast": "Dragon Tail",
             "charged": "Dynamax Cannon",
-            "maxMove": "Max Wyrmwind",
+            "maxMove": "Dynamax Cannon",
             "role": "tank",
-            "dps": 40.3,
-            "tdo": 8467.0,
-            "ttw": 216.5,
+            "dps": 39.9,
+            "tdo": 8281.0,
+            "ttw": 216.7,
             "faints": 2,
-            "survivalRate": 68.0
+            "survivalRate": 52.0
           },
           {
             "name": "Weavile",
@@ -10046,22 +10041,6 @@
             "survivalRate": 0.0
           },
           {
-            "name": "Zamazenta (Crowned Shield)",
-            "types": [
-              "Fighting",
-              "Steel"
-            ],
-            "fast": "Ice Fang",
-            "charged": "Behemoth Bash",
-            "maxMove": "Max Hailstorm",
-            "role": "tank",
-            "dps": 35.2,
-            "tdo": 5501.0,
-            "ttw": 263.7,
-            "faints": 3,
-            "survivalRate": 0.0
-          },
-          {
             "name": "Snorlax",
             "types": [
               "Normal"
@@ -10073,6 +10052,21 @@
             "dps": 35.1,
             "tdo": 5743.0,
             "ttw": 264.1,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Cinderace",
+            "types": [
+              "Fire"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Pyroball",
+            "maxMove": "G-Max Fireball",
+            "role": "attacker",
+            "dps": 34.8,
+            "tdo": 3680.0,
+            "ttw": 264.9,
             "faints": 3,
             "survivalRate": 0.0
           }
@@ -10210,27 +10204,11 @@
             ],
             "fast": "Dragon Tail",
             "charged": "Dynamax Cannon",
-            "maxMove": "Max Wyrmwind",
+            "maxMove": "Dynamax Cannon",
             "role": "tank",
             "dps": 34.2,
-            "tdo": 14741.0,
-            "ttw": 526.7,
-            "faints": 3,
-            "survivalRate": 0.0
-          },
-          {
-            "name": "Zamazenta (Crowned Shield)",
-            "types": [
-              "Fighting",
-              "Steel"
-            ],
-            "fast": "Ice Fang",
-            "charged": "Behemoth Bash",
-            "maxMove": "Max Hailstorm",
-            "role": "tank",
-            "dps": 34.0,
-            "tdo": 12562.0,
-            "ttw": 529.7,
+            "tdo": 14772.0,
+            "ttw": 526.2,
             "faints": 3,
             "survivalRate": 0.0
           },
@@ -10262,6 +10240,22 @@
             "dps": 32.2,
             "tdo": 6428.0,
             "ttw": 558.4,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Duraludon",
+            "types": [
+              "Steel",
+              "Dragon"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Dragon Claw",
+            "maxMove": "G-Max Depletion",
+            "role": "attacker",
+            "dps": 31.1,
+            "tdo": 11464.0,
+            "ttw": 577.5,
             "faints": 3,
             "survivalRate": 0.0
           }
@@ -10304,9 +10298,9 @@
               "role": "tank",
               "fast": "Dragon Tail",
               "charged": "Dynamax Cannon",
-              "maxMove": "Max Wyrmwind",
-              "dps": 40.3,
-              "tdo": 8467.0
+              "maxMove": "Dynamax Cannon",
+              "dps": 39.9,
+              "tdo": 8281.0
             }
           },
           "dodging": {
@@ -10346,9 +10340,9 @@
               "role": "tank",
               "fast": "Dragon Tail",
               "charged": "Dynamax Cannon",
-              "maxMove": "Max Wyrmwind",
+              "maxMove": "Dynamax Cannon",
               "dps": 34.2,
-              "tdo": 14741.0
+              "tdo": 14772.0
             }
           }
         }
@@ -10505,6 +10499,22 @@
             "survivalRate": 0.0
           },
           {
+            "name": "Eternatus",
+            "types": [
+              "Poison",
+              "Dragon"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Dynamax Cannon",
+            "maxMove": "Dynamax Cannon",
+            "role": "tank",
+            "dps": 37.5,
+            "tdo": 5578.0,
+            "ttw": 217.3,
+            "faints": 3,
+            "survivalRate": 2.0
+          },
+          {
             "name": "Raichu",
             "types": [
               "Electric"
@@ -10531,22 +10541,6 @@
             "dps": 39.5,
             "tdo": 2348.0,
             "ttw": 236.3,
-            "faints": 3,
-            "survivalRate": 0.0
-          },
-          {
-            "name": "Eternatus",
-            "types": [
-              "Poison",
-              "Dragon"
-            ],
-            "fast": "Dragon Tail",
-            "charged": "Dynamax Cannon",
-            "maxMove": "Max Wyrmwind",
-            "role": "tank",
-            "dps": 37.7,
-            "tdo": 5605.0,
-            "ttw": 247.0,
             "faints": 3,
             "survivalRate": 0.0
           }
@@ -10699,10 +10693,10 @@
             ],
             "fast": "Dragon Tail",
             "charged": "Dynamax Cannon",
-            "maxMove": "Max Wyrmwind",
+            "maxMove": "Dynamax Cannon",
             "role": "tank",
             "dps": 35.2,
-            "tdo": 12903.0,
+            "tdo": 12976.0,
             "ttw": 512.0,
             "faints": 3,
             "survivalRate": 0.0
@@ -10987,15 +10981,15 @@
               "Poison",
               "Dragon"
             ],
-            "fast": "Dragon Tail",
+            "fast": "Poison Jab",
             "charged": "Dynamax Cannon",
-            "maxMove": "Max Wyrmwind",
+            "maxMove": "Dynamax Cannon",
             "role": "tank",
-            "dps": 38.9,
-            "tdo": 6406.0,
-            "ttw": 217.2,
+            "dps": 39.0,
+            "tdo": 6502.0,
+            "ttw": 217.0,
             "faints": 3,
-            "survivalRate": 2.0
+            "survivalRate": 4.0
           },
           {
             "name": "Drizzile",
@@ -11161,11 +11155,11 @@
             ],
             "fast": "Poison Jab",
             "charged": "Dynamax Cannon",
-            "maxMove": "Max Ooze",
+            "maxMove": "Dynamax Cannon",
             "role": "tank",
-            "dps": 37.0,
-            "tdo": 13668.0,
-            "ttw": 488.5,
+            "dps": 37.1,
+            "tdo": 13705.0,
+            "ttw": 486.7,
             "faints": 3,
             "survivalRate": 0.0
           },
@@ -12289,7 +12283,7 @@
             ],
             "fast": "Metal Claw",
             "charged": "Behemoth Blade",
-            "maxMove": "Max Steelspike",
+            "maxMove": "Behemoth Blade",
             "role": "attacker",
             "dps": 61.1,
             "tdo": 13139.0,
@@ -12398,7 +12392,7 @@
             ],
             "fast": "Metal Claw",
             "charged": "Behemoth Bash",
-            "maxMove": "Max Steelspike",
+            "maxMove": "Behemoth Bash",
             "role": "tank",
             "dps": 49.7,
             "tdo": 10655.0,
@@ -12478,7 +12472,7 @@
             ],
             "fast": "Metal Claw",
             "charged": "Behemoth Blade",
-            "maxMove": "Max Steelspike",
+            "maxMove": "Behemoth Blade",
             "role": "attacker",
             "dps": 46.3,
             "tdo": 18100.0,
@@ -12555,7 +12549,7 @@
             ],
             "fast": "Dragon Tail",
             "charged": "Dynamax Cannon",
-            "maxMove": "Max Wyrmwind",
+            "maxMove": "Dynamax Cannon",
             "role": "tank",
             "dps": 41.6,
             "tdo": 18005.0,
@@ -12690,7 +12684,7 @@
               "role": "tank",
               "fast": "Dragon Tail",
               "charged": "Dynamax Cannon",
-              "maxMove": "Max Wyrmwind",
+              "maxMove": "Dynamax Cannon",
               "dps": 41.6,
               "tdo": 18005.0
             }
@@ -12722,7 +12716,7 @@
             ],
             "fast": "Metal Claw",
             "charged": "Behemoth Blade",
-            "maxMove": "Max Steelspike",
+            "maxMove": "Behemoth Blade",
             "role": "attacker",
             "dps": 64.7,
             "tdo": 14214.0,
@@ -12878,7 +12872,7 @@
             ],
             "fast": "Metal Claw",
             "charged": "Behemoth Bash",
-            "maxMove": "Max Steelspike",
+            "maxMove": "Behemoth Bash",
             "role": "tank",
             "dps": 52.7,
             "tdo": 14729.0,
@@ -12943,7 +12937,7 @@
             ],
             "fast": "Metal Claw",
             "charged": "Behemoth Blade",
-            "maxMove": "Max Steelspike",
+            "maxMove": "Behemoth Blade",
             "role": "attacker",
             "dps": 51.4,
             "tdo": 20830.0,
@@ -13020,7 +13014,7 @@
             ],
             "fast": "Metal Claw",
             "charged": "Behemoth Bash",
-            "maxMove": "Max Steelspike",
+            "maxMove": "Behemoth Bash",
             "role": "tank",
             "dps": 45.5,
             "tdo": 19284.0,
@@ -13052,7 +13046,7 @@
             ],
             "fast": "Poison Jab",
             "charged": "Dynamax Cannon",
-            "maxMove": "Max Ooze",
+            "maxMove": "Dynamax Cannon",
             "role": "tank",
             "dps": 44.2,
             "tdo": 19770.0,
@@ -13101,7 +13095,7 @@
               "role": "attacker",
               "fast": "Metal Claw",
               "charged": "Behemoth Blade",
-              "maxMove": "Max Steelspike",
+              "maxMove": "Behemoth Blade",
               "dps": 64.7,
               "tdo": 14214.0
             },
@@ -13156,7 +13150,7 @@
               "role": "tank",
               "fast": "Metal Claw",
               "charged": "Behemoth Bash",
-              "maxMove": "Max Steelspike",
+              "maxMove": "Behemoth Bash",
               "dps": 45.5,
               "tdo": 19284.0
             }
@@ -13352,11 +13346,11 @@
             ],
             "fast": "Dragon Tail",
             "charged": "Dynamax Cannon",
-            "maxMove": "Max Wyrmwind",
+            "maxMove": "Dynamax Cannon",
             "role": "tank",
-            "dps": 50.2,
-            "tdo": 10654.0,
-            "ttw": 373.7,
+            "dps": 50.1,
+            "tdo": 10207.0,
+            "ttw": 374.2,
             "faints": 3,
             "survivalRate": 0.0
           }
@@ -13812,11 +13806,11 @@
             ],
             "fast": "Poison Jab",
             "charged": "Dynamax Cannon",
-            "maxMove": "Max Ooze",
+            "maxMove": "Dynamax Cannon",
             "role": "tank",
             "dps": 52.6,
-            "tdo": 12577.0,
-            "ttw": 442.4,
+            "tdo": 12642.0,
+            "ttw": 442.7,
             "faints": 3,
             "survivalRate": 0.0
           }
@@ -13999,11 +13993,11 @@
             ],
             "fast": "Poison Jab",
             "charged": "Dynamax Cannon",
-            "maxMove": "Max Ooze",
+            "maxMove": "Dynamax Cannon",
             "role": "tank",
-            "dps": 41.7,
-            "tdo": 17172.0,
-            "ttw": 554.7,
+            "dps": 41.3,
+            "tdo": 17032.0,
+            "ttw": 560.4,
             "faints": 3,
             "survivalRate": 0.0
           }
@@ -14220,11 +14214,11 @@
             ],
             "fast": "Dragon Tail",
             "charged": "Dynamax Cannon",
-            "maxMove": "Max Wyrmwind",
+            "maxMove": "Dynamax Cannon",
             "role": "tank",
             "dps": 42.4,
-            "tdo": 15262.0,
-            "ttw": 545.7,
+            "tdo": 15071.0,
+            "ttw": 545.8,
             "faints": 3,
             "survivalRate": 0.0
           },
@@ -14379,11 +14373,11 @@
             ],
             "fast": "Dragon Tail",
             "charged": "Dynamax Cannon",
-            "maxMove": "Max Wyrmwind",
+            "maxMove": "Dynamax Cannon",
             "role": "tank",
-            "dps": 38.3,
-            "tdo": 17494.0,
-            "ttw": 601.9,
+            "dps": 38.5,
+            "tdo": 17427.0,
+            "ttw": 599.9,
             "faints": 3,
             "survivalRate": 0.0
           },
@@ -14449,22 +14443,6 @@
             "survivalRate": 0.0
           },
           {
-            "name": "Zacian (Crowned Sword)",
-            "types": [
-              "Fairy",
-              "Steel"
-            ],
-            "fast": "Air Slash",
-            "charged": "Giga Impact",
-            "maxMove": "Max Airstream",
-            "role": "attacker",
-            "dps": 29.4,
-            "tdo": 12417.0,
-            "ttw": 779.5,
-            "faints": 3,
-            "survivalRate": 0.0
-          },
-          {
             "name": "Duraludon",
             "types": [
               "Steel",
@@ -14477,6 +14455,22 @@
             "dps": 28.1,
             "tdo": 11725.0,
             "ttw": 816.2,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Gardevoir",
+            "types": [
+              "Psychic",
+              "Fairy"
+            ],
+            "fast": "Magical Leaf",
+            "charged": "Psychic",
+            "maxMove": "Max Overgrowth",
+            "role": "attacker",
+            "dps": 28.1,
+            "tdo": 10105.0,
+            "ttw": 816.6,
             "faints": 3,
             "survivalRate": 0.0
           }
@@ -14520,9 +14514,9 @@
               "role": "tank",
               "fast": "Dragon Tail",
               "charged": "Dynamax Cannon",
-              "maxMove": "Max Wyrmwind",
+              "maxMove": "Dynamax Cannon",
               "dps": 42.4,
-              "tdo": 15262.0
+              "tdo": 15071.0
             }
           },
           "dodging": {
@@ -14562,9 +14556,9 @@
               "role": "tank",
               "fast": "Dragon Tail",
               "charged": "Dynamax Cannon",
-              "maxMove": "Max Wyrmwind",
-              "dps": 38.3,
-              "tdo": 17494.0
+              "maxMove": "Dynamax Cannon",
+              "dps": 38.5,
+              "tdo": 17427.0
             }
           }
         }
@@ -14687,11 +14681,11 @@
             ],
             "fast": "Poison Jab",
             "charged": "Dynamax Cannon",
-            "maxMove": "Max Ooze",
+            "maxMove": "Dynamax Cannon",
             "role": "tank",
-            "dps": 45.2,
-            "tdo": 16826.0,
-            "ttw": 512.3,
+            "dps": 45.3,
+            "tdo": 16964.0,
+            "ttw": 511.3,
             "faints": 3,
             "survivalRate": 0.0
           },
@@ -14846,11 +14840,11 @@
             ],
             "fast": "Poison Jab",
             "charged": "Dynamax Cannon",
-            "maxMove": "Max Ooze",
+            "maxMove": "Dynamax Cannon",
             "role": "tank",
             "dps": 41.1,
-            "tdo": 19053.0,
-            "ttw": 562.1,
+            "tdo": 19058.0,
+            "ttw": 562.3,
             "faints": 3,
             "survivalRate": 0.0
           },
@@ -14916,22 +14910,6 @@
             "survivalRate": 0.0
           },
           {
-            "name": "Zacian (Crowned Sword)",
-            "types": [
-              "Fairy",
-              "Steel"
-            ],
-            "fast": "Air Slash",
-            "charged": "Giga Impact",
-            "maxMove": "Max Airstream",
-            "role": "attacker",
-            "dps": 32.4,
-            "tdo": 13734.0,
-            "ttw": 710.5,
-            "faints": 3,
-            "survivalRate": 0.0
-          },
-          {
             "name": "Metagross",
             "types": [
               "Steel",
@@ -14944,6 +14922,22 @@
             "dps": 31.9,
             "tdo": 13842.0,
             "ttw": 719.4,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Duraludon",
+            "types": [
+              "Steel",
+              "Dragon"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Flash Cannon",
+            "maxMove": "G-Max Depletion",
+            "role": "attacker",
+            "dps": 30.6,
+            "tdo": 12964.0,
+            "ttw": 749.9,
             "faints": 3,
             "survivalRate": 0.0
           }
@@ -14987,9 +14981,9 @@
               "role": "tank",
               "fast": "Poison Jab",
               "charged": "Dynamax Cannon",
-              "maxMove": "Max Ooze",
-              "dps": 45.2,
-              "tdo": 16826.0
+              "maxMove": "Dynamax Cannon",
+              "dps": 45.3,
+              "tdo": 16964.0
             }
           },
           "dodging": {
@@ -15029,9 +15023,9 @@
               "role": "tank",
               "fast": "Poison Jab",
               "charged": "Dynamax Cannon",
-              "maxMove": "Max Ooze",
+              "maxMove": "Dynamax Cannon",
               "dps": 41.1,
-              "tdo": 19053.0
+              "tdo": 19058.0
             }
           }
         }
@@ -15072,7 +15066,7 @@
             ],
             "fast": "Metal Claw",
             "charged": "Behemoth Blade",
-            "maxMove": "Max Steelspike",
+            "maxMove": "Behemoth Blade",
             "role": "attacker",
             "dps": 76.7,
             "tdo": 17928.0,
@@ -15166,7 +15160,7 @@
             ],
             "fast": "Metal Claw",
             "charged": "Behemoth Bash",
-            "maxMove": "Max Steelspike",
+            "maxMove": "Behemoth Bash",
             "role": "tank",
             "dps": 61.0,
             "tdo": 10397.0,
@@ -15248,7 +15242,7 @@
             ],
             "fast": "Metal Claw",
             "charged": "Behemoth Blade",
-            "maxMove": "Max Steelspike",
+            "maxMove": "Behemoth Blade",
             "role": "attacker",
             "dps": 65.2,
             "tdo": 22606.0,
@@ -15311,7 +15305,7 @@
             ],
             "fast": "Metal Claw",
             "charged": "Behemoth Bash",
-            "maxMove": "Max Steelspike",
+            "maxMove": "Behemoth Bash",
             "role": "attacker",
             "dps": 52.9,
             "tdo": 22188.0,
@@ -15422,7 +15416,7 @@
             ],
             "fast": "Dragon Tail",
             "charged": "Dynamax Cannon",
-            "maxMove": "Max Wyrmwind",
+            "maxMove": "Dynamax Cannon",
             "role": "tank",
             "dps": 42.2,
             "tdo": 17174.0,
@@ -15457,7 +15451,7 @@
               "role": "attacker",
               "fast": "Metal Claw",
               "charged": "Behemoth Blade",
-              "maxMove": "Max Steelspike",
+              "maxMove": "Behemoth Blade",
               "dps": 76.7,
               "tdo": 17928.0
             },
@@ -15470,7 +15464,7 @@
               "role": "tank",
               "fast": "Metal Claw",
               "charged": "Behemoth Bash",
-              "maxMove": "Max Steelspike",
+              "maxMove": "Behemoth Bash",
               "dps": 61.0,
               "tdo": 10397.0
             }
@@ -15487,7 +15481,7 @@
               "role": "attacker",
               "fast": "Metal Claw",
               "charged": "Behemoth Blade",
-              "maxMove": "Max Steelspike",
+              "maxMove": "Behemoth Blade",
               "dps": 65.2,
               "tdo": 22606.0
             },
@@ -15546,7 +15540,7 @@
             ],
             "fast": "Metal Claw",
             "charged": "Behemoth Blade",
-            "maxMove": "Max Steelspike",
+            "maxMove": "Behemoth Blade",
             "role": "attacker",
             "dps": 79.4,
             "tdo": 13716.0,
@@ -15624,7 +15618,7 @@
             ],
             "fast": "Metal Claw",
             "charged": "Behemoth Bash",
-            "maxMove": "Max Steelspike",
+            "maxMove": "Behemoth Bash",
             "role": "tank",
             "dps": 65.9,
             "tdo": 15556.0,
@@ -15704,7 +15698,7 @@
             ],
             "fast": "Dragon Tail",
             "charged": "Dynamax Cannon",
-            "maxMove": "Max Wyrmwind",
+            "maxMove": "Dynamax Cannon",
             "role": "tank",
             "dps": 59.5,
             "tdo": 13871.0,
@@ -15722,7 +15716,7 @@
             ],
             "fast": "Metal Claw",
             "charged": "Behemoth Blade",
-            "maxMove": "Max Steelspike",
+            "maxMove": "Behemoth Blade",
             "role": "attacker",
             "dps": 70.1,
             "tdo": 22645.0,
@@ -15801,7 +15795,7 @@
             ],
             "fast": "Metal Claw",
             "charged": "Behemoth Bash",
-            "maxMove": "Max Steelspike",
+            "maxMove": "Behemoth Bash",
             "role": "attacker",
             "dps": 56.9,
             "tdo": 22637.0,
@@ -15896,7 +15890,7 @@
             ],
             "fast": "Dragon Tail",
             "charged": "Dynamax Cannon",
-            "maxMove": "Max Wyrmwind",
+            "maxMove": "Dynamax Cannon",
             "role": "tank",
             "dps": 45.9,
             "tdo": 18765.0,
@@ -15931,7 +15925,7 @@
               "role": "attacker",
               "fast": "Metal Claw",
               "charged": "Behemoth Blade",
-              "maxMove": "Max Steelspike",
+              "maxMove": "Behemoth Blade",
               "dps": 79.4,
               "tdo": 13716.0
             },
@@ -15944,7 +15938,7 @@
               "role": "tank",
               "fast": "Metal Claw",
               "charged": "Behemoth Bash",
-              "maxMove": "Max Steelspike",
+              "maxMove": "Behemoth Bash",
               "dps": 65.9,
               "tdo": 15556.0
             }
@@ -15961,7 +15955,7 @@
               "role": "attacker",
               "fast": "Metal Claw",
               "charged": "Behemoth Blade",
-              "maxMove": "Max Steelspike",
+              "maxMove": "Behemoth Blade",
               "dps": 70.1,
               "tdo": 22645.0
             },
@@ -16655,11 +16649,11 @@
             ],
             "fast": "Dragon Tail",
             "charged": "Dynamax Cannon",
-            "maxMove": "Max Wyrmwind",
+            "maxMove": "Dynamax Cannon",
             "role": "tank",
             "dps": 53.6,
-            "tdo": 12303.0,
-            "ttw": 853.8,
+            "tdo": 12383.0,
+            "ttw": 854.9,
             "faints": 3,
             "survivalRate": 0.0
           }
