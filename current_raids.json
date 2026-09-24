@@ -1,6 +1,15 @@
 {
   "bosses": [
     {
+      "name": "Bagon",
+      "tier": "T1",
+      "types": [
+        "Dragon"
+      ],
+      "cp20": 660,
+      "cp25": 826
+    },
+    {
       "name": "Buzzwole",
       "tier": "T5",
       "types": [
@@ -11,14 +20,43 @@
       "cp25": 2471
     },
     {
-      "name": "Charizard wearing Friede's goggles",
+      "name": "Decidueye (Hisuian)",
       "tier": "T3",
       "types": [
-        "Fire",
-        "Flying"
+        "Grass",
+        "Fighting"
       ],
-      "cp20": 1651,
-      "cp25": 2063
+      "cp20": 1655,
+      "cp25": 2069
+    },
+    {
+      "name": "Deino",
+      "tier": "T1",
+      "types": [
+        "Dark",
+        "Dragon"
+      ],
+      "cp20": 606,
+      "cp25": 758
+    },
+    {
+      "name": "Dratini",
+      "tier": "T1",
+      "types": [
+        "Dragon"
+      ],
+      "cp20": 574,
+      "cp25": 717
+    },
+    {
+      "name": "Larvitar",
+      "tier": "T1",
+      "types": [
+        "Rock",
+        "Ground"
+      ],
+      "cp20": 594,
+      "cp25": 743
     },
     {
       "name": "Malamar (Mega)",
@@ -31,16 +69,6 @@
       "cp25": 1684
     },
     {
-      "name": "Meowscarada",
-      "tier": "T3",
-      "types": [
-        "Grass",
-        "Dark"
-      ],
-      "cp20": 1614,
-      "cp25": 2017
-    },
-    {
       "name": "Pheromosa",
       "tier": "T5",
       "types": [
@@ -51,14 +79,14 @@
       "cp25": 2029
     },
     {
-      "name": "Quaquaval",
+      "name": "Samurott (Hisuian)",
       "tier": "T3",
       "types": [
         "Water",
-        "Fighting"
+        "Dark"
       ],
-      "cp20": 1724,
-      "cp25": 2155
+      "cp20": 1601,
+      "cp25": 2001
     },
     {
       "name": "Shadow Bagon",
@@ -138,14 +166,14 @@
       "cp25": 781
     },
     {
-      "name": "Skeledirge",
+      "name": "Typhlosion (Hisuian)",
       "tier": "T3",
       "types": [
         "Fire",
         "Ghost"
       ],
-      "cp20": 1729,
-      "cp25": 2162
+      "cp20": 1710,
+      "cp25": 2138
     },
     {
       "name": "Xurkitree",
