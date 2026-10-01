@@ -1,62 +1,52 @@
 {
   "bosses": [
     {
-      "name": "Bagon",
+      "name": "Combee",
       "tier": "T1",
       "types": [
-        "Dragon"
+        "Bug",
+        "Flying"
       ],
-      "cp20": 660,
-      "cp25": 826
+      "cp20": 282,
+      "cp25": 353
     },
     {
-      "name": "Decidueye (Hisuian)",
+      "name": "Dondozo",
+      "tier": "T3",
+      "types": [
+        "Water"
+      ],
+      "cp20": 1712,
+      "cp25": 2140
+    },
+    {
+      "name": "Honedge",
+      "tier": "T1",
+      "types": [
+        "Steel",
+        "Ghost"
+      ],
+      "cp20": 794,
+      "cp25": 992
+    },
+    {
+      "name": "Lilligant (Hisuian)",
       "tier": "T3",
       "types": [
         "Grass",
         "Fighting"
       ],
-      "cp20": 1655,
-      "cp25": 2069
+      "cp20": 1435,
+      "cp25": 1794
     },
     {
-      "name": "Deino",
-      "tier": "T1",
-      "types": [
-        "Dark",
-        "Dragon"
-      ],
-      "cp20": 606,
-      "cp25": 758
-    },
-    {
-      "name": "Dratini",
-      "tier": "T1",
-      "types": [
-        "Dragon"
-      ],
-      "cp20": 574,
-      "cp25": 717
-    },
-    {
-      "name": "Larvitar",
-      "tier": "T1",
-      "types": [
-        "Rock",
-        "Ground"
-      ],
-      "cp20": 594,
-      "cp25": 743
-    },
-    {
-      "name": "Samurott (Hisuian)",
+      "name": "Miltank",
       "tier": "T3",
       "types": [
-        "Water",
-        "Dark"
+        "Normal"
       ],
-      "cp20": 1601,
-      "cp25": 2001
+      "cp20": 1345,
+      "cp25": 1681
     },
     {
       "name": "Shadow Bagon",
@@ -136,16 +126,6 @@
       "cp25": 781
     },
     {
-      "name": "Typhlosion (Hisuian)",
-      "tier": "T3",
-      "types": [
-        "Fire",
-        "Ghost"
-      ],
-      "cp20": 1710,
-      "cp25": 2138
-    },
-    {
       "name": "Victreebel (Mega)",
       "tier": "Mega",
       "types": [
@@ -163,6 +143,16 @@
       ],
       "cp20": 2160,
       "cp25": 2700
+    },
+    {
+      "name": "Zigzagoon (Galarian)",
+      "tier": "T1",
+      "types": [
+        "Dark",
+        "Normal"
+      ],
+      "cp20": 290,
+      "cp25": 363
     }
   ]
 }
