@@ -1,6 +1,15 @@
 {
   "bosses": [
     {
+      "name": "Blastoise (Mega)",
+      "tier": "Mega",
+      "types": [
+        "Water"
+      ],
+      "cp20": 1409,
+      "cp25": 1761
+    },
+    {
       "name": "Dondozo",
       "tier": "T3",
       "types": [
@@ -56,6 +65,16 @@
       ],
       "cp20": 976,
       "cp25": 1220
+    },
+    {
+      "name": "Shadow Landorus (Incarnate)",
+      "tier": "Shadow T5",
+      "types": [
+        "Ground",
+        "Flying"
+      ],
+      "cp20": 2050,
+      "cp25": 2563
     },
     {
       "name": "Shadow Machop",
@@ -120,6 +139,16 @@
       "tier": "T5",
       "types": [
         "Fairy"
+      ],
+      "cp20": 2160,
+      "cp25": 2700
+    },
+    {
+      "name": "Yveltal",
+      "tier": "T5",
+      "types": [
+        "Dark",
+        "Flying"
       ],
       "cp20": 2160,
       "cp25": 2700
