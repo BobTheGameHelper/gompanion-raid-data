@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T04:01:56.239342Z",
+  "generated_at": "2026-10-11T04:01:56.130892Z",
   "bosses": {
     "Bulbasaur": {
       "types": [
@@ -19756,6 +19756,949 @@
               "maxMove": "G-Max Replenish",
               "dps": 44.3,
               "tdo": 18014.0
+            }
+          }
+        }
+      }
+    },
+    "Rookidee": {
+      "types": [
+        "Flying"
+      ],
+      "tier": "D-Max T1",
+      "cpStandard": 380,
+      "cpBoosted": 476,
+      "strategy_guide": "Rookidee is a Flying-type Max Battle boss. Build a team of strong Max Attackers with super-effective Max Moves. Coordinate Max Meter charging with fast attacks, swap to a defensive tank when targeted, and unleash Max Phase attacks.",
+      "l40": {
+        "standard": [
+          {
+            "name": "Zapdos",
+            "types": [
+              "Electric",
+              "Flying"
+            ],
+            "fast": "Thunder Shock",
+            "charged": "Thunderbolt",
+            "maxMove": "Max Lightning",
+            "role": "attacker",
+            "dps": 464.8,
+            "tdo": 1859.0,
+            "ttw": 4.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Weavile",
+            "types": [
+              "Dark",
+              "Ice"
+            ],
+            "fast": "Snarl",
+            "charged": "Avalanche",
+            "maxMove": "Max Darkness",
+            "role": "attacker",
+            "dps": 448.3,
+            "tdo": 1793.0,
+            "ttw": 4.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Jolteon",
+            "types": [
+              "Electric"
+            ],
+            "fast": "Thunder Shock",
+            "charged": "Thunderbolt",
+            "maxMove": "Max Lightning",
+            "role": "tank",
+            "dps": 426.8,
+            "tdo": 1707.0,
+            "ttw": 4.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Glaceon",
+            "types": [
+              "Ice"
+            ],
+            "fast": "Frost Breath",
+            "charged": "Icy Wind",
+            "maxMove": "Max Hailstorm",
+            "role": "tank",
+            "dps": 425.8,
+            "tdo": 1703.0,
+            "ttw": 4.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Rhyperior",
+            "types": [
+              "Ground",
+              "Rock"
+            ],
+            "fast": "Smack Down",
+            "charged": "Rock Wrecker",
+            "maxMove": "Max Rockfall",
+            "role": "attacker",
+            "dps": 1457.1,
+            "tdo": 6557.0,
+            "ttw": 4.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Gigalith",
+            "types": [
+              "Rock"
+            ],
+            "fast": "Smack Down",
+            "charged": "Meteor Beam",
+            "maxMove": "Max Rockfall",
+            "role": "attacker",
+            "dps": 1371.8,
+            "tdo": 6173.0,
+            "ttw": 4.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Darmanitan (Galarian Standard)",
+            "types": [
+              "Ice"
+            ],
+            "fast": "Ice Fang",
+            "charged": "Avalanche",
+            "maxMove": "Max Hailstorm",
+            "role": "attacker",
+            "dps": 461.3,
+            "tdo": 2076.0,
+            "ttw": 4.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Toxtricity",
+            "types": [
+              "Electric",
+              "Poison"
+            ],
+            "fast": "Spark",
+            "charged": "Wild Charge",
+            "maxMove": "G-Max Stun Shock",
+            "role": "tank",
+            "dps": 412.9,
+            "tdo": 1858.0,
+            "ttw": 4.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Zamazenta (Crowned Shield)",
+            "types": [
+              "Fighting",
+              "Steel"
+            ],
+            "fast": "Ice Fang",
+            "charged": "Behemoth Bash",
+            "maxMove": "Behemoth Bash",
+            "role": "healer",
+            "dps": 393.3,
+            "tdo": 1770.0,
+            "ttw": 4.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Zacian (Crowned Sword)",
+            "types": [
+              "Fairy",
+              "Steel"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Play Rough",
+            "maxMove": "Behemoth Blade",
+            "role": "tank",
+            "dps": 402.8,
+            "tdo": 2014.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Omastar",
+            "types": [
+              "Rock",
+              "Water"
+            ],
+            "fast": "Rock Throw",
+            "charged": "Ancient Power",
+            "maxMove": "Max Rockfall",
+            "role": "tank",
+            "dps": 370.8,
+            "tdo": 1854.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Articuno",
+            "types": [
+              "Ice",
+              "Flying"
+            ],
+            "fast": "Ice Shard",
+            "charged": "Ice Beam",
+            "maxMove": "Max Hailstorm",
+            "role": "tank",
+            "dps": 370.6,
+            "tdo": 1853.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          }
+        ],
+        "dodging": [
+          {
+            "name": "Zapdos",
+            "types": [
+              "Electric",
+              "Flying"
+            ],
+            "fast": "Thunder Shock",
+            "charged": "Thunderbolt",
+            "maxMove": "Max Lightning",
+            "role": "attacker",
+            "dps": 464.8,
+            "tdo": 1859.0,
+            "ttw": 4.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Weavile",
+            "types": [
+              "Dark",
+              "Ice"
+            ],
+            "fast": "Snarl",
+            "charged": "Avalanche",
+            "maxMove": "Max Darkness",
+            "role": "attacker",
+            "dps": 448.3,
+            "tdo": 1793.0,
+            "ttw": 4.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Jolteon",
+            "types": [
+              "Electric"
+            ],
+            "fast": "Thunder Shock",
+            "charged": "Thunderbolt",
+            "maxMove": "Max Lightning",
+            "role": "tank",
+            "dps": 426.8,
+            "tdo": 1707.0,
+            "ttw": 4.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Glaceon",
+            "types": [
+              "Ice"
+            ],
+            "fast": "Frost Breath",
+            "charged": "Icy Wind",
+            "maxMove": "Max Hailstorm",
+            "role": "tank",
+            "dps": 425.8,
+            "tdo": 1703.0,
+            "ttw": 4.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Rhyperior",
+            "types": [
+              "Ground",
+              "Rock"
+            ],
+            "fast": "Smack Down",
+            "charged": "Rock Wrecker",
+            "maxMove": "Max Rockfall",
+            "role": "attacker",
+            "dps": 1457.1,
+            "tdo": 6557.0,
+            "ttw": 4.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Gigalith",
+            "types": [
+              "Rock"
+            ],
+            "fast": "Smack Down",
+            "charged": "Rock Slide",
+            "maxMove": "Max Rockfall",
+            "role": "attacker",
+            "dps": 1371.8,
+            "tdo": 6173.0,
+            "ttw": 4.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Darmanitan (Galarian Standard)",
+            "types": [
+              "Ice"
+            ],
+            "fast": "Ice Fang",
+            "charged": "Avalanche",
+            "maxMove": "Max Hailstorm",
+            "role": "attacker",
+            "dps": 461.3,
+            "tdo": 2076.0,
+            "ttw": 4.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Toxtricity",
+            "types": [
+              "Electric",
+              "Poison"
+            ],
+            "fast": "Spark",
+            "charged": "Wild Charge",
+            "maxMove": "G-Max Stun Shock",
+            "role": "tank",
+            "dps": 412.9,
+            "tdo": 1858.0,
+            "ttw": 4.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Zamazenta (Crowned Shield)",
+            "types": [
+              "Fighting",
+              "Steel"
+            ],
+            "fast": "Ice Fang",
+            "charged": "Behemoth Bash",
+            "maxMove": "Behemoth Bash",
+            "role": "healer",
+            "dps": 393.3,
+            "tdo": 1770.0,
+            "ttw": 4.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Zacian (Crowned Sword)",
+            "types": [
+              "Fairy",
+              "Steel"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Play Rough",
+            "maxMove": "Behemoth Blade",
+            "role": "tank",
+            "dps": 402.8,
+            "tdo": 2014.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Omastar",
+            "types": [
+              "Rock",
+              "Water"
+            ],
+            "fast": "Rock Throw",
+            "charged": "Ancient Power",
+            "maxMove": "Max Rockfall",
+            "role": "tank",
+            "dps": 370.8,
+            "tdo": 1854.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Articuno",
+            "types": [
+              "Ice",
+              "Flying"
+            ],
+            "fast": "Ice Shard",
+            "charged": "Ice Beam",
+            "maxMove": "Max Hailstorm",
+            "role": "tank",
+            "dps": 370.6,
+            "tdo": 1853.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          }
+        ],
+        "team_composition": {
+          "standard": {
+            "min_players_needed": 1,
+            "strategy_label": "1 Attacker + 1 Tank + 1 Healer",
+            "slot1": {
+              "name": "Zapdos",
+              "types": [
+                "Electric",
+                "Flying"
+              ],
+              "role": "attacker",
+              "fast": "Thunder Shock",
+              "charged": "Thunderbolt",
+              "maxMove": "Max Lightning",
+              "dps": 464.8,
+              "tdo": 1859.0
+            },
+            "slot2": {
+              "name": "Jolteon",
+              "types": [
+                "Electric"
+              ],
+              "role": "tank",
+              "fast": "Thunder Shock",
+              "charged": "Thunderbolt",
+              "maxMove": "Max Lightning",
+              "dps": 426.8,
+              "tdo": 1707.0
+            },
+            "slot3": {
+              "name": "Zamazenta (Crowned Shield)",
+              "types": [
+                "Fighting",
+                "Steel"
+              ],
+              "role": "healer",
+              "fast": "Ice Fang",
+              "charged": "Behemoth Bash",
+              "maxMove": "Behemoth Bash",
+              "dps": 393.3,
+              "tdo": 1770.0
+            }
+          },
+          "dodging": {
+            "min_players_needed": 1,
+            "strategy_label": "1 Attacker + 1 Tank + 1 Healer",
+            "slot1": {
+              "name": "Zapdos",
+              "types": [
+                "Electric",
+                "Flying"
+              ],
+              "role": "attacker",
+              "fast": "Thunder Shock",
+              "charged": "Thunderbolt",
+              "maxMove": "Max Lightning",
+              "dps": 464.8,
+              "tdo": 1859.0
+            },
+            "slot2": {
+              "name": "Jolteon",
+              "types": [
+                "Electric"
+              ],
+              "role": "tank",
+              "fast": "Thunder Shock",
+              "charged": "Thunderbolt",
+              "maxMove": "Max Lightning",
+              "dps": 426.8,
+              "tdo": 1707.0
+            },
+            "slot3": {
+              "name": "Zamazenta (Crowned Shield)",
+              "types": [
+                "Fighting",
+                "Steel"
+              ],
+              "role": "healer",
+              "fast": "Ice Fang",
+              "charged": "Behemoth Bash",
+              "maxMove": "Behemoth Bash",
+              "dps": 393.3,
+              "tdo": 1770.0
+            }
+          }
+        }
+      },
+      "l50": {
+        "standard": [
+          {
+            "name": "Zapdos",
+            "types": [
+              "Electric",
+              "Flying"
+            ],
+            "fast": "Thunder Shock",
+            "charged": "Thunderbolt",
+            "maxMove": "Max Lightning",
+            "role": "attacker",
+            "dps": 493.8,
+            "tdo": 1975.0,
+            "ttw": 4.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Weavile",
+            "types": [
+              "Dark",
+              "Ice"
+            ],
+            "fast": "Snarl",
+            "charged": "Avalanche",
+            "maxMove": "Max Darkness",
+            "role": "tank",
+            "dps": 476.8,
+            "tdo": 1907.0,
+            "ttw": 4.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Jolteon",
+            "types": [
+              "Electric"
+            ],
+            "fast": "Thunder Shock",
+            "charged": "Thunderbolt",
+            "maxMove": "Max Lightning",
+            "role": "tank",
+            "dps": 454.0,
+            "tdo": 1816.0,
+            "ttw": 4.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Glaceon",
+            "types": [
+              "Ice"
+            ],
+            "fast": "Frost Breath",
+            "charged": "Icy Wind",
+            "maxMove": "Max Hailstorm",
+            "role": "tank",
+            "dps": 452.8,
+            "tdo": 1811.0,
+            "ttw": 4.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Zacian (Hero)",
+            "types": [
+              "Fairy"
+            ],
+            "fast": "Snarl",
+            "charged": "Wild Charge",
+            "maxMove": "Max Darkness",
+            "role": "tank",
+            "dps": 433.0,
+            "tdo": 1732.0,
+            "ttw": 4.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Rhyperior",
+            "types": [
+              "Ground",
+              "Rock"
+            ],
+            "fast": "Smack Down",
+            "charged": "Super Power",
+            "maxMove": "Max Rockfall",
+            "role": "attacker",
+            "dps": 1549.3,
+            "tdo": 6972.0,
+            "ttw": 4.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Gigalith",
+            "types": [
+              "Rock"
+            ],
+            "fast": "Smack Down",
+            "charged": "Rock Slide",
+            "maxMove": "Max Rockfall",
+            "role": "attacker",
+            "dps": 1458.4,
+            "tdo": 6563.0,
+            "ttw": 4.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Omastar",
+            "types": [
+              "Rock",
+              "Water"
+            ],
+            "fast": "Rock Throw",
+            "charged": "Hydro Pump",
+            "maxMove": "Max Rockfall",
+            "role": "attacker",
+            "dps": 1343.6,
+            "tdo": 6046.0,
+            "ttw": 4.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Darmanitan (Galarian Standard)",
+            "types": [
+              "Ice"
+            ],
+            "fast": "Ice Fang",
+            "charged": "Avalanche",
+            "maxMove": "Max Hailstorm",
+            "role": "attacker",
+            "dps": 490.4,
+            "tdo": 2207.0,
+            "ttw": 4.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Toxtricity",
+            "types": [
+              "Electric",
+              "Poison"
+            ],
+            "fast": "Spark",
+            "charged": "Wild Charge",
+            "maxMove": "G-Max Stun Shock",
+            "role": "tank",
+            "dps": 439.6,
+            "tdo": 1978.0,
+            "ttw": 4.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Zamazenta (Crowned Shield)",
+            "types": [
+              "Fighting",
+              "Steel"
+            ],
+            "fast": "Ice Fang",
+            "charged": "Behemoth Bash",
+            "maxMove": "Behemoth Bash",
+            "role": "healer",
+            "dps": 417.8,
+            "tdo": 1880.0,
+            "ttw": 4.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Raichu",
+            "types": [
+              "Electric"
+            ],
+            "fast": "Volt Switch",
+            "charged": "Wild Charge",
+            "maxMove": "Max Lightning",
+            "role": "tank",
+            "dps": 391.6,
+            "tdo": 1762.0,
+            "ttw": 4.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          }
+        ],
+        "dodging": [
+          {
+            "name": "Zapdos",
+            "types": [
+              "Electric",
+              "Flying"
+            ],
+            "fast": "Thunder Shock",
+            "charged": "Thunderbolt",
+            "maxMove": "Max Lightning",
+            "role": "attacker",
+            "dps": 493.8,
+            "tdo": 1975.0,
+            "ttw": 4.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Weavile",
+            "types": [
+              "Dark",
+              "Ice"
+            ],
+            "fast": "Snarl",
+            "charged": "Avalanche",
+            "maxMove": "Max Darkness",
+            "role": "tank",
+            "dps": 476.8,
+            "tdo": 1907.0,
+            "ttw": 4.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Jolteon",
+            "types": [
+              "Electric"
+            ],
+            "fast": "Thunder Shock",
+            "charged": "Thunderbolt",
+            "maxMove": "Max Lightning",
+            "role": "tank",
+            "dps": 454.0,
+            "tdo": 1816.0,
+            "ttw": 4.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Glaceon",
+            "types": [
+              "Ice"
+            ],
+            "fast": "Frost Breath",
+            "charged": "Icy Wind",
+            "maxMove": "Max Hailstorm",
+            "role": "tank",
+            "dps": 452.8,
+            "tdo": 1811.0,
+            "ttw": 4.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Zacian (Hero)",
+            "types": [
+              "Fairy"
+            ],
+            "fast": "Snarl",
+            "charged": "Wild Charge",
+            "maxMove": "Max Darkness",
+            "role": "tank",
+            "dps": 433.0,
+            "tdo": 1732.0,
+            "ttw": 4.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Rhyperior",
+            "types": [
+              "Ground",
+              "Rock"
+            ],
+            "fast": "Smack Down",
+            "charged": "Earthquake",
+            "maxMove": "Max Rockfall",
+            "role": "attacker",
+            "dps": 1549.3,
+            "tdo": 6972.0,
+            "ttw": 4.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Gigalith",
+            "types": [
+              "Rock"
+            ],
+            "fast": "Smack Down",
+            "charged": "Super Power",
+            "maxMove": "Max Rockfall",
+            "role": "attacker",
+            "dps": 1458.4,
+            "tdo": 6563.0,
+            "ttw": 4.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Omastar",
+            "types": [
+              "Rock",
+              "Water"
+            ],
+            "fast": "Rock Throw",
+            "charged": "Rock Slide",
+            "maxMove": "Max Rockfall",
+            "role": "attacker",
+            "dps": 1343.6,
+            "tdo": 6046.0,
+            "ttw": 4.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Darmanitan (Galarian Standard)",
+            "types": [
+              "Ice"
+            ],
+            "fast": "Ice Fang",
+            "charged": "Avalanche",
+            "maxMove": "Max Hailstorm",
+            "role": "attacker",
+            "dps": 490.4,
+            "tdo": 2207.0,
+            "ttw": 4.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Toxtricity",
+            "types": [
+              "Electric",
+              "Poison"
+            ],
+            "fast": "Spark",
+            "charged": "Wild Charge",
+            "maxMove": "G-Max Stun Shock",
+            "role": "tank",
+            "dps": 439.6,
+            "tdo": 1978.0,
+            "ttw": 4.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Zamazenta (Crowned Shield)",
+            "types": [
+              "Fighting",
+              "Steel"
+            ],
+            "fast": "Ice Fang",
+            "charged": "Behemoth Bash",
+            "maxMove": "Behemoth Bash",
+            "role": "healer",
+            "dps": 417.8,
+            "tdo": 1880.0,
+            "ttw": 4.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Raichu",
+            "types": [
+              "Electric"
+            ],
+            "fast": "Volt Switch",
+            "charged": "Wild Charge",
+            "maxMove": "Max Lightning",
+            "role": "tank",
+            "dps": 391.6,
+            "tdo": 1762.0,
+            "ttw": 4.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          }
+        ],
+        "team_composition": {
+          "standard": {
+            "min_players_needed": 1,
+            "strategy_label": "1 Attacker + 1 Tank + 1 Healer",
+            "slot1": {
+              "name": "Zapdos",
+              "types": [
+                "Electric",
+                "Flying"
+              ],
+              "role": "attacker",
+              "fast": "Thunder Shock",
+              "charged": "Thunderbolt",
+              "maxMove": "Max Lightning",
+              "dps": 493.8,
+              "tdo": 1975.0
+            },
+            "slot2": {
+              "name": "Weavile",
+              "types": [
+                "Dark",
+                "Ice"
+              ],
+              "role": "tank",
+              "fast": "Snarl",
+              "charged": "Avalanche",
+              "maxMove": "Max Darkness",
+              "dps": 476.8,
+              "tdo": 1907.0
+            },
+            "slot3": {
+              "name": "Zamazenta (Crowned Shield)",
+              "types": [
+                "Fighting",
+                "Steel"
+              ],
+              "role": "healer",
+              "fast": "Ice Fang",
+              "charged": "Behemoth Bash",
+              "maxMove": "Behemoth Bash",
+              "dps": 417.8,
+              "tdo": 1880.0
+            }
+          },
+          "dodging": {
+            "min_players_needed": 1,
+            "strategy_label": "1 Attacker + 1 Tank + 1 Healer",
+            "slot1": {
+              "name": "Zapdos",
+              "types": [
+                "Electric",
+                "Flying"
+              ],
+              "role": "attacker",
+              "fast": "Thunder Shock",
+              "charged": "Thunderbolt",
+              "maxMove": "Max Lightning",
+              "dps": 493.8,
+              "tdo": 1975.0
+            },
+            "slot2": {
+              "name": "Weavile",
+              "types": [
+                "Dark",
+                "Ice"
+              ],
+              "role": "tank",
+              "fast": "Snarl",
+              "charged": "Avalanche",
+              "maxMove": "Max Darkness",
+              "dps": 476.8,
+              "tdo": 1907.0
+            },
+            "slot3": {
+              "name": "Zamazenta (Crowned Shield)",
+              "types": [
+                "Fighting",
+                "Steel"
+              ],
+              "role": "healer",
+              "fast": "Ice Fang",
+              "charged": "Behemoth Bash",
+              "maxMove": "Behemoth Bash",
+              "dps": 417.8,
+              "tdo": 1880.0
             }
           }
         }
