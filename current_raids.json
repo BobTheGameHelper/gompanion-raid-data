@@ -1,6 +1,16 @@
 {
   "bosses": [
     {
+      "name": "Amaura",
+      "tier": "T1",
+      "types": [
+        "Rock",
+        "Ice"
+      ],
+      "cp20": 779,
+      "cp25": 974
+    },
+    {
       "name": "Blastoise (Mega)",
       "tier": "Mega",
       "types": [
@@ -8,6 +18,24 @@
       ],
       "cp20": 1409,
       "cp25": 1761
+    },
+    {
+      "name": "Clefairy",
+      "tier": "T1",
+      "types": [
+        "Fairy"
+      ],
+      "cp20": 660,
+      "cp25": 825
+    },
+    {
+      "name": "Elgyem",
+      "tier": "T1",
+      "types": [
+        "Psychic"
+      ],
+      "cp20": 791,
+      "cp25": 989
     },
     {
       "name": "Gothitelle",
@@ -105,6 +133,15 @@
       ],
       "cp20": 1476,
       "cp25": 1846
+    },
+    {
+      "name": "Teddiursa",
+      "tier": "T1",
+      "types": [
+        "Normal"
+      ],
+      "cp20": 759,
+      "cp25": 948
     },
     {
       "name": "Umbreon",
