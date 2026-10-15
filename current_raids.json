@@ -1,23 +1,24 @@
 {
   "bosses": [
     {
-      "name": "Amaura",
-      "tier": "T1",
+      "name": "Arcanine (Hisuian)",
+      "tier": "T3",
       "types": [
-        "Rock",
-        "Ice"
+        "Fire",
+        "Rock"
       ],
-      "cp20": 779,
-      "cp25": 974
+      "cp20": 1797,
+      "cp25": 2246
     },
     {
-      "name": "Clefairy",
+      "name": "Beldum",
       "tier": "T1",
       "types": [
-        "Fairy"
+        "Steel",
+        "Psychic"
       ],
-      "cp20": 660,
-      "cp25": 825
+      "cp20": 558,
+      "cp25": 697
     },
     {
       "name": "Dialga",
@@ -40,22 +41,24 @@
       "cp25": 2708
     },
     {
-      "name": "Elgyem",
-      "tier": "T1",
-      "types": [
-        "Psychic"
-      ],
-      "cp20": 791,
-      "cp25": 989
-    },
-    {
-      "name": "Gothitelle",
+      "name": "Kleavor",
       "tier": "T3",
       "types": [
-        "Psychic"
+        "Bug",
+        "Rock"
       ],
-      "cp20": 1382,
-      "cp25": 1728
+      "cp20": 1798,
+      "cp25": 2247
+    },
+    {
+      "name": "Nincada",
+      "tier": "T1",
+      "types": [
+        "Bug",
+        "Ground"
+      ],
+      "cp20": 439,
+      "cp25": 548
     },
     {
       "name": "Shadow Drapion",
@@ -136,32 +139,32 @@
       "cp25": 808
     },
     {
-      "name": "Starmie",
-      "tier": "T3",
+      "name": "Slowpoke (Galarian)",
+      "tier": "T1",
       "types": [
-        "Water",
         "Psychic"
       ],
-      "cp20": 1476,
-      "cp25": 1846
+      "cp20": 700,
+      "cp25": 876
     },
     {
-      "name": "Teddiursa",
-      "tier": "T1",
+      "name": "Snorlax",
+      "tier": "T3",
       "types": [
         "Normal"
       ],
-      "cp20": 759,
-      "cp25": 948
+      "cp20": 1843,
+      "cp25": 2304
     },
     {
-      "name": "Umbreon",
-      "tier": "T3",
+      "name": "Voltorb (Hisuian)",
+      "tier": "T1",
       "types": [
-        "Dark"
+        "Electric",
+        "Grass"
       ],
-      "cp20": 1221,
-      "cp25": 1526
+      "cp20": 577,
+      "cp25": 721
     }
   ]
 }
