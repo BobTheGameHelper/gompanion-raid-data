@@ -1,24 +1,13 @@
 {
   "bosses": [
     {
-      "name": "Arcanine (Hisuian)",
-      "tier": "T3",
-      "types": [
-        "Fire",
-        "Rock"
-      ],
-      "cp20": 1797,
-      "cp25": 2246
-    },
-    {
-      "name": "Beldum",
+      "name": "Axew",
       "tier": "T1",
       "types": [
-        "Steel",
-        "Psychic"
+        "Dragon"
       ],
-      "cp20": 558,
-      "cp25": 697
+      "cp20": 782,
+      "cp25": 977
     },
     {
       "name": "Charizard (MEGA X)",
@@ -41,24 +30,43 @@
       "cp25": 2063
     },
     {
-      "name": "Kleavor",
-      "tier": "T3",
-      "types": [
-        "Bug",
-        "Rock"
-      ],
-      "cp20": 1798,
-      "cp25": 2247
-    },
-    {
-      "name": "Nincada",
+      "name": "Frigibax",
       "tier": "T1",
       "types": [
-        "Bug",
-        "Ground"
+        "Dragon",
+        "Ice"
       ],
-      "cp20": 439,
-      "cp25": 548
+      "cp20": 712,
+      "cp25": 891
+    },
+    {
+      "name": "Goomy",
+      "tier": "T1",
+      "types": [
+        "Dragon"
+      ],
+      "cp20": 557,
+      "cp25": 697
+    },
+    {
+      "name": "Muk (Alola)",
+      "tier": "T3",
+      "types": [
+        "Poison",
+        "Dark"
+      ],
+      "cp20": 1575,
+      "cp25": 1969
+    },
+    {
+      "name": "Ninetales (Alola)",
+      "tier": "T3",
+      "types": [
+        "Ice",
+        "Fairy"
+      ],
+      "cp20": 1319,
+      "cp25": 1649
     },
     {
       "name": "Palkia",
@@ -69,6 +77,16 @@
       ],
       "cp20": 2280,
       "cp25": 2850
+    },
+    {
+      "name": "Raichu (Alola)",
+      "tier": "T3",
+      "types": [
+        "Electric",
+        "Psychic"
+      ],
+      "cp20": 1306,
+      "cp25": 1633
     },
     {
       "name": "Shadow Drapion",
@@ -147,34 +165,6 @@
       ],
       "cp20": 646,
       "cp25": 808
-    },
-    {
-      "name": "Slowpoke (Galarian)",
-      "tier": "T1",
-      "types": [
-        "Psychic"
-      ],
-      "cp20": 700,
-      "cp25": 876
-    },
-    {
-      "name": "Snorlax",
-      "tier": "T3",
-      "types": [
-        "Normal"
-      ],
-      "cp20": 1843,
-      "cp25": 2304
-    },
-    {
-      "name": "Voltorb (Hisuian)",
-      "tier": "T1",
-      "types": [
-        "Electric",
-        "Grass"
-      ],
-      "cp20": 577,
-      "cp25": 721
     }
   ]
 }
