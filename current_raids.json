@@ -1,6 +1,25 @@
 {
   "bosses": [
     {
+      "name": "Cofagrigus",
+      "tier": "T3",
+      "types": [
+        "Ghost"
+      ],
+      "cp20": 1299,
+      "cp25": 1624
+    },
+    {
+      "name": "Dhelmise",
+      "tier": "T3",
+      "types": [
+        "Ghost",
+        "Grass"
+      ],
+      "cp20": 1685,
+      "cp25": 2107
+    },
+    {
       "name": "Giratina (Origin)",
       "tier": "T5",
       "types": [
@@ -9,6 +28,15 @@
       ],
       "cp20": 2105,
       "cp25": 2631
+    },
+    {
+      "name": "Pikachu wearing a hat and capelet",
+      "tier": "T1",
+      "types": [
+        "Electric"
+      ],
+      "cp20": 536,
+      "cp25": 669
     },
     {
       "name": "Sableye (MEGA)",
@@ -97,6 +125,25 @@
       ],
       "cp20": 646,
       "cp25": 808
+    },
+    {
+      "name": "Sinistea wearing a bow",
+      "tier": "T1",
+      "types": [
+        "Ghost"
+      ],
+      "cp20": 650,
+      "cp25": 813
+    },
+    {
+      "name": "Trevenant",
+      "tier": "T3",
+      "types": [
+        "Ghost",
+        "Grass"
+      ],
+      "cp20": 1462,
+      "cp25": 1828
     }
   ]
 }
