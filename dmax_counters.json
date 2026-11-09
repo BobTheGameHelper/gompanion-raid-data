@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T04:01:35.550957Z",
+  "generated_at": "2026-11-09T10:53:32.503199Z",
   "bosses": {
     "Bulbasaur": {
       "types": [
@@ -18,7 +18,7 @@
               "Fire"
             ],
             "fast": "Incinerate",
-            "charged": "Overheat",
+            "charged": "Rock Slide",
             "maxMove": "Max Flare",
             "role": "attacker",
             "dps": 905.5,
@@ -142,195 +142,6 @@
             "types": [
               "Psychic",
               "Fairy"
-            ],
-            "fast": "Confusion",
-            "charged": "Psychic",
-            "maxMove": "Max Mindstorm",
-            "role": "tank",
-            "dps": 289.0,
-            "tdo": 1734.0,
-            "ttw": 6.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Azelf",
-            "types": [
-              "Psychic"
-            ],
-            "fast": "Confusion",
-            "charged": "Fire Blast",
-            "maxMove": "Max Mindstorm",
-            "role": "attacker",
-            "dps": 783.8,
-            "tdo": 5095.0,
-            "ttw": 6.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Flareon",
-            "types": [
-              "Fire"
-            ],
-            "fast": "Fire Spin",
-            "charged": "Fire Blast",
-            "maxMove": "Max Flare",
-            "role": "attacker",
-            "dps": 711.7,
-            "tdo": 4626.0,
-            "ttw": 6.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Zacian (Crowned Sword)",
-            "types": [
-              "Fairy",
-              "Steel"
-            ],
-            "fast": "Air Slash",
-            "charged": "Play Rough",
-            "maxMove": "Behemoth Blade",
-            "role": "attacker",
-            "dps": 619.7,
-            "tdo": 4028.0,
-            "ttw": 6.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          }
-        ],
-        "dodging": [
-          {
-            "name": "Darmanitan (Standard)",
-            "types": [
-              "Fire"
-            ],
-            "fast": "Incinerate",
-            "charged": "Psychic",
-            "maxMove": "Max Flare",
-            "role": "attacker",
-            "dps": 905.5,
-            "tdo": 4980.0,
-            "ttw": 5.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Cinderace",
-            "types": [
-              "Fire"
-            ],
-            "fast": "Fire Spin",
-            "charged": "Blast Burn",
-            "maxMove": "G-Max Fireball",
-            "role": "attacker",
-            "dps": 336.2,
-            "tdo": 2017.0,
-            "ttw": 6.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Charizard",
-            "types": [
-              "Fire",
-              "Flying"
-            ],
-            "fast": "Fire Spin",
-            "charged": "Blast Burn",
-            "maxMove": "G-Max Wildfire",
-            "role": "tank",
-            "dps": 316.2,
-            "tdo": 1897.0,
-            "ttw": 6.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Espeon",
-            "types": [
-              "Psychic"
-            ],
-            "fast": "Confusion",
-            "charged": "Psychic",
-            "maxMove": "Max Mindstorm",
-            "role": "tank",
-            "dps": 316.2,
-            "tdo": 1897.0,
-            "ttw": 6.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Latios",
-            "types": [
-              "Dragon",
-              "Psychic"
-            ],
-            "fast": "Zen Headbutt",
-            "charged": "Psychic",
-            "maxMove": "Max Mindstorm",
-            "role": "tank",
-            "dps": 305.0,
-            "tdo": 1830.0,
-            "ttw": 6.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Moltres",
-            "types": [
-              "Fire",
-              "Flying"
-            ],
-            "fast": "Fire Spin",
-            "charged": "Fly",
-            "maxMove": "Max Flare",
-            "role": "tank",
-            "dps": 299.3,
-            "tdo": 1796.0,
-            "ttw": 6.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Metagross",
-            "types": [
-              "Steel",
-              "Psychic"
-            ],
-            "fast": "Zen Headbutt",
-            "charged": "Psychic",
-            "maxMove": "Max Mindstorm",
-            "role": "healer",
-            "dps": 294.0,
-            "tdo": 1764.0,
-            "ttw": 6.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Gardevoir",
-            "types": [
-              "Psychic",
-              "Fairy"
-            ],
-            "fast": "Confusion",
-            "charged": "Psychic",
-            "maxMove": "Max Mindstorm",
-            "role": "tank",
-            "dps": 289.0,
-            "tdo": 1734.0,
-            "ttw": 6.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Gallade",
-            "types": [
-              "Psychic",
-              "Fighting"
             ],
             "fast": "Confusion",
             "charged": "Psychic",
@@ -363,7 +174,7 @@
               "Fire"
             ],
             "fast": "Fire Spin",
-            "charged": "Overheat",
+            "charged": "Fire Blast",
             "maxMove": "Max Flare",
             "role": "attacker",
             "dps": 711.7,
@@ -379,7 +190,196 @@
               "Steel"
             ],
             "fast": "Air Slash",
-            "charged": "Play Rough",
+            "charged": "Behemoth Blade",
+            "maxMove": "Behemoth Blade",
+            "role": "attacker",
+            "dps": 619.7,
+            "tdo": 4028.0,
+            "ttw": 6.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          }
+        ],
+        "dodging": [
+          {
+            "name": "Darmanitan (Standard)",
+            "types": [
+              "Fire"
+            ],
+            "fast": "Incinerate",
+            "charged": "Overheat",
+            "maxMove": "Max Flare",
+            "role": "attacker",
+            "dps": 905.5,
+            "tdo": 4980.0,
+            "ttw": 5.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Cinderace",
+            "types": [
+              "Fire"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Blast Burn",
+            "maxMove": "G-Max Fireball",
+            "role": "attacker",
+            "dps": 336.2,
+            "tdo": 2017.0,
+            "ttw": 6.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Charizard",
+            "types": [
+              "Fire",
+              "Flying"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Blast Burn",
+            "maxMove": "G-Max Wildfire",
+            "role": "tank",
+            "dps": 316.2,
+            "tdo": 1897.0,
+            "ttw": 6.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Espeon",
+            "types": [
+              "Psychic"
+            ],
+            "fast": "Confusion",
+            "charged": "Psychic",
+            "maxMove": "Max Mindstorm",
+            "role": "tank",
+            "dps": 316.2,
+            "tdo": 1897.0,
+            "ttw": 6.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Latios",
+            "types": [
+              "Dragon",
+              "Psychic"
+            ],
+            "fast": "Zen Headbutt",
+            "charged": "Psychic",
+            "maxMove": "Max Mindstorm",
+            "role": "tank",
+            "dps": 305.0,
+            "tdo": 1830.0,
+            "ttw": 6.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Moltres",
+            "types": [
+              "Fire",
+              "Flying"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Fly",
+            "maxMove": "Max Flare",
+            "role": "tank",
+            "dps": 299.3,
+            "tdo": 1796.0,
+            "ttw": 6.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Metagross",
+            "types": [
+              "Steel",
+              "Psychic"
+            ],
+            "fast": "Zen Headbutt",
+            "charged": "Psychic",
+            "maxMove": "Max Mindstorm",
+            "role": "healer",
+            "dps": 294.0,
+            "tdo": 1764.0,
+            "ttw": 6.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Gallade",
+            "types": [
+              "Psychic",
+              "Fighting"
+            ],
+            "fast": "Confusion",
+            "charged": "Psychic",
+            "maxMove": "Max Mindstorm",
+            "role": "tank",
+            "dps": 289.0,
+            "tdo": 1734.0,
+            "ttw": 6.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Gardevoir",
+            "types": [
+              "Psychic",
+              "Fairy"
+            ],
+            "fast": "Confusion",
+            "charged": "Psychic",
+            "maxMove": "Max Mindstorm",
+            "role": "tank",
+            "dps": 289.0,
+            "tdo": 1734.0,
+            "ttw": 6.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Azelf",
+            "types": [
+              "Psychic"
+            ],
+            "fast": "Confusion",
+            "charged": "Fire Blast",
+            "maxMove": "Max Mindstorm",
+            "role": "attacker",
+            "dps": 783.8,
+            "tdo": 5095.0,
+            "ttw": 6.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Flareon",
+            "types": [
+              "Fire"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Fire Blast",
+            "maxMove": "Max Flare",
+            "role": "attacker",
+            "dps": 711.7,
+            "tdo": 4626.0,
+            "ttw": 6.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Zacian (Crowned Sword)",
+            "types": [
+              "Fairy",
+              "Steel"
+            ],
+            "fast": "Air Slash",
+            "charged": "Giga Impact",
             "maxMove": "Behemoth Blade",
             "role": "attacker",
             "dps": 619.7,
@@ -400,7 +400,7 @@
               ],
               "role": "attacker",
               "fast": "Incinerate",
-              "charged": "Overheat",
+              "charged": "Rock Slide",
               "maxMove": "Max Flare",
               "dps": 905.5,
               "tdo": 4980.0
@@ -442,7 +442,7 @@
               ],
               "role": "attacker",
               "fast": "Incinerate",
-              "charged": "Psychic",
+              "charged": "Overheat",
               "maxMove": "Max Flare",
               "dps": 905.5,
               "tdo": 4980.0
@@ -588,10 +588,10 @@
             "survivalRate": 100.0
           },
           {
-            "name": "Gallade",
+            "name": "Gardevoir",
             "types": [
               "Psychic",
-              "Fighting"
+              "Fairy"
             ],
             "fast": "Confusion",
             "charged": "Psychic",
@@ -604,10 +604,10 @@
             "survivalRate": 100.0
           },
           {
-            "name": "Gardevoir",
+            "name": "Gallade",
             "types": [
               "Psychic",
-              "Fairy"
+              "Fighting"
             ],
             "fast": "Confusion",
             "charged": "Psychic",
@@ -640,7 +640,7 @@
               "Psychic"
             ],
             "fast": "Confusion",
-            "charged": "Futuresight",
+            "charged": "Fire Blast",
             "maxMove": "Max Mindstorm",
             "role": "attacker",
             "dps": 833.5,
@@ -655,7 +655,7 @@
               "Fire"
             ],
             "fast": "Fire Spin",
-            "charged": "Fire Blast",
+            "charged": "Heat Wave",
             "maxMove": "Max Flare",
             "role": "attacker",
             "dps": 756.0,
@@ -688,7 +688,7 @@
               "Fire"
             ],
             "fast": "Incinerate",
-            "charged": "Psychic",
+            "charged": "Overheat",
             "maxMove": "Max Flare",
             "role": "attacker",
             "dps": 962.4,
@@ -776,10 +776,10 @@
             "survivalRate": 100.0
           },
           {
-            "name": "Gardevoir",
+            "name": "Gallade",
             "types": [
               "Psychic",
-              "Fairy"
+              "Fighting"
             ],
             "fast": "Confusion",
             "charged": "Psychic",
@@ -792,10 +792,10 @@
             "survivalRate": 100.0
           },
           {
-            "name": "Gallade",
+            "name": "Gardevoir",
             "types": [
               "Psychic",
-              "Fighting"
+              "Fairy"
             ],
             "fast": "Confusion",
             "charged": "Psychic",
@@ -1020,7 +1020,7 @@
               "Rock"
             ],
             "fast": "Mud Slap",
-            "charged": "Megahorn",
+            "charged": "Earthquake",
             "maxMove": "Max Quake",
             "role": "attacker",
             "dps": 760.0,
@@ -1036,7 +1036,7 @@
               "Water"
             ],
             "fast": "Rock Throw",
-            "charged": "Hydro Pump",
+            "charged": "Rock Slide",
             "maxMove": "Max Rockfall",
             "role": "attacker",
             "dps": 706.3,
@@ -1098,7 +1098,7 @@
               "Dragon"
             ],
             "fast": "Dragon Tail",
-            "charged": "Hyper Beam",
+            "charged": "Flash Cannon",
             "maxMove": "G-Max Depletion",
             "role": "attacker",
             "dps": 504.8,
@@ -1225,7 +1225,7 @@
               "Water"
             ],
             "fast": "Rock Throw",
-            "charged": "Hydro Pump",
+            "charged": "Rock Slide",
             "maxMove": "Max Rockfall",
             "role": "attacker",
             "dps": 706.3,
@@ -1287,7 +1287,7 @@
               "Dragon"
             ],
             "fast": "Dragon Tail",
-            "charged": "Hyper Beam",
+            "charged": "Flash Cannon",
             "maxMove": "G-Max Depletion",
             "role": "attacker",
             "dps": 504.8,
@@ -1422,7 +1422,7 @@
               "Steel"
             ],
             "fast": "Mud Slap",
-            "charged": "Scorching Sands",
+            "charged": "Earthquake",
             "maxMove": "Max Quake",
             "role": "attacker",
             "dps": 1146.0,
@@ -1439,193 +1439,6 @@
             ],
             "fast": "Mud Slap",
             "charged": "Surf",
-            "maxMove": "Max Quake",
-            "role": "attacker",
-            "dps": 1086.8,
-            "tdo": 5434.0,
-            "ttw": 5.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Inteleon",
-            "types": [
-              "Water"
-            ],
-            "fast": "Water Gun",
-            "charged": "Hydro Cannon",
-            "maxMove": "G-Max Hydrosnipe",
-            "role": "healer",
-            "dps": 386.4,
-            "tdo": 1932.0,
-            "ttw": 5.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Gigalith",
-            "types": [
-              "Rock"
-            ],
-            "fast": "Lock On",
-            "charged": "Meteor Beam",
-            "maxMove": "Max Strike",
-            "role": "tank",
-            "dps": 362.2,
-            "tdo": 1811.0,
-            "ttw": 5.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Kingler",
-            "types": [
-              "Water"
-            ],
-            "fast": "Bubble",
-            "charged": "Crabhammer",
-            "maxMove": "G-Max Foam Burst",
-            "role": "tank",
-            "dps": 343.0,
-            "tdo": 1715.0,
-            "ttw": 5.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Rhydon",
-            "types": [
-              "Ground",
-              "Rock"
-            ],
-            "fast": "Mud Slap",
-            "charged": "Earthquake",
-            "maxMove": "Max Quake",
-            "role": "attacker",
-            "dps": 808.6,
-            "tdo": 5256.0,
-            "ttw": 6.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Omastar",
-            "types": [
-              "Rock",
-              "Water"
-            ],
-            "fast": "Rock Throw",
-            "charged": "Rock Slide",
-            "maxMove": "Max Rockfall",
-            "role": "attacker",
-            "dps": 750.5,
-            "tdo": 4878.0,
-            "ttw": 6.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Eternatus",
-            "types": [
-              "Poison",
-              "Dragon"
-            ],
-            "fast": "Dragon Tail",
-            "charged": "Dragon Pulse",
-            "maxMove": "Dynamax Cannon",
-            "role": "healer",
-            "dps": 245.3,
-            "tdo": 1717.0,
-            "ttw": 7.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Boldore",
-            "types": [
-              "Rock"
-            ],
-            "fast": "Smack Down",
-            "charged": "Rock Slide",
-            "maxMove": "Max Rockfall",
-            "role": "attacker",
-            "dps": 570.4,
-            "tdo": 4278.0,
-            "ttw": 7.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Azelf",
-            "types": [
-              "Psychic"
-            ],
-            "fast": "Confusion",
-            "charged": "Futuresight",
-            "maxMove": "Max Mindstorm",
-            "role": "tank",
-            "dps": 514.9,
-            "tdo": 4119.0,
-            "ttw": 8.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Espeon",
-            "types": [
-              "Psychic"
-            ],
-            "fast": "Confusion",
-            "charged": "Futuresight",
-            "maxMove": "Max Mindstorm",
-            "role": "tank",
-            "dps": 498.9,
-            "tdo": 3991.0,
-            "ttw": 8.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Machamp",
-            "types": [
-              "Fighting"
-            ],
-            "fast": "Karate Chop",
-            "charged": "Stone Edge",
-            "maxMove": "G-Max Chi Strike",
-            "role": "tank",
-            "dps": 213.6,
-            "tdo": 1709.0,
-            "ttw": 8.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          }
-        ],
-        "dodging": [
-          {
-            "name": "Excadrill",
-            "types": [
-              "Ground",
-              "Steel"
-            ],
-            "fast": "Mud Slap",
-            "charged": "Earthquake",
-            "maxMove": "Max Quake",
-            "role": "attacker",
-            "dps": 1146.0,
-            "tdo": 5730.0,
-            "ttw": 5.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Rhyperior",
-            "types": [
-              "Ground",
-              "Rock"
-            ],
-            "fast": "Mud Slap",
-            "charged": "Skull Bash",
             "maxMove": "Max Quake",
             "role": "attacker",
             "dps": 1086.8,
@@ -1733,7 +1546,194 @@
               "Rock"
             ],
             "fast": "Smack Down",
-            "charged": "Rock Slide",
+            "charged": "Stone Edge",
+            "maxMove": "Max Rockfall",
+            "role": "attacker",
+            "dps": 570.4,
+            "tdo": 4278.0,
+            "ttw": 7.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Azelf",
+            "types": [
+              "Psychic"
+            ],
+            "fast": "Confusion",
+            "charged": "Fire Blast",
+            "maxMove": "Max Mindstorm",
+            "role": "tank",
+            "dps": 514.9,
+            "tdo": 4119.0,
+            "ttw": 8.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Espeon",
+            "types": [
+              "Psychic"
+            ],
+            "fast": "Confusion",
+            "charged": "Futuresight",
+            "maxMove": "Max Mindstorm",
+            "role": "tank",
+            "dps": 498.9,
+            "tdo": 3991.0,
+            "ttw": 8.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Machamp",
+            "types": [
+              "Fighting"
+            ],
+            "fast": "Karate Chop",
+            "charged": "Stone Edge",
+            "maxMove": "G-Max Chi Strike",
+            "role": "tank",
+            "dps": 213.6,
+            "tdo": 1709.0,
+            "ttw": 8.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          }
+        ],
+        "dodging": [
+          {
+            "name": "Excadrill",
+            "types": [
+              "Ground",
+              "Steel"
+            ],
+            "fast": "Mud Slap",
+            "charged": "Scorching Sands",
+            "maxMove": "Max Quake",
+            "role": "attacker",
+            "dps": 1146.0,
+            "tdo": 5730.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Rhyperior",
+            "types": [
+              "Ground",
+              "Rock"
+            ],
+            "fast": "Mud Slap",
+            "charged": "Surf",
+            "maxMove": "Max Quake",
+            "role": "attacker",
+            "dps": 1086.8,
+            "tdo": 5434.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Inteleon",
+            "types": [
+              "Water"
+            ],
+            "fast": "Water Gun",
+            "charged": "Hydro Cannon",
+            "maxMove": "G-Max Hydrosnipe",
+            "role": "healer",
+            "dps": 386.4,
+            "tdo": 1932.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Gigalith",
+            "types": [
+              "Rock"
+            ],
+            "fast": "Lock On",
+            "charged": "Meteor Beam",
+            "maxMove": "Max Strike",
+            "role": "tank",
+            "dps": 362.2,
+            "tdo": 1811.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Kingler",
+            "types": [
+              "Water"
+            ],
+            "fast": "Bubble",
+            "charged": "Crabhammer",
+            "maxMove": "G-Max Foam Burst",
+            "role": "tank",
+            "dps": 343.0,
+            "tdo": 1715.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Rhydon",
+            "types": [
+              "Ground",
+              "Rock"
+            ],
+            "fast": "Mud Slap",
+            "charged": "Megahorn",
+            "maxMove": "Max Quake",
+            "role": "attacker",
+            "dps": 808.6,
+            "tdo": 5256.0,
+            "ttw": 6.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Omastar",
+            "types": [
+              "Rock",
+              "Water"
+            ],
+            "fast": "Rock Throw",
+            "charged": "Hydro Pump",
+            "maxMove": "Max Rockfall",
+            "role": "attacker",
+            "dps": 750.5,
+            "tdo": 4878.0,
+            "ttw": 6.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Eternatus",
+            "types": [
+              "Poison",
+              "Dragon"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Dragon Pulse",
+            "maxMove": "Dynamax Cannon",
+            "role": "healer",
+            "dps": 245.3,
+            "tdo": 1717.0,
+            "ttw": 7.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Boldore",
+            "types": [
+              "Rock"
+            ],
+            "fast": "Smack Down",
+            "charged": "Stone Edge",
             "maxMove": "Max Rockfall",
             "role": "attacker",
             "dps": 570.4,
@@ -1800,7 +1800,7 @@
               ],
               "role": "attacker",
               "fast": "Mud Slap",
-              "charged": "Scorching Sands",
+              "charged": "Earthquake",
               "maxMove": "Max Quake",
               "dps": 1146.0,
               "tdo": 5730.0
@@ -1841,7 +1841,7 @@
               ],
               "role": "attacker",
               "fast": "Mud Slap",
-              "charged": "Earthquake",
+              "charged": "Scorching Sands",
               "maxMove": "Max Quake",
               "dps": 1146.0,
               "tdo": 5730.0
@@ -2556,7 +2556,7 @@
               "Grass"
             ],
             "fast": "Razor Leaf",
-            "charged": "Solar Beam",
+            "charged": "Energy Ball",
             "maxMove": "Max Overgrowth",
             "role": "attacker",
             "dps": 553.3,
@@ -2919,7 +2919,7 @@
               "Steel"
             ],
             "fast": "Metal Claw",
-            "charged": "Close Combat",
+            "charged": "Behemoth Blade",
             "maxMove": "Behemoth Blade",
             "role": "attacker",
             "dps": 521.3,
@@ -2999,7 +2999,7 @@
               "Dragon"
             ],
             "fast": "Dragon Tail",
-            "charged": "Flash Cannon",
+            "charged": "Hyper Beam",
             "maxMove": "G-Max Depletion",
             "role": "tank",
             "dps": 446.0,
@@ -3189,7 +3189,7 @@
               "Dragon"
             ],
             "fast": "Dragon Tail",
-            "charged": "Flash Cannon",
+            "charged": "Hyper Beam",
             "maxMove": "G-Max Depletion",
             "role": "tank",
             "dps": 446.0,
@@ -3322,7 +3322,7 @@
               "Steel"
             ],
             "fast": "Metal Claw",
-            "charged": "Close Combat",
+            "charged": "Behemoth Blade",
             "maxMove": "Behemoth Blade",
             "role": "attacker",
             "dps": 612.0,
@@ -3416,7 +3416,7 @@
               "Rock"
             ],
             "fast": "Rock Smash",
-            "charged": "Megahorn",
+            "charged": "Earthquake",
             "maxMove": "Max Knuckle",
             "role": "attacker",
             "dps": 536.5,
@@ -3446,7 +3446,7 @@
               "Psychic"
             ],
             "fast": "Confusion",
-            "charged": "Fire Blast",
+            "charged": "Futuresight",
             "maxMove": "Max Mindstorm",
             "role": "tank",
             "dps": 496.5,
@@ -3604,7 +3604,7 @@
               "Rock"
             ],
             "fast": "Rock Smash",
-            "charged": "Megahorn",
+            "charged": "Earthquake",
             "maxMove": "Max Knuckle",
             "role": "attacker",
             "dps": 536.5,
@@ -3634,7 +3634,7 @@
               "Psychic"
             ],
             "fast": "Confusion",
-            "charged": "Fire Blast",
+            "charged": "Futuresight",
             "maxMove": "Max Mindstorm",
             "role": "tank",
             "dps": 496.5,
@@ -3671,7 +3671,7 @@
               ],
               "role": "attacker",
               "fast": "Metal Claw",
-              "charged": "Close Combat",
+              "charged": "Behemoth Blade",
               "maxMove": "Behemoth Blade",
               "dps": 612.0,
               "tdo": 4590.0
@@ -3755,6 +3755,194 @@
       "strategy_guide": "Skwovet is a Normal-type boss identical in strategy to Wooloo. Use Counter-based Fighting-types for quick meter fill and easy Max Phase KO.",
       "l40": {
         "standard": [
+          {
+            "name": "Machamp",
+            "types": [
+              "Fighting"
+            ],
+            "fast": "Counter",
+            "charged": "Heavy Slam",
+            "maxMove": "G-Max Chi Strike",
+            "role": "attacker",
+            "dps": 1198.2,
+            "tdo": 6590.0,
+            "ttw": 5.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Latios",
+            "types": [
+              "Dragon",
+              "Psychic"
+            ],
+            "fast": "Zen Headbutt",
+            "charged": "Aura Sphere",
+            "maxMove": "Max Mindstorm",
+            "role": "tank",
+            "dps": 295.0,
+            "tdo": 1770.0,
+            "ttw": 6.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Falinks",
+            "types": [
+              "Fighting"
+            ],
+            "fast": "Counter",
+            "charged": "Super Power",
+            "maxMove": "Max Knuckle",
+            "role": "tank",
+            "dps": 283.7,
+            "tdo": 1702.0,
+            "ttw": 6.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Zacian (Crowned Sword)",
+            "types": [
+              "Fairy",
+              "Steel"
+            ],
+            "fast": "Air Slash",
+            "charged": "Play Rough",
+            "maxMove": "Behemoth Blade",
+            "role": "tank",
+            "dps": 248.7,
+            "tdo": 1741.0,
+            "ttw": 7.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Eternatus",
+            "types": [
+              "Poison",
+              "Dragon"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Dragon Pulse",
+            "maxMove": "Dynamax Cannon",
+            "role": "healer",
+            "dps": 247.0,
+            "tdo": 1729.0,
+            "ttw": 7.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Gallade",
+            "types": [
+              "Psychic",
+              "Fighting"
+            ],
+            "fast": "Low Kick",
+            "charged": "Close Combat",
+            "maxMove": "Max Knuckle",
+            "role": "attacker",
+            "dps": 716.9,
+            "tdo": 5377.0,
+            "ttw": 7.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Zamazenta (Hero)",
+            "types": [
+              "Fighting"
+            ],
+            "fast": "Ice Fang",
+            "charged": "Close Combat",
+            "maxMove": "Max Hailstorm",
+            "role": "healer",
+            "dps": 245.3,
+            "tdo": 1840.0,
+            "ttw": 7.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Zamazenta (Crowned Shield)",
+            "types": [
+              "Fighting",
+              "Steel"
+            ],
+            "fast": "Ice Fang",
+            "charged": "Close Combat",
+            "maxMove": "Behemoth Bash",
+            "role": "healer",
+            "dps": 241.2,
+            "tdo": 1809.0,
+            "ttw": 7.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Rhydon",
+            "types": [
+              "Ground",
+              "Rock"
+            ],
+            "fast": "Rock Smash",
+            "charged": "Stone Edge",
+            "maxMove": "Max Knuckle",
+            "role": "attacker",
+            "dps": 559.5,
+            "tdo": 4476.0,
+            "ttw": 8.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Darmanitan (Standard)",
+            "types": [
+              "Fire"
+            ],
+            "fast": "Incinerate",
+            "charged": "Overheat",
+            "maxMove": "Max Flare",
+            "role": "attacker",
+            "dps": 520.3,
+            "tdo": 4162.0,
+            "ttw": 8.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Azelf",
+            "types": [
+              "Psychic"
+            ],
+            "fast": "Confusion",
+            "charged": "Futuresight",
+            "maxMove": "Max Mindstorm",
+            "role": "attacker",
+            "dps": 517.9,
+            "tdo": 4143.0,
+            "ttw": 8.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Espeon",
+            "types": [
+              "Psychic"
+            ],
+            "fast": "Confusion",
+            "charged": "Futuresight",
+            "maxMove": "Max Mindstorm",
+            "role": "tank",
+            "dps": 501.8,
+            "tdo": 4014.0,
+            "ttw": 8.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          }
+        ],
+        "dodging": [
           {
             "name": "Machamp",
             "types": [
@@ -3887,194 +4075,6 @@
               "Rock"
             ],
             "fast": "Rock Smash",
-            "charged": "Earthquake",
-            "maxMove": "Max Knuckle",
-            "role": "attacker",
-            "dps": 559.5,
-            "tdo": 4476.0,
-            "ttw": 8.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Darmanitan (Standard)",
-            "types": [
-              "Fire"
-            ],
-            "fast": "Incinerate",
-            "charged": "Focus Blast",
-            "maxMove": "Max Flare",
-            "role": "attacker",
-            "dps": 520.3,
-            "tdo": 4162.0,
-            "ttw": 8.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Azelf",
-            "types": [
-              "Psychic"
-            ],
-            "fast": "Confusion",
-            "charged": "Futuresight",
-            "maxMove": "Max Mindstorm",
-            "role": "attacker",
-            "dps": 517.9,
-            "tdo": 4143.0,
-            "ttw": 8.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Espeon",
-            "types": [
-              "Psychic"
-            ],
-            "fast": "Confusion",
-            "charged": "Futuresight",
-            "maxMove": "Max Mindstorm",
-            "role": "tank",
-            "dps": 501.8,
-            "tdo": 4014.0,
-            "ttw": 8.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          }
-        ],
-        "dodging": [
-          {
-            "name": "Machamp",
-            "types": [
-              "Fighting"
-            ],
-            "fast": "Counter",
-            "charged": "Dynamic Punch",
-            "maxMove": "G-Max Chi Strike",
-            "role": "attacker",
-            "dps": 1198.2,
-            "tdo": 6590.0,
-            "ttw": 5.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Latios",
-            "types": [
-              "Dragon",
-              "Psychic"
-            ],
-            "fast": "Zen Headbutt",
-            "charged": "Aura Sphere",
-            "maxMove": "Max Mindstorm",
-            "role": "tank",
-            "dps": 295.0,
-            "tdo": 1770.0,
-            "ttw": 6.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Falinks",
-            "types": [
-              "Fighting"
-            ],
-            "fast": "Counter",
-            "charged": "Super Power",
-            "maxMove": "Max Knuckle",
-            "role": "tank",
-            "dps": 283.7,
-            "tdo": 1702.0,
-            "ttw": 6.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Zacian (Crowned Sword)",
-            "types": [
-              "Fairy",
-              "Steel"
-            ],
-            "fast": "Air Slash",
-            "charged": "Play Rough",
-            "maxMove": "Behemoth Blade",
-            "role": "tank",
-            "dps": 248.7,
-            "tdo": 1741.0,
-            "ttw": 7.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Eternatus",
-            "types": [
-              "Poison",
-              "Dragon"
-            ],
-            "fast": "Dragon Tail",
-            "charged": "Dragon Pulse",
-            "maxMove": "Dynamax Cannon",
-            "role": "healer",
-            "dps": 247.0,
-            "tdo": 1729.0,
-            "ttw": 7.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Gallade",
-            "types": [
-              "Psychic",
-              "Fighting"
-            ],
-            "fast": "Low Kick",
-            "charged": "Close Combat",
-            "maxMove": "Max Knuckle",
-            "role": "attacker",
-            "dps": 716.9,
-            "tdo": 5377.0,
-            "ttw": 7.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Zamazenta (Hero)",
-            "types": [
-              "Fighting"
-            ],
-            "fast": "Ice Fang",
-            "charged": "Close Combat",
-            "maxMove": "Max Hailstorm",
-            "role": "healer",
-            "dps": 245.3,
-            "tdo": 1840.0,
-            "ttw": 7.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Zamazenta (Crowned Shield)",
-            "types": [
-              "Fighting",
-              "Steel"
-            ],
-            "fast": "Ice Fang",
-            "charged": "Close Combat",
-            "maxMove": "Behemoth Bash",
-            "role": "healer",
-            "dps": 241.2,
-            "tdo": 1809.0,
-            "ttw": 7.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Rhydon",
-            "types": [
-              "Ground",
-              "Rock"
-            ],
-            "fast": "Rock Smash",
             "charged": "Megahorn",
             "maxMove": "Max Knuckle",
             "role": "attacker",
@@ -4090,7 +4090,7 @@
               "Fire"
             ],
             "fast": "Incinerate",
-            "charged": "Focus Blast",
+            "charged": "Overheat",
             "maxMove": "Max Flare",
             "role": "attacker",
             "dps": 520.3,
@@ -4105,7 +4105,7 @@
               "Psychic"
             ],
             "fast": "Confusion",
-            "charged": "Fire Blast",
+            "charged": "Futuresight",
             "maxMove": "Max Mindstorm",
             "role": "attacker",
             "dps": 517.9,
@@ -4141,7 +4141,7 @@
               ],
               "role": "attacker",
               "fast": "Counter",
-              "charged": "Payback",
+              "charged": "Heavy Slam",
               "maxMove": "G-Max Chi Strike",
               "dps": 1198.2,
               "tdo": 6590.0
@@ -4183,7 +4183,7 @@
               ],
               "role": "attacker",
               "fast": "Counter",
-              "charged": "Dynamic Punch",
+              "charged": "Payback",
               "maxMove": "G-Max Chi Strike",
               "dps": 1198.2,
               "tdo": 6590.0
@@ -4219,6 +4219,195 @@
       },
       "l50": {
         "standard": [
+          {
+            "name": "Zacian (Crowned Sword)",
+            "types": [
+              "Fairy",
+              "Steel"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Play Rough",
+            "maxMove": "Behemoth Blade",
+            "role": "tank",
+            "dps": 348.0,
+            "tdo": 1740.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Machamp",
+            "types": [
+              "Fighting"
+            ],
+            "fast": "Counter",
+            "charged": "Rock Slide",
+            "maxMove": "G-Max Chi Strike",
+            "role": "attacker",
+            "dps": 1273.6,
+            "tdo": 7005.0,
+            "ttw": 5.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Latios",
+            "types": [
+              "Dragon",
+              "Psychic"
+            ],
+            "fast": "Zen Headbutt",
+            "charged": "Aura Sphere",
+            "maxMove": "Max Mindstorm",
+            "role": "tank",
+            "dps": 313.3,
+            "tdo": 1880.0,
+            "ttw": 6.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Falinks",
+            "types": [
+              "Fighting"
+            ],
+            "fast": "Counter",
+            "charged": "Super Power",
+            "maxMove": "Max Knuckle",
+            "role": "tank",
+            "dps": 301.0,
+            "tdo": 1806.0,
+            "ttw": 6.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Eternatus",
+            "types": [
+              "Poison",
+              "Dragon"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Dynamax Cannon",
+            "maxMove": "Dynamax Cannon",
+            "role": "attacker",
+            "dps": 672.6,
+            "tdo": 4372.0,
+            "ttw": 6.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Latias",
+            "types": [
+              "Dragon",
+              "Psychic"
+            ],
+            "fast": "Dragon Breath",
+            "charged": "Aura Sphere",
+            "maxMove": "Max Wyrmwind",
+            "role": "tank",
+            "dps": 264.0,
+            "tdo": 1716.0,
+            "ttw": 6.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Gallade",
+            "types": [
+              "Psychic",
+              "Fighting"
+            ],
+            "fast": "Low Kick",
+            "charged": "Close Combat",
+            "maxMove": "Max Knuckle",
+            "role": "attacker",
+            "dps": 807.0,
+            "tdo": 5649.0,
+            "ttw": 7.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Zamazenta (Crowned Shield)",
+            "types": [
+              "Fighting",
+              "Steel"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Behemoth Bash",
+            "maxMove": "Behemoth Bash",
+            "role": "healer",
+            "dps": 248.4,
+            "tdo": 1739.0,
+            "ttw": 7.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Duraludon",
+            "types": [
+              "Steel",
+              "Dragon"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Hyper Beam",
+            "maxMove": "G-Max Depletion",
+            "role": "attacker",
+            "dps": 634.1,
+            "tdo": 4756.0,
+            "ttw": 7.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Darmanitan (Standard)",
+            "types": [
+              "Fire"
+            ],
+            "fast": "Fire Fang",
+            "charged": "Overheat",
+            "maxMove": "Max Flare",
+            "role": "attacker",
+            "dps": 560.9,
+            "tdo": 4207.0,
+            "ttw": 7.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Zamazenta (Hero)",
+            "types": [
+              "Fighting"
+            ],
+            "fast": "Ice Fang",
+            "charged": "Close Combat",
+            "maxMove": "Max Hailstorm",
+            "role": "healer",
+            "dps": 260.5,
+            "tdo": 1954.0,
+            "ttw": 7.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Darmanitan (Galarian Standard)",
+            "types": [
+              "Ice"
+            ],
+            "fast": "Ice Fang",
+            "charged": "Overheat",
+            "maxMove": "Max Hailstorm",
+            "role": "tank",
+            "dps": 239.2,
+            "tdo": 1794.0,
+            "ttw": 7.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          }
+        ],
+        "dodging": [
           {
             "name": "Zacian (Crowned Sword)",
             "types": [
@@ -4407,195 +4596,6 @@
             "survivalRate": 100.0
           }
         ],
-        "dodging": [
-          {
-            "name": "Zacian (Crowned Sword)",
-            "types": [
-              "Fairy",
-              "Steel"
-            ],
-            "fast": "Metal Claw",
-            "charged": "Play Rough",
-            "maxMove": "Behemoth Blade",
-            "role": "tank",
-            "dps": 348.0,
-            "tdo": 1740.0,
-            "ttw": 5.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Machamp",
-            "types": [
-              "Fighting"
-            ],
-            "fast": "Counter",
-            "charged": "Payback",
-            "maxMove": "G-Max Chi Strike",
-            "role": "attacker",
-            "dps": 1273.6,
-            "tdo": 7005.0,
-            "ttw": 5.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Latios",
-            "types": [
-              "Dragon",
-              "Psychic"
-            ],
-            "fast": "Zen Headbutt",
-            "charged": "Aura Sphere",
-            "maxMove": "Max Mindstorm",
-            "role": "tank",
-            "dps": 313.3,
-            "tdo": 1880.0,
-            "ttw": 6.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Falinks",
-            "types": [
-              "Fighting"
-            ],
-            "fast": "Counter",
-            "charged": "Super Power",
-            "maxMove": "Max Knuckle",
-            "role": "tank",
-            "dps": 301.0,
-            "tdo": 1806.0,
-            "ttw": 6.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Eternatus",
-            "types": [
-              "Poison",
-              "Dragon"
-            ],
-            "fast": "Dragon Tail",
-            "charged": "Dynamax Cannon",
-            "maxMove": "Dynamax Cannon",
-            "role": "attacker",
-            "dps": 672.6,
-            "tdo": 4372.0,
-            "ttw": 6.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Latias",
-            "types": [
-              "Dragon",
-              "Psychic"
-            ],
-            "fast": "Dragon Breath",
-            "charged": "Aura Sphere",
-            "maxMove": "Max Wyrmwind",
-            "role": "tank",
-            "dps": 264.0,
-            "tdo": 1716.0,
-            "ttw": 6.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Gallade",
-            "types": [
-              "Psychic",
-              "Fighting"
-            ],
-            "fast": "Low Kick",
-            "charged": "Close Combat",
-            "maxMove": "Max Knuckle",
-            "role": "attacker",
-            "dps": 807.0,
-            "tdo": 5649.0,
-            "ttw": 7.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Zamazenta (Crowned Shield)",
-            "types": [
-              "Fighting",
-              "Steel"
-            ],
-            "fast": "Metal Claw",
-            "charged": "Behemoth Bash",
-            "maxMove": "Behemoth Bash",
-            "role": "healer",
-            "dps": 248.4,
-            "tdo": 1739.0,
-            "ttw": 7.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Duraludon",
-            "types": [
-              "Steel",
-              "Dragon"
-            ],
-            "fast": "Dragon Tail",
-            "charged": "Hyper Beam",
-            "maxMove": "G-Max Depletion",
-            "role": "attacker",
-            "dps": 634.1,
-            "tdo": 4756.0,
-            "ttw": 7.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Darmanitan (Standard)",
-            "types": [
-              "Fire"
-            ],
-            "fast": "Fire Fang",
-            "charged": "Focus Blast",
-            "maxMove": "Max Flare",
-            "role": "attacker",
-            "dps": 560.9,
-            "tdo": 4207.0,
-            "ttw": 7.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Zamazenta (Hero)",
-            "types": [
-              "Fighting"
-            ],
-            "fast": "Ice Fang",
-            "charged": "Close Combat",
-            "maxMove": "Max Hailstorm",
-            "role": "healer",
-            "dps": 260.5,
-            "tdo": 1954.0,
-            "ttw": 7.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Darmanitan (Galarian Standard)",
-            "types": [
-              "Ice"
-            ],
-            "fast": "Ice Fang",
-            "charged": "Overheat",
-            "maxMove": "Max Hailstorm",
-            "role": "tank",
-            "dps": 239.2,
-            "tdo": 1794.0,
-            "ttw": 7.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          }
-        ],
         "team_composition": {
           "standard": {
             "min_players_needed": 1,
@@ -4607,7 +4607,7 @@
               ],
               "role": "attacker",
               "fast": "Counter",
-              "charged": "Heavy Slam",
+              "charged": "Rock Slide",
               "maxMove": "G-Max Chi Strike",
               "dps": 1273.6,
               "tdo": 7005.0
@@ -4649,7 +4649,7 @@
               ],
               "role": "attacker",
               "fast": "Counter",
-              "charged": "Payback",
+              "charged": "Heavy Slam",
               "maxMove": "G-Max Chi Strike",
               "dps": 1273.6,
               "tdo": 7005.0
@@ -4868,20 +4868,19 @@
             "survivalRate": 100.0
           },
           {
-            "name": "Gastly",
+            "name": "Regidrago",
             "types": [
-              "Ghost",
-              "Poison"
+              "Dragon"
             ],
-            "fast": "Lick",
-            "charged": "Night Shade",
-            "maxMove": "Max Phantasm",
-            "role": "attacker",
-            "dps": 79.2,
-            "tdo": 10108.0,
+            "fast": "Bite",
+            "charged": "Breaking Swipe",
+            "maxMove": "Max Darkness",
+            "role": "tank",
+            "dps": 80.1,
+            "tdo": 10170.0,
             "ttw": 126.9,
-            "faints": 3,
-            "survivalRate": 50.0
+            "faints": 0,
+            "survivalRate": 100.0
           }
         ],
         "dodging": [
@@ -6930,6 +6929,21 @@
             "survivalRate": 100.0
           },
           {
+            "name": "Regidrago",
+            "types": [
+              "Dragon"
+            ],
+            "fast": "Bite",
+            "charged": "Dragon Energy",
+            "maxMove": "Max Darkness",
+            "role": "tank",
+            "dps": 177.3,
+            "tdo": 10305.0,
+            "ttw": 58.1,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
             "name": "Gardevoir",
             "types": [
               "Psychic",
@@ -6942,22 +6956,6 @@
             "dps": 172.1,
             "tdo": 10225.0,
             "ttw": 59.4,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Latias",
-            "types": [
-              "Dragon",
-              "Psychic"
-            ],
-            "fast": "Zen Headbutt",
-            "charged": "Mist Ball",
-            "maxMove": "Max Mindstorm",
-            "role": "tank",
-            "dps": 173.6,
-            "tdo": 10416.0,
-            "ttw": 60.0,
             "faints": 0,
             "survivalRate": 100.0
           }
@@ -7415,18 +7413,17 @@
             "survivalRate": 100.0
           },
           {
-            "name": "Weavile",
+            "name": "Regidrago",
             "types": [
-              "Dark",
-              "Ice"
+              "Dragon"
             ],
-            "fast": "Snarl",
-            "charged": "Foul Play",
+            "fast": "Bite",
+            "charged": "Dragon Energy",
             "maxMove": "Max Darkness",
             "role": "tank",
-            "dps": 186.9,
-            "tdo": 10027.0,
-            "ttw": 53.7,
+            "dps": 197.8,
+            "tdo": 10375.0,
+            "ttw": 52.5,
             "faints": 0,
             "survivalRate": 100.0
           }
@@ -15202,17 +15199,17 @@
             "survivalRate": 0.0
           },
           {
-            "name": "Mesprit",
+            "name": "Regidrago",
             "types": [
-              "Psychic"
+              "Dragon"
             ],
-            "fast": "Extrasensory",
-            "charged": "Futuresight",
-            "maxMove": "Max Mindstorm",
+            "fast": "Bite",
+            "charged": "Breaking Swipe",
+            "maxMove": "Max Darkness",
             "role": "attacker",
-            "dps": 58.0,
-            "tdo": 6678.0,
-            "ttw": 403.2,
+            "dps": 59.9,
+            "tdo": 9572.0,
+            "ttw": 390.6,
             "faints": 3,
             "survivalRate": 0.0
           }
@@ -15673,17 +15670,17 @@
             "survivalRate": 0.0
           },
           {
-            "name": "Mesprit",
+            "name": "Regidrago",
             "types": [
-              "Psychic"
+              "Dragon"
             ],
-            "fast": "Extrasensory",
-            "charged": "Futuresight",
-            "maxMove": "Max Mindstorm",
+            "fast": "Bite",
+            "charged": "Breaking Swipe",
+            "maxMove": "Max Darkness",
             "role": "attacker",
-            "dps": 62.1,
-            "tdo": 8958.0,
-            "ttw": 377.1,
+            "dps": 64.8,
+            "tdo": 10830.0,
+            "ttw": 362.1,
             "faints": 3,
             "survivalRate": 0.0
           }
@@ -19733,6 +19730,4749 @@
               "maxMove": "G-Max Replenish",
               "dps": 44.3,
               "tdo": 18014.0
+            }
+          }
+        }
+      }
+    },
+    "Latias": {
+      "types": [
+        "Dragon",
+        "Psychic"
+      ],
+      "tier": "D-Max T5",
+      "cpStandard": 2006,
+      "cpBoosted": 2507,
+      "strategy_guide": "Latias is a Dragon/Psychic-type Max Battle boss. Build a team of strong Max Attackers with super-effective Max Moves. Coordinate Max Meter charging with fast attacks, swap to a defensive tank when targeted, and unleash Max Phase attacks.",
+      "l40": {
+        "standard": [
+          {
+            "name": "Latios",
+            "types": [
+              "Dragon",
+              "Psychic"
+            ],
+            "fast": "Dragon Breath",
+            "charged": "Luster Purge",
+            "maxMove": "Max Wyrmwind",
+            "role": "attacker",
+            "dps": 44.5,
+            "tdo": 3696.0,
+            "ttw": 211.5,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Eternatus",
+            "types": [
+              "Poison",
+              "Dragon"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Dynamax Cannon",
+            "maxMove": "Dynamax Cannon",
+            "role": "attacker",
+            "dps": 43.6,
+            "tdo": 4265.0,
+            "ttw": 215.9,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Metagross",
+            "types": [
+              "Steel",
+              "Psychic"
+            ],
+            "fast": "Shadow Claw",
+            "charged": "Flash Cannon",
+            "maxMove": "Max Phantasm",
+            "role": "attacker",
+            "dps": 37.3,
+            "tdo": 6317.0,
+            "ttw": 220.4,
+            "faints": 3,
+            "survivalRate": 2.0
+          },
+          {
+            "name": "Zacian (Crowned Sword)",
+            "types": [
+              "Fairy",
+              "Steel"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Behemoth Blade",
+            "maxMove": "Behemoth Blade",
+            "role": "attacker",
+            "dps": 38.8,
+            "tdo": 8829.0,
+            "ttw": 227.7,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Latias",
+            "types": [
+              "Dragon",
+              "Psychic"
+            ],
+            "fast": "Dragon Breath",
+            "charged": "Outrage",
+            "maxMove": "Max Wyrmwind",
+            "role": "attacker",
+            "dps": 36.8,
+            "tdo": 3272.0,
+            "ttw": 253.0,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Duraludon",
+            "types": [
+              "Steel",
+              "Dragon"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Dragon Claw",
+            "maxMove": "G-Max Depletion",
+            "role": "attacker",
+            "dps": 36.5,
+            "tdo": 3493.0,
+            "ttw": 254.4,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Regidrago",
+            "types": [
+              "Dragon"
+            ],
+            "fast": "Dragon Breath",
+            "charged": "Dragon Energy",
+            "maxMove": "Max Wyrmwind",
+            "role": "attacker",
+            "dps": 34.9,
+            "tdo": 2163.0,
+            "ttw": 259.8,
+            "faints": 2,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Zamazenta (Crowned Shield)",
+            "types": [
+              "Fighting",
+              "Steel"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Behemoth Bash",
+            "maxMove": "Behemoth Bash",
+            "role": "tank",
+            "dps": 32.4,
+            "tdo": 7894.0,
+            "ttw": 265.6,
+            "faints": 3,
+            "survivalRate": 28.0
+          },
+          {
+            "name": "Weavile",
+            "types": [
+              "Dark",
+              "Ice"
+            ],
+            "fast": "Snarl",
+            "charged": "Avalanche",
+            "maxMove": "Max Darkness",
+            "role": "attacker",
+            "dps": 32.3,
+            "tdo": 3160.0,
+            "ttw": 285.8,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Zacian (Hero)",
+            "types": [
+              "Fairy"
+            ],
+            "fast": "Snarl",
+            "charged": "Play Rough",
+            "maxMove": "Max Darkness",
+            "role": "attacker",
+            "dps": 29.9,
+            "tdo": 8032.0,
+            "ttw": 290.1,
+            "faints": 3,
+            "survivalRate": 12.0
+          },
+          {
+            "name": "Gardevoir",
+            "types": [
+              "Psychic",
+              "Fairy"
+            ],
+            "fast": "Charm",
+            "charged": "Shadow Ball",
+            "maxMove": "Max Starfall",
+            "role": "attacker",
+            "dps": 29.5,
+            "tdo": 6834.0,
+            "ttw": 290.7,
+            "faints": 3,
+            "survivalRate": 2.0
+          },
+          {
+            "name": "Glaceon",
+            "types": [
+              "Ice"
+            ],
+            "fast": "Frost Breath",
+            "charged": "Avalanche",
+            "maxMove": "Max Hailstorm",
+            "role": "attacker",
+            "dps": 31.3,
+            "tdo": 3398.0,
+            "ttw": 294.6,
+            "faints": 3,
+            "survivalRate": 0.0
+          }
+        ],
+        "dodging": [
+          {
+            "name": "Eternatus",
+            "types": [
+              "Poison",
+              "Dragon"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Dynamax Cannon",
+            "maxMove": "Dynamax Cannon",
+            "role": "attacker",
+            "dps": 41.9,
+            "tdo": 7057.0,
+            "ttw": 432.8,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Zacian (Crowned Sword)",
+            "types": [
+              "Fairy",
+              "Steel"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Behemoth Blade",
+            "maxMove": "Behemoth Blade",
+            "role": "attacker",
+            "dps": 36.5,
+            "tdo": 17609.0,
+            "ttw": 482.8,
+            "faints": 1,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Latios",
+            "types": [
+              "Dragon",
+              "Psychic"
+            ],
+            "fast": "Dragon Breath",
+            "charged": "Dragon Claw",
+            "maxMove": "Max Wyrmwind",
+            "role": "attacker",
+            "dps": 35.4,
+            "tdo": 5396.0,
+            "ttw": 508.9,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Duraludon",
+            "types": [
+              "Steel",
+              "Dragon"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Dragon Claw",
+            "maxMove": "G-Max Depletion",
+            "role": "attacker",
+            "dps": 35.4,
+            "tdo": 5639.0,
+            "ttw": 509.7,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Weavile",
+            "types": [
+              "Dark",
+              "Ice"
+            ],
+            "fast": "Snarl",
+            "charged": "Avalanche",
+            "maxMove": "Max Darkness",
+            "role": "attacker",
+            "dps": 32.3,
+            "tdo": 4857.0,
+            "ttw": 557.5,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Glaceon",
+            "types": [
+              "Ice"
+            ],
+            "fast": "Ice Shard",
+            "charged": "Avalanche",
+            "maxMove": "Max Hailstorm",
+            "role": "attacker",
+            "dps": 30.4,
+            "tdo": 5940.0,
+            "ttw": 590.8,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Darmanitan (Galarian Standard)",
+            "types": [
+              "Ice"
+            ],
+            "fast": "Ice Fang",
+            "charged": "Avalanche",
+            "maxMove": "Max Hailstorm",
+            "role": "attacker",
+            "dps": 29.1,
+            "tdo": 4136.0,
+            "ttw": 616.5,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Regidrago",
+            "types": [
+              "Dragon"
+            ],
+            "fast": "Dragon Breath",
+            "charged": "Dragon Energy",
+            "maxMove": "Max Wyrmwind",
+            "role": "attacker",
+            "dps": 29.1,
+            "tdo": 4946.0,
+            "ttw": 617.1,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Latias",
+            "types": [
+              "Dragon",
+              "Psychic"
+            ],
+            "fast": "Dragon Breath",
+            "charged": "Mist Ball",
+            "maxMove": "Max Wyrmwind",
+            "role": "attacker",
+            "dps": 28.4,
+            "tdo": 4771.0,
+            "ttw": 631.3,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Zacian (Hero)",
+            "types": [
+              "Fairy"
+            ],
+            "fast": "Snarl",
+            "charged": "Play Rough",
+            "maxMove": "Max Darkness",
+            "role": "attacker",
+            "dps": 28.3,
+            "tdo": 12387.0,
+            "ttw": 632.5,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Zamazenta (Crowned Shield)",
+            "types": [
+              "Fighting",
+              "Steel"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Behemoth Bash",
+            "maxMove": "Behemoth Bash",
+            "role": "tank",
+            "dps": 27.2,
+            "tdo": 12335.0,
+            "ttw": 659.4,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Sneasel",
+            "types": [
+              "Dark",
+              "Ice"
+            ],
+            "fast": "Feint Attack",
+            "charged": "Avalanche",
+            "maxMove": "Max Darkness",
+            "role": "attacker",
+            "dps": 26.1,
+            "tdo": 2564.0,
+            "ttw": 685.4,
+            "faints": 3,
+            "survivalRate": 0.0
+          }
+        ],
+        "team_composition": {
+          "standard": {
+            "min_players_needed": 2,
+            "strategy_label": "2 Attackers + 1 Tank",
+            "slot1": {
+              "name": "Latios",
+              "types": [
+                "Dragon",
+                "Psychic"
+              ],
+              "role": "attacker",
+              "fast": "Dragon Breath",
+              "charged": "Luster Purge",
+              "maxMove": "Max Wyrmwind",
+              "dps": 44.5,
+              "tdo": 3696.0
+            },
+            "slot2": {
+              "name": "Eternatus",
+              "types": [
+                "Poison",
+                "Dragon"
+              ],
+              "role": "attacker",
+              "fast": "Dragon Tail",
+              "charged": "Dynamax Cannon",
+              "maxMove": "Dynamax Cannon",
+              "dps": 43.6,
+              "tdo": 4265.0
+            },
+            "slot3": {
+              "name": "Zamazenta (Crowned Shield)",
+              "types": [
+                "Fighting",
+                "Steel"
+              ],
+              "role": "tank",
+              "fast": "Metal Claw",
+              "charged": "Behemoth Bash",
+              "maxMove": "Behemoth Bash",
+              "dps": 32.4,
+              "tdo": 7894.0
+            }
+          },
+          "dodging": {
+            "min_players_needed": 1,
+            "strategy_label": "2 Attackers + 1 Tank",
+            "slot1": {
+              "name": "Eternatus",
+              "types": [
+                "Poison",
+                "Dragon"
+              ],
+              "role": "attacker",
+              "fast": "Dragon Tail",
+              "charged": "Dynamax Cannon",
+              "maxMove": "Dynamax Cannon",
+              "dps": 41.9,
+              "tdo": 7057.0
+            },
+            "slot2": {
+              "name": "Zacian (Crowned Sword)",
+              "types": [
+                "Fairy",
+                "Steel"
+              ],
+              "role": "attacker",
+              "fast": "Metal Claw",
+              "charged": "Behemoth Blade",
+              "maxMove": "Behemoth Blade",
+              "dps": 36.5,
+              "tdo": 17609.0
+            },
+            "slot3": {
+              "name": "Zamazenta (Crowned Shield)",
+              "types": [
+                "Fighting",
+                "Steel"
+              ],
+              "role": "tank",
+              "fast": "Metal Claw",
+              "charged": "Behemoth Bash",
+              "maxMove": "Behemoth Bash",
+              "dps": 27.2,
+              "tdo": 12335.0
+            }
+          }
+        }
+      },
+      "l50": {
+        "standard": [
+          {
+            "name": "Eternatus",
+            "types": [
+              "Poison",
+              "Dragon"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Dynamax Cannon",
+            "maxMove": "Dynamax Cannon",
+            "role": "attacker",
+            "dps": 47.0,
+            "tdo": 5001.0,
+            "ttw": 201.0,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Latios",
+            "types": [
+              "Dragon",
+              "Psychic"
+            ],
+            "fast": "Dragon Breath",
+            "charged": "Luster Purge",
+            "maxMove": "Max Wyrmwind",
+            "role": "attacker",
+            "dps": 46.6,
+            "tdo": 4379.0,
+            "ttw": 202.8,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Metagross",
+            "types": [
+              "Steel",
+              "Psychic"
+            ],
+            "fast": "Shadow Claw",
+            "charged": "Flash Cannon",
+            "maxMove": "Max Phantasm",
+            "role": "tank",
+            "dps": 39.3,
+            "tdo": 7583.0,
+            "ttw": 215.6,
+            "faints": 3,
+            "survivalRate": 2.0
+          },
+          {
+            "name": "Zacian (Crowned Sword)",
+            "types": [
+              "Fairy",
+              "Steel"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Behemoth Blade",
+            "maxMove": "Behemoth Blade",
+            "role": "attacker",
+            "dps": 41.1,
+            "tdo": 8853.0,
+            "ttw": 215.6,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Latias",
+            "types": [
+              "Dragon",
+              "Psychic"
+            ],
+            "fast": "Dragon Breath",
+            "charged": "Mist Ball",
+            "maxMove": "Max Wyrmwind",
+            "role": "attacker",
+            "dps": 40.9,
+            "tdo": 4252.0,
+            "ttw": 229.1,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Duraludon",
+            "types": [
+              "Steel",
+              "Dragon"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Dragon Claw",
+            "maxMove": "G-Max Depletion",
+            "role": "attacker",
+            "dps": 39.8,
+            "tdo": 4613.0,
+            "ttw": 235.1,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Regidrago",
+            "types": [
+              "Dragon"
+            ],
+            "fast": "Dragon Breath",
+            "charged": "Breaking Swipe",
+            "maxMove": "Max Wyrmwind",
+            "role": "attacker",
+            "dps": 38.6,
+            "tdo": 3980.0,
+            "ttw": 241.7,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Zamazenta (Crowned Shield)",
+            "types": [
+              "Fighting",
+              "Steel"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Behemoth Bash",
+            "maxMove": "Behemoth Bash",
+            "role": "tank",
+            "dps": 34.1,
+            "tdo": 8573.0,
+            "ttw": 258.4,
+            "faints": 2,
+            "survivalRate": 66.0
+          },
+          {
+            "name": "Weavile",
+            "types": [
+              "Dark",
+              "Ice"
+            ],
+            "fast": "Snarl",
+            "charged": "Foul Play",
+            "maxMove": "Max Darkness",
+            "role": "attacker",
+            "dps": 34.5,
+            "tdo": 3552.0,
+            "ttw": 268.4,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Zacian (Hero)",
+            "types": [
+              "Fairy"
+            ],
+            "fast": "Snarl",
+            "charged": "Play Rough",
+            "maxMove": "Max Darkness",
+            "role": "tank",
+            "dps": 32.0,
+            "tdo": 7775.0,
+            "ttw": 271.0,
+            "faints": 1,
+            "survivalRate": 50.0
+          },
+          {
+            "name": "Gardevoir",
+            "types": [
+              "Psychic",
+              "Fairy"
+            ],
+            "fast": "Charm",
+            "charged": "Shadow Ball",
+            "maxMove": "Max Starfall",
+            "role": "attacker",
+            "dps": 30.6,
+            "tdo": 6411.0,
+            "ttw": 271.2,
+            "faints": 2,
+            "survivalRate": 2.0
+          },
+          {
+            "name": "Glaceon",
+            "types": [
+              "Ice"
+            ],
+            "fast": "Frost Breath",
+            "charged": "Avalanche",
+            "maxMove": "Max Hailstorm",
+            "role": "attacker",
+            "dps": 33.5,
+            "tdo": 3865.0,
+            "ttw": 276.2,
+            "faints": 3,
+            "survivalRate": 0.0
+          }
+        ],
+        "dodging": [
+          {
+            "name": "Eternatus",
+            "types": [
+              "Poison",
+              "Dragon"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Dynamax Cannon",
+            "maxMove": "Dynamax Cannon",
+            "role": "attacker",
+            "dps": 43.6,
+            "tdo": 8965.0,
+            "ttw": 416.8,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Zacian (Crowned Sword)",
+            "types": [
+              "Fairy",
+              "Steel"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Play Rough",
+            "maxMove": "Behemoth Blade",
+            "role": "attacker",
+            "dps": 38.4,
+            "tdo": 17578.0,
+            "ttw": 458.1,
+            "faints": 1,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Latios",
+            "types": [
+              "Dragon",
+              "Psychic"
+            ],
+            "fast": "Dragon Breath",
+            "charged": "Dragon Claw",
+            "maxMove": "Max Wyrmwind",
+            "role": "attacker",
+            "dps": 37.7,
+            "tdo": 6457.0,
+            "ttw": 478.9,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Duraludon",
+            "types": [
+              "Steel",
+              "Dragon"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Dragon Claw",
+            "maxMove": "G-Max Depletion",
+            "role": "attacker",
+            "dps": 36.7,
+            "tdo": 10092.0,
+            "ttw": 491.5,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Weavile",
+            "types": [
+              "Dark",
+              "Ice"
+            ],
+            "fast": "Snarl",
+            "charged": "Avalanche",
+            "maxMove": "Max Darkness",
+            "role": "attacker",
+            "dps": 34.8,
+            "tdo": 5754.0,
+            "ttw": 517.7,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Regidrago",
+            "types": [
+              "Dragon"
+            ],
+            "fast": "Dragon Breath",
+            "charged": "Dragon Energy",
+            "maxMove": "Max Wyrmwind",
+            "role": "attacker",
+            "dps": 33.8,
+            "tdo": 5987.0,
+            "ttw": 533.2,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Latias",
+            "types": [
+              "Dragon",
+              "Psychic"
+            ],
+            "fast": "Dragon Breath",
+            "charged": "Outrage",
+            "maxMove": "Max Wyrmwind",
+            "role": "attacker",
+            "dps": 33.5,
+            "tdo": 7193.0,
+            "ttw": 538.1,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Glaceon",
+            "types": [
+              "Ice"
+            ],
+            "fast": "Ice Shard",
+            "charged": "Avalanche",
+            "maxMove": "Max Hailstorm",
+            "role": "attacker",
+            "dps": 33.3,
+            "tdo": 6975.0,
+            "ttw": 540.8,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Darmanitan (Galarian Standard)",
+            "types": [
+              "Ice"
+            ],
+            "fast": "Ice Fang",
+            "charged": "Avalanche",
+            "maxMove": "Max Hailstorm",
+            "role": "attacker",
+            "dps": 31.8,
+            "tdo": 4994.0,
+            "ttw": 566.1,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Zacian (Hero)",
+            "types": [
+              "Fairy"
+            ],
+            "fast": "Snarl",
+            "charged": "Play Rough",
+            "maxMove": "Max Darkness",
+            "role": "attacker",
+            "dps": 30.7,
+            "tdo": 13651.0,
+            "ttw": 585.8,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Zamazenta (Crowned Shield)",
+            "types": [
+              "Fighting",
+              "Steel"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Behemoth Bash",
+            "maxMove": "Behemoth Bash",
+            "role": "tank",
+            "dps": 29.3,
+            "tdo": 13445.0,
+            "ttw": 613.1,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Metagross",
+            "types": [
+              "Steel",
+              "Psychic"
+            ],
+            "fast": "Shadow Claw",
+            "charged": "Meteor Mash",
+            "maxMove": "Max Phantasm",
+            "role": "tank",
+            "dps": 28.1,
+            "tdo": 11663.0,
+            "ttw": 638.3,
+            "faints": 3,
+            "survivalRate": 0.0
+          }
+        ],
+        "team_composition": {
+          "standard": {
+            "min_players_needed": 2,
+            "strategy_label": "2 Attackers + 1 Tank",
+            "slot1": {
+              "name": "Eternatus",
+              "types": [
+                "Poison",
+                "Dragon"
+              ],
+              "role": "attacker",
+              "fast": "Dragon Tail",
+              "charged": "Dynamax Cannon",
+              "maxMove": "Dynamax Cannon",
+              "dps": 47.0,
+              "tdo": 5001.0
+            },
+            "slot2": {
+              "name": "Latios",
+              "types": [
+                "Dragon",
+                "Psychic"
+              ],
+              "role": "attacker",
+              "fast": "Dragon Breath",
+              "charged": "Luster Purge",
+              "maxMove": "Max Wyrmwind",
+              "dps": 46.6,
+              "tdo": 4379.0
+            },
+            "slot3": {
+              "name": "Metagross",
+              "types": [
+                "Steel",
+                "Psychic"
+              ],
+              "role": "tank",
+              "fast": "Shadow Claw",
+              "charged": "Flash Cannon",
+              "maxMove": "Max Phantasm",
+              "dps": 39.3,
+              "tdo": 7583.0
+            }
+          },
+          "dodging": {
+            "min_players_needed": 1,
+            "strategy_label": "2 Attackers + 1 Tank",
+            "slot1": {
+              "name": "Eternatus",
+              "types": [
+                "Poison",
+                "Dragon"
+              ],
+              "role": "attacker",
+              "fast": "Dragon Tail",
+              "charged": "Dynamax Cannon",
+              "maxMove": "Dynamax Cannon",
+              "dps": 43.6,
+              "tdo": 8965.0
+            },
+            "slot2": {
+              "name": "Zacian (Crowned Sword)",
+              "types": [
+                "Fairy",
+                "Steel"
+              ],
+              "role": "attacker",
+              "fast": "Metal Claw",
+              "charged": "Play Rough",
+              "maxMove": "Behemoth Blade",
+              "dps": 38.4,
+              "tdo": 17578.0
+            },
+            "slot3": {
+              "name": "Zamazenta (Crowned Shield)",
+              "types": [
+                "Fighting",
+                "Steel"
+              ],
+              "role": "tank",
+              "fast": "Metal Claw",
+              "charged": "Behemoth Bash",
+              "maxMove": "Behemoth Bash",
+              "dps": 29.3,
+              "tdo": 13445.0
+            }
+          }
+        }
+      }
+    },
+    "Latios": {
+      "types": [
+        "Dragon",
+        "Psychic"
+      ],
+      "tier": "D-Max T5",
+      "cpStandard": 2178,
+      "cpBoosted": 2723,
+      "strategy_guide": "Latios is a Dragon/Psychic-type Max Battle boss. Build a team of strong Max Attackers with super-effective Max Moves. Coordinate Max Meter charging with fast attacks, swap to a defensive tank when targeted, and unleash Max Phase attacks.",
+      "l40": {
+        "standard": [
+          {
+            "name": "Latios",
+            "types": [
+              "Dragon",
+              "Psychic"
+            ],
+            "fast": "Dragon Breath",
+            "charged": "Dragon Claw",
+            "maxMove": "Max Wyrmwind",
+            "role": "attacker",
+            "dps": 51.5,
+            "tdo": 4355.0,
+            "ttw": 184.9,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Eternatus",
+            "types": [
+              "Poison",
+              "Dragon"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Dynamax Cannon",
+            "maxMove": "Dynamax Cannon",
+            "role": "attacker",
+            "dps": 48.9,
+            "tdo": 5410.0,
+            "ttw": 194.1,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Zacian (Crowned Sword)",
+            "types": [
+              "Fairy",
+              "Steel"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Play Rough",
+            "maxMove": "Behemoth Blade",
+            "role": "attacker",
+            "dps": 44.3,
+            "tdo": 8391.0,
+            "ttw": 199.1,
+            "faints": 2,
+            "survivalRate": 62.0
+          },
+          {
+            "name": "Metagross",
+            "types": [
+              "Steel",
+              "Psychic"
+            ],
+            "fast": "Shadow Claw",
+            "charged": "Flash Cannon",
+            "maxMove": "Max Phantasm",
+            "role": "attacker",
+            "dps": 42.8,
+            "tdo": 5866.0,
+            "ttw": 201.9,
+            "faints": 3,
+            "survivalRate": 2.0
+          },
+          {
+            "name": "Latias",
+            "types": [
+              "Dragon",
+              "Psychic"
+            ],
+            "fast": "Dragon Breath",
+            "charged": "Mist Ball",
+            "maxMove": "Max Wyrmwind",
+            "role": "attacker",
+            "dps": 43.5,
+            "tdo": 4226.0,
+            "ttw": 216.3,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Duraludon",
+            "types": [
+              "Steel",
+              "Dragon"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Dragon Claw",
+            "maxMove": "G-Max Depletion",
+            "role": "attacker",
+            "dps": 41.1,
+            "tdo": 3969.0,
+            "ttw": 226.0,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Regidrago",
+            "types": [
+              "Dragon"
+            ],
+            "fast": "Dragon Breath",
+            "charged": "Dragon Energy",
+            "maxMove": "Max Wyrmwind",
+            "role": "attacker",
+            "dps": 40.3,
+            "tdo": 3404.0,
+            "ttw": 231.9,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Zamazenta (Crowned Shield)",
+            "types": [
+              "Fighting",
+              "Steel"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Behemoth Bash",
+            "maxMove": "Behemoth Bash",
+            "role": "tank",
+            "dps": 36.6,
+            "tdo": 6723.0,
+            "ttw": 232.0,
+            "faints": 3,
+            "survivalRate": 8.0
+          },
+          {
+            "name": "Weavile",
+            "types": [
+              "Dark",
+              "Ice"
+            ],
+            "fast": "Snarl",
+            "charged": "Avalanche",
+            "maxMove": "Max Darkness",
+            "role": "attacker",
+            "dps": 36.9,
+            "tdo": 2569.0,
+            "ttw": 252.1,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Butterfree",
+            "types": [
+              "Bug",
+              "Flying"
+            ],
+            "fast": "Bug Bite",
+            "charged": "Signal Beam",
+            "maxMove": "G-Max Befuddle",
+            "role": "attacker",
+            "dps": 35.9,
+            "tdo": 2584.0,
+            "ttw": 258.4,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Zacian (Hero)",
+            "types": [
+              "Fairy"
+            ],
+            "fast": "Snarl",
+            "charged": "Play Rough",
+            "maxMove": "Max Darkness",
+            "role": "attacker",
+            "dps": 34.2,
+            "tdo": 4069.0,
+            "ttw": 271.0,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Glaceon",
+            "types": [
+              "Ice"
+            ],
+            "fast": "Ice Shard",
+            "charged": "Avalanche",
+            "maxMove": "Max Hailstorm",
+            "role": "attacker",
+            "dps": 34.1,
+            "tdo": 2680.0,
+            "ttw": 271.4,
+            "faints": 3,
+            "survivalRate": 0.0
+          }
+        ],
+        "dodging": [
+          {
+            "name": "Eternatus",
+            "types": [
+              "Poison",
+              "Dragon"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Dynamax Cannon",
+            "maxMove": "Dynamax Cannon",
+            "role": "attacker",
+            "dps": 46.2,
+            "tdo": 8373.0,
+            "ttw": 394.0,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Zacian (Crowned Sword)",
+            "types": [
+              "Fairy",
+              "Steel"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Behemoth Blade",
+            "maxMove": "Behemoth Blade",
+            "role": "attacker",
+            "dps": 39.3,
+            "tdo": 17610.0,
+            "ttw": 447.9,
+            "faints": 2,
+            "survivalRate": 94.0
+          },
+          {
+            "name": "Latios",
+            "types": [
+              "Dragon",
+              "Psychic"
+            ],
+            "fast": "Dragon Breath",
+            "charged": "Luster Purge",
+            "maxMove": "Max Wyrmwind",
+            "role": "attacker",
+            "dps": 39.6,
+            "tdo": 5629.0,
+            "ttw": 456.4,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Darmanitan (Galarian Standard)",
+            "types": [
+              "Ice"
+            ],
+            "fast": "Ice Fang",
+            "charged": "Avalanche",
+            "maxMove": "Max Hailstorm",
+            "role": "attacker",
+            "dps": 39.4,
+            "tdo": 3814.0,
+            "ttw": 459.7,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Duraludon",
+            "types": [
+              "Steel",
+              "Dragon"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Dragon Claw",
+            "maxMove": "G-Max Depletion",
+            "role": "attacker",
+            "dps": 39.1,
+            "tdo": 7109.0,
+            "ttw": 462.8,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Weavile",
+            "types": [
+              "Dark",
+              "Ice"
+            ],
+            "fast": "Snarl",
+            "charged": "Avalanche",
+            "maxMove": "Max Darkness",
+            "role": "attacker",
+            "dps": 37.2,
+            "tdo": 4146.0,
+            "ttw": 485.2,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Latias",
+            "types": [
+              "Dragon",
+              "Psychic"
+            ],
+            "fast": "Dragon Breath",
+            "charged": "Outrage",
+            "maxMove": "Max Wyrmwind",
+            "role": "attacker",
+            "dps": 35.1,
+            "tdo": 5837.0,
+            "ttw": 514.2,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Regidrago",
+            "types": [
+              "Dragon"
+            ],
+            "fast": "Dragon Breath",
+            "charged": "Dragon Energy",
+            "maxMove": "Max Wyrmwind",
+            "role": "attacker",
+            "dps": 34.8,
+            "tdo": 4744.0,
+            "ttw": 518.0,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Gastly",
+            "types": [
+              "Ghost",
+              "Poison"
+            ],
+            "fast": "Lick",
+            "charged": "Night Shade",
+            "maxMove": "Max Phantasm",
+            "role": "attacker",
+            "dps": 33.5,
+            "tdo": 1070.0,
+            "ttw": 538.0,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Zacian (Hero)",
+            "types": [
+              "Fairy"
+            ],
+            "fast": "Snarl",
+            "charged": "Play Rough",
+            "maxMove": "Max Darkness",
+            "role": "attacker",
+            "dps": 33.2,
+            "tdo": 12264.0,
+            "ttw": 541.4,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Gardevoir",
+            "types": [
+              "Psychic",
+              "Fairy"
+            ],
+            "fast": "Charm",
+            "charged": "Shadow Ball",
+            "maxMove": "Max Starfall",
+            "role": "attacker",
+            "dps": 33.1,
+            "tdo": 8568.0,
+            "ttw": 543.8,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Glaceon",
+            "types": [
+              "Ice"
+            ],
+            "fast": "Ice Shard",
+            "charged": "Ice Beam",
+            "maxMove": "Max Hailstorm",
+            "role": "attacker",
+            "dps": 32.3,
+            "tdo": 4179.0,
+            "ttw": 556.1,
+            "faints": 3,
+            "survivalRate": 0.0
+          }
+        ],
+        "team_composition": {
+          "standard": {
+            "min_players_needed": 2,
+            "strategy_label": "2 Attackers + 1 Tank",
+            "slot1": {
+              "name": "Latios",
+              "types": [
+                "Dragon",
+                "Psychic"
+              ],
+              "role": "attacker",
+              "fast": "Dragon Breath",
+              "charged": "Dragon Claw",
+              "maxMove": "Max Wyrmwind",
+              "dps": 51.5,
+              "tdo": 4355.0
+            },
+            "slot2": {
+              "name": "Eternatus",
+              "types": [
+                "Poison",
+                "Dragon"
+              ],
+              "role": "attacker",
+              "fast": "Dragon Tail",
+              "charged": "Dynamax Cannon",
+              "maxMove": "Dynamax Cannon",
+              "dps": 48.9,
+              "tdo": 5410.0
+            },
+            "slot3": {
+              "name": "Zamazenta (Crowned Shield)",
+              "types": [
+                "Fighting",
+                "Steel"
+              ],
+              "role": "tank",
+              "fast": "Metal Claw",
+              "charged": "Behemoth Bash",
+              "maxMove": "Behemoth Bash",
+              "dps": 36.6,
+              "tdo": 6723.0
+            }
+          },
+          "dodging": {
+            "min_players_needed": 1,
+            "strategy_label": "3 Attackers",
+            "slot1": {
+              "name": "Eternatus",
+              "types": [
+                "Poison",
+                "Dragon"
+              ],
+              "role": "attacker",
+              "fast": "Dragon Tail",
+              "charged": "Dynamax Cannon",
+              "maxMove": "Dynamax Cannon",
+              "dps": 46.2,
+              "tdo": 8373.0
+            },
+            "slot2": {
+              "name": "Zacian (Crowned Sword)",
+              "types": [
+                "Fairy",
+                "Steel"
+              ],
+              "role": "attacker",
+              "fast": "Metal Claw",
+              "charged": "Behemoth Blade",
+              "maxMove": "Behemoth Blade",
+              "dps": 39.3,
+              "tdo": 17610.0
+            },
+            "slot3": {
+              "name": "Latios",
+              "types": [
+                "Dragon",
+                "Psychic"
+              ],
+              "role": "attacker",
+              "fast": "Dragon Breath",
+              "charged": "Luster Purge",
+              "maxMove": "Max Wyrmwind",
+              "dps": 39.6,
+              "tdo": 5629.0
+            }
+          }
+        }
+      },
+      "l50": {
+        "standard": [
+          {
+            "name": "Latios",
+            "types": [
+              "Dragon",
+              "Psychic"
+            ],
+            "fast": "Dragon Breath",
+            "charged": "Dragon Claw",
+            "maxMove": "Max Wyrmwind",
+            "role": "attacker",
+            "dps": 52.9,
+            "tdo": 4600.0,
+            "ttw": 180.3,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Eternatus",
+            "types": [
+              "Poison",
+              "Dragon"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Dynamax Cannon",
+            "maxMove": "Dynamax Cannon",
+            "role": "attacker",
+            "dps": 52.4,
+            "tdo": 6241.0,
+            "ttw": 181.9,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Zacian (Crowned Sword)",
+            "types": [
+              "Fairy",
+              "Steel"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Behemoth Blade",
+            "maxMove": "Behemoth Blade",
+            "role": "attacker",
+            "dps": 48.2,
+            "tdo": 8703.0,
+            "ttw": 182.6,
+            "faints": 2,
+            "survivalRate": 90.0
+          },
+          {
+            "name": "Metagross",
+            "types": [
+              "Steel",
+              "Psychic"
+            ],
+            "fast": "Shadow Claw",
+            "charged": "Meteor Mash",
+            "maxMove": "Max Phantasm",
+            "role": "tank",
+            "dps": 44.4,
+            "tdo": 6716.0,
+            "ttw": 185.6,
+            "faints": 3,
+            "survivalRate": 12.0
+          },
+          {
+            "name": "Latias",
+            "types": [
+              "Dragon",
+              "Psychic"
+            ],
+            "fast": "Dragon Breath",
+            "charged": "Mist Ball",
+            "maxMove": "Max Wyrmwind",
+            "role": "attacker",
+            "dps": 46.2,
+            "tdo": 4792.0,
+            "ttw": 204.5,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Duraludon",
+            "types": [
+              "Steel",
+              "Dragon"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Dragon Claw",
+            "maxMove": "G-Max Depletion",
+            "role": "attacker",
+            "dps": 46.1,
+            "tdo": 5302.0,
+            "ttw": 204.7,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Regidrago",
+            "types": [
+              "Dragon"
+            ],
+            "fast": "Dragon Breath",
+            "charged": "Breaking Swipe",
+            "maxMove": "Max Wyrmwind",
+            "role": "attacker",
+            "dps": 43.4,
+            "tdo": 4046.0,
+            "ttw": 216.8,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Zamazenta (Crowned Shield)",
+            "types": [
+              "Fighting",
+              "Steel"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Behemoth Bash",
+            "maxMove": "Behemoth Bash",
+            "role": "tank",
+            "dps": 37.8,
+            "tdo": 5909.0,
+            "ttw": 228.1,
+            "faints": 1,
+            "survivalRate": 14.0
+          },
+          {
+            "name": "Gardevoir",
+            "types": [
+              "Psychic",
+              "Fairy"
+            ],
+            "fast": "Charm",
+            "charged": "Triple Axel",
+            "maxMove": "Max Starfall",
+            "role": "attacker",
+            "dps": 34.5,
+            "tdo": 4376.0,
+            "ttw": 234.5,
+            "faints": 3,
+            "survivalRate": 2.0
+          },
+          {
+            "name": "Zacian (Hero)",
+            "types": [
+              "Fairy"
+            ],
+            "fast": "Snarl",
+            "charged": "Play Rough",
+            "maxMove": "Max Darkness",
+            "role": "attacker",
+            "dps": 36.9,
+            "tdo": 6083.0,
+            "ttw": 239.2,
+            "faints": 3,
+            "survivalRate": 4.0
+          },
+          {
+            "name": "Weavile",
+            "types": [
+              "Dark",
+              "Ice"
+            ],
+            "fast": "Snarl",
+            "charged": "Foul Play",
+            "maxMove": "Max Darkness",
+            "role": "attacker",
+            "dps": 38.6,
+            "tdo": 3346.0,
+            "ttw": 241.8,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Butterfree",
+            "types": [
+              "Bug",
+              "Flying"
+            ],
+            "fast": "Bug Bite",
+            "charged": "Signal Beam",
+            "maxMove": "G-Max Befuddle",
+            "role": "attacker",
+            "dps": 37.6,
+            "tdo": 3198.0,
+            "ttw": 248.0,
+            "faints": 3,
+            "survivalRate": 0.0
+          }
+        ],
+        "dodging": [
+          {
+            "name": "Eternatus",
+            "types": [
+              "Poison",
+              "Dragon"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Dynamax Cannon",
+            "maxMove": "Dynamax Cannon",
+            "role": "attacker",
+            "dps": 50.8,
+            "tdo": 9836.0,
+            "ttw": 359.4,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Zacian (Crowned Sword)",
+            "types": [
+              "Fairy",
+              "Steel"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Behemoth Blade",
+            "maxMove": "Behemoth Blade",
+            "role": "attacker",
+            "dps": 42.5,
+            "tdo": 17601.0,
+            "ttw": 414.4,
+            "faints": 1,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Duraludon",
+            "types": [
+              "Steel",
+              "Dragon"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Dragon Claw",
+            "maxMove": "G-Max Depletion",
+            "role": "attacker",
+            "dps": 42.8,
+            "tdo": 8348.0,
+            "ttw": 424.3,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Latios",
+            "types": [
+              "Dragon",
+              "Psychic"
+            ],
+            "fast": "Dragon Breath",
+            "charged": "Dragon Claw",
+            "maxMove": "Max Wyrmwind",
+            "role": "attacker",
+            "dps": 42.7,
+            "tdo": 6593.0,
+            "ttw": 424.5,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Darmanitan (Galarian Standard)",
+            "types": [
+              "Ice"
+            ],
+            "fast": "Ice Fang",
+            "charged": "Avalanche",
+            "maxMove": "Max Hailstorm",
+            "role": "attacker",
+            "dps": 40.0,
+            "tdo": 4378.0,
+            "ttw": 452.3,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Weavile",
+            "types": [
+              "Dark",
+              "Ice"
+            ],
+            "fast": "Snarl",
+            "charged": "Avalanche",
+            "maxMove": "Max Darkness",
+            "role": "attacker",
+            "dps": 37.4,
+            "tdo": 5468.0,
+            "ttw": 482.6,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Latias",
+            "types": [
+              "Dragon",
+              "Psychic"
+            ],
+            "fast": "Dragon Breath",
+            "charged": "Outrage",
+            "maxMove": "Max Wyrmwind",
+            "role": "attacker",
+            "dps": 37.4,
+            "tdo": 6801.0,
+            "ttw": 482.6,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Regidrago",
+            "types": [
+              "Dragon"
+            ],
+            "fast": "Dragon Breath",
+            "charged": "Dragon Energy",
+            "maxMove": "Max Wyrmwind",
+            "role": "attacker",
+            "dps": 37.1,
+            "tdo": 6438.0,
+            "ttw": 486.9,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Gardevoir",
+            "types": [
+              "Psychic",
+              "Fairy"
+            ],
+            "fast": "Charm",
+            "charged": "Shadow Ball",
+            "maxMove": "Max Starfall",
+            "role": "attacker",
+            "dps": 34.9,
+            "tdo": 10128.0,
+            "ttw": 516.4,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Glaceon",
+            "types": [
+              "Ice"
+            ],
+            "fast": "Frost Breath",
+            "charged": "Avalanche",
+            "maxMove": "Max Hailstorm",
+            "role": "attacker",
+            "dps": 34.6,
+            "tdo": 5093.0,
+            "ttw": 520.1,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Zamazenta (Hero)",
+            "types": [
+              "Fighting"
+            ],
+            "fast": "Snarl",
+            "charged": "Moonblast",
+            "maxMove": "Max Darkness",
+            "role": "tank",
+            "dps": 33.6,
+            "tdo": 7511.0,
+            "ttw": 536.4,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Butterfree",
+            "types": [
+              "Bug",
+              "Flying"
+            ],
+            "fast": "Bug Bite",
+            "charged": "Signal Beam",
+            "maxMove": "G-Max Befuddle",
+            "role": "attacker",
+            "dps": 32.9,
+            "tdo": 4301.0,
+            "ttw": 547.4,
+            "faints": 3,
+            "survivalRate": 0.0
+          }
+        ],
+        "team_composition": {
+          "standard": {
+            "min_players_needed": 2,
+            "strategy_label": "2 Attackers + 1 Tank",
+            "slot1": {
+              "name": "Latios",
+              "types": [
+                "Dragon",
+                "Psychic"
+              ],
+              "role": "attacker",
+              "fast": "Dragon Breath",
+              "charged": "Dragon Claw",
+              "maxMove": "Max Wyrmwind",
+              "dps": 52.9,
+              "tdo": 4600.0
+            },
+            "slot2": {
+              "name": "Eternatus",
+              "types": [
+                "Poison",
+                "Dragon"
+              ],
+              "role": "attacker",
+              "fast": "Dragon Tail",
+              "charged": "Dynamax Cannon",
+              "maxMove": "Dynamax Cannon",
+              "dps": 52.4,
+              "tdo": 6241.0
+            },
+            "slot3": {
+              "name": "Metagross",
+              "types": [
+                "Steel",
+                "Psychic"
+              ],
+              "role": "tank",
+              "fast": "Shadow Claw",
+              "charged": "Meteor Mash",
+              "maxMove": "Max Phantasm",
+              "dps": 44.4,
+              "tdo": 6716.0
+            }
+          },
+          "dodging": {
+            "min_players_needed": 1,
+            "strategy_label": "2 Attackers + 1 Tank",
+            "slot1": {
+              "name": "Eternatus",
+              "types": [
+                "Poison",
+                "Dragon"
+              ],
+              "role": "attacker",
+              "fast": "Dragon Tail",
+              "charged": "Dynamax Cannon",
+              "maxMove": "Dynamax Cannon",
+              "dps": 50.8,
+              "tdo": 9836.0
+            },
+            "slot2": {
+              "name": "Zacian (Crowned Sword)",
+              "types": [
+                "Fairy",
+                "Steel"
+              ],
+              "role": "attacker",
+              "fast": "Metal Claw",
+              "charged": "Behemoth Blade",
+              "maxMove": "Behemoth Blade",
+              "dps": 42.5,
+              "tdo": 17601.0
+            },
+            "slot3": {
+              "name": "Zamazenta (Hero)",
+              "types": [
+                "Fighting"
+              ],
+              "role": "tank",
+              "fast": "Snarl",
+              "charged": "Moonblast",
+              "maxMove": "Max Darkness",
+              "dps": 33.6,
+              "tdo": 7511.0
+            }
+          }
+        }
+      }
+    },
+    "Machop": {
+      "types": [
+        "Fighting"
+      ],
+      "tier": "D-Max T1",
+      "cpStandard": 730,
+      "cpBoosted": 913,
+      "strategy_guide": "Machop is a Fighting-type Max Battle boss. Build a team of strong Max Attackers with super-effective Max Moves. Coordinate Max Meter charging with fast attacks, swap to a defensive tank when targeted, and unleash Max Phase attacks.",
+      "l40": {
+        "standard": [
+          {
+            "name": "Azelf",
+            "types": [
+              "Psychic"
+            ],
+            "fast": "Confusion",
+            "charged": "Swift",
+            "maxMove": "Max Mindstorm",
+            "role": "attacker",
+            "dps": 1266.8,
+            "tdo": 6334.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Espeon",
+            "types": [
+              "Psychic"
+            ],
+            "fast": "Confusion",
+            "charged": "Shadow Ball",
+            "maxMove": "Max Mindstorm",
+            "role": "attacker",
+            "dps": 1226.8,
+            "tdo": 6134.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Gardevoir",
+            "types": [
+              "Psychic",
+              "Fairy"
+            ],
+            "fast": "Charm",
+            "charged": "Dazzling Gleam",
+            "maxMove": "Max Starfall",
+            "role": "attacker",
+            "dps": 1130.4,
+            "tdo": 5652.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Gallade",
+            "types": [
+              "Psychic",
+              "Fighting"
+            ],
+            "fast": "Confusion",
+            "charged": "Psychic",
+            "maxMove": "Max Mindstorm",
+            "role": "attacker",
+            "dps": 1120.0,
+            "tdo": 5600.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Zacian (Crowned Sword)",
+            "types": [
+              "Fairy",
+              "Steel"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Play Rough",
+            "maxMove": "Behemoth Blade",
+            "role": "tank",
+            "dps": 461.8,
+            "tdo": 2309.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Moltres",
+            "types": [
+              "Fire",
+              "Flying"
+            ],
+            "fast": "Wing Attack",
+            "charged": "Fly",
+            "maxMove": "Max Airstream",
+            "role": "tank",
+            "dps": 388.8,
+            "tdo": 1944.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Metagross",
+            "types": [
+              "Steel",
+              "Psychic"
+            ],
+            "fast": "Bullet Punch",
+            "charged": "Psychic",
+            "maxMove": "Max Steelspike",
+            "role": "healer",
+            "dps": 358.6,
+            "tdo": 1793.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Zacian (Hero)",
+            "types": [
+              "Fairy"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Play Rough",
+            "maxMove": "Max Steelspike",
+            "role": "tank",
+            "dps": 340.6,
+            "tdo": 1703.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Latios",
+            "types": [
+              "Dragon",
+              "Psychic"
+            ],
+            "fast": "Zen Headbutt",
+            "charged": "Luster Purge",
+            "maxMove": "Max Mindstorm",
+            "role": "attacker",
+            "dps": 1116.9,
+            "tdo": 6143.0,
+            "ttw": 5.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Latias",
+            "types": [
+              "Dragon",
+              "Psychic"
+            ],
+            "fast": "Zen Headbutt",
+            "charged": "Psychic",
+            "maxMove": "Max Mindstorm",
+            "role": "tank",
+            "dps": 340.7,
+            "tdo": 2044.0,
+            "ttw": 6.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Darmanitan (Standard)",
+            "types": [
+              "Fire"
+            ],
+            "fast": "Fire Fang",
+            "charged": "Psychic",
+            "maxMove": "Max Flare",
+            "role": "tank",
+            "dps": 309.3,
+            "tdo": 1856.0,
+            "ttw": 6.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Mesprit",
+            "types": [
+              "Psychic"
+            ],
+            "fast": "Confusion",
+            "charged": "Blizzard",
+            "maxMove": "Max Mindstorm",
+            "role": "tank",
+            "dps": 810.5,
+            "tdo": 5268.0,
+            "ttw": 6.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          }
+        ],
+        "dodging": [
+          {
+            "name": "Azelf",
+            "types": [
+              "Psychic"
+            ],
+            "fast": "Confusion",
+            "charged": "Swift",
+            "maxMove": "Max Mindstorm",
+            "role": "attacker",
+            "dps": 1266.8,
+            "tdo": 6334.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Espeon",
+            "types": [
+              "Psychic"
+            ],
+            "fast": "Confusion",
+            "charged": "Shadow Ball",
+            "maxMove": "Max Mindstorm",
+            "role": "attacker",
+            "dps": 1226.8,
+            "tdo": 6134.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Gardevoir",
+            "types": [
+              "Psychic",
+              "Fairy"
+            ],
+            "fast": "Charm",
+            "charged": "Psychic",
+            "maxMove": "Max Starfall",
+            "role": "attacker",
+            "dps": 1130.4,
+            "tdo": 5652.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Gallade",
+            "types": [
+              "Psychic",
+              "Fighting"
+            ],
+            "fast": "Confusion",
+            "charged": "Psychic",
+            "maxMove": "Max Mindstorm",
+            "role": "attacker",
+            "dps": 1120.0,
+            "tdo": 5600.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Zacian (Crowned Sword)",
+            "types": [
+              "Fairy",
+              "Steel"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Play Rough",
+            "maxMove": "Behemoth Blade",
+            "role": "tank",
+            "dps": 461.8,
+            "tdo": 2309.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Moltres",
+            "types": [
+              "Fire",
+              "Flying"
+            ],
+            "fast": "Wing Attack",
+            "charged": "Fly",
+            "maxMove": "Max Airstream",
+            "role": "tank",
+            "dps": 388.8,
+            "tdo": 1944.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Metagross",
+            "types": [
+              "Steel",
+              "Psychic"
+            ],
+            "fast": "Bullet Punch",
+            "charged": "Psychic",
+            "maxMove": "Max Steelspike",
+            "role": "healer",
+            "dps": 358.6,
+            "tdo": 1793.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Zacian (Hero)",
+            "types": [
+              "Fairy"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Play Rough",
+            "maxMove": "Max Steelspike",
+            "role": "tank",
+            "dps": 340.6,
+            "tdo": 1703.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Latios",
+            "types": [
+              "Dragon",
+              "Psychic"
+            ],
+            "fast": "Zen Headbutt",
+            "charged": "Luster Purge",
+            "maxMove": "Max Mindstorm",
+            "role": "attacker",
+            "dps": 1116.9,
+            "tdo": 6143.0,
+            "ttw": 5.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Latias",
+            "types": [
+              "Dragon",
+              "Psychic"
+            ],
+            "fast": "Zen Headbutt",
+            "charged": "Psychic",
+            "maxMove": "Max Mindstorm",
+            "role": "tank",
+            "dps": 340.7,
+            "tdo": 2044.0,
+            "ttw": 6.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Darmanitan (Standard)",
+            "types": [
+              "Fire"
+            ],
+            "fast": "Fire Fang",
+            "charged": "Psychic",
+            "maxMove": "Max Flare",
+            "role": "tank",
+            "dps": 309.3,
+            "tdo": 1856.0,
+            "ttw": 6.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Mesprit",
+            "types": [
+              "Psychic"
+            ],
+            "fast": "Confusion",
+            "charged": "Blizzard",
+            "maxMove": "Max Mindstorm",
+            "role": "tank",
+            "dps": 810.5,
+            "tdo": 5268.0,
+            "ttw": 6.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          }
+        ],
+        "team_composition": {
+          "standard": {
+            "min_players_needed": 1,
+            "strategy_label": "1 Attacker + 1 Tank + 1 Healer",
+            "slot1": {
+              "name": "Azelf",
+              "types": [
+                "Psychic"
+              ],
+              "role": "attacker",
+              "fast": "Confusion",
+              "charged": "Swift",
+              "maxMove": "Max Mindstorm",
+              "dps": 1266.8,
+              "tdo": 6334.0
+            },
+            "slot2": {
+              "name": "Zacian (Crowned Sword)",
+              "types": [
+                "Fairy",
+                "Steel"
+              ],
+              "role": "tank",
+              "fast": "Metal Claw",
+              "charged": "Play Rough",
+              "maxMove": "Behemoth Blade",
+              "dps": 461.8,
+              "tdo": 2309.0
+            },
+            "slot3": {
+              "name": "Metagross",
+              "types": [
+                "Steel",
+                "Psychic"
+              ],
+              "role": "healer",
+              "fast": "Bullet Punch",
+              "charged": "Psychic",
+              "maxMove": "Max Steelspike",
+              "dps": 358.6,
+              "tdo": 1793.0
+            }
+          },
+          "dodging": {
+            "min_players_needed": 1,
+            "strategy_label": "1 Attacker + 1 Tank + 1 Healer",
+            "slot1": {
+              "name": "Azelf",
+              "types": [
+                "Psychic"
+              ],
+              "role": "attacker",
+              "fast": "Confusion",
+              "charged": "Swift",
+              "maxMove": "Max Mindstorm",
+              "dps": 1266.8,
+              "tdo": 6334.0
+            },
+            "slot2": {
+              "name": "Zacian (Crowned Sword)",
+              "types": [
+                "Fairy",
+                "Steel"
+              ],
+              "role": "tank",
+              "fast": "Metal Claw",
+              "charged": "Play Rough",
+              "maxMove": "Behemoth Blade",
+              "dps": 461.8,
+              "tdo": 2309.0
+            },
+            "slot3": {
+              "name": "Metagross",
+              "types": [
+                "Steel",
+                "Psychic"
+              ],
+              "role": "healer",
+              "fast": "Bullet Punch",
+              "charged": "Psychic",
+              "maxMove": "Max Steelspike",
+              "dps": 358.6,
+              "tdo": 1793.0
+            }
+          }
+        }
+      },
+      "l50": {
+        "standard": [
+          {
+            "name": "Gallade",
+            "types": [
+              "Psychic",
+              "Fighting"
+            ],
+            "fast": "Psycho Cut",
+            "charged": "Psychic",
+            "maxMove": "Max Mindstorm",
+            "role": "tank",
+            "dps": 444.0,
+            "tdo": 1776.0,
+            "ttw": 4.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Zacian (Crowned Sword)",
+            "types": [
+              "Fairy",
+              "Steel"
+            ],
+            "fast": "Air Slash",
+            "charged": "Behemoth Blade",
+            "maxMove": "Behemoth Blade",
+            "role": "attacker",
+            "dps": 1149.8,
+            "tdo": 5174.0,
+            "ttw": 4.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Gardevoir",
+            "types": [
+              "Psychic",
+              "Fairy"
+            ],
+            "fast": "Magical Leaf",
+            "charged": "Dazzling Gleam",
+            "maxMove": "Max Overgrowth",
+            "role": "tank",
+            "dps": 393.3,
+            "tdo": 1770.0,
+            "ttw": 4.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Azelf",
+            "types": [
+              "Psychic"
+            ],
+            "fast": "Confusion",
+            "charged": "Swift",
+            "maxMove": "Max Mindstorm",
+            "role": "attacker",
+            "dps": 1347.0,
+            "tdo": 6735.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Espeon",
+            "types": [
+              "Psychic"
+            ],
+            "fast": "Confusion",
+            "charged": "Psybeam",
+            "maxMove": "Max Mindstorm",
+            "role": "attacker",
+            "dps": 1304.0,
+            "tdo": 6520.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Mesprit",
+            "types": [
+              "Psychic"
+            ],
+            "fast": "Confusion",
+            "charged": "Futuresight",
+            "maxMove": "Max Mindstorm",
+            "role": "attacker",
+            "dps": 1073.0,
+            "tdo": 5365.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Sylveon",
+            "types": [
+              "Fairy"
+            ],
+            "fast": "Charm",
+            "charged": "Draining Kiss",
+            "maxMove": "Max Starfall",
+            "role": "tank",
+            "dps": 1039.8,
+            "tdo": 5199.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Moltres",
+            "types": [
+              "Fire",
+              "Flying"
+            ],
+            "fast": "Wing Attack",
+            "charged": "Fly",
+            "maxMove": "Max Airstream",
+            "role": "tank",
+            "dps": 413.6,
+            "tdo": 2068.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Metagross",
+            "types": [
+              "Steel",
+              "Psychic"
+            ],
+            "fast": "Bullet Punch",
+            "charged": "Psychic",
+            "maxMove": "Max Steelspike",
+            "role": "healer",
+            "dps": 381.6,
+            "tdo": 1908.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Zacian (Hero)",
+            "types": [
+              "Fairy"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Play Rough",
+            "maxMove": "Max Steelspike",
+            "role": "tank",
+            "dps": 362.6,
+            "tdo": 1813.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Zamazenta (Crowned Shield)",
+            "types": [
+              "Fighting",
+              "Steel"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Behemoth Bash",
+            "maxMove": "Behemoth Bash",
+            "role": "healer",
+            "dps": 341.6,
+            "tdo": 1708.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Latios",
+            "types": [
+              "Dragon",
+              "Psychic"
+            ],
+            "fast": "Zen Headbutt",
+            "charged": "Luster Purge",
+            "maxMove": "Max Mindstorm",
+            "role": "attacker",
+            "dps": 1187.3,
+            "tdo": 6530.0,
+            "ttw": 5.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          }
+        ],
+        "dodging": [
+          {
+            "name": "Gallade",
+            "types": [
+              "Psychic",
+              "Fighting"
+            ],
+            "fast": "Psycho Cut",
+            "charged": "Psychic",
+            "maxMove": "Max Mindstorm",
+            "role": "tank",
+            "dps": 444.0,
+            "tdo": 1776.0,
+            "ttw": 4.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Zacian (Crowned Sword)",
+            "types": [
+              "Fairy",
+              "Steel"
+            ],
+            "fast": "Air Slash",
+            "charged": "Behemoth Blade",
+            "maxMove": "Behemoth Blade",
+            "role": "attacker",
+            "dps": 1149.8,
+            "tdo": 5174.0,
+            "ttw": 4.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Gardevoir",
+            "types": [
+              "Psychic",
+              "Fairy"
+            ],
+            "fast": "Magical Leaf",
+            "charged": "Dazzling Gleam",
+            "maxMove": "Max Overgrowth",
+            "role": "tank",
+            "dps": 393.3,
+            "tdo": 1770.0,
+            "ttw": 4.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Azelf",
+            "types": [
+              "Psychic"
+            ],
+            "fast": "Confusion",
+            "charged": "Fire Blast",
+            "maxMove": "Max Mindstorm",
+            "role": "attacker",
+            "dps": 1347.0,
+            "tdo": 6735.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Espeon",
+            "types": [
+              "Psychic"
+            ],
+            "fast": "Confusion",
+            "charged": "Psybeam",
+            "maxMove": "Max Mindstorm",
+            "role": "attacker",
+            "dps": 1304.0,
+            "tdo": 6520.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Mesprit",
+            "types": [
+              "Psychic"
+            ],
+            "fast": "Confusion",
+            "charged": "Futuresight",
+            "maxMove": "Max Mindstorm",
+            "role": "attacker",
+            "dps": 1073.0,
+            "tdo": 5365.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Sylveon",
+            "types": [
+              "Fairy"
+            ],
+            "fast": "Charm",
+            "charged": "Last Resort",
+            "maxMove": "Max Starfall",
+            "role": "tank",
+            "dps": 1039.8,
+            "tdo": 5199.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Moltres",
+            "types": [
+              "Fire",
+              "Flying"
+            ],
+            "fast": "Wing Attack",
+            "charged": "Fly",
+            "maxMove": "Max Airstream",
+            "role": "tank",
+            "dps": 413.6,
+            "tdo": 2068.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Metagross",
+            "types": [
+              "Steel",
+              "Psychic"
+            ],
+            "fast": "Bullet Punch",
+            "charged": "Psychic",
+            "maxMove": "Max Steelspike",
+            "role": "healer",
+            "dps": 381.6,
+            "tdo": 1908.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Zacian (Hero)",
+            "types": [
+              "Fairy"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Play Rough",
+            "maxMove": "Max Steelspike",
+            "role": "tank",
+            "dps": 362.6,
+            "tdo": 1813.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Zamazenta (Crowned Shield)",
+            "types": [
+              "Fighting",
+              "Steel"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Behemoth Bash",
+            "maxMove": "Behemoth Bash",
+            "role": "healer",
+            "dps": 341.6,
+            "tdo": 1708.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Latios",
+            "types": [
+              "Dragon",
+              "Psychic"
+            ],
+            "fast": "Zen Headbutt",
+            "charged": "Luster Purge",
+            "maxMove": "Max Mindstorm",
+            "role": "attacker",
+            "dps": 1187.3,
+            "tdo": 6530.0,
+            "ttw": 5.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          }
+        ],
+        "team_composition": {
+          "standard": {
+            "min_players_needed": 1,
+            "strategy_label": "1 Attacker + 1 Tank + 1 Healer",
+            "slot1": {
+              "name": "Zacian (Crowned Sword)",
+              "types": [
+                "Fairy",
+                "Steel"
+              ],
+              "role": "attacker",
+              "fast": "Air Slash",
+              "charged": "Behemoth Blade",
+              "maxMove": "Behemoth Blade",
+              "dps": 1149.8,
+              "tdo": 5174.0
+            },
+            "slot2": {
+              "name": "Gallade",
+              "types": [
+                "Psychic",
+                "Fighting"
+              ],
+              "role": "tank",
+              "fast": "Psycho Cut",
+              "charged": "Psychic",
+              "maxMove": "Max Mindstorm",
+              "dps": 444.0,
+              "tdo": 1776.0
+            },
+            "slot3": {
+              "name": "Metagross",
+              "types": [
+                "Steel",
+                "Psychic"
+              ],
+              "role": "healer",
+              "fast": "Bullet Punch",
+              "charged": "Psychic",
+              "maxMove": "Max Steelspike",
+              "dps": 381.6,
+              "tdo": 1908.0
+            }
+          },
+          "dodging": {
+            "min_players_needed": 1,
+            "strategy_label": "1 Attacker + 1 Tank + 1 Healer",
+            "slot1": {
+              "name": "Zacian (Crowned Sword)",
+              "types": [
+                "Fairy",
+                "Steel"
+              ],
+              "role": "attacker",
+              "fast": "Air Slash",
+              "charged": "Behemoth Blade",
+              "maxMove": "Behemoth Blade",
+              "dps": 1149.8,
+              "tdo": 5174.0
+            },
+            "slot2": {
+              "name": "Gallade",
+              "types": [
+                "Psychic",
+                "Fighting"
+              ],
+              "role": "tank",
+              "fast": "Psycho Cut",
+              "charged": "Psychic",
+              "maxMove": "Max Mindstorm",
+              "dps": 444.0,
+              "tdo": 1776.0
+            },
+            "slot3": {
+              "name": "Metagross",
+              "types": [
+                "Steel",
+                "Psychic"
+              ],
+              "role": "healer",
+              "fast": "Bullet Punch",
+              "charged": "Psychic",
+              "maxMove": "Max Steelspike",
+              "dps": 381.6,
+              "tdo": 1908.0
+            }
+          }
+        }
+      }
+    },
+    "Ralts": {
+      "types": [
+        "Psychic",
+        "Fairy"
+      ],
+      "tier": "D-Max T1",
+      "cpStandard": 308,
+      "cpBoosted": 385,
+      "strategy_guide": "Ralts is a Psychic/Fairy-type Max Battle boss. Build a team of strong Max Attackers with super-effective Max Moves. Coordinate Max Meter charging with fast attacks, swap to a defensive tank when targeted, and unleash Max Phase attacks.",
+      "l40": {
+        "standard": [
+          {
+            "name": "Zacian (Crowned Sword)",
+            "types": [
+              "Fairy",
+              "Steel"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Behemoth Blade",
+            "maxMove": "Behemoth Blade",
+            "role": "attacker",
+            "dps": 2658.0,
+            "tdo": 9303.0,
+            "ttw": 3.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Metagross",
+            "types": [
+              "Steel",
+              "Psychic"
+            ],
+            "fast": "Fury Cutter",
+            "charged": "Meteor Mash",
+            "maxMove": "Max Flutterby",
+            "role": "attacker",
+            "dps": 609.4,
+            "tdo": 2133.0,
+            "ttw": 3.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Excadrill",
+            "types": [
+              "Ground",
+              "Steel"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Rock Slide",
+            "maxMove": "Max Steelspike",
+            "role": "attacker",
+            "dps": 1657.6,
+            "tdo": 7459.0,
+            "ttw": 4.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Zamazenta (Crowned Shield)",
+            "types": [
+              "Fighting",
+              "Steel"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Giga Impact",
+            "maxMove": "Behemoth Bash",
+            "role": "attacker",
+            "dps": 1626.9,
+            "tdo": 7321.0,
+            "ttw": 4.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Gardevoir",
+            "types": [
+              "Psychic",
+              "Fairy"
+            ],
+            "fast": "Magical Leaf",
+            "charged": "Shadow Ball",
+            "maxMove": "Max Overgrowth",
+            "role": "tank",
+            "dps": 421.1,
+            "tdo": 1895.0,
+            "ttw": 4.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Gastly",
+            "types": [
+              "Ghost",
+              "Poison"
+            ],
+            "fast": "Lick",
+            "charged": "Sludge Bomb",
+            "maxMove": "Max Phantasm",
+            "role": "tank",
+            "dps": 397.6,
+            "tdo": 1789.0,
+            "ttw": 4.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Inteleon",
+            "types": [
+              "Water"
+            ],
+            "fast": "Water Gun",
+            "charged": "Shadow Ball",
+            "maxMove": "G-Max Hydrosnipe",
+            "role": "attacker",
+            "dps": 435.6,
+            "tdo": 2178.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Rillaboom",
+            "types": [
+              "Grass"
+            ],
+            "fast": "Razor Leaf",
+            "charged": "Drum Beating",
+            "maxMove": "G-Max Drum Solo",
+            "role": "tank",
+            "dps": 391.6,
+            "tdo": 1958.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Zacian (Hero)",
+            "types": [
+              "Fairy"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Play Rough",
+            "maxMove": "Max Steelspike",
+            "role": "tank",
+            "dps": 391.0,
+            "tdo": 1955.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Zamazenta (Hero)",
+            "types": [
+              "Fighting"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Iron Head",
+            "maxMove": "Max Steelspike",
+            "role": "healer",
+            "dps": 368.0,
+            "tdo": 1840.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Venusaur",
+            "types": [
+              "Grass",
+              "Poison"
+            ],
+            "fast": "Vine Whip",
+            "charged": "Sludge Bomb",
+            "maxMove": "G-Max Vine Lash",
+            "role": "healer",
+            "dps": 357.6,
+            "tdo": 1788.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Charizard",
+            "types": [
+              "Fire",
+              "Flying"
+            ],
+            "fast": "Ember",
+            "charged": "Blast Burn",
+            "maxMove": "G-Max Wildfire",
+            "role": "tank",
+            "dps": 346.2,
+            "tdo": 1731.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          }
+        ],
+        "dodging": [
+          {
+            "name": "Zacian (Crowned Sword)",
+            "types": [
+              "Fairy",
+              "Steel"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Behemoth Blade",
+            "maxMove": "Behemoth Blade",
+            "role": "attacker",
+            "dps": 2658.0,
+            "tdo": 9303.0,
+            "ttw": 3.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Metagross",
+            "types": [
+              "Steel",
+              "Psychic"
+            ],
+            "fast": "Fury Cutter",
+            "charged": "Meteor Mash",
+            "maxMove": "Max Flutterby",
+            "role": "attacker",
+            "dps": 609.4,
+            "tdo": 2133.0,
+            "ttw": 3.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Excadrill",
+            "types": [
+              "Ground",
+              "Steel"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Rock Slide",
+            "maxMove": "Max Steelspike",
+            "role": "attacker",
+            "dps": 1657.6,
+            "tdo": 7459.0,
+            "ttw": 4.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Zamazenta (Crowned Shield)",
+            "types": [
+              "Fighting",
+              "Steel"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Behemoth Bash",
+            "maxMove": "Behemoth Bash",
+            "role": "attacker",
+            "dps": 1626.9,
+            "tdo": 7321.0,
+            "ttw": 4.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Gardevoir",
+            "types": [
+              "Psychic",
+              "Fairy"
+            ],
+            "fast": "Magical Leaf",
+            "charged": "Shadow Ball",
+            "maxMove": "Max Overgrowth",
+            "role": "tank",
+            "dps": 421.1,
+            "tdo": 1895.0,
+            "ttw": 4.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Gastly",
+            "types": [
+              "Ghost",
+              "Poison"
+            ],
+            "fast": "Lick",
+            "charged": "Sludge Bomb",
+            "maxMove": "Max Phantasm",
+            "role": "tank",
+            "dps": 397.6,
+            "tdo": 1789.0,
+            "ttw": 4.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Inteleon",
+            "types": [
+              "Water"
+            ],
+            "fast": "Water Gun",
+            "charged": "Shadow Ball",
+            "maxMove": "G-Max Hydrosnipe",
+            "role": "attacker",
+            "dps": 435.6,
+            "tdo": 2178.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Rillaboom",
+            "types": [
+              "Grass"
+            ],
+            "fast": "Razor Leaf",
+            "charged": "Drum Beating",
+            "maxMove": "G-Max Drum Solo",
+            "role": "tank",
+            "dps": 391.6,
+            "tdo": 1958.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Zacian (Hero)",
+            "types": [
+              "Fairy"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Play Rough",
+            "maxMove": "Max Steelspike",
+            "role": "tank",
+            "dps": 391.0,
+            "tdo": 1955.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Zamazenta (Hero)",
+            "types": [
+              "Fighting"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Iron Head",
+            "maxMove": "Max Steelspike",
+            "role": "healer",
+            "dps": 368.0,
+            "tdo": 1840.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Venusaur",
+            "types": [
+              "Grass",
+              "Poison"
+            ],
+            "fast": "Vine Whip",
+            "charged": "Sludge Bomb",
+            "maxMove": "G-Max Vine Lash",
+            "role": "healer",
+            "dps": 357.6,
+            "tdo": 1788.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Charizard",
+            "types": [
+              "Fire",
+              "Flying"
+            ],
+            "fast": "Ember",
+            "charged": "Blast Burn",
+            "maxMove": "G-Max Wildfire",
+            "role": "tank",
+            "dps": 346.2,
+            "tdo": 1731.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          }
+        ],
+        "team_composition": {
+          "standard": {
+            "min_players_needed": 1,
+            "strategy_label": "1 Attacker + 1 Tank + 1 Healer",
+            "slot1": {
+              "name": "Zacian (Crowned Sword)",
+              "types": [
+                "Fairy",
+                "Steel"
+              ],
+              "role": "attacker",
+              "fast": "Metal Claw",
+              "charged": "Behemoth Blade",
+              "maxMove": "Behemoth Blade",
+              "dps": 2658.0,
+              "tdo": 9303.0
+            },
+            "slot2": {
+              "name": "Gardevoir",
+              "types": [
+                "Psychic",
+                "Fairy"
+              ],
+              "role": "tank",
+              "fast": "Magical Leaf",
+              "charged": "Shadow Ball",
+              "maxMove": "Max Overgrowth",
+              "dps": 421.1,
+              "tdo": 1895.0
+            },
+            "slot3": {
+              "name": "Zamazenta (Hero)",
+              "types": [
+                "Fighting"
+              ],
+              "role": "healer",
+              "fast": "Metal Claw",
+              "charged": "Iron Head",
+              "maxMove": "Max Steelspike",
+              "dps": 368.0,
+              "tdo": 1840.0
+            }
+          },
+          "dodging": {
+            "min_players_needed": 1,
+            "strategy_label": "1 Attacker + 1 Tank + 1 Healer",
+            "slot1": {
+              "name": "Zacian (Crowned Sword)",
+              "types": [
+                "Fairy",
+                "Steel"
+              ],
+              "role": "attacker",
+              "fast": "Metal Claw",
+              "charged": "Behemoth Blade",
+              "maxMove": "Behemoth Blade",
+              "dps": 2658.0,
+              "tdo": 9303.0
+            },
+            "slot2": {
+              "name": "Gardevoir",
+              "types": [
+                "Psychic",
+                "Fairy"
+              ],
+              "role": "tank",
+              "fast": "Magical Leaf",
+              "charged": "Shadow Ball",
+              "maxMove": "Max Overgrowth",
+              "dps": 421.1,
+              "tdo": 1895.0
+            },
+            "slot3": {
+              "name": "Zamazenta (Hero)",
+              "types": [
+                "Fighting"
+              ],
+              "role": "healer",
+              "fast": "Metal Claw",
+              "charged": "Iron Head",
+              "maxMove": "Max Steelspike",
+              "dps": 368.0,
+              "tdo": 1840.0
+            }
+          }
+        }
+      },
+      "l50": {
+        "standard": [
+          {
+            "name": "Zacian (Crowned Sword)",
+            "types": [
+              "Fairy",
+              "Steel"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Play Rough",
+            "maxMove": "Behemoth Blade",
+            "role": "attacker",
+            "dps": 2826.0,
+            "tdo": 9891.0,
+            "ttw": 3.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Metagross",
+            "types": [
+              "Steel",
+              "Psychic"
+            ],
+            "fast": "Fury Cutter",
+            "charged": "Meteor Mash",
+            "maxMove": "Max Flutterby",
+            "role": "healer",
+            "dps": 648.9,
+            "tdo": 2271.0,
+            "ttw": 3.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Gardevoir",
+            "types": [
+              "Psychic",
+              "Fairy"
+            ],
+            "fast": "Charge Beam",
+            "charged": "Shadow Ball",
+            "maxMove": "Max Lightning",
+            "role": "tank",
+            "dps": 448.8,
+            "tdo": 1795.0,
+            "ttw": 4.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Excadrill",
+            "types": [
+              "Ground",
+              "Steel"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Rock Slide",
+            "maxMove": "Max Steelspike",
+            "role": "attacker",
+            "dps": 1762.2,
+            "tdo": 7930.0,
+            "ttw": 4.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Zamazenta (Crowned Shield)",
+            "types": [
+              "Fighting",
+              "Steel"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Moonblast",
+            "maxMove": "Behemoth Bash",
+            "role": "attacker",
+            "dps": 1730.0,
+            "tdo": 7785.0,
+            "ttw": 4.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Gastly",
+            "types": [
+              "Ghost",
+              "Poison"
+            ],
+            "fast": "Lick",
+            "charged": "Sludge Bomb",
+            "maxMove": "Max Phantasm",
+            "role": "tank",
+            "dps": 424.0,
+            "tdo": 1908.0,
+            "ttw": 4.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Zamazenta (Hero)",
+            "types": [
+              "Fighting"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Close Combat",
+            "maxMove": "Max Steelspike",
+            "role": "attacker",
+            "dps": 1336.4,
+            "tdo": 6682.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Zacian (Hero)",
+            "types": [
+              "Fairy"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Close Combat",
+            "maxMove": "Max Steelspike",
+            "role": "attacker",
+            "dps": 1336.4,
+            "tdo": 6682.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Inteleon",
+            "types": [
+              "Water"
+            ],
+            "fast": "Water Gun",
+            "charged": "Shadow Ball",
+            "maxMove": "G-Max Hydrosnipe",
+            "role": "healer",
+            "dps": 461.6,
+            "tdo": 2308.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Rillaboom",
+            "types": [
+              "Grass"
+            ],
+            "fast": "Razor Leaf",
+            "charged": "Drum Beating",
+            "maxMove": "G-Max Drum Solo",
+            "role": "tank",
+            "dps": 415.4,
+            "tdo": 2077.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Venusaur",
+            "types": [
+              "Grass",
+              "Poison"
+            ],
+            "fast": "Vine Whip",
+            "charged": "Sludge Bomb",
+            "maxMove": "G-Max Vine Lash",
+            "role": "healer",
+            "dps": 381.2,
+            "tdo": 1906.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Charizard",
+            "types": [
+              "Fire",
+              "Flying"
+            ],
+            "fast": "Ember",
+            "charged": "Blast Burn",
+            "maxMove": "G-Max Wildfire",
+            "role": "tank",
+            "dps": 368.6,
+            "tdo": 1843.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          }
+        ],
+        "dodging": [
+          {
+            "name": "Zacian (Crowned Sword)",
+            "types": [
+              "Fairy",
+              "Steel"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Play Rough",
+            "maxMove": "Behemoth Blade",
+            "role": "attacker",
+            "dps": 2826.0,
+            "tdo": 9891.0,
+            "ttw": 3.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Metagross",
+            "types": [
+              "Steel",
+              "Psychic"
+            ],
+            "fast": "Fury Cutter",
+            "charged": "Meteor Mash",
+            "maxMove": "Max Flutterby",
+            "role": "healer",
+            "dps": 648.9,
+            "tdo": 2271.0,
+            "ttw": 3.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Gardevoir",
+            "types": [
+              "Psychic",
+              "Fairy"
+            ],
+            "fast": "Charge Beam",
+            "charged": "Shadow Ball",
+            "maxMove": "Max Lightning",
+            "role": "tank",
+            "dps": 448.8,
+            "tdo": 1795.0,
+            "ttw": 4.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Excadrill",
+            "types": [
+              "Ground",
+              "Steel"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Rock Slide",
+            "maxMove": "Max Steelspike",
+            "role": "attacker",
+            "dps": 1762.2,
+            "tdo": 7930.0,
+            "ttw": 4.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Zamazenta (Crowned Shield)",
+            "types": [
+              "Fighting",
+              "Steel"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Moonblast",
+            "maxMove": "Behemoth Bash",
+            "role": "attacker",
+            "dps": 1730.0,
+            "tdo": 7785.0,
+            "ttw": 4.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Gastly",
+            "types": [
+              "Ghost",
+              "Poison"
+            ],
+            "fast": "Lick",
+            "charged": "Sludge Bomb",
+            "maxMove": "Max Phantasm",
+            "role": "tank",
+            "dps": 424.0,
+            "tdo": 1908.0,
+            "ttw": 4.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Zamazenta (Hero)",
+            "types": [
+              "Fighting"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Close Combat",
+            "maxMove": "Max Steelspike",
+            "role": "attacker",
+            "dps": 1336.4,
+            "tdo": 6682.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Zacian (Hero)",
+            "types": [
+              "Fairy"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Close Combat",
+            "maxMove": "Max Steelspike",
+            "role": "attacker",
+            "dps": 1336.4,
+            "tdo": 6682.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Inteleon",
+            "types": [
+              "Water"
+            ],
+            "fast": "Water Gun",
+            "charged": "Shadow Ball",
+            "maxMove": "G-Max Hydrosnipe",
+            "role": "healer",
+            "dps": 461.6,
+            "tdo": 2308.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Rillaboom",
+            "types": [
+              "Grass"
+            ],
+            "fast": "Razor Leaf",
+            "charged": "Drum Beating",
+            "maxMove": "G-Max Drum Solo",
+            "role": "tank",
+            "dps": 415.4,
+            "tdo": 2077.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Venusaur",
+            "types": [
+              "Grass",
+              "Poison"
+            ],
+            "fast": "Vine Whip",
+            "charged": "Sludge Bomb",
+            "maxMove": "G-Max Vine Lash",
+            "role": "healer",
+            "dps": 381.2,
+            "tdo": 1906.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Charizard",
+            "types": [
+              "Fire",
+              "Flying"
+            ],
+            "fast": "Ember",
+            "charged": "Blast Burn",
+            "maxMove": "G-Max Wildfire",
+            "role": "tank",
+            "dps": 368.6,
+            "tdo": 1843.0,
+            "ttw": 5.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          }
+        ],
+        "team_composition": {
+          "standard": {
+            "min_players_needed": 1,
+            "strategy_label": "1 Attacker + 1 Tank + 1 Healer",
+            "slot1": {
+              "name": "Zacian (Crowned Sword)",
+              "types": [
+                "Fairy",
+                "Steel"
+              ],
+              "role": "attacker",
+              "fast": "Metal Claw",
+              "charged": "Play Rough",
+              "maxMove": "Behemoth Blade",
+              "dps": 2826.0,
+              "tdo": 9891.0
+            },
+            "slot2": {
+              "name": "Gardevoir",
+              "types": [
+                "Psychic",
+                "Fairy"
+              ],
+              "role": "tank",
+              "fast": "Charge Beam",
+              "charged": "Shadow Ball",
+              "maxMove": "Max Lightning",
+              "dps": 448.8,
+              "tdo": 1795.0
+            },
+            "slot3": {
+              "name": "Metagross",
+              "types": [
+                "Steel",
+                "Psychic"
+              ],
+              "role": "healer",
+              "fast": "Fury Cutter",
+              "charged": "Meteor Mash",
+              "maxMove": "Max Flutterby",
+              "dps": 648.9,
+              "tdo": 2271.0
+            }
+          },
+          "dodging": {
+            "min_players_needed": 1,
+            "strategy_label": "1 Attacker + 1 Tank + 1 Healer",
+            "slot1": {
+              "name": "Zacian (Crowned Sword)",
+              "types": [
+                "Fairy",
+                "Steel"
+              ],
+              "role": "attacker",
+              "fast": "Metal Claw",
+              "charged": "Play Rough",
+              "maxMove": "Behemoth Blade",
+              "dps": 2826.0,
+              "tdo": 9891.0
+            },
+            "slot2": {
+              "name": "Gardevoir",
+              "types": [
+                "Psychic",
+                "Fairy"
+              ],
+              "role": "tank",
+              "fast": "Charge Beam",
+              "charged": "Shadow Ball",
+              "maxMove": "Max Lightning",
+              "dps": 448.8,
+              "tdo": 1795.0
+            },
+            "slot3": {
+              "name": "Metagross",
+              "types": [
+                "Steel",
+                "Psychic"
+              ],
+              "role": "healer",
+              "fast": "Fury Cutter",
+              "charged": "Meteor Mash",
+              "maxMove": "Max Flutterby",
+              "dps": 648.9,
+              "tdo": 2271.0
+            }
+          }
+        }
+      }
+    },
+    "Regidrago": {
+      "types": [
+        "Dragon"
+      ],
+      "tier": "D-Max T5",
+      "cpStandard": 1699,
+      "cpBoosted": 2123,
+      "strategy_guide": "Regidrago is a Dragon-type Max Battle boss. Build a team of strong Max Attackers with super-effective Max Moves. Coordinate Max Meter charging with fast attacks, swap to a defensive tank when targeted, and unleash Max Phase attacks.",
+      "l40": {
+        "standard": [
+          {
+            "name": "Latios",
+            "types": [
+              "Dragon",
+              "Psychic"
+            ],
+            "fast": "Dragon Breath",
+            "charged": "Luster Purge",
+            "maxMove": "Max Wyrmwind",
+            "role": "attacker",
+            "dps": 89.1,
+            "tdo": 4922.0,
+            "ttw": 211.4,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Zacian (Crowned Sword)",
+            "types": [
+              "Fairy",
+              "Steel"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Play Rough",
+            "maxMove": "Behemoth Blade",
+            "role": "attacker",
+            "dps": 75.9,
+            "tdo": 16445.0,
+            "ttw": 216.3,
+            "faints": 3,
+            "survivalRate": 2.0
+          },
+          {
+            "name": "Latias",
+            "types": [
+              "Dragon",
+              "Psychic"
+            ],
+            "fast": "Dragon Breath",
+            "charged": "Mist Ball",
+            "maxMove": "Max Wyrmwind",
+            "role": "attacker",
+            "dps": 80.9,
+            "tdo": 4768.0,
+            "ttw": 231.4,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Regidrago",
+            "types": [
+              "Dragon"
+            ],
+            "fast": "Dragon Breath",
+            "charged": "Breaking Swipe",
+            "maxMove": "Max Wyrmwind",
+            "role": "attacker",
+            "dps": 75.8,
+            "tdo": 4492.0,
+            "ttw": 246.0,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Darmanitan (Galarian Standard)",
+            "types": [
+              "Ice"
+            ],
+            "fast": "Ice Fang",
+            "charged": "Avalanche",
+            "maxMove": "Max Hailstorm",
+            "role": "attacker",
+            "dps": 66.3,
+            "tdo": 3875.0,
+            "ttw": 279.1,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Gardevoir",
+            "types": [
+              "Psychic",
+              "Fairy"
+            ],
+            "fast": "Charm",
+            "charged": "Dazzling Gleam",
+            "maxMove": "Max Starfall",
+            "role": "attacker",
+            "dps": 63.0,
+            "tdo": 6520.0,
+            "ttw": 293.0,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Zamazenta (Crowned Shield)",
+            "types": [
+              "Fighting",
+              "Steel"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Behemoth Bash",
+            "maxMove": "Behemoth Bash",
+            "role": "tank",
+            "dps": 61.9,
+            "tdo": 9240.0,
+            "ttw": 297.7,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Weavile",
+            "types": [
+              "Dark",
+              "Ice"
+            ],
+            "fast": "Ice Shard",
+            "charged": "Avalanche",
+            "maxMove": "Max Hailstorm",
+            "role": "attacker",
+            "dps": 58.8,
+            "tdo": 3986.0,
+            "ttw": 312.5,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Articuno",
+            "types": [
+              "Ice",
+              "Flying"
+            ],
+            "fast": "Ice Shard",
+            "charged": "Blizzard",
+            "maxMove": "Max Hailstorm",
+            "role": "attacker",
+            "dps": 56.4,
+            "tdo": 4938.0,
+            "ttw": 324.8,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Sylveon",
+            "types": [
+              "Fairy"
+            ],
+            "fast": "Fairy Wind",
+            "charged": "Dazzling Gleam",
+            "maxMove": "Max Starfall",
+            "role": "attacker",
+            "dps": 56.1,
+            "tdo": 8629.0,
+            "ttw": 326.9,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Glaceon",
+            "types": [
+              "Ice"
+            ],
+            "fast": "Frost Breath",
+            "charged": "Avalanche",
+            "maxMove": "Max Hailstorm",
+            "role": "attacker",
+            "dps": 51.3,
+            "tdo": 2301.0,
+            "ttw": 346.3,
+            "faints": 1,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Zacian (Hero)",
+            "types": [
+              "Fairy"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Play Rough",
+            "maxMove": "Max Steelspike",
+            "role": "attacker",
+            "dps": 52.8,
+            "tdo": 9309.0,
+            "ttw": 346.7,
+            "faints": 3,
+            "survivalRate": 0.0
+          }
+        ],
+        "dodging": [
+          {
+            "name": "Eternatus",
+            "types": [
+              "Poison",
+              "Dragon"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Dynamax Cannon",
+            "maxMove": "Dynamax Cannon",
+            "role": "attacker",
+            "dps": 107.4,
+            "tdo": 17889.0,
+            "ttw": 166.6,
+            "faints": 2,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Zacian (Crowned Sword)",
+            "types": [
+              "Fairy",
+              "Steel"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Behemoth Blade",
+            "maxMove": "Behemoth Blade",
+            "role": "attacker",
+            "dps": 77.3,
+            "tdo": 17765.0,
+            "ttw": 229.8,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Latios",
+            "types": [
+              "Dragon",
+              "Psychic"
+            ],
+            "fast": "Dragon Breath",
+            "charged": "Aura Sphere",
+            "maxMove": "Max Wyrmwind",
+            "role": "attacker",
+            "dps": 78.7,
+            "tdo": 11233.0,
+            "ttw": 237.4,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Duraludon",
+            "types": [
+              "Steel",
+              "Dragon"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Dragon Claw",
+            "maxMove": "G-Max Depletion",
+            "role": "attacker",
+            "dps": 78.1,
+            "tdo": 15126.0,
+            "ttw": 245.0,
+            "faints": 3,
+            "survivalRate": 2.0
+          },
+          {
+            "name": "Weavile",
+            "types": [
+              "Dark",
+              "Ice"
+            ],
+            "fast": "Ice Shard",
+            "charged": "Triple Axel",
+            "maxMove": "Max Hailstorm",
+            "role": "attacker",
+            "dps": 69.2,
+            "tdo": 17196.0,
+            "ttw": 255.0,
+            "faints": 2,
+            "survivalRate": 72.0
+          },
+          {
+            "name": "Regidrago",
+            "types": [
+              "Dragon"
+            ],
+            "fast": "Dragon Breath",
+            "charged": "Dragon Energy",
+            "maxMove": "Max Wyrmwind",
+            "role": "attacker",
+            "dps": 68.0,
+            "tdo": 17396.0,
+            "ttw": 261.0,
+            "faints": 2,
+            "survivalRate": 82.0
+          },
+          {
+            "name": "Latias",
+            "types": [
+              "Dragon",
+              "Psychic"
+            ],
+            "fast": "Dragon Breath",
+            "charged": "Outrage",
+            "maxMove": "Max Wyrmwind",
+            "role": "attacker",
+            "dps": 68.9,
+            "tdo": 11949.0,
+            "ttw": 269.1,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Glaceon",
+            "types": [
+              "Ice"
+            ],
+            "fast": "Frost Breath",
+            "charged": "Ice Beam",
+            "maxMove": "Max Hailstorm",
+            "role": "attacker",
+            "dps": 68.5,
+            "tdo": 11529.0,
+            "ttw": 270.4,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Darmanitan (Galarian Standard)",
+            "types": [
+              "Ice"
+            ],
+            "fast": "Ice Fang",
+            "charged": "Avalanche",
+            "maxMove": "Max Hailstorm",
+            "role": "attacker",
+            "dps": 67.0,
+            "tdo": 10215.0,
+            "ttw": 276.3,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Gardevoir",
+            "types": [
+              "Psychic",
+              "Fairy"
+            ],
+            "fast": "Charm",
+            "charged": "Dazzling Gleam",
+            "maxMove": "Max Starfall",
+            "role": "attacker",
+            "dps": 64.7,
+            "tdo": 13333.0,
+            "ttw": 285.6,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Zamazenta (Crowned Shield)",
+            "types": [
+              "Fighting",
+              "Steel"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Behemoth Bash",
+            "maxMove": "Behemoth Bash",
+            "role": "healer",
+            "dps": 60.2,
+            "tdo": 17700.0,
+            "ttw": 293.8,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Articuno",
+            "types": [
+              "Ice",
+              "Flying"
+            ],
+            "fast": "Frost Breath",
+            "charged": "Triple Axel",
+            "maxMove": "Max Hailstorm",
+            "role": "attacker",
+            "dps": 58.1,
+            "tdo": 17661.0,
+            "ttw": 303.9,
+            "faints": 2,
+            "survivalRate": 100.0
+          }
+        ],
+        "team_composition": {
+          "standard": {
+            "min_players_needed": 1,
+            "strategy_label": "2 Attackers + 1 Tank",
+            "slot1": {
+              "name": "Latios",
+              "types": [
+                "Dragon",
+                "Psychic"
+              ],
+              "role": "attacker",
+              "fast": "Dragon Breath",
+              "charged": "Luster Purge",
+              "maxMove": "Max Wyrmwind",
+              "dps": 89.1,
+              "tdo": 4922.0
+            },
+            "slot2": {
+              "name": "Zacian (Crowned Sword)",
+              "types": [
+                "Fairy",
+                "Steel"
+              ],
+              "role": "attacker",
+              "fast": "Metal Claw",
+              "charged": "Play Rough",
+              "maxMove": "Behemoth Blade",
+              "dps": 75.9,
+              "tdo": 16445.0
+            },
+            "slot3": {
+              "name": "Zamazenta (Crowned Shield)",
+              "types": [
+                "Fighting",
+                "Steel"
+              ],
+              "role": "tank",
+              "fast": "Metal Claw",
+              "charged": "Behemoth Bash",
+              "maxMove": "Behemoth Bash",
+              "dps": 61.9,
+              "tdo": 9240.0
+            }
+          },
+          "dodging": {
+            "min_players_needed": 1,
+            "strategy_label": "2 Attackers + 1 Healer",
+            "slot1": {
+              "name": "Eternatus",
+              "types": [
+                "Poison",
+                "Dragon"
+              ],
+              "role": "attacker",
+              "fast": "Dragon Tail",
+              "charged": "Dynamax Cannon",
+              "maxMove": "Dynamax Cannon",
+              "dps": 107.4,
+              "tdo": 17889.0
+            },
+            "slot2": {
+              "name": "Zacian (Crowned Sword)",
+              "types": [
+                "Fairy",
+                "Steel"
+              ],
+              "role": "attacker",
+              "fast": "Metal Claw",
+              "charged": "Behemoth Blade",
+              "maxMove": "Behemoth Blade",
+              "dps": 77.3,
+              "tdo": 17765.0
+            },
+            "slot3": {
+              "name": "Zamazenta (Crowned Shield)",
+              "types": [
+                "Fighting",
+                "Steel"
+              ],
+              "role": "healer",
+              "fast": "Metal Claw",
+              "charged": "Behemoth Bash",
+              "maxMove": "Behemoth Bash",
+              "dps": 60.2,
+              "tdo": 17700.0
+            }
+          }
+        }
+      },
+      "l50": {
+        "standard": [
+          {
+            "name": "Latios",
+            "types": [
+              "Dragon",
+              "Psychic"
+            ],
+            "fast": "Dragon Breath",
+            "charged": "Luster Purge",
+            "maxMove": "Max Wyrmwind",
+            "role": "attacker",
+            "dps": 100.3,
+            "tdo": 5965.0,
+            "ttw": 189.4,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Eternatus",
+            "types": [
+              "Poison",
+              "Dragon"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Dynamax Cannon",
+            "maxMove": "Dynamax Cannon",
+            "role": "attacker",
+            "dps": 98.9,
+            "tdo": 8723.0,
+            "ttw": 191.9,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Duraludon",
+            "types": [
+              "Steel",
+              "Dragon"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Dragon Claw",
+            "maxMove": "G-Max Depletion",
+            "role": "attacker",
+            "dps": 87.6,
+            "tdo": 7501.0,
+            "ttw": 214.9,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Zacian (Crowned Sword)",
+            "types": [
+              "Fairy",
+              "Steel"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Play Rough",
+            "maxMove": "Behemoth Blade",
+            "role": "attacker",
+            "dps": 76.2,
+            "tdo": 12819.0,
+            "ttw": 217.0,
+            "faints": 2,
+            "survivalRate": 2.0
+          },
+          {
+            "name": "Regidrago",
+            "types": [
+              "Dragon"
+            ],
+            "fast": "Dragon Breath",
+            "charged": "Dragon Energy",
+            "maxMove": "Max Wyrmwind",
+            "role": "attacker",
+            "dps": 80.3,
+            "tdo": 5374.0,
+            "ttw": 233.0,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Latias",
+            "types": [
+              "Dragon",
+              "Psychic"
+            ],
+            "fast": "Dragon Breath",
+            "charged": "Mist Ball",
+            "maxMove": "Max Wyrmwind",
+            "role": "attacker",
+            "dps": 75.7,
+            "tdo": 2396.0,
+            "ttw": 236.2,
+            "faints": 1,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Darmanitan (Galarian Standard)",
+            "types": [
+              "Ice"
+            ],
+            "fast": "Ice Fang",
+            "charged": "Avalanche",
+            "maxMove": "Max Hailstorm",
+            "role": "attacker",
+            "dps": 70.1,
+            "tdo": 4368.0,
+            "ttw": 264.6,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Weavile",
+            "types": [
+              "Dark",
+              "Ice"
+            ],
+            "fast": "Ice Shard",
+            "charged": "Triple Axel",
+            "maxMove": "Max Hailstorm",
+            "role": "attacker",
+            "dps": 68.8,
+            "tdo": 6095.0,
+            "ttw": 269.4,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Zamazenta (Crowned Shield)",
+            "types": [
+              "Fighting",
+              "Steel"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Behemoth Bash",
+            "maxMove": "Behemoth Bash",
+            "role": "tank",
+            "dps": 67.4,
+            "tdo": 11121.0,
+            "ttw": 274.5,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Glaceon",
+            "types": [
+              "Ice"
+            ],
+            "fast": "Frost Breath",
+            "charged": "Avalanche",
+            "maxMove": "Max Hailstorm",
+            "role": "attacker",
+            "dps": 65.7,
+            "tdo": 5589.0,
+            "ttw": 281.3,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Gardevoir",
+            "types": [
+              "Psychic",
+              "Fairy"
+            ],
+            "fast": "Charm",
+            "charged": "Dazzling Gleam",
+            "maxMove": "Max Starfall",
+            "role": "attacker",
+            "dps": 65.6,
+            "tdo": 7756.0,
+            "ttw": 282.0,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Sylveon",
+            "types": [
+              "Fairy"
+            ],
+            "fast": "Fairy Wind",
+            "charged": "Dazzling Gleam",
+            "maxMove": "Max Starfall",
+            "role": "attacker",
+            "dps": 60.2,
+            "tdo": 12053.0,
+            "ttw": 305.5,
+            "faints": 3,
+            "survivalRate": 0.0
+          }
+        ],
+        "dodging": [
+          {
+            "name": "Eternatus",
+            "types": [
+              "Poison",
+              "Dragon"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Dynamax Cannon",
+            "maxMove": "Dynamax Cannon",
+            "role": "attacker",
+            "dps": 112.1,
+            "tdo": 17854.0,
+            "ttw": 159.3,
+            "faints": 2,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Duraludon",
+            "types": [
+              "Steel",
+              "Dragon"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Dragon Claw",
+            "maxMove": "G-Max Depletion",
+            "role": "attacker",
+            "dps": 91.7,
+            "tdo": 17254.0,
+            "ttw": 195.2,
+            "faints": 2,
+            "survivalRate": 64.0
+          },
+          {
+            "name": "Latios",
+            "types": [
+              "Dragon",
+              "Psychic"
+            ],
+            "fast": "Dragon Breath",
+            "charged": "Luster Purge",
+            "maxMove": "Max Wyrmwind",
+            "role": "attacker",
+            "dps": 88.0,
+            "tdo": 17039.0,
+            "ttw": 203.9,
+            "faints": 2,
+            "survivalRate": 68.0
+          },
+          {
+            "name": "Weavile",
+            "types": [
+              "Dark",
+              "Ice"
+            ],
+            "fast": "Ice Shard",
+            "charged": "Triple Axel",
+            "maxMove": "Max Hailstorm",
+            "role": "attacker",
+            "dps": 84.1,
+            "tdo": 17759.0,
+            "ttw": 211.2,
+            "faints": 2,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Zacian (Crowned Sword)",
+            "types": [
+              "Fairy",
+              "Steel"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Behemoth Blade",
+            "maxMove": "Behemoth Blade",
+            "role": "attacker",
+            "dps": 84.0,
+            "tdo": 17844.0,
+            "ttw": 212.4,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Regidrago",
+            "types": [
+              "Dragon"
+            ],
+            "fast": "Dragon Breath",
+            "charged": "Dragon Energy",
+            "maxMove": "Max Wyrmwind",
+            "role": "attacker",
+            "dps": 78.7,
+            "tdo": 17643.0,
+            "ttw": 224.9,
+            "faints": 2,
+            "survivalRate": 96.0
+          },
+          {
+            "name": "Glaceon",
+            "types": [
+              "Ice"
+            ],
+            "fast": "Ice Shard",
+            "charged": "Avalanche",
+            "maxMove": "Max Hailstorm",
+            "role": "attacker",
+            "dps": 72.2,
+            "tdo": 14440.0,
+            "ttw": 257.3,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Latias",
+            "types": [
+              "Dragon",
+              "Psychic"
+            ],
+            "fast": "Dragon Breath",
+            "charged": "Mist Ball",
+            "maxMove": "Max Wyrmwind",
+            "role": "attacker",
+            "dps": 69.3,
+            "tdo": 17012.0,
+            "ttw": 259.0,
+            "faints": 2,
+            "survivalRate": 74.0
+          },
+          {
+            "name": "Darmanitan (Galarian Standard)",
+            "types": [
+              "Ice"
+            ],
+            "fast": "Ice Fang",
+            "charged": "Avalanche",
+            "maxMove": "Max Hailstorm",
+            "role": "attacker",
+            "dps": 71.1,
+            "tdo": 12365.0,
+            "ttw": 261.0,
+            "faints": 3,
+            "survivalRate": 0.0
+          },
+          {
+            "name": "Zamazenta (Crowned Shield)",
+            "types": [
+              "Fighting",
+              "Steel"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Behemoth Bash",
+            "maxMove": "Behemoth Bash",
+            "role": "healer",
+            "dps": 65.4,
+            "tdo": 17672.0,
+            "ttw": 270.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Gardevoir",
+            "types": [
+              "Psychic",
+              "Fairy"
+            ],
+            "fast": "Charm",
+            "charged": "Triple Axel",
+            "maxMove": "Max Starfall",
+            "role": "attacker",
+            "dps": 69.7,
+            "tdo": 15704.0,
+            "ttw": 271.2,
+            "faints": 3,
+            "survivalRate": 16.0
+          },
+          {
+            "name": "Sylveon",
+            "types": [
+              "Fairy"
+            ],
+            "fast": "Fairy Wind",
+            "charged": "Moonblast",
+            "maxMove": "Max Starfall",
+            "role": "tank",
+            "dps": 64.3,
+            "tdo": 17721.0,
+            "ttw": 275.6,
+            "faints": 0,
+            "survivalRate": 100.0
+          }
+        ],
+        "team_composition": {
+          "standard": {
+            "min_players_needed": 1,
+            "strategy_label": "2 Attackers + 1 Tank",
+            "slot1": {
+              "name": "Latios",
+              "types": [
+                "Dragon",
+                "Psychic"
+              ],
+              "role": "attacker",
+              "fast": "Dragon Breath",
+              "charged": "Luster Purge",
+              "maxMove": "Max Wyrmwind",
+              "dps": 100.3,
+              "tdo": 5965.0
+            },
+            "slot2": {
+              "name": "Eternatus",
+              "types": [
+                "Poison",
+                "Dragon"
+              ],
+              "role": "attacker",
+              "fast": "Dragon Tail",
+              "charged": "Dynamax Cannon",
+              "maxMove": "Dynamax Cannon",
+              "dps": 98.9,
+              "tdo": 8723.0
+            },
+            "slot3": {
+              "name": "Zamazenta (Crowned Shield)",
+              "types": [
+                "Fighting",
+                "Steel"
+              ],
+              "role": "tank",
+              "fast": "Metal Claw",
+              "charged": "Behemoth Bash",
+              "maxMove": "Behemoth Bash",
+              "dps": 67.4,
+              "tdo": 11121.0
+            }
+          },
+          "dodging": {
+            "min_players_needed": 1,
+            "strategy_label": "1 Attacker + 1 Tank + 1 Healer",
+            "slot1": {
+              "name": "Eternatus",
+              "types": [
+                "Poison",
+                "Dragon"
+              ],
+              "role": "attacker",
+              "fast": "Dragon Tail",
+              "charged": "Dynamax Cannon",
+              "maxMove": "Dynamax Cannon",
+              "dps": 112.1,
+              "tdo": 17854.0
+            },
+            "slot2": {
+              "name": "Sylveon",
+              "types": [
+                "Fairy"
+              ],
+              "role": "tank",
+              "fast": "Fairy Wind",
+              "charged": "Moonblast",
+              "maxMove": "Max Starfall",
+              "dps": 64.3,
+              "tdo": 17721.0
+            },
+            "slot3": {
+              "name": "Zamazenta (Crowned Shield)",
+              "types": [
+                "Fighting",
+                "Steel"
+              ],
+              "role": "healer",
+              "fast": "Metal Claw",
+              "charged": "Behemoth Bash",
+              "maxMove": "Behemoth Bash",
+              "dps": 65.4,
+              "tdo": 17672.0
             }
           }
         }

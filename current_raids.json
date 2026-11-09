@@ -1,42 +1,23 @@
 {
   "bosses": [
     {
-      "name": "Cofagrigus",
+      "name": "Druddigon",
       "tier": "T3",
       "types": [
-        "Ghost"
+        "Dragon"
       ],
-      "cp20": 1299,
-      "cp25": 1624
+      "cp20": 1561,
+      "cp25": 1951
     },
     {
-      "name": "Dhelmise",
+      "name": "Gengar",
       "tier": "T3",
       "types": [
         "Ghost",
-        "Grass"
+        "Poison"
       ],
-      "cp20": 1685,
-      "cp25": 2107
-    },
-    {
-      "name": "Duskull",
-      "tier": "T1",
-      "types": [
-        "Ghost"
-      ],
-      "cp20": 403,
-      "cp25": 504
-    },
-    {
-      "name": "Frillish",
-      "tier": "T1",
-      "types": [
-        "Water",
-        "Ghost"
-      ],
-      "cp20": 718,
-      "cp25": 898
+      "cp20": 1644,
+      "cp25": 2055
     },
     {
       "name": "Giratina (Altered)",
@@ -49,14 +30,22 @@
       "cp25": 2413
     },
     {
-      "name": "Litwick",
+      "name": "Orthworm",
+      "tier": "T3",
+      "types": [
+        "Steel"
+      ],
+      "cp20": 1313,
+      "cp25": 1642
+    },
+    {
+      "name": "Pikachu",
       "tier": "T1",
       "types": [
-        "Ghost",
-        "Fire"
+        "Electric"
       ],
-      "cp20": 575,
-      "cp25": 719
+      "cp20": 536,
+      "cp25": 669
     },
     {
       "name": "Sableye (MEGA)",
@@ -146,14 +135,24 @@
       "cp25": 808
     },
     {
-      "name": "Trevenant",
-      "tier": "T3",
+      "name": "Zacian (Crowned Sword)",
+      "tier": "T5",
       "types": [
-        "Ghost",
-        "Grass"
+        "Fairy",
+        "Steel"
       ],
-      "cp20": 1462,
-      "cp25": 1828
+      "cp20": 2188,
+      "cp25": 2735
+    },
+    {
+      "name": "Zamazenta (Crowned Shield)",
+      "tier": "T5",
+      "types": [
+        "Fighting",
+        "Steel"
+      ],
+      "cp20": 2188,
+      "cp25": 2735
     }
   ]
 }
