@@ -1,6 +1,33 @@
 {
   "bosses": [
     {
+      "name": "Banette (MEGA)",
+      "tier": "Mega",
+      "types": [
+        "Ghost"
+      ],
+      "cp20": 1313,
+      "cp25": 1642
+    },
+    {
+      "name": "Cresselia",
+      "tier": "T5",
+      "types": [
+        "Psychic"
+      ],
+      "cp20": 1633,
+      "cp25": 2041
+    },
+    {
+      "name": "Darkrai",
+      "tier": "T5",
+      "types": [
+        "Dark"
+      ],
+      "cp20": 2136,
+      "cp25": 2670
+    },
+    {
       "name": "Kyurem (Black)",
       "tier": "T5",
       "types": [
@@ -103,6 +130,15 @@
       ],
       "cp20": 972,
       "cp25": 1215
+    },
+    {
+      "name": "Shadow Tornadus (Incarnate)",
+      "tier": "Shadow T5",
+      "types": [
+        "Flying"
+      ],
+      "cp20": 1911,
+      "cp25": 2389
     },
     {
       "name": "Zekrom",
