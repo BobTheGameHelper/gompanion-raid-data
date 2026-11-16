@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T04:05:13.970886Z",
+  "generated_at": "2026-11-16T12:02:22.541416Z",
   "bosses": {
     "Bulbasaur": {
       "types": [
@@ -28318,950 +28318,6 @@
         }
       }
     },
-    "Dialga": {
-      "types": [
-        "Steel",
-        "Dragon"
-      ],
-      "tier": "D-Max T5",
-      "cpStandard": 2307,
-      "cpBoosted": 2884,
-      "strategy_guide": "Dialga is a Steel/Dragon-type Max Battle boss. Build a team of strong Max Attackers with super-effective Max Moves. Coordinate Max Meter charging with fast attacks, swap to a defensive tank when targeted, and unleash Max Phase attacks.",
-      "l40": {
-        "standard": [
-          {
-            "name": "Excadrill",
-            "types": [
-              "Ground",
-              "Steel"
-            ],
-            "fast": "Mud Shot",
-            "charged": "Earthquake",
-            "maxMove": "Max Quake",
-            "role": "attacker",
-            "dps": 53.5,
-            "tdo": 5828.0,
-            "ttw": 115.7,
-            "faints": 2,
-            "survivalRate": 80.0
-          },
-          {
-            "name": "Zacian (Hero)",
-            "types": [
-              "Fairy"
-            ],
-            "fast": "Fire Fang",
-            "charged": "Close Combat",
-            "maxMove": "Max Flare",
-            "role": "tank",
-            "dps": 25.7,
-            "tdo": 5861.0,
-            "ttw": 231.4,
-            "faints": 1,
-            "survivalRate": 90.0
-          },
-          {
-            "name": "Sylveon",
-            "types": [
-              "Fairy"
-            ],
-            "fast": "Fairy Wind",
-            "charged": "Dazzling Gleam",
-            "maxMove": "Max Starfall",
-            "role": "attacker",
-            "dps": 21.4,
-            "tdo": 5733.0,
-            "ttw": 280.2,
-            "faints": 2,
-            "survivalRate": 72.0
-          },
-          {
-            "name": "Metagross",
-            "types": [
-              "Steel",
-              "Psychic"
-            ],
-            "fast": "Shadow Claw",
-            "charged": "Earthquake",
-            "maxMove": "Max Phantasm",
-            "role": "tank",
-            "dps": 32.3,
-            "tdo": 5363.0,
-            "ttw": 203.1,
-            "faints": 3,
-            "survivalRate": 40.0
-          },
-          {
-            "name": "Gallade",
-            "types": [
-              "Psychic",
-              "Fighting"
-            ],
-            "fast": "Low Kick",
-            "charged": "Close Combat",
-            "maxMove": "Max Knuckle",
-            "role": "attacker",
-            "dps": 53.0,
-            "tdo": 4978.0,
-            "ttw": 140.9,
-            "faints": 3,
-            "survivalRate": 24.0
-          },
-          {
-            "name": "Gardevoir",
-            "types": [
-              "Psychic",
-              "Fairy"
-            ],
-            "fast": "Charm",
-            "charged": "Shadow Ball",
-            "maxMove": "Max Starfall",
-            "role": "attacker",
-            "dps": 22.6,
-            "tdo": 3854.0,
-            "ttw": 276.7,
-            "faints": 2,
-            "survivalRate": 22.0
-          },
-          {
-            "name": "Rhyperior",
-            "types": [
-              "Ground",
-              "Rock"
-            ],
-            "fast": "Mud Slap",
-            "charged": "Breaking Swipe",
-            "maxMove": "Max Quake",
-            "role": "tank",
-            "dps": 35.6,
-            "tdo": 4894.0,
-            "ttw": 195.3,
-            "faints": 3,
-            "survivalRate": 20.0
-          },
-          {
-            "name": "Machamp",
-            "types": [
-              "Fighting"
-            ],
-            "fast": "Counter",
-            "charged": "Close Combat",
-            "maxMove": "G-Max Chi Strike",
-            "role": "attacker",
-            "dps": 49.0,
-            "tdo": 4731.0,
-            "ttw": 158.3,
-            "faints": 3,
-            "survivalRate": 10.0
-          },
-          {
-            "name": "Dialga",
-            "types": [
-              "Steel",
-              "Dragon"
-            ],
-            "fast": "Dragon Breath",
-            "charged": "Thunder",
-            "maxMove": "Max Wyrmwind",
-            "role": "attacker",
-            "dps": 37.6,
-            "tdo": 4169.0,
-            "ttw": 187.2,
-            "faints": 2,
-            "survivalRate": 10.0
-          },
-          {
-            "name": "Dialga (Origin)",
-            "types": [
-              "Steel",
-              "Dragon"
-            ],
-            "fast": "Dragon Breath",
-            "charged": "Roar Of Time",
-            "maxMove": "Max Wyrmwind",
-            "role": "attacker",
-            "dps": 39.3,
-            "tdo": 4552.0,
-            "ttw": 188.6,
-            "faints": 3,
-            "survivalRate": 8.0
-          },
-          {
-            "name": "Rhydon",
-            "types": [
-              "Ground",
-              "Rock"
-            ],
-            "fast": "Mud Slap",
-            "charged": "Earthquake",
-            "maxMove": "Max Quake",
-            "role": "tank",
-            "dps": 33.9,
-            "tdo": 3567.0,
-            "ttw": 215.4,
-            "faints": 3,
-            "survivalRate": 2.0
-          },
-          {
-            "name": "Passimian",
-            "types": [
-              "Fighting"
-            ],
-            "fast": "Counter",
-            "charged": "Drain Punch",
-            "maxMove": "Max Knuckle",
-            "role": "attacker",
-            "dps": 32.1,
-            "tdo": 3217.0,
-            "ttw": 225.3,
-            "faints": 3,
-            "survivalRate": 2.0
-          }
-        ],
-        "dodging": [
-          {
-            "name": "Excadrill",
-            "types": [
-              "Ground",
-              "Steel"
-            ],
-            "fast": "Mud Shot",
-            "charged": "Scorching Sands",
-            "maxMove": "Max Quake",
-            "role": "attacker",
-            "dps": 41.5,
-            "tdo": 8856.0,
-            "ttw": 213.3,
-            "faints": 2,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Gallade",
-            "types": [
-              "Psychic",
-              "Fighting"
-            ],
-            "fast": "Low Kick",
-            "charged": "Sacred Sword",
-            "maxMove": "Max Knuckle",
-            "role": "attacker",
-            "dps": 39.9,
-            "tdo": 8438.0,
-            "ttw": 235.4,
-            "faints": 2,
-            "survivalRate": 68.0
-          },
-          {
-            "name": "Dialga",
-            "types": [
-              "Steel",
-              "Dragon"
-            ],
-            "fast": "Dragon Breath",
-            "charged": "Draco Meteor",
-            "maxMove": "Max Wyrmwind",
-            "role": "attacker",
-            "dps": 27.9,
-            "tdo": 8817.0,
-            "ttw": 316.0,
-            "faints": 2,
-            "survivalRate": 98.0
-          },
-          {
-            "name": "Dialga (Origin)",
-            "types": [
-              "Steel",
-              "Dragon"
-            ],
-            "fast": "Dragon Breath",
-            "charged": "Roar Of Time",
-            "maxMove": "Max Wyrmwind",
-            "role": "attacker",
-            "dps": 27.7,
-            "tdo": 8825.0,
-            "ttw": 318.2,
-            "faints": 2,
-            "survivalRate": 98.0
-          },
-          {
-            "name": "Metagross",
-            "types": [
-              "Steel",
-              "Psychic"
-            ],
-            "fast": "Shadow Claw",
-            "charged": "Earthquake",
-            "maxMove": "Max Phantasm",
-            "role": "healer",
-            "dps": 22.4,
-            "tdo": 8842.0,
-            "ttw": 394.1,
-            "faints": 2,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Zacian (Hero)",
-            "types": [
-              "Fairy"
-            ],
-            "fast": "Snarl",
-            "charged": "Close Combat",
-            "maxMove": "Max Darkness",
-            "role": "attacker",
-            "dps": 21.2,
-            "tdo": 8835.0,
-            "ttw": 415.9,
-            "faints": 2,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Rhyperior",
-            "types": [
-              "Ground",
-              "Rock"
-            ],
-            "fast": "Mud Slap",
-            "charged": "Drill Run",
-            "maxMove": "Max Quake",
-            "role": "attacker",
-            "dps": 32.3,
-            "tdo": 7917.0,
-            "ttw": 305.8,
-            "faints": 3,
-            "survivalRate": 22.0
-          },
-          {
-            "name": "Sylveon",
-            "types": [
-              "Fairy"
-            ],
-            "fast": "Fairy Wind",
-            "charged": "Moonblast",
-            "maxMove": "Max Starfall",
-            "role": "attacker",
-            "dps": 17.3,
-            "tdo": 7889.0,
-            "ttw": 550.9,
-            "faints": 3,
-            "survivalRate": 0.0
-          },
-          {
-            "name": "Gardevoir",
-            "types": [
-              "Psychic",
-              "Fairy"
-            ],
-            "fast": "Charm",
-            "charged": "Dazzling Gleam",
-            "maxMove": "Max Starfall",
-            "role": "attacker",
-            "dps": 18.4,
-            "tdo": 7639.0,
-            "ttw": 521.7,
-            "faints": 3,
-            "survivalRate": 0.0
-          },
-          {
-            "name": "Zamazenta (Hero)",
-            "types": [
-              "Fighting"
-            ],
-            "fast": "Snarl",
-            "charged": "Close Combat",
-            "maxMove": "Max Darkness",
-            "role": "tank",
-            "dps": 22.6,
-            "tdo": 6824.0,
-            "ttw": 431.8,
-            "faints": 3,
-            "survivalRate": 0.0
-          },
-          {
-            "name": "Machamp",
-            "types": [
-              "Fighting"
-            ],
-            "fast": "Counter",
-            "charged": "Close Combat",
-            "maxMove": "G-Max Chi Strike",
-            "role": "attacker",
-            "dps": 40.5,
-            "tdo": 6561.0,
-            "ttw": 261.3,
-            "faints": 3,
-            "survivalRate": 0.0
-          },
-          {
-            "name": "Registeel",
-            "types": [
-              "Steel"
-            ],
-            "fast": "Rock Smash",
-            "charged": "Focus Blast",
-            "maxMove": "Max Knuckle",
-            "role": "tank",
-            "dps": 16.9,
-            "tdo": 6232.0,
-            "ttw": 562.5,
-            "faints": 3,
-            "survivalRate": 0.0
-          }
-        ],
-        "team_composition": {
-          "standard": {
-            "min_players_needed": 3,
-            "strategy_label": "2 Attackers + 1 Tank",
-            "slot1": {
-              "name": "Excadrill",
-              "types": [
-                "Ground",
-                "Steel"
-              ],
-              "role": "attacker",
-              "fast": "Mud Shot",
-              "charged": "Earthquake",
-              "maxMove": "Max Quake",
-              "dps": 53.5,
-              "tdo": 5828.0
-            },
-            "slot2": {
-              "name": "Sylveon",
-              "types": [
-                "Fairy"
-              ],
-              "role": "attacker",
-              "fast": "Fairy Wind",
-              "charged": "Dazzling Gleam",
-              "maxMove": "Max Starfall",
-              "dps": 21.4,
-              "tdo": 5733.0
-            },
-            "slot3": {
-              "name": "Zacian (Hero)",
-              "types": [
-                "Fairy"
-              ],
-              "role": "tank",
-              "fast": "Fire Fang",
-              "charged": "Close Combat",
-              "maxMove": "Max Flare",
-              "dps": 25.7,
-              "tdo": 5861.0
-            }
-          },
-          "dodging": {
-            "min_players_needed": 2,
-            "strategy_label": "1 Attacker + 1 Tank + 1 Healer",
-            "slot1": {
-              "name": "Excadrill",
-              "types": [
-                "Ground",
-                "Steel"
-              ],
-              "role": "attacker",
-              "fast": "Mud Shot",
-              "charged": "Scorching Sands",
-              "maxMove": "Max Quake",
-              "dps": 41.5,
-              "tdo": 8856.0
-            },
-            "slot2": {
-              "name": "Zamazenta (Hero)",
-              "types": [
-                "Fighting"
-              ],
-              "role": "tank",
-              "fast": "Snarl",
-              "charged": "Close Combat",
-              "maxMove": "Max Darkness",
-              "dps": 22.6,
-              "tdo": 6824.0
-            },
-            "slot3": {
-              "name": "Metagross",
-              "types": [
-                "Steel",
-                "Psychic"
-              ],
-              "role": "healer",
-              "fast": "Shadow Claw",
-              "charged": "Earthquake",
-              "maxMove": "Max Phantasm",
-              "dps": 22.4,
-              "tdo": 8842.0
-            }
-          }
-        }
-      },
-      "l50": {
-        "standard": [
-          {
-            "name": "Excadrill",
-            "types": [
-              "Ground",
-              "Steel"
-            ],
-            "fast": "Mud Shot",
-            "charged": "Earthquake",
-            "maxMove": "Max Quake",
-            "role": "attacker",
-            "dps": 59.0,
-            "tdo": 5925.0,
-            "ttw": 100.4,
-            "faints": 1,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Dialga (Origin)",
-            "types": [
-              "Steel",
-              "Dragon"
-            ],
-            "fast": "Dragon Breath",
-            "charged": "Roar Of Time",
-            "maxMove": "Max Wyrmwind",
-            "role": "attacker",
-            "dps": 44.3,
-            "tdo": 5504.0,
-            "ttw": 140.6,
-            "faints": 2,
-            "survivalRate": 66.0
-          },
-          {
-            "name": "Metagross",
-            "types": [
-              "Steel",
-              "Psychic"
-            ],
-            "fast": "Shadow Claw",
-            "charged": "Earthquake",
-            "maxMove": "Max Phantasm",
-            "role": "tank",
-            "dps": 34.0,
-            "tdo": 5661.0,
-            "ttw": 183.9,
-            "faints": 2,
-            "survivalRate": 62.0
-          },
-          {
-            "name": "Zacian (Hero)",
-            "types": [
-              "Fairy"
-            ],
-            "fast": "Snarl",
-            "charged": "Close Combat",
-            "maxMove": "Max Darkness",
-            "role": "attacker",
-            "dps": 27.9,
-            "tdo": 5845.0,
-            "ttw": 210.8,
-            "faints": 2,
-            "survivalRate": 96.0
-          },
-          {
-            "name": "Gardevoir",
-            "types": [
-              "Psychic",
-              "Fairy"
-            ],
-            "fast": "Charm",
-            "charged": "Shadow Ball",
-            "maxMove": "Max Starfall",
-            "role": "attacker",
-            "dps": 24.3,
-            "tdo": 5620.0,
-            "ttw": 255.1,
-            "faints": 2,
-            "survivalRate": 62.0
-          },
-          {
-            "name": "Sylveon",
-            "types": [
-              "Fairy"
-            ],
-            "fast": "Fairy Wind",
-            "charged": "Moonblast",
-            "maxMove": "Max Starfall",
-            "role": "attacker",
-            "dps": 22.7,
-            "tdo": 5818.0,
-            "ttw": 260.9,
-            "faints": 2,
-            "survivalRate": 86.0
-          },
-          {
-            "name": "Rhyperior",
-            "types": [
-              "Ground",
-              "Rock"
-            ],
-            "fast": "Mud Slap",
-            "charged": "Skull Bash",
-            "maxMove": "Max Quake",
-            "role": "tank",
-            "dps": 36.5,
-            "tdo": 5127.0,
-            "ttw": 183.3,
-            "faints": 3,
-            "survivalRate": 36.0
-          },
-          {
-            "name": "Gallade",
-            "types": [
-              "Psychic",
-              "Fighting"
-            ],
-            "fast": "Low Kick",
-            "charged": "Close Combat",
-            "maxMove": "Max Knuckle",
-            "role": "attacker",
-            "dps": 55.6,
-            "tdo": 5250.0,
-            "ttw": 132.5,
-            "faints": 3,
-            "survivalRate": 32.0
-          },
-          {
-            "name": "Machamp",
-            "types": [
-              "Fighting"
-            ],
-            "fast": "Counter",
-            "charged": "Stone Edge",
-            "maxMove": "G-Max Chi Strike",
-            "role": "attacker",
-            "dps": 49.0,
-            "tdo": 4885.0,
-            "ttw": 147.7,
-            "faints": 3,
-            "survivalRate": 32.0
-          },
-          {
-            "name": "Registeel",
-            "types": [
-              "Steel"
-            ],
-            "fast": "Rock Smash",
-            "charged": "Focus Blast",
-            "maxMove": "Max Knuckle",
-            "role": "tank",
-            "dps": 21.1,
-            "tdo": 5142.0,
-            "ttw": 305.0,
-            "faints": 3,
-            "survivalRate": 26.0
-          },
-          {
-            "name": "Passimian",
-            "types": [
-              "Fighting"
-            ],
-            "fast": "Counter",
-            "charged": "Close Combat",
-            "maxMove": "Max Knuckle",
-            "role": "attacker",
-            "dps": 41.6,
-            "tdo": 4221.0,
-            "ttw": 174.6,
-            "faints": 3,
-            "survivalRate": 16.0
-          },
-          {
-            "name": "Dialga",
-            "types": [
-              "Steel",
-              "Dragon"
-            ],
-            "fast": "Dragon Breath",
-            "charged": "Draco Meteor",
-            "maxMove": "Max Wyrmwind",
-            "role": "attacker",
-            "dps": 41.5,
-            "tdo": 4958.0,
-            "ttw": 175.3,
-            "faints": 3,
-            "survivalRate": 16.0
-          }
-        ],
-        "dodging": [
-          {
-            "name": "Gallade",
-            "types": [
-              "Psychic",
-              "Fighting"
-            ],
-            "fast": "Low Kick",
-            "charged": "Sacred Sword",
-            "maxMove": "Max Knuckle",
-            "role": "attacker",
-            "dps": 43.2,
-            "tdo": 8822.0,
-            "ttw": 205.1,
-            "faints": 2,
-            "survivalRate": 98.0
-          },
-          {
-            "name": "Excadrill",
-            "types": [
-              "Ground",
-              "Steel"
-            ],
-            "fast": "Mud Slap",
-            "charged": "Earthquake",
-            "maxMove": "Max Quake",
-            "role": "attacker",
-            "dps": 39.5,
-            "tdo": 8870.0,
-            "ttw": 225.8,
-            "faints": 2,
-            "survivalRate": 96.0
-          },
-          {
-            "name": "Rhyperior",
-            "types": [
-              "Ground",
-              "Rock"
-            ],
-            "fast": "Mud Slap",
-            "charged": "Earthquake",
-            "maxMove": "Max Quake",
-            "role": "attacker",
-            "dps": 38.1,
-            "tdo": 8796.0,
-            "ttw": 235.6,
-            "faints": 2,
-            "survivalRate": 90.0
-          },
-          {
-            "name": "Dialga",
-            "types": [
-              "Steel",
-              "Dragon"
-            ],
-            "fast": "Dragon Breath",
-            "charged": "Draco Meteor",
-            "maxMove": "Max Wyrmwind",
-            "role": "attacker",
-            "dps": 28.9,
-            "tdo": 8823.0,
-            "ttw": 302.8,
-            "faints": 2,
-            "survivalRate": 96.0
-          },
-          {
-            "name": "Dialga (Origin)",
-            "types": [
-              "Steel",
-              "Dragon"
-            ],
-            "fast": "Dragon Breath",
-            "charged": "Roar Of Time",
-            "maxMove": "Max Wyrmwind",
-            "role": "tank",
-            "dps": 27.0,
-            "tdo": 8817.0,
-            "ttw": 326.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Metagross",
-            "types": [
-              "Steel",
-              "Psychic"
-            ],
-            "fast": "Shadow Claw",
-            "charged": "Earthquake",
-            "maxMove": "Max Phantasm",
-            "role": "healer",
-            "dps": 23.5,
-            "tdo": 8842.0,
-            "ttw": 376.7,
-            "faints": 1,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Zacian (Hero)",
-            "types": [
-              "Fairy"
-            ],
-            "fast": "Snarl",
-            "charged": "Close Combat",
-            "maxMove": "Max Darkness",
-            "role": "tank",
-            "dps": 23.0,
-            "tdo": 8829.0,
-            "ttw": 384.3,
-            "faints": 1,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Zamazenta (Hero)",
-            "types": [
-              "Fighting"
-            ],
-            "fast": "Snarl",
-            "charged": "Close Combat",
-            "maxMove": "Max Darkness",
-            "role": "tank",
-            "dps": 24.5,
-            "tdo": 8418.0,
-            "ttw": 379.8,
-            "faints": 3,
-            "survivalRate": 42.0
-          },
-          {
-            "name": "Sylveon",
-            "types": [
-              "Fairy"
-            ],
-            "fast": "Fairy Wind",
-            "charged": "Moonblast",
-            "maxMove": "Max Starfall",
-            "role": "attacker",
-            "dps": 18.8,
-            "tdo": 8659.0,
-            "ttw": 486.6,
-            "faints": 3,
-            "survivalRate": 36.0
-          },
-          {
-            "name": "Gardevoir",
-            "types": [
-              "Psychic",
-              "Fairy"
-            ],
-            "fast": "Charm",
-            "charged": "Dazzling Gleam",
-            "maxMove": "Max Starfall",
-            "role": "attacker",
-            "dps": 19.4,
-            "tdo": 8395.0,
-            "ttw": 481.7,
-            "faints": 3,
-            "survivalRate": 14.0
-          },
-          {
-            "name": "Machamp",
-            "types": [
-              "Fighting"
-            ],
-            "fast": "Counter",
-            "charged": "Close Combat",
-            "maxMove": "G-Max Chi Strike",
-            "role": "attacker",
-            "dps": 39.7,
-            "tdo": 7602.0,
-            "ttw": 262.5,
-            "faints": 3,
-            "survivalRate": 10.0
-          },
-          {
-            "name": "Hitmonlee",
-            "types": [
-              "Fighting"
-            ],
-            "fast": "Low Kick",
-            "charged": "Close Combat",
-            "maxMove": "Max Knuckle",
-            "role": "attacker",
-            "dps": 38.5,
-            "tdo": 6416.0,
-            "ttw": 271.9,
-            "faints": 3,
-            "survivalRate": 2.0
-          }
-        ],
-        "team_composition": {
-          "standard": {
-            "min_players_needed": 3,
-            "strategy_label": "2 Attackers + 1 Tank",
-            "slot1": {
-              "name": "Excadrill",
-              "types": [
-                "Ground",
-                "Steel"
-              ],
-              "role": "attacker",
-              "fast": "Mud Shot",
-              "charged": "Earthquake",
-              "maxMove": "Max Quake",
-              "dps": 59.0,
-              "tdo": 5925.0
-            },
-            "slot2": {
-              "name": "Dialga (Origin)",
-              "types": [
-                "Steel",
-                "Dragon"
-              ],
-              "role": "attacker",
-              "fast": "Dragon Breath",
-              "charged": "Roar Of Time",
-              "maxMove": "Max Wyrmwind",
-              "dps": 44.3,
-              "tdo": 5504.0
-            },
-            "slot3": {
-              "name": "Metagross",
-              "types": [
-                "Steel",
-                "Psychic"
-              ],
-              "role": "tank",
-              "fast": "Shadow Claw",
-              "charged": "Earthquake",
-              "maxMove": "Max Phantasm",
-              "dps": 34.0,
-              "tdo": 5661.0
-            }
-          },
-          "dodging": {
-            "min_players_needed": 2,
-            "strategy_label": "1 Attacker + 1 Tank + 1 Healer",
-            "slot1": {
-              "name": "Gallade",
-              "types": [
-                "Psychic",
-                "Fighting"
-              ],
-              "role": "attacker",
-              "fast": "Low Kick",
-              "charged": "Sacred Sword",
-              "maxMove": "Max Knuckle",
-              "dps": 43.2,
-              "tdo": 8822.0
-            },
-            "slot2": {
-              "name": "Dialga (Origin)",
-              "types": [
-                "Steel",
-                "Dragon"
-              ],
-              "role": "tank",
-              "fast": "Dragon Breath",
-              "charged": "Roar Of Time",
-              "maxMove": "Max Wyrmwind",
-              "dps": 27.0,
-              "tdo": 8817.0
-            },
-            "slot3": {
-              "name": "Metagross",
-              "types": [
-                "Steel",
-                "Psychic"
-              ],
-              "role": "healer",
-              "fast": "Shadow Claw",
-              "charged": "Earthquake",
-              "maxMove": "Max Phantasm",
-              "dps": 23.5,
-              "tdo": 8842.0
-            }
-          }
-        }
-      }
-    },
     "Drampa": {
       "types": [
         "Normal",
@@ -30220,105 +29276,43 @@
         "Steel",
         "Dragon"
       ],
-      "tier": "G-Max T5",
+      "tier": "D-Max T1",
       "cpStandard": 1753,
       "cpBoosted": 2191,
       "strategy_guide": "Duraludon is a Steel/Dragon-type Max Battle boss. Build a team of strong Max Attackers with super-effective Max Moves. Coordinate Max Meter charging with fast attacks, swap to a defensive tank when targeted, and unleash Max Phase attacks.",
       "l40": {
         "standard": [
           {
+            "name": "Rhyperior",
+            "types": [
+              "Ground",
+              "Rock"
+            ],
+            "fast": "Mud Slap",
+            "charged": "Stone Edge",
+            "maxMove": "Max Quake",
+            "role": "attacker",
+            "dps": 303.7,
+            "tdo": 3221.0,
+            "ttw": 10.6,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
             "name": "Excadrill",
             "types": [
               "Ground",
               "Steel"
             ],
-            "fast": "Mud Shot",
+            "fast": "Mud Slap",
             "charged": "Earthquake",
             "maxMove": "Max Quake",
             "role": "attacker",
-            "dps": 72.4,
-            "tdo": 8952.0,
-            "ttw": 130.5,
-            "faints": 2,
-            "survivalRate": 84.0
-          },
-          {
-            "name": "Zacian (Hero)",
-            "types": [
-              "Fairy"
-            ],
-            "fast": "Snarl",
-            "charged": "Close Combat",
-            "maxMove": "Max Darkness",
-            "role": "attacker",
-            "dps": 33.4,
-            "tdo": 8671.0,
-            "ttw": 278.5,
-            "faints": 2,
-            "survivalRate": 70.0
-          },
-          {
-            "name": "Metagross",
-            "types": [
-              "Steel",
-              "Psychic"
-            ],
-            "fast": "Shadow Claw",
-            "charged": "Earthquake",
-            "maxMove": "Max Phantasm",
-            "role": "tank",
-            "dps": 41.6,
-            "tdo": 8232.0,
-            "ttw": 249.2,
-            "faints": 3,
-            "survivalRate": 22.0
-          },
-          {
-            "name": "Dialga (Origin)",
-            "types": [
-              "Steel",
-              "Dragon"
-            ],
-            "fast": "Dragon Breath",
-            "charged": "Roar Of Time",
-            "maxMove": "Max Wyrmwind",
-            "role": "attacker",
-            "dps": 52.9,
-            "tdo": 7383.0,
-            "ttw": 215.0,
-            "faints": 3,
-            "survivalRate": 0.0
-          },
-          {
-            "name": "Gallade",
-            "types": [
-              "Psychic",
-              "Fighting"
-            ],
-            "fast": "Low Kick",
-            "charged": "Sacred Sword",
-            "maxMove": "Max Knuckle",
-            "role": "attacker",
-            "dps": 72.7,
-            "tdo": 6863.0,
-            "ttw": 168.9,
-            "faints": 3,
-            "survivalRate": 0.0
-          },
-          {
-            "name": "Sylveon",
-            "types": [
-              "Fairy"
-            ],
-            "fast": "Fairy Wind",
-            "charged": "Moonblast",
-            "maxMove": "Max Starfall",
-            "role": "attacker",
-            "dps": 27.3,
-            "tdo": 6681.0,
-            "ttw": 375.2,
-            "faints": 3,
-            "survivalRate": 0.0
+            "dps": 317.5,
+            "tdo": 3394.0,
+            "ttw": 10.7,
+            "faints": 0,
+            "survivalRate": 100.0
           },
           {
             "name": "Machamp",
@@ -30326,77 +29320,14 @@
               "Fighting"
             ],
             "fast": "Counter",
-            "charged": "Close Combat",
+            "charged": "Payback",
             "maxMove": "G-Max Chi Strike",
             "role": "attacker",
-            "dps": 65.6,
-            "tdo": 6556.0,
-            "ttw": 182.3,
-            "faints": 3,
-            "survivalRate": 0.0
-          },
-          {
-            "name": "Dialga",
-            "types": [
-              "Steel",
-              "Dragon"
-            ],
-            "fast": "Dragon Breath",
-            "charged": "Draco Meteor",
-            "maxMove": "Max Wyrmwind",
-            "role": "attacker",
-            "dps": 51.3,
-            "tdo": 6445.0,
-            "ttw": 220.5,
-            "faints": 3,
-            "survivalRate": 0.0
-          },
-          {
-            "name": "Rhyperior",
-            "types": [
-              "Ground",
-              "Rock"
-            ],
-            "fast": "Mud Slap",
-            "charged": "Earthquake",
-            "maxMove": "Max Quake",
-            "role": "tank",
-            "dps": 45.8,
-            "tdo": 6212.0,
-            "ttw": 241.7,
-            "faints": 3,
-            "survivalRate": 0.0
-          },
-          {
-            "name": "Registeel",
-            "types": [
-              "Steel"
-            ],
-            "fast": "Rock Smash",
-            "charged": "Focus Blast",
-            "maxMove": "Max Knuckle",
-            "role": "tank",
-            "dps": 24.0,
-            "tdo": 5920.0,
-            "ttw": 420.5,
-            "faints": 3,
-            "survivalRate": 0.0
-          },
-          {
-            "name": "Gardevoir",
-            "types": [
-              "Psychic",
-              "Fairy"
-            ],
-            "fast": "Charm",
-            "charged": "Triple Axel",
-            "maxMove": "Max Starfall",
-            "role": "attacker",
-            "dps": 28.8,
-            "tdo": 5635.0,
-            "ttw": 356.8,
-            "faints": 3,
-            "survivalRate": 0.0
+            "dps": 346.4,
+            "tdo": 3751.0,
+            "ttw": 10.8,
+            "faints": 0,
+            "survivalRate": 100.0
           },
           {
             "name": "Passimian",
@@ -30407,170 +29338,169 @@
             "charged": "Close Combat",
             "maxMove": "Max Knuckle",
             "role": "attacker",
-            "dps": 50.0,
-            "tdo": 5592.0,
-            "ttw": 225.0,
-            "faints": 3,
-            "survivalRate": 0.0
+            "dps": 273.2,
+            "tdo": 3100.0,
+            "ttw": 11.3,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Rhydon",
+            "types": [
+              "Ground",
+              "Rock"
+            ],
+            "fast": "Mud Slap",
+            "charged": "Stone Edge",
+            "maxMove": "Max Quake",
+            "role": "attacker",
+            "dps": 266.2,
+            "tdo": 3066.0,
+            "ttw": 11.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Hitmonlee",
+            "types": [
+              "Fighting"
+            ],
+            "fast": "Rock Smash",
+            "charged": "Close Combat",
+            "maxMove": "Max Knuckle",
+            "role": "tank",
+            "dps": 255.2,
+            "tdo": 2977.0,
+            "ttw": 11.7,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Falinks",
+            "types": [
+              "Fighting"
+            ],
+            "fast": "Counter",
+            "charged": "Megahorn",
+            "maxMove": "Max Knuckle",
+            "role": "tank",
+            "dps": 228.4,
+            "tdo": 2707.0,
+            "ttw": 11.9,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Palkia (Origin)",
+            "types": [
+              "Water",
+              "Dragon"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Spacial Rend",
+            "maxMove": "Max Wyrmwind",
+            "role": "tank",
+            "dps": 209.2,
+            "tdo": 2481.0,
+            "ttw": 11.9,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Hitmonchan",
+            "types": [
+              "Fighting"
+            ],
+            "fast": "Counter",
+            "charged": "Close Combat",
+            "maxMove": "Max Knuckle",
+            "role": "tank",
+            "dps": 230.7,
+            "tdo": 2771.0,
+            "ttw": 12.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Palkia",
+            "types": [
+              "Water",
+              "Dragon"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Draco Meteor",
+            "maxMove": "Max Wyrmwind",
+            "role": "tank",
+            "dps": 196.0,
+            "tdo": 2490.0,
+            "ttw": 12.7,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Eternatus",
+            "types": [
+              "Poison",
+              "Dragon"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Dynamax Cannon",
+            "maxMove": "Dynamax Cannon",
+            "role": "healer",
+            "dps": 193.3,
+            "tdo": 2466.0,
+            "ttw": 12.8,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Gigalith",
+            "types": [
+              "Rock"
+            ],
+            "fast": "Mud Slap",
+            "charged": "Meteor Beam",
+            "maxMove": "Max Quake",
+            "role": "tank",
+            "dps": 199.9,
+            "tdo": 2885.0,
+            "ttw": 14.4,
+            "faints": 0,
+            "survivalRate": 100.0
           }
         ],
         "dodging": [
           {
-            "name": "Excadrill",
-            "types": [
-              "Ground",
-              "Steel"
-            ],
-            "fast": "Mud Shot",
-            "charged": "Earthquake",
-            "maxMove": "Max Quake",
-            "role": "attacker",
-            "dps": 47.7,
-            "tdo": 15070.0,
-            "ttw": 312.3,
-            "faints": 2,
-            "survivalRate": 86.0
-          },
-          {
-            "name": "Dialga (Origin)",
-            "types": [
-              "Steel",
-              "Dragon"
-            ],
-            "fast": "Dragon Breath",
-            "charged": "Draco Meteor",
-            "maxMove": "Max Wyrmwind",
-            "role": "attacker",
-            "dps": 33.6,
-            "tdo": 12265.0,
-            "ttw": 491.8,
-            "faints": 3,
-            "survivalRate": 0.0
-          },
-          {
-            "name": "Dialga",
-            "types": [
-              "Steel",
-              "Dragon"
-            ],
-            "fast": "Dragon Breath",
-            "charged": "Draco Meteor",
-            "maxMove": "Max Wyrmwind",
-            "role": "attacker",
-            "dps": 32.2,
-            "tdo": 11662.0,
-            "ttw": 510.6,
-            "faints": 3,
-            "survivalRate": 0.0
-          },
-          {
-            "name": "Metagross",
-            "types": [
-              "Steel",
-              "Psychic"
-            ],
-            "fast": "Shadow Claw",
-            "charged": "Earthquake",
-            "maxMove": "Max Phantasm",
-            "role": "tank",
-            "dps": 27.3,
-            "tdo": 10936.0,
-            "ttw": 593.8,
-            "faints": 3,
-            "survivalRate": 0.0
-          },
-          {
-            "name": "Zacian (Hero)",
-            "types": [
-              "Fairy"
-            ],
-            "fast": "Snarl",
-            "charged": "Close Combat",
-            "maxMove": "Max Darkness",
-            "role": "attacker",
-            "dps": 25.9,
-            "tdo": 10803.0,
-            "ttw": 623.2,
-            "faints": 3,
-            "survivalRate": 0.0
-          },
-          {
-            "name": "Gardevoir",
-            "types": [
-              "Psychic",
-              "Fairy"
-            ],
-            "fast": "Charm",
-            "charged": "Dazzling Gleam",
-            "maxMove": "Max Starfall",
-            "role": "attacker",
-            "dps": 24.9,
-            "tdo": 8939.0,
-            "ttw": 646.5,
-            "faints": 3,
-            "survivalRate": 0.0
-          },
-          {
-            "name": "Gallade",
-            "types": [
-              "Psychic",
-              "Fighting"
-            ],
-            "fast": "Low Kick",
-            "charged": "Sacred Sword",
-            "maxMove": "Max Knuckle",
-            "role": "attacker",
-            "dps": 49.3,
-            "tdo": 8186.0,
-            "ttw": 349.0,
-            "faints": 3,
-            "survivalRate": 0.0
-          },
-          {
-            "name": "Sylveon",
-            "types": [
-              "Fairy"
-            ],
-            "fast": "Charm",
-            "charged": "Moonblast",
-            "maxMove": "Max Starfall",
-            "role": "attacker",
-            "dps": 19.9,
-            "tdo": 7685.0,
-            "ttw": 799.8,
-            "faints": 3,
-            "survivalRate": 0.0
-          },
-          {
-            "name": "Registeel",
-            "types": [
-              "Steel"
-            ],
-            "fast": "Rock Smash",
-            "charged": "Focus Blast",
-            "maxMove": "Max Knuckle",
-            "role": "tank",
-            "dps": 19.0,
-            "tdo": 7195.0,
-            "ttw": 833.0,
-            "faints": 3,
-            "survivalRate": 0.0
-          },
-          {
             "name": "Rhyperior",
             "types": [
               "Ground",
               "Rock"
             ],
             "fast": "Mud Slap",
+            "charged": "Stone Edge",
+            "maxMove": "Max Quake",
+            "role": "attacker",
+            "dps": 307.2,
+            "tdo": 3213.0,
+            "ttw": 10.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Excadrill",
+            "types": [
+              "Ground",
+              "Steel"
+            ],
+            "fast": "Mud Slap",
             "charged": "Earthquake",
             "maxMove": "Max Quake",
             "role": "attacker",
-            "dps": 39.4,
-            "tdo": 7191.0,
-            "ttw": 425.8,
-            "faints": 3,
-            "survivalRate": 0.0
+            "dps": 320.1,
+            "tdo": 3396.0,
+            "ttw": 10.6,
+            "faints": 0,
+            "survivalRate": 100.0
           },
           {
             "name": "Machamp",
@@ -30581,11 +29511,11 @@
             "charged": "Close Combat",
             "maxMove": "G-Max Chi Strike",
             "role": "attacker",
-            "dps": 49.5,
-            "tdo": 6771.0,
-            "ttw": 348.1,
-            "faints": 3,
-            "survivalRate": 0.0
+            "dps": 350.7,
+            "tdo": 3752.0,
+            "ttw": 10.7,
+            "faints": 0,
+            "survivalRate": 100.0
           },
           {
             "name": "Passimian",
@@ -30596,97 +29526,222 @@
             "charged": "Close Combat",
             "maxMove": "Max Knuckle",
             "role": "attacker",
-            "dps": 40.7,
-            "tdo": 6087.0,
-            "ttw": 413.3,
-            "faints": 3,
-            "survivalRate": 0.0
+            "dps": 281.0,
+            "tdo": 3142.0,
+            "ttw": 11.2,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Rhydon",
+            "types": [
+              "Ground",
+              "Rock"
+            ],
+            "fast": "Mud Slap",
+            "charged": "Earthquake",
+            "maxMove": "Max Quake",
+            "role": "healer",
+            "dps": 217.3,
+            "tdo": 2482.0,
+            "ttw": 11.4,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Hitmonlee",
+            "types": [
+              "Fighting"
+            ],
+            "fast": "Rock Smash",
+            "charged": "Stone Edge",
+            "maxMove": "Max Knuckle",
+            "role": "attacker",
+            "dps": 258.5,
+            "tdo": 2975.0,
+            "ttw": 11.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Palkia (Origin)",
+            "types": [
+              "Water",
+              "Dragon"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Hydro Pump",
+            "maxMove": "Max Wyrmwind",
+            "role": "tank",
+            "dps": 212.3,
+            "tdo": 2483.0,
+            "ttw": 11.7,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Falinks",
+            "types": [
+              "Fighting"
+            ],
+            "fast": "Counter",
+            "charged": "Megahorn",
+            "maxMove": "Max Knuckle",
+            "role": "tank",
+            "dps": 230.8,
+            "tdo": 2724.0,
+            "ttw": 11.8,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Hitmonchan",
+            "types": [
+              "Fighting"
+            ],
+            "fast": "Counter",
+            "charged": "Close Combat",
+            "maxMove": "Max Knuckle",
+            "role": "tank",
+            "dps": 242.4,
+            "tdo": 2880.0,
+            "ttw": 11.9,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Palkia",
+            "types": [
+              "Water",
+              "Dragon"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Fire Blast",
+            "maxMove": "Max Wyrmwind",
+            "role": "tank",
+            "dps": 199.2,
+            "tdo": 2490.0,
+            "ttw": 12.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Eternatus",
+            "types": [
+              "Poison",
+              "Dragon"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Dynamax Cannon",
+            "maxMove": "Dynamax Cannon",
+            "role": "healer",
+            "dps": 196.9,
+            "tdo": 2466.0,
+            "ttw": 12.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Gallade",
+            "types": [
+              "Psychic",
+              "Fighting"
+            ],
+            "fast": "Low Kick",
+            "charged": "Sacred Sword",
+            "maxMove": "Max Knuckle",
+            "role": "tank",
+            "dps": 168.1,
+            "tdo": 2412.0,
+            "ttw": 14.4,
+            "faints": 0,
+            "survivalRate": 100.0
           }
         ],
         "team_composition": {
           "standard": {
-            "min_players_needed": 10,
-            "strategy_label": "2 Attackers + 1 Tank",
+            "min_players_needed": 1,
+            "strategy_label": "1 Attacker + 1 Tank + 1 Healer",
             "slot1": {
-              "name": "Excadrill",
+              "name": "Rhyperior",
               "types": [
                 "Ground",
-                "Steel"
+                "Rock"
               ],
               "role": "attacker",
-              "fast": "Mud Shot",
-              "charged": "Earthquake",
+              "fast": "Mud Slap",
+              "charged": "Stone Edge",
               "maxMove": "Max Quake",
-              "dps": 72.4,
-              "tdo": 8952.0
+              "dps": 303.7,
+              "tdo": 3221.0
             },
             "slot2": {
-              "name": "Zacian (Hero)",
+              "name": "Hitmonlee",
               "types": [
-                "Fairy"
-              ],
-              "role": "attacker",
-              "fast": "Snarl",
-              "charged": "Close Combat",
-              "maxMove": "Max Darkness",
-              "dps": 33.4,
-              "tdo": 8671.0
-            },
-            "slot3": {
-              "name": "Metagross",
-              "types": [
-                "Steel",
-                "Psychic"
+                "Fighting"
               ],
               "role": "tank",
-              "fast": "Shadow Claw",
-              "charged": "Earthquake",
-              "maxMove": "Max Phantasm",
-              "dps": 41.6,
-              "tdo": 8232.0
+              "fast": "Rock Smash",
+              "charged": "Close Combat",
+              "maxMove": "Max Knuckle",
+              "dps": 255.2,
+              "tdo": 2977.0
+            },
+            "slot3": {
+              "name": "Eternatus",
+              "types": [
+                "Poison",
+                "Dragon"
+              ],
+              "role": "healer",
+              "fast": "Dragon Tail",
+              "charged": "Dynamax Cannon",
+              "maxMove": "Dynamax Cannon",
+              "dps": 193.3,
+              "tdo": 2466.0
             }
           },
           "dodging": {
-            "min_players_needed": 6,
-            "strategy_label": "2 Attackers + 1 Tank",
+            "min_players_needed": 1,
+            "strategy_label": "1 Attacker + 1 Tank + 1 Healer",
             "slot1": {
-              "name": "Excadrill",
+              "name": "Rhyperior",
               "types": [
                 "Ground",
-                "Steel"
+                "Rock"
               ],
               "role": "attacker",
-              "fast": "Mud Shot",
-              "charged": "Earthquake",
+              "fast": "Mud Slap",
+              "charged": "Stone Edge",
               "maxMove": "Max Quake",
-              "dps": 47.7,
-              "tdo": 15070.0
+              "dps": 307.2,
+              "tdo": 3213.0
             },
             "slot2": {
-              "name": "Dialga (Origin)",
+              "name": "Palkia (Origin)",
               "types": [
-                "Steel",
+                "Water",
                 "Dragon"
               ],
-              "role": "attacker",
-              "fast": "Dragon Breath",
-              "charged": "Draco Meteor",
+              "role": "tank",
+              "fast": "Dragon Tail",
+              "charged": "Hydro Pump",
               "maxMove": "Max Wyrmwind",
-              "dps": 33.6,
-              "tdo": 12265.0
+              "dps": 212.3,
+              "tdo": 2483.0
             },
             "slot3": {
-              "name": "Metagross",
+              "name": "Rhydon",
               "types": [
-                "Steel",
-                "Psychic"
+                "Ground",
+                "Rock"
               ],
-              "role": "tank",
-              "fast": "Shadow Claw",
+              "role": "healer",
+              "fast": "Mud Slap",
               "charged": "Earthquake",
-              "maxMove": "Max Phantasm",
-              "dps": 27.3,
-              "tdo": 10936.0
+              "maxMove": "Max Quake",
+              "dps": 217.3,
+              "tdo": 2482.0
             }
           }
         }
@@ -30699,125 +29754,15 @@
               "Ground",
               "Steel"
             ],
-            "fast": "Mud Shot",
-            "charged": "Earthquake",
-            "maxMove": "Max Quake",
-            "role": "attacker",
-            "dps": 76.3,
-            "tdo": 11016.0,
-            "ttw": 154.5,
-            "faints": 2,
-            "survivalRate": 78.0
-          },
-          {
-            "name": "Zacian (Hero)",
-            "types": [
-              "Fairy"
-            ],
-            "fast": "Snarl",
-            "charged": "Close Combat",
-            "maxMove": "Max Darkness",
-            "role": "attacker",
-            "dps": 35.5,
-            "tdo": 9511.0,
-            "ttw": 344.7,
-            "faints": 3,
-            "survivalRate": 26.0
-          },
-          {
-            "name": "Metagross",
-            "types": [
-              "Steel",
-              "Psychic"
-            ],
-            "fast": "Shadow Claw",
-            "charged": "Earthquake",
-            "maxMove": "Max Phantasm",
-            "role": "tank",
-            "dps": 44.9,
-            "tdo": 9444.0,
-            "ttw": 294.2,
-            "faints": 3,
-            "survivalRate": 2.0
-          },
-          {
-            "name": "Dialga (Origin)",
-            "types": [
-              "Steel",
-              "Dragon"
-            ],
-            "fast": "Dragon Breath",
-            "charged": "Roar Of Time",
-            "maxMove": "Max Wyrmwind",
-            "role": "attacker",
-            "dps": 56.8,
-            "tdo": 8264.0,
-            "ttw": 243.1,
-            "faints": 3,
-            "survivalRate": 0.0
-          },
-          {
-            "name": "Gallade",
-            "types": [
-              "Psychic",
-              "Fighting"
-            ],
-            "fast": "Low Kick",
-            "charged": "Sacred Sword",
-            "maxMove": "Max Knuckle",
-            "role": "attacker",
-            "dps": 76.6,
-            "tdo": 8128.0,
-            "ttw": 191.9,
-            "faints": 3,
-            "survivalRate": 0.0
-          },
-          {
-            "name": "Rhyperior",
-            "types": [
-              "Ground",
-              "Rock"
-            ],
             "fast": "Mud Slap",
             "charged": "Earthquake",
             "maxMove": "Max Quake",
-            "role": "tank",
-            "dps": 51.0,
-            "tdo": 8072.0,
-            "ttw": 265.8,
-            "faints": 3,
-            "survivalRate": 0.0
-          },
-          {
-            "name": "Dialga",
-            "types": [
-              "Steel",
-              "Dragon"
-            ],
-            "fast": "Dragon Breath",
-            "charged": "Draco Meteor",
-            "maxMove": "Max Wyrmwind",
             "role": "attacker",
-            "dps": 53.8,
-            "tdo": 7667.0,
-            "ttw": 254.3,
-            "faints": 3,
-            "survivalRate": 0.0
-          },
-          {
-            "name": "Sylveon",
-            "types": [
-              "Fairy"
-            ],
-            "fast": "Fairy Wind",
-            "charged": "Moonblast",
-            "maxMove": "Max Starfall",
-            "role": "attacker",
-            "dps": 28.9,
-            "tdo": 7258.0,
-            "ttw": 434.0,
-            "faints": 3,
-            "survivalRate": 0.0
+            "dps": 369.3,
+            "tdo": 3508.0,
+            "ttw": 9.5,
+            "faints": 0,
+            "survivalRate": 100.0
           },
           {
             "name": "Machamp",
@@ -30828,42 +29773,43 @@
             "charged": "Close Combat",
             "maxMove": "G-Max Chi Strike",
             "role": "attacker",
-            "dps": 68.0,
-            "tdo": 6851.0,
-            "ttw": 210.5,
-            "faints": 3,
-            "survivalRate": 0.0
+            "dps": 386.9,
+            "tdo": 3955.0,
+            "ttw": 10.2,
+            "faints": 0,
+            "survivalRate": 100.0
           },
           {
-            "name": "Registeel",
+            "name": "Rhyperior",
             "types": [
-              "Steel"
+              "Ground",
+              "Rock"
             ],
-            "fast": "Rock Smash",
-            "charged": "Focus Blast",
-            "maxMove": "Max Knuckle",
-            "role": "tank",
-            "dps": 25.6,
-            "tdo": 6534.0,
-            "ttw": 483.7,
-            "faints": 3,
-            "survivalRate": 0.0
-          },
-          {
-            "name": "Gardevoir",
-            "types": [
-              "Psychic",
-              "Fairy"
-            ],
-            "fast": "Charm",
-            "charged": "Triple Axel",
-            "maxMove": "Max Starfall",
+            "fast": "Mud Slap",
+            "charged": "Skull Bash",
+            "maxMove": "Max Quake",
             "role": "attacker",
-            "dps": 30.1,
-            "tdo": 6238.0,
-            "ttw": 418.8,
-            "faints": 3,
-            "survivalRate": 0.0
+            "dps": 322.4,
+            "tdo": 3416.0,
+            "ttw": 10.6,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Rhydon",
+            "types": [
+              "Ground",
+              "Rock"
+            ],
+            "fast": "Mud Slap",
+            "charged": "Megahorn",
+            "maxMove": "Max Quake",
+            "role": "attacker",
+            "dps": 296.7,
+            "tdo": 3180.0,
+            "ttw": 10.7,
+            "faints": 0,
+            "survivalRate": 100.0
           },
           {
             "name": "Passimian",
@@ -30874,11 +29820,119 @@
             "charged": "Close Combat",
             "maxMove": "Max Knuckle",
             "role": "attacker",
-            "dps": 52.7,
-            "tdo": 6098.0,
-            "ttw": 258.4,
-            "faints": 3,
-            "survivalRate": 0.0
+            "dps": 289.9,
+            "tdo": 3176.0,
+            "ttw": 11.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Falinks",
+            "types": [
+              "Fighting"
+            ],
+            "fast": "Counter",
+            "charged": "Megahorn",
+            "maxMove": "Max Knuckle",
+            "role": "tank",
+            "dps": 252.8,
+            "tdo": 2804.0,
+            "ttw": 11.1,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Hitmonchan",
+            "types": [
+              "Fighting"
+            ],
+            "fast": "Counter",
+            "charged": "Close Combat",
+            "maxMove": "Max Knuckle",
+            "role": "tank",
+            "dps": 256.1,
+            "tdo": 2943.0,
+            "ttw": 11.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Hitmonlee",
+            "types": [
+              "Fighting"
+            ],
+            "fast": "Rock Smash",
+            "charged": "Close Combat",
+            "maxMove": "Max Knuckle",
+            "role": "tank",
+            "dps": 272.3,
+            "tdo": 3161.0,
+            "ttw": 11.6,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Gigalith",
+            "types": [
+              "Rock"
+            ],
+            "fast": "Mud Slap",
+            "charged": "Solar Beam",
+            "maxMove": "Max Quake",
+            "role": "tank",
+            "dps": 239.7,
+            "tdo": 2791.0,
+            "ttw": 11.6,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Palkia",
+            "types": [
+              "Water",
+              "Dragon"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Draco Meteor",
+            "maxMove": "Max Wyrmwind",
+            "role": "tank",
+            "dps": 218.7,
+            "tdo": 2590.0,
+            "ttw": 11.8,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Palkia (Origin)",
+            "types": [
+              "Water",
+              "Dragon"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Fire Blast",
+            "maxMove": "Max Wyrmwind",
+            "role": "tank",
+            "dps": 221.9,
+            "tdo": 2639.0,
+            "ttw": 11.9,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Eternatus",
+            "types": [
+              "Poison",
+              "Dragon"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Dynamax Cannon",
+            "maxMove": "Dynamax Cannon",
+            "role": "healer",
+            "dps": 214.9,
+            "tdo": 2564.0,
+            "ttw": 11.9,
+            "faints": 0,
+            "survivalRate": 100.0
           }
         ],
         "dodging": [
@@ -30888,110 +29942,46 @@
               "Ground",
               "Steel"
             ],
-            "fast": "Mud Shot",
-            "charged": "Drill Run",
+            "fast": "Mud Slap",
+            "charged": "Earthquake",
             "maxMove": "Max Quake",
             "role": "attacker",
-            "dps": 47.6,
-            "tdo": 15131.0,
-            "ttw": 315.4,
-            "faints": 2,
-            "survivalRate": 94.0
+            "dps": 369.3,
+            "tdo": 3508.0,
+            "ttw": 9.5,
+            "faints": 0,
+            "survivalRate": 100.0
           },
           {
-            "name": "Gallade",
+            "name": "Machamp",
             "types": [
-              "Psychic",
               "Fighting"
             ],
-            "fast": "Low Kick",
-            "charged": "Sacred Sword",
-            "maxMove": "Max Knuckle",
+            "fast": "Counter",
+            "charged": "Payback",
+            "maxMove": "G-Max Chi Strike",
             "role": "attacker",
-            "dps": 46.2,
-            "tdo": 14349.0,
-            "ttw": 339.9,
-            "faints": 2,
-            "survivalRate": 64.0
+            "dps": 385.4,
+            "tdo": 3962.0,
+            "ttw": 10.3,
+            "faints": 0,
+            "survivalRate": 100.0
           },
           {
-            "name": "Metagross",
+            "name": "Rhydon",
             "types": [
-              "Steel",
-              "Psychic"
+              "Ground",
+              "Rock"
             ],
-            "fast": "Shadow Claw",
-            "charged": "Earthquake",
-            "maxMove": "Max Phantasm",
-            "role": "tank",
-            "dps": 30.9,
-            "tdo": 12419.0,
-            "ttw": 531.2,
-            "faints": 3,
-            "survivalRate": 0.0
-          },
-          {
-            "name": "Zacian (Hero)",
-            "types": [
-              "Fairy"
-            ],
-            "fast": "Snarl",
-            "charged": "Close Combat",
-            "maxMove": "Max Darkness",
+            "fast": "Mud Slap",
+            "charged": "Megahorn",
+            "maxMove": "Max Quake",
             "role": "attacker",
-            "dps": 28.6,
-            "tdo": 12015.0,
-            "ttw": 569.3,
-            "faints": 3,
-            "survivalRate": 0.0
-          },
-          {
-            "name": "Dialga (Origin)",
-            "types": [
-              "Steel",
-              "Dragon"
-            ],
-            "fast": "Dragon Breath",
-            "charged": "Roar Of Time",
-            "maxMove": "Max Wyrmwind",
-            "role": "attacker",
-            "dps": 30.8,
-            "tdo": 11877.0,
-            "ttw": 532.0,
-            "faints": 3,
-            "survivalRate": 0.0
-          },
-          {
-            "name": "Dialga",
-            "types": [
-              "Steel",
-              "Dragon"
-            ],
-            "fast": "Dragon Breath",
-            "charged": "Draco Meteor",
-            "maxMove": "Max Wyrmwind",
-            "role": "attacker",
-            "dps": 30.9,
-            "tdo": 11717.0,
-            "ttw": 529.7,
-            "faints": 3,
-            "survivalRate": 0.0
-          },
-          {
-            "name": "Gardevoir",
-            "types": [
-              "Psychic",
-              "Fairy"
-            ],
-            "fast": "Charm",
-            "charged": "Dazzling Gleam",
-            "maxMove": "Max Starfall",
-            "role": "attacker",
-            "dps": 26.2,
-            "tdo": 9610.0,
-            "ttw": 616.5,
-            "faints": 3,
-            "survivalRate": 0.0
+            "dps": 300.5,
+            "tdo": 3170.0,
+            "ttw": 10.6,
+            "faints": 0,
+            "survivalRate": 100.0
           },
           {
             "name": "Rhyperior",
@@ -31000,81 +29990,143 @@
               "Rock"
             ],
             "fast": "Mud Slap",
-            "charged": "Earthquake",
+            "charged": "Skull Bash",
             "maxMove": "Max Quake",
             "role": "attacker",
-            "dps": 44.2,
-            "tdo": 9495.0,
-            "ttw": 384.0,
-            "faints": 3,
-            "survivalRate": 0.0
+            "dps": 322.7,
+            "tdo": 3424.0,
+            "ttw": 10.6,
+            "faints": 0,
+            "survivalRate": 100.0
           },
           {
-            "name": "Sylveon",
-            "types": [
-              "Fairy"
-            ],
-            "fast": "Fairy Wind",
-            "charged": "Moonblast",
-            "maxMove": "Max Starfall",
-            "role": "attacker",
-            "dps": 20.4,
-            "tdo": 8389.0,
-            "ttw": 781.8,
-            "faints": 3,
-            "survivalRate": 0.0
-          },
-          {
-            "name": "Omastar",
-            "types": [
-              "Rock",
-              "Water"
-            ],
-            "fast": "Mud Shot",
-            "charged": "Hydro Pump",
-            "maxMove": "Max Quake",
-            "role": "attacker",
-            "dps": 29.9,
-            "tdo": 8064.0,
-            "ttw": 546.8,
-            "faints": 3,
-            "survivalRate": 0.0
-          },
-          {
-            "name": "Greedent",
-            "types": [
-              "Normal"
-            ],
-            "fast": "Mud Shot",
-            "charged": "Trailblaze",
-            "maxMove": "Max Quake",
-            "role": "tank",
-            "dps": 22.0,
-            "tdo": 8003.0,
-            "ttw": 726.3,
-            "faints": 3,
-            "survivalRate": 0.0
-          },
-          {
-            "name": "Machamp",
+            "name": "Passimian",
             "types": [
               "Fighting"
             ],
             "fast": "Counter",
             "charged": "Close Combat",
-            "maxMove": "G-Max Chi Strike",
+            "maxMove": "Max Knuckle",
             "role": "attacker",
-            "dps": 54.5,
-            "tdo": 7833.0,
-            "ttw": 320.1,
-            "faints": 3,
-            "survivalRate": 0.0
+            "dps": 296.2,
+            "tdo": 3157.0,
+            "ttw": 10.7,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Falinks",
+            "types": [
+              "Fighting"
+            ],
+            "fast": "Counter",
+            "charged": "Megahorn",
+            "maxMove": "Max Knuckle",
+            "role": "tank",
+            "dps": 251.5,
+            "tdo": 2847.0,
+            "ttw": 11.3,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Hitmonchan",
+            "types": [
+              "Fighting"
+            ],
+            "fast": "Counter",
+            "charged": "Close Combat",
+            "maxMove": "Max Knuckle",
+            "role": "tank",
+            "dps": 261.8,
+            "tdo": 2980.0,
+            "ttw": 11.4,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Gigalith",
+            "types": [
+              "Rock"
+            ],
+            "fast": "Mud Slap",
+            "charged": "Meteor Beam",
+            "maxMove": "Max Quake",
+            "role": "tank",
+            "dps": 246.4,
+            "tdo": 2822.0,
+            "ttw": 11.4,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Palkia",
+            "types": [
+              "Water",
+              "Dragon"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Hydro Pump",
+            "maxMove": "Max Wyrmwind",
+            "role": "tank",
+            "dps": 223.2,
+            "tdo": 2580.0,
+            "ttw": 11.6,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Palkia (Origin)",
+            "types": [
+              "Water",
+              "Dragon"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Draco Meteor",
+            "maxMove": "Max Wyrmwind",
+            "role": "tank",
+            "dps": 225.4,
+            "tdo": 2637.0,
+            "ttw": 11.7,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Hitmonlee",
+            "types": [
+              "Fighting"
+            ],
+            "fast": "Rock Smash",
+            "charged": "Stone Edge",
+            "maxMove": "Max Knuckle",
+            "role": "tank",
+            "dps": 271.4,
+            "tdo": 3183.0,
+            "ttw": 11.7,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Eternatus",
+            "types": [
+              "Poison",
+              "Dragon"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Dynamax Cannon",
+            "maxMove": "Dynamax Cannon",
+            "role": "healer",
+            "dps": 218.0,
+            "tdo": 2573.0,
+            "ttw": 11.8,
+            "faints": 0,
+            "survivalRate": 100.0
           }
         ],
         "team_composition": {
           "standard": {
-            "min_players_needed": 8,
-            "strategy_label": "2 Attackers + 1 Tank",
+            "min_players_needed": 1,
+            "strategy_label": "1 Attacker + 1 Tank + 1 Healer",
             "slot1": {
               "name": "Excadrill",
               "types": [
@@ -31082,41 +30134,41 @@
                 "Steel"
               ],
               "role": "attacker",
-              "fast": "Mud Shot",
+              "fast": "Mud Slap",
               "charged": "Earthquake",
               "maxMove": "Max Quake",
-              "dps": 76.3,
-              "tdo": 11016.0
+              "dps": 369.3,
+              "tdo": 3508.0
             },
             "slot2": {
-              "name": "Zacian (Hero)",
+              "name": "Falinks",
               "types": [
-                "Fairy"
-              ],
-              "role": "attacker",
-              "fast": "Snarl",
-              "charged": "Close Combat",
-              "maxMove": "Max Darkness",
-              "dps": 35.5,
-              "tdo": 9511.0
-            },
-            "slot3": {
-              "name": "Metagross",
-              "types": [
-                "Steel",
-                "Psychic"
+                "Fighting"
               ],
               "role": "tank",
-              "fast": "Shadow Claw",
-              "charged": "Earthquake",
-              "maxMove": "Max Phantasm",
-              "dps": 44.9,
-              "tdo": 9444.0
+              "fast": "Counter",
+              "charged": "Megahorn",
+              "maxMove": "Max Knuckle",
+              "dps": 252.8,
+              "tdo": 2804.0
+            },
+            "slot3": {
+              "name": "Eternatus",
+              "types": [
+                "Poison",
+                "Dragon"
+              ],
+              "role": "healer",
+              "fast": "Dragon Tail",
+              "charged": "Dynamax Cannon",
+              "maxMove": "Dynamax Cannon",
+              "dps": 214.9,
+              "tdo": 2564.0
             }
           },
           "dodging": {
-            "min_players_needed": 6,
-            "strategy_label": "2 Attackers + 1 Tank",
+            "min_players_needed": 1,
+            "strategy_label": "1 Attacker + 1 Tank + 1 Healer",
             "slot1": {
               "name": "Excadrill",
               "types": [
@@ -31124,37 +30176,36 @@
                 "Steel"
               ],
               "role": "attacker",
-              "fast": "Mud Shot",
-              "charged": "Drill Run",
+              "fast": "Mud Slap",
+              "charged": "Earthquake",
               "maxMove": "Max Quake",
-              "dps": 47.6,
-              "tdo": 15131.0
+              "dps": 369.3,
+              "tdo": 3508.0
             },
             "slot2": {
-              "name": "Gallade",
+              "name": "Falinks",
               "types": [
-                "Psychic",
                 "Fighting"
               ],
-              "role": "attacker",
-              "fast": "Low Kick",
-              "charged": "Sacred Sword",
+              "role": "tank",
+              "fast": "Counter",
+              "charged": "Megahorn",
               "maxMove": "Max Knuckle",
-              "dps": 46.2,
-              "tdo": 14349.0
+              "dps": 251.5,
+              "tdo": 2847.0
             },
             "slot3": {
-              "name": "Metagross",
+              "name": "Eternatus",
               "types": [
-                "Steel",
-                "Psychic"
+                "Poison",
+                "Dragon"
               ],
-              "role": "tank",
-              "fast": "Shadow Claw",
-              "charged": "Earthquake",
-              "maxMove": "Max Phantasm",
-              "dps": 30.9,
-              "tdo": 12419.0
+              "role": "healer",
+              "fast": "Dragon Tail",
+              "charged": "Dynamax Cannon",
+              "maxMove": "Dynamax Cannon",
+              "dps": 218.0,
+              "tdo": 2573.0
             }
           }
         }
@@ -33048,936 +32099,6 @@
               "maxMove": "Dynamax Cannon",
               "dps": 237.6,
               "tdo": 2637.0
-            }
-          }
-        }
-      }
-    },
-    "Excadrill": {
-      "types": [
-        "Ground",
-        "Steel"
-      ],
-      "tier": "D-Max T1",
-      "cpStandard": 1853,
-      "cpBoosted": 2317,
-      "strategy_guide": "Excadrill is a Ground/Steel-type Max Battle boss. Build a team of strong Max Attackers with super-effective Max Moves. Coordinate Max Meter charging with fast attacks, swap to a defensive tank when targeted, and unleash Max Phase attacks.",
-      "l40": {
-        "standard": [
-          {
-            "name": "Cinderace",
-            "types": [
-              "Fire"
-            ],
-            "fast": "Fire Spin",
-            "charged": "Blast Burn",
-            "maxMove": "G-Max Fireball",
-            "role": "tank",
-            "dps": 293.8,
-            "tdo": 1763.0,
-            "ttw": 6.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Darmanitan (Standard)",
-            "types": [
-              "Fire"
-            ],
-            "fast": "Fire Fang",
-            "charged": "Focus Blast",
-            "maxMove": "Max Flare",
-            "role": "attacker",
-            "dps": 591.2,
-            "tdo": 4434.0,
-            "ttw": 7.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Moltres",
-            "types": [
-              "Fire",
-              "Flying"
-            ],
-            "fast": "Fire Spin",
-            "charged": "Overheat",
-            "maxMove": "Max Flare",
-            "role": "attacker",
-            "dps": 566.3,
-            "tdo": 4247.0,
-            "ttw": 7.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Flareon",
-            "types": [
-              "Fire"
-            ],
-            "fast": "Fire Spin",
-            "charged": "Heat Wave",
-            "maxMove": "Max Flare",
-            "role": "attacker",
-            "dps": 555.9,
-            "tdo": 4169.0,
-            "ttw": 7.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Excadrill",
-            "types": [
-              "Ground",
-              "Steel"
-            ],
-            "fast": "Mud Slap",
-            "charged": "Earthquake",
-            "maxMove": "Max Quake",
-            "role": "tank",
-            "dps": 550.8,
-            "tdo": 4406.0,
-            "ttw": 8.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Rhyperior",
-            "types": [
-              "Ground",
-              "Rock"
-            ],
-            "fast": "Mud Slap",
-            "charged": "Earthquake",
-            "maxMove": "Max Quake",
-            "role": "healer",
-            "dps": 521.8,
-            "tdo": 4174.0,
-            "ttw": 8.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Rhydon",
-            "types": [
-              "Ground",
-              "Rock"
-            ],
-            "fast": "Mud Slap",
-            "charged": "Stone Edge",
-            "maxMove": "Max Quake",
-            "role": "healer",
-            "dps": 483.5,
-            "tdo": 3868.0,
-            "ttw": 8.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Machamp",
-            "types": [
-              "Fighting"
-            ],
-            "fast": "Counter",
-            "charged": "Close Combat",
-            "maxMove": "G-Max Chi Strike",
-            "role": "attacker",
-            "dps": 583.8,
-            "tdo": 4962.0,
-            "ttw": 8.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Charizard",
-            "types": [
-              "Fire",
-              "Flying"
-            ],
-            "fast": "Fire Spin",
-            "charged": "Overheat",
-            "maxMove": "G-Max Wildfire",
-            "role": "attacker",
-            "dps": 558.0,
-            "tdo": 4743.0,
-            "ttw": 8.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Passimian",
-            "types": [
-              "Fighting"
-            ],
-            "fast": "Counter",
-            "charged": "Close Combat",
-            "maxMove": "Max Knuckle",
-            "role": "tank",
-            "dps": 458.2,
-            "tdo": 3895.0,
-            "ttw": 8.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Hitmonlee",
-            "types": [
-              "Fighting"
-            ],
-            "fast": "Rock Smash",
-            "charged": "Stone Edge",
-            "maxMove": "Max Knuckle",
-            "role": "tank",
-            "dps": 414.7,
-            "tdo": 3940.0,
-            "ttw": 9.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Zacian (Hero)",
-            "types": [
-              "Fairy"
-            ],
-            "fast": "Fire Fang",
-            "charged": "Close Combat",
-            "maxMove": "Max Flare",
-            "role": "tank",
-            "dps": 398.5,
-            "tdo": 3786.0,
-            "ttw": 9.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          }
-        ],
-        "dodging": [
-          {
-            "name": "Cinderace",
-            "types": [
-              "Fire"
-            ],
-            "fast": "Fire Spin",
-            "charged": "Blast Burn",
-            "maxMove": "G-Max Fireball",
-            "role": "tank",
-            "dps": 293.8,
-            "tdo": 1763.0,
-            "ttw": 6.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Darmanitan (Standard)",
-            "types": [
-              "Fire"
-            ],
-            "fast": "Fire Fang",
-            "charged": "Overheat",
-            "maxMove": "Max Flare",
-            "role": "attacker",
-            "dps": 591.2,
-            "tdo": 4434.0,
-            "ttw": 7.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Moltres",
-            "types": [
-              "Fire",
-              "Flying"
-            ],
-            "fast": "Fire Spin",
-            "charged": "Fire Blast",
-            "maxMove": "Max Flare",
-            "role": "attacker",
-            "dps": 566.3,
-            "tdo": 4247.0,
-            "ttw": 7.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Flareon",
-            "types": [
-              "Fire"
-            ],
-            "fast": "Fire Spin",
-            "charged": "Heat Wave",
-            "maxMove": "Max Flare",
-            "role": "attacker",
-            "dps": 555.9,
-            "tdo": 4169.0,
-            "ttw": 7.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Excadrill",
-            "types": [
-              "Ground",
-              "Steel"
-            ],
-            "fast": "Mud Slap",
-            "charged": "Earthquake",
-            "maxMove": "Max Quake",
-            "role": "tank",
-            "dps": 550.8,
-            "tdo": 4406.0,
-            "ttw": 8.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Rhyperior",
-            "types": [
-              "Ground",
-              "Rock"
-            ],
-            "fast": "Mud Slap",
-            "charged": "Skull Bash",
-            "maxMove": "Max Quake",
-            "role": "healer",
-            "dps": 521.8,
-            "tdo": 4174.0,
-            "ttw": 8.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Rhydon",
-            "types": [
-              "Ground",
-              "Rock"
-            ],
-            "fast": "Mud Slap",
-            "charged": "Earthquake",
-            "maxMove": "Max Quake",
-            "role": "healer",
-            "dps": 483.5,
-            "tdo": 3868.0,
-            "ttw": 8.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Machamp",
-            "types": [
-              "Fighting"
-            ],
-            "fast": "Counter",
-            "charged": "Close Combat",
-            "maxMove": "G-Max Chi Strike",
-            "role": "attacker",
-            "dps": 583.8,
-            "tdo": 4962.0,
-            "ttw": 8.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Charizard",
-            "types": [
-              "Fire",
-              "Flying"
-            ],
-            "fast": "Fire Spin",
-            "charged": "Fire Blast",
-            "maxMove": "G-Max Wildfire",
-            "role": "attacker",
-            "dps": 558.0,
-            "tdo": 4743.0,
-            "ttw": 8.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Passimian",
-            "types": [
-              "Fighting"
-            ],
-            "fast": "Counter",
-            "charged": "Close Combat",
-            "maxMove": "Max Knuckle",
-            "role": "tank",
-            "dps": 458.2,
-            "tdo": 3895.0,
-            "ttw": 8.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Hitmonlee",
-            "types": [
-              "Fighting"
-            ],
-            "fast": "Rock Smash",
-            "charged": "Close Combat",
-            "maxMove": "Max Knuckle",
-            "role": "tank",
-            "dps": 414.7,
-            "tdo": 3940.0,
-            "ttw": 9.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Zacian (Hero)",
-            "types": [
-              "Fairy"
-            ],
-            "fast": "Fire Fang",
-            "charged": "Close Combat",
-            "maxMove": "Max Flare",
-            "role": "tank",
-            "dps": 398.5,
-            "tdo": 3786.0,
-            "ttw": 9.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          }
-        ],
-        "team_composition": {
-          "standard": {
-            "min_players_needed": 1,
-            "strategy_label": "1 Attacker + 1 Tank + 1 Healer",
-            "slot1": {
-              "name": "Darmanitan (Standard)",
-              "types": [
-                "Fire"
-              ],
-              "role": "attacker",
-              "fast": "Fire Fang",
-              "charged": "Focus Blast",
-              "maxMove": "Max Flare",
-              "dps": 591.2,
-              "tdo": 4434.0
-            },
-            "slot2": {
-              "name": "Cinderace",
-              "types": [
-                "Fire"
-              ],
-              "role": "tank",
-              "fast": "Fire Spin",
-              "charged": "Blast Burn",
-              "maxMove": "G-Max Fireball",
-              "dps": 293.8,
-              "tdo": 1763.0
-            },
-            "slot3": {
-              "name": "Rhyperior",
-              "types": [
-                "Ground",
-                "Rock"
-              ],
-              "role": "healer",
-              "fast": "Mud Slap",
-              "charged": "Earthquake",
-              "maxMove": "Max Quake",
-              "dps": 521.8,
-              "tdo": 4174.0
-            }
-          },
-          "dodging": {
-            "min_players_needed": 1,
-            "strategy_label": "1 Attacker + 1 Tank + 1 Healer",
-            "slot1": {
-              "name": "Darmanitan (Standard)",
-              "types": [
-                "Fire"
-              ],
-              "role": "attacker",
-              "fast": "Fire Fang",
-              "charged": "Overheat",
-              "maxMove": "Max Flare",
-              "dps": 591.2,
-              "tdo": 4434.0
-            },
-            "slot2": {
-              "name": "Cinderace",
-              "types": [
-                "Fire"
-              ],
-              "role": "tank",
-              "fast": "Fire Spin",
-              "charged": "Blast Burn",
-              "maxMove": "G-Max Fireball",
-              "dps": 293.8,
-              "tdo": 1763.0
-            },
-            "slot3": {
-              "name": "Rhyperior",
-              "types": [
-                "Ground",
-                "Rock"
-              ],
-              "role": "healer",
-              "fast": "Mud Slap",
-              "charged": "Skull Bash",
-              "maxMove": "Max Quake",
-              "dps": 521.8,
-              "tdo": 4174.0
-            }
-          }
-        }
-      },
-      "l50": {
-        "standard": [
-          {
-            "name": "Darmanitan (Standard)",
-            "types": [
-              "Fire"
-            ],
-            "fast": "Incinerate",
-            "charged": "Psychic",
-            "maxMove": "Max Flare",
-            "role": "attacker",
-            "dps": 842.4,
-            "tdo": 4633.0,
-            "ttw": 5.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Cinderace",
-            "types": [
-              "Fire"
-            ],
-            "fast": "Fire Spin",
-            "charged": "Blast Burn",
-            "maxMove": "G-Max Fireball",
-            "role": "tank",
-            "dps": 312.0,
-            "tdo": 1872.0,
-            "ttw": 6.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Charizard",
-            "types": [
-              "Fire",
-              "Flying"
-            ],
-            "fast": "Fire Spin",
-            "charged": "Blast Burn",
-            "maxMove": "G-Max Wildfire",
-            "role": "tank",
-            "dps": 293.8,
-            "tdo": 1763.0,
-            "ttw": 6.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Excadrill",
-            "types": [
-              "Ground",
-              "Steel"
-            ],
-            "fast": "Mud Slap",
-            "charged": "Earthquake",
-            "maxMove": "Max Quake",
-            "role": "attacker",
-            "dps": 690.8,
-            "tdo": 4490.0,
-            "ttw": 6.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Machamp",
-            "types": [
-              "Fighting"
-            ],
-            "fast": "Counter",
-            "charged": "Close Combat",
-            "maxMove": "G-Max Chi Strike",
-            "role": "attacker",
-            "dps": 687.1,
-            "tdo": 5153.0,
-            "ttw": 7.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Moltres",
-            "types": [
-              "Fire",
-              "Flying"
-            ],
-            "fast": "Fire Spin",
-            "charged": "Overheat",
-            "maxMove": "Max Flare",
-            "role": "attacker",
-            "dps": 602.3,
-            "tdo": 4517.0,
-            "ttw": 7.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Flareon",
-            "types": [
-              "Fire"
-            ],
-            "fast": "Fire Spin",
-            "charged": "Fire Blast",
-            "maxMove": "Max Flare",
-            "role": "attacker",
-            "dps": 590.4,
-            "tdo": 4428.0,
-            "ttw": 7.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Darmanitan (Galarian Standard)",
-            "types": [
-              "Ice"
-            ],
-            "fast": "Ice Fang",
-            "charged": "Overheat",
-            "maxMove": "Max Hailstorm",
-            "role": "tank",
-            "dps": 236.7,
-            "tdo": 1775.0,
-            "ttw": 7.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Rhyperior",
-            "types": [
-              "Ground",
-              "Rock"
-            ],
-            "fast": "Mud Slap",
-            "charged": "Skull Bash",
-            "maxMove": "Max Quake",
-            "role": "healer",
-            "dps": 554.9,
-            "tdo": 4439.0,
-            "ttw": 8.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Rhydon",
-            "types": [
-              "Ground",
-              "Rock"
-            ],
-            "fast": "Mud Slap",
-            "charged": "Stone Edge",
-            "maxMove": "Max Quake",
-            "role": "healer",
-            "dps": 514.0,
-            "tdo": 4112.0,
-            "ttw": 8.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Magmar",
-            "types": [
-              "Fire"
-            ],
-            "fast": "Karate Chop",
-            "charged": "Fire Blast",
-            "maxMove": "Max Knuckle",
-            "role": "tank",
-            "dps": 213.5,
-            "tdo": 1708.0,
-            "ttw": 8.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Passimian",
-            "types": [
-              "Fighting"
-            ],
-            "fast": "Counter",
-            "charged": "Close Combat",
-            "maxMove": "Max Knuckle",
-            "role": "tank",
-            "dps": 487.3,
-            "tdo": 4142.0,
-            "ttw": 8.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          }
-        ],
-        "dodging": [
-          {
-            "name": "Darmanitan (Standard)",
-            "types": [
-              "Fire"
-            ],
-            "fast": "Incinerate",
-            "charged": "Overheat",
-            "maxMove": "Max Flare",
-            "role": "attacker",
-            "dps": 842.4,
-            "tdo": 4633.0,
-            "ttw": 5.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Cinderace",
-            "types": [
-              "Fire"
-            ],
-            "fast": "Fire Spin",
-            "charged": "Blast Burn",
-            "maxMove": "G-Max Fireball",
-            "role": "tank",
-            "dps": 312.0,
-            "tdo": 1872.0,
-            "ttw": 6.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Charizard",
-            "types": [
-              "Fire",
-              "Flying"
-            ],
-            "fast": "Fire Spin",
-            "charged": "Blast Burn",
-            "maxMove": "G-Max Wildfire",
-            "role": "tank",
-            "dps": 293.8,
-            "tdo": 1763.0,
-            "ttw": 6.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Excadrill",
-            "types": [
-              "Ground",
-              "Steel"
-            ],
-            "fast": "Mud Slap",
-            "charged": "Earthquake",
-            "maxMove": "Max Quake",
-            "role": "attacker",
-            "dps": 690.8,
-            "tdo": 4490.0,
-            "ttw": 6.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Machamp",
-            "types": [
-              "Fighting"
-            ],
-            "fast": "Counter",
-            "charged": "Close Combat",
-            "maxMove": "G-Max Chi Strike",
-            "role": "attacker",
-            "dps": 687.1,
-            "tdo": 5153.0,
-            "ttw": 7.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Moltres",
-            "types": [
-              "Fire",
-              "Flying"
-            ],
-            "fast": "Fire Spin",
-            "charged": "Overheat",
-            "maxMove": "Max Flare",
-            "role": "attacker",
-            "dps": 602.3,
-            "tdo": 4517.0,
-            "ttw": 7.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Flareon",
-            "types": [
-              "Fire"
-            ],
-            "fast": "Fire Spin",
-            "charged": "Fire Blast",
-            "maxMove": "Max Flare",
-            "role": "attacker",
-            "dps": 590.4,
-            "tdo": 4428.0,
-            "ttw": 7.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Darmanitan (Galarian Standard)",
-            "types": [
-              "Ice"
-            ],
-            "fast": "Ice Fang",
-            "charged": "Overheat",
-            "maxMove": "Max Hailstorm",
-            "role": "tank",
-            "dps": 236.7,
-            "tdo": 1775.0,
-            "ttw": 7.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Rhyperior",
-            "types": [
-              "Ground",
-              "Rock"
-            ],
-            "fast": "Mud Slap",
-            "charged": "Skull Bash",
-            "maxMove": "Max Quake",
-            "role": "healer",
-            "dps": 554.9,
-            "tdo": 4439.0,
-            "ttw": 8.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Rhydon",
-            "types": [
-              "Ground",
-              "Rock"
-            ],
-            "fast": "Mud Slap",
-            "charged": "Earthquake",
-            "maxMove": "Max Quake",
-            "role": "healer",
-            "dps": 514.0,
-            "tdo": 4112.0,
-            "ttw": 8.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Magmar",
-            "types": [
-              "Fire"
-            ],
-            "fast": "Karate Chop",
-            "charged": "Fire Blast",
-            "maxMove": "Max Knuckle",
-            "role": "tank",
-            "dps": 213.5,
-            "tdo": 1708.0,
-            "ttw": 8.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Passimian",
-            "types": [
-              "Fighting"
-            ],
-            "fast": "Counter",
-            "charged": "Close Combat",
-            "maxMove": "Max Knuckle",
-            "role": "tank",
-            "dps": 487.3,
-            "tdo": 4142.0,
-            "ttw": 8.5,
-            "faints": 0,
-            "survivalRate": 100.0
-          }
-        ],
-        "team_composition": {
-          "standard": {
-            "min_players_needed": 1,
-            "strategy_label": "1 Attacker + 1 Tank + 1 Healer",
-            "slot1": {
-              "name": "Darmanitan (Standard)",
-              "types": [
-                "Fire"
-              ],
-              "role": "attacker",
-              "fast": "Incinerate",
-              "charged": "Psychic",
-              "maxMove": "Max Flare",
-              "dps": 842.4,
-              "tdo": 4633.0
-            },
-            "slot2": {
-              "name": "Cinderace",
-              "types": [
-                "Fire"
-              ],
-              "role": "tank",
-              "fast": "Fire Spin",
-              "charged": "Blast Burn",
-              "maxMove": "G-Max Fireball",
-              "dps": 312.0,
-              "tdo": 1872.0
-            },
-            "slot3": {
-              "name": "Rhyperior",
-              "types": [
-                "Ground",
-                "Rock"
-              ],
-              "role": "healer",
-              "fast": "Mud Slap",
-              "charged": "Skull Bash",
-              "maxMove": "Max Quake",
-              "dps": 554.9,
-              "tdo": 4439.0
-            }
-          },
-          "dodging": {
-            "min_players_needed": 1,
-            "strategy_label": "1 Attacker + 1 Tank + 1 Healer",
-            "slot1": {
-              "name": "Darmanitan (Standard)",
-              "types": [
-                "Fire"
-              ],
-              "role": "attacker",
-              "fast": "Incinerate",
-              "charged": "Overheat",
-              "maxMove": "Max Flare",
-              "dps": 842.4,
-              "tdo": 4633.0
-            },
-            "slot2": {
-              "name": "Cinderace",
-              "types": [
-                "Fire"
-              ],
-              "role": "tank",
-              "fast": "Fire Spin",
-              "charged": "Blast Burn",
-              "maxMove": "G-Max Fireball",
-              "dps": 312.0,
-              "tdo": 1872.0
-            },
-            "slot3": {
-              "name": "Rhyperior",
-              "types": [
-                "Ground",
-                "Rock"
-              ],
-              "role": "healer",
-              "fast": "Mud Slap",
-              "charged": "Skull Bash",
-              "maxMove": "Max Quake",
-              "dps": 554.9,
-              "tdo": 4439.0
             }
           }
         }
@@ -48107,957 +46228,6 @@
               "maxMove": "G-Max Vine Lash",
               "dps": 350.2,
               "tdo": 1751.0
-            }
-          }
-        }
-      }
-    },
-    "Palkia": {
-      "types": [
-        "Water",
-        "Dragon"
-      ],
-      "tier": "D-Max T5",
-      "cpStandard": 2280,
-      "cpBoosted": 2850,
-      "strategy_guide": "Palkia is a Water/Dragon-type Max Battle boss. Build a team of strong Max Attackers with super-effective Max Moves. Coordinate Max Meter charging with fast attacks, swap to a defensive tank when targeted, and unleash Max Phase attacks.",
-      "l40": {
-        "standard": [
-          {
-            "name": "Dialga (Origin)",
-            "types": [
-              "Steel",
-              "Dragon"
-            ],
-            "fast": "Dragon Breath",
-            "charged": "Roar Of Time",
-            "maxMove": "Max Wyrmwind",
-            "role": "attacker",
-            "dps": 61.1,
-            "tdo": 5911.0,
-            "ttw": 98.6,
-            "faints": 2,
-            "survivalRate": 94.0
-          },
-          {
-            "name": "Gardevoir",
-            "types": [
-              "Psychic",
-              "Fairy"
-            ],
-            "fast": "Charm",
-            "charged": "Synchronoise",
-            "maxMove": "Max Starfall",
-            "role": "tank",
-            "dps": 34.5,
-            "tdo": 4936.0,
-            "ttw": 175.1,
-            "faints": 1,
-            "survivalRate": 52.0
-          },
-          {
-            "name": "Sylveon",
-            "types": [
-              "Fairy"
-            ],
-            "fast": "Fairy Wind",
-            "charged": "Moonblast",
-            "maxMove": "Max Starfall",
-            "role": "tank",
-            "dps": 33.0,
-            "tdo": 5978.0,
-            "ttw": 180.9,
-            "faints": 1,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Zacian (Hero)",
-            "types": [
-              "Fairy"
-            ],
-            "fast": "Snarl",
-            "charged": "Play Rough",
-            "maxMove": "Max Darkness",
-            "role": "tank",
-            "dps": 26.5,
-            "tdo": 5885.0,
-            "ttw": 223.3,
-            "faints": 1,
-            "survivalRate": 96.0
-          },
-          {
-            "name": "Dialga",
-            "types": [
-              "Steel",
-              "Dragon"
-            ],
-            "fast": "Dragon Breath",
-            "charged": "Draco Meteor",
-            "maxMove": "Max Wyrmwind",
-            "role": "attacker",
-            "dps": 59.6,
-            "tdo": 4419.0,
-            "ttw": 110.3,
-            "faints": 1,
-            "survivalRate": 36.0
-          },
-          {
-            "name": "Palkia (Origin)",
-            "types": [
-              "Water",
-              "Dragon"
-            ],
-            "fast": "Dragon Breath",
-            "charged": "Draco Meteor",
-            "maxMove": "Max Wyrmwind",
-            "role": "attacker",
-            "dps": 61.4,
-            "tdo": 4660.0,
-            "ttw": 128.4,
-            "faints": 3,
-            "survivalRate": 18.0
-          },
-          {
-            "name": "Metagross",
-            "types": [
-              "Steel",
-              "Psychic"
-            ],
-            "fast": "Shadow Claw",
-            "charged": "Psychic",
-            "maxMove": "Max Phantasm",
-            "role": "tank",
-            "dps": 29.6,
-            "tdo": 5139.0,
-            "ttw": 231.8,
-            "faints": 3,
-            "survivalRate": 18.0
-          },
-          {
-            "name": "Eternatus",
-            "types": [
-              "Poison",
-              "Dragon"
-            ],
-            "fast": "Dragon Tail",
-            "charged": "Dynamax Cannon",
-            "maxMove": "Dynamax Cannon",
-            "role": "attacker",
-            "dps": 54.4,
-            "tdo": 4610.0,
-            "ttw": 142.6,
-            "faints": 3,
-            "survivalRate": 16.0
-          },
-          {
-            "name": "Palkia",
-            "types": [
-              "Water",
-              "Dragon"
-            ],
-            "fast": "Dragon Breath",
-            "charged": "Hydro Pump",
-            "maxMove": "Max Wyrmwind",
-            "role": "attacker",
-            "dps": 56.4,
-            "tdo": 4383.0,
-            "ttw": 140.4,
-            "faints": 3,
-            "survivalRate": 14.0
-          },
-          {
-            "name": "Latias",
-            "types": [
-              "Dragon",
-              "Psychic"
-            ],
-            "fast": "Dragon Breath",
-            "charged": "Mist Ball",
-            "maxMove": "Max Wyrmwind",
-            "role": "attacker",
-            "dps": 50.0,
-            "tdo": 4324.0,
-            "ttw": 152.9,
-            "faints": 3,
-            "survivalRate": 14.0
-          },
-          {
-            "name": "Excadrill",
-            "types": [
-              "Ground",
-              "Steel"
-            ],
-            "fast": "Mud Shot",
-            "charged": "Earthquake",
-            "maxMove": "Max Quake",
-            "role": "attacker",
-            "dps": 33.7,
-            "tdo": 4419.0,
-            "ttw": 212.5,
-            "faints": 3,
-            "survivalRate": 8.0
-          },
-          {
-            "name": "Snorlax",
-            "types": [
-              "Normal"
-            ],
-            "fast": "Psywave",
-            "charged": "Skull Bash",
-            "maxMove": "G-Max Replenish",
-            "role": "tank",
-            "dps": 31.1,
-            "tdo": 4519.0,
-            "ttw": 227.6,
-            "faints": 3,
-            "survivalRate": 8.0
-          }
-        ],
-        "dodging": [
-          {
-            "name": "Dialga",
-            "types": [
-              "Steel",
-              "Dragon"
-            ],
-            "fast": "Dragon Breath",
-            "charged": "Draco Meteor",
-            "maxMove": "Max Wyrmwind",
-            "role": "attacker",
-            "dps": 49.6,
-            "tdo": 8856.0,
-            "ttw": 178.5,
-            "faints": 2,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Dialga (Origin)",
-            "types": [
-              "Steel",
-              "Dragon"
-            ],
-            "fast": "Dragon Breath",
-            "charged": "Roar Of Time",
-            "maxMove": "Max Wyrmwind",
-            "role": "attacker",
-            "dps": 45.9,
-            "tdo": 8867.0,
-            "ttw": 193.0,
-            "faints": 2,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Gardevoir",
-            "types": [
-              "Psychic",
-              "Fairy"
-            ],
-            "fast": "Charm",
-            "charged": "Dazzling Gleam",
-            "maxMove": "Max Starfall",
-            "role": "attacker",
-            "dps": 28.9,
-            "tdo": 8819.0,
-            "ttw": 305.4,
-            "faints": 1,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Sylveon",
-            "types": [
-              "Fairy"
-            ],
-            "fast": "Fairy Wind",
-            "charged": "Moonblast",
-            "maxMove": "Max Starfall",
-            "role": "attacker",
-            "dps": 26.7,
-            "tdo": 8825.0,
-            "ttw": 330.4,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Excadrill",
-            "types": [
-              "Ground",
-              "Steel"
-            ],
-            "fast": "Mud Shot",
-            "charged": "Earthquake",
-            "maxMove": "Max Quake",
-            "role": "attacker",
-            "dps": 23.5,
-            "tdo": 8524.0,
-            "ttw": 376.6,
-            "faints": 2,
-            "survivalRate": 56.0
-          },
-          {
-            "name": "Zacian (Hero)",
-            "types": [
-              "Fairy"
-            ],
-            "fast": "Quick Attack",
-            "charged": "Play Rough",
-            "maxMove": "Max Strike",
-            "role": "tank",
-            "dps": 22.5,
-            "tdo": 8808.0,
-            "ttw": 392.0,
-            "faints": 1,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Metagross",
-            "types": [
-              "Steel",
-              "Psychic"
-            ],
-            "fast": "Shadow Claw",
-            "charged": "Psychic",
-            "maxMove": "Max Phantasm",
-            "role": "tank",
-            "dps": 20.1,
-            "tdo": 8340.0,
-            "ttw": 473.9,
-            "faints": 3,
-            "survivalRate": 6.0
-          },
-          {
-            "name": "Eternatus",
-            "types": [
-              "Poison",
-              "Dragon"
-            ],
-            "fast": "Dragon Tail",
-            "charged": "Dynamax Cannon",
-            "maxMove": "Dynamax Cannon",
-            "role": "attacker",
-            "dps": 46.4,
-            "tdo": 7518.0,
-            "ttw": 232.0,
-            "faints": 3,
-            "survivalRate": 4.0
-          },
-          {
-            "name": "Snorlax",
-            "types": [
-              "Normal"
-            ],
-            "fast": "Psywave",
-            "charged": "Skull Bash",
-            "maxMove": "G-Max Replenish",
-            "role": "tank",
-            "dps": 18.9,
-            "tdo": 7423.0,
-            "ttw": 502.4,
-            "faints": 3,
-            "survivalRate": 4.0
-          },
-          {
-            "name": "Rhyperior",
-            "types": [
-              "Ground",
-              "Rock"
-            ],
-            "fast": "Smack Down",
-            "charged": "Breaking Swipe",
-            "maxMove": "Max Rockfall",
-            "role": "tank",
-            "dps": 22.4,
-            "tdo": 7878.0,
-            "ttw": 435.1,
-            "faints": 3,
-            "survivalRate": 0.0
-          },
-          {
-            "name": "Venusaur",
-            "types": [
-              "Grass",
-              "Poison"
-            ],
-            "fast": "Vine Whip",
-            "charged": "Petal Blizzard",
-            "maxMove": "G-Max Vine Lash",
-            "role": "tank",
-            "dps": 21.7,
-            "tdo": 7239.0,
-            "ttw": 448.4,
-            "faints": 3,
-            "survivalRate": 0.0
-          },
-          {
-            "name": "Gigalith",
-            "types": [
-              "Rock"
-            ],
-            "fast": "Lock On",
-            "charged": "Meteor Beam",
-            "maxMove": "Max Strike",
-            "role": "attacker",
-            "dps": 20.2,
-            "tdo": 6929.0,
-            "ttw": 478.4,
-            "faints": 3,
-            "survivalRate": 0.0
-          }
-        ],
-        "team_composition": {
-          "standard": {
-            "min_players_needed": 3,
-            "strategy_label": "2 Attackers + 1 Tank",
-            "slot1": {
-              "name": "Dialga (Origin)",
-              "types": [
-                "Steel",
-                "Dragon"
-              ],
-              "role": "attacker",
-              "fast": "Dragon Breath",
-              "charged": "Roar Of Time",
-              "maxMove": "Max Wyrmwind",
-              "dps": 61.1,
-              "tdo": 5911.0
-            },
-            "slot2": {
-              "name": "Dialga",
-              "types": [
-                "Steel",
-                "Dragon"
-              ],
-              "role": "attacker",
-              "fast": "Dragon Breath",
-              "charged": "Draco Meteor",
-              "maxMove": "Max Wyrmwind",
-              "dps": 59.6,
-              "tdo": 4419.0
-            },
-            "slot3": {
-              "name": "Gardevoir",
-              "types": [
-                "Psychic",
-                "Fairy"
-              ],
-              "role": "tank",
-              "fast": "Charm",
-              "charged": "Synchronoise",
-              "maxMove": "Max Starfall",
-              "dps": 34.5,
-              "tdo": 4936.0
-            }
-          },
-          "dodging": {
-            "min_players_needed": 2,
-            "strategy_label": "2 Attackers + 1 Tank",
-            "slot1": {
-              "name": "Dialga",
-              "types": [
-                "Steel",
-                "Dragon"
-              ],
-              "role": "attacker",
-              "fast": "Dragon Breath",
-              "charged": "Draco Meteor",
-              "maxMove": "Max Wyrmwind",
-              "dps": 49.6,
-              "tdo": 8856.0
-            },
-            "slot2": {
-              "name": "Dialga (Origin)",
-              "types": [
-                "Steel",
-                "Dragon"
-              ],
-              "role": "attacker",
-              "fast": "Dragon Breath",
-              "charged": "Roar Of Time",
-              "maxMove": "Max Wyrmwind",
-              "dps": 45.9,
-              "tdo": 8867.0
-            },
-            "slot3": {
-              "name": "Zacian (Hero)",
-              "types": [
-                "Fairy"
-              ],
-              "role": "tank",
-              "fast": "Quick Attack",
-              "charged": "Play Rough",
-              "maxMove": "Max Strike",
-              "dps": 22.5,
-              "tdo": 8808.0
-            }
-          }
-        }
-      },
-      "l50": {
-        "standard": [
-          {
-            "name": "Dialga (Origin)",
-            "types": [
-              "Steel",
-              "Dragon"
-            ],
-            "fast": "Dragon Breath",
-            "charged": "Roar Of Time",
-            "maxMove": "Max Wyrmwind",
-            "role": "attacker",
-            "dps": 70.0,
-            "tdo": 5955.0,
-            "ttw": 85.1,
-            "faints": 1,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Dialga",
-            "types": [
-              "Steel",
-              "Dragon"
-            ],
-            "fast": "Dragon Breath",
-            "charged": "Draco Meteor",
-            "maxMove": "Max Wyrmwind",
-            "role": "attacker",
-            "dps": 66.6,
-            "tdo": 5919.0,
-            "ttw": 92.3,
-            "faints": 1,
-            "survivalRate": 84.0
-          },
-          {
-            "name": "Palkia (Origin)",
-            "types": [
-              "Water",
-              "Dragon"
-            ],
-            "fast": "Dragon Breath",
-            "charged": "Fire Blast",
-            "maxMove": "Max Wyrmwind",
-            "role": "attacker",
-            "dps": 62.9,
-            "tdo": 5185.0,
-            "ttw": 108.1,
-            "faints": 2,
-            "survivalRate": 52.0
-          },
-          {
-            "name": "Gardevoir",
-            "types": [
-              "Psychic",
-              "Fairy"
-            ],
-            "fast": "Charm",
-            "charged": "Synchronoise",
-            "maxMove": "Max Starfall",
-            "role": "tank",
-            "dps": 37.5,
-            "tdo": 5976.0,
-            "ttw": 159.2,
-            "faints": 1,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Sylveon",
-            "types": [
-              "Fairy"
-            ],
-            "fast": "Charm",
-            "charged": "Dazzling Gleam",
-            "maxMove": "Max Starfall",
-            "role": "tank",
-            "dps": 34.4,
-            "tdo": 5899.0,
-            "ttw": 171.5,
-            "faints": 1,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Metagross",
-            "types": [
-              "Steel",
-              "Psychic"
-            ],
-            "fast": "Shadow Claw",
-            "charged": "Flash Cannon",
-            "maxMove": "Max Phantasm",
-            "role": "tank",
-            "dps": 32.4,
-            "tdo": 5650.0,
-            "ttw": 186.8,
-            "faints": 2,
-            "survivalRate": 74.0
-          },
-          {
-            "name": "Zacian (Hero)",
-            "types": [
-              "Fairy"
-            ],
-            "fast": "Snarl",
-            "charged": "Play Rough",
-            "maxMove": "Max Darkness",
-            "role": "tank",
-            "dps": 29.1,
-            "tdo": 5847.0,
-            "ttw": 200.6,
-            "faints": 1,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Palkia",
-            "types": [
-              "Water",
-              "Dragon"
-            ],
-            "fast": "Dragon Breath",
-            "charged": "Draco Meteor",
-            "maxMove": "Max Wyrmwind",
-            "role": "attacker",
-            "dps": 64.9,
-            "tdo": 5207.0,
-            "ttw": 112.0,
-            "faints": 3,
-            "survivalRate": 40.0
-          },
-          {
-            "name": "Eternatus",
-            "types": [
-              "Poison",
-              "Dragon"
-            ],
-            "fast": "Dragon Tail",
-            "charged": "Dynamax Cannon",
-            "maxMove": "Dynamax Cannon",
-            "role": "tank",
-            "dps": 57.7,
-            "tdo": 5128.0,
-            "ttw": 128.7,
-            "faints": 3,
-            "survivalRate": 32.0
-          },
-          {
-            "name": "Snorlax",
-            "types": [
-              "Normal"
-            ],
-            "fast": "Lick",
-            "charged": "Skull Bash",
-            "maxMove": "G-Max Replenish",
-            "role": "tank",
-            "dps": 34.6,
-            "tdo": 5195.0,
-            "ttw": 194.3,
-            "faints": 3,
-            "survivalRate": 32.0
-          },
-          {
-            "name": "Latias",
-            "types": [
-              "Dragon",
-              "Psychic"
-            ],
-            "fast": "Dragon Breath",
-            "charged": "Thunder",
-            "maxMove": "Max Wyrmwind",
-            "role": "attacker",
-            "dps": 52.9,
-            "tdo": 4941.0,
-            "ttw": 137.8,
-            "faints": 3,
-            "survivalRate": 30.0
-          },
-          {
-            "name": "Latios",
-            "types": [
-              "Dragon",
-              "Psychic"
-            ],
-            "fast": "Dragon Breath",
-            "charged": "Aura Sphere",
-            "maxMove": "Max Wyrmwind",
-            "role": "attacker",
-            "dps": 59.2,
-            "tdo": 4846.0,
-            "ttw": 125.9,
-            "faints": 3,
-            "survivalRate": 28.0
-          }
-        ],
-        "dodging": [
-          {
-            "name": "Dialga",
-            "types": [
-              "Steel",
-              "Dragon"
-            ],
-            "fast": "Dragon Breath",
-            "charged": "Draco Meteor",
-            "maxMove": "Max Wyrmwind",
-            "role": "attacker",
-            "dps": 45.1,
-            "tdo": 8892.0,
-            "ttw": 197.3,
-            "faints": 2,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Dialga (Origin)",
-            "types": [
-              "Steel",
-              "Dragon"
-            ],
-            "fast": "Dragon Breath",
-            "charged": "Roar Of Time",
-            "maxMove": "Max Wyrmwind",
-            "role": "attacker",
-            "dps": 41.8,
-            "tdo": 8859.0,
-            "ttw": 212.0,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Latias",
-            "types": [
-              "Dragon",
-              "Psychic"
-            ],
-            "fast": "Dragon Breath",
-            "charged": "Mist Ball",
-            "maxMove": "Max Wyrmwind",
-            "role": "attacker",
-            "dps": 36.6,
-            "tdo": 8409.0,
-            "ttw": 257.9,
-            "faints": 2,
-            "survivalRate": 62.0
-          },
-          {
-            "name": "Sylveon",
-            "types": [
-              "Fairy"
-            ],
-            "fast": "Fairy Wind",
-            "charged": "Moonblast",
-            "maxMove": "Max Starfall",
-            "role": "attacker",
-            "dps": 29.4,
-            "tdo": 8868.0,
-            "ttw": 301.9,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Gardevoir",
-            "types": [
-              "Psychic",
-              "Fairy"
-            ],
-            "fast": "Charm",
-            "charged": "Dazzling Gleam",
-            "maxMove": "Max Starfall",
-            "role": "attacker",
-            "dps": 29.2,
-            "tdo": 8838.0,
-            "ttw": 302.4,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Zapdos",
-            "types": [
-              "Electric",
-              "Flying"
-            ],
-            "fast": "Thunder Shock",
-            "charged": "Zap Cannon",
-            "maxMove": "Max Lightning",
-            "role": "attacker",
-            "dps": 25.1,
-            "tdo": 8768.0,
-            "ttw": 351.6,
-            "faints": 2,
-            "survivalRate": 82.0
-          },
-          {
-            "name": "Zacian (Hero)",
-            "types": [
-              "Fairy"
-            ],
-            "fast": "Snarl",
-            "charged": "Play Rough",
-            "maxMove": "Max Darkness",
-            "role": "tank",
-            "dps": 24.6,
-            "tdo": 8815.0,
-            "ttw": 357.9,
-            "faints": 0,
-            "survivalRate": 100.0
-          },
-          {
-            "name": "Rhyperior",
-            "types": [
-              "Ground",
-              "Rock"
-            ],
-            "fast": "Smack Down",
-            "charged": "Breaking Swipe",
-            "maxMove": "Max Rockfall",
-            "role": "tank",
-            "dps": 25.1,
-            "tdo": 8425.0,
-            "ttw": 360.0,
-            "faints": 2,
-            "survivalRate": 68.0
-          },
-          {
-            "name": "Excadrill",
-            "types": [
-              "Ground",
-              "Steel"
-            ],
-            "fast": "Mud Shot",
-            "charged": "Scorching Sands",
-            "maxMove": "Max Quake",
-            "role": "attacker",
-            "dps": 23.9,
-            "tdo": 8602.0,
-            "ttw": 366.4,
-            "faints": 2,
-            "survivalRate": 60.0
-          },
-          {
-            "name": "Venusaur",
-            "types": [
-              "Grass",
-              "Poison"
-            ],
-            "fast": "Vine Whip",
-            "charged": "Petal Blizzard",
-            "maxMove": "G-Max Vine Lash",
-            "role": "tank",
-            "dps": 24.7,
-            "tdo": 8297.0,
-            "ttw": 367.9,
-            "faints": 2,
-            "survivalRate": 52.0
-          },
-          {
-            "name": "Metagross",
-            "types": [
-              "Steel",
-              "Psychic"
-            ],
-            "fast": "Zen Headbutt",
-            "charged": "Psychic",
-            "maxMove": "Max Mindstorm",
-            "role": "tank",
-            "dps": 22.9,
-            "tdo": 8598.0,
-            "ttw": 387.6,
-            "faints": 3,
-            "survivalRate": 50.0
-          },
-          {
-            "name": "Snorlax",
-            "types": [
-              "Normal"
-            ],
-            "fast": "Lick",
-            "charged": "Outrage",
-            "maxMove": "G-Max Replenish",
-            "role": "tank",
-            "dps": 22.9,
-            "tdo": 8512.0,
-            "ttw": 386.5,
-            "faints": 3,
-            "survivalRate": 46.0
-          }
-        ],
-        "team_composition": {
-          "standard": {
-            "min_players_needed": 3,
-            "strategy_label": "2 Attackers + 1 Tank",
-            "slot1": {
-              "name": "Dialga (Origin)",
-              "types": [
-                "Steel",
-                "Dragon"
-              ],
-              "role": "attacker",
-              "fast": "Dragon Breath",
-              "charged": "Roar Of Time",
-              "maxMove": "Max Wyrmwind",
-              "dps": 70.0,
-              "tdo": 5955.0
-            },
-            "slot2": {
-              "name": "Dialga",
-              "types": [
-                "Steel",
-                "Dragon"
-              ],
-              "role": "attacker",
-              "fast": "Dragon Breath",
-              "charged": "Draco Meteor",
-              "maxMove": "Max Wyrmwind",
-              "dps": 66.6,
-              "tdo": 5919.0
-            },
-            "slot3": {
-              "name": "Gardevoir",
-              "types": [
-                "Psychic",
-                "Fairy"
-              ],
-              "role": "tank",
-              "fast": "Charm",
-              "charged": "Synchronoise",
-              "maxMove": "Max Starfall",
-              "dps": 37.5,
-              "tdo": 5976.0
-            }
-          },
-          "dodging": {
-            "min_players_needed": 2,
-            "strategy_label": "2 Attackers + 1 Tank",
-            "slot1": {
-              "name": "Dialga",
-              "types": [
-                "Steel",
-                "Dragon"
-              ],
-              "role": "attacker",
-              "fast": "Dragon Breath",
-              "charged": "Draco Meteor",
-              "maxMove": "Max Wyrmwind",
-              "dps": 45.1,
-              "tdo": 8892.0
-            },
-            "slot2": {
-              "name": "Dialga (Origin)",
-              "types": [
-                "Steel",
-                "Dragon"
-              ],
-              "role": "attacker",
-              "fast": "Dragon Breath",
-              "charged": "Roar Of Time",
-              "maxMove": "Max Wyrmwind",
-              "dps": 41.8,
-              "tdo": 8859.0
-            },
-            "slot3": {
-              "name": "Zacian (Hero)",
-              "types": [
-                "Fairy"
-              ],
-              "role": "tank",
-              "fast": "Snarl",
-              "charged": "Play Rough",
-              "maxMove": "Max Darkness",
-              "dps": 24.6,
-              "tdo": 8815.0
             }
           }
         }
