@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T20:20:36.402764Z",
+  "generated_at": "2026-11-22T04:02:33.013545Z",
   "bosses": {
     "Bulbasaur": {
       "types": [
@@ -673,10 +673,10 @@
             "survivalRate": 100.0
           },
           {
-            "name": "Hatterene",
+            "name": "Gallade",
             "types": [
               "Psychic",
-              "Fairy"
+              "Fighting"
             ],
             "fast": "Psycho Cut",
             "charged": "Psychic",
@@ -689,10 +689,10 @@
             "survivalRate": 100.0
           },
           {
-            "name": "Gallade",
+            "name": "Hatterene",
             "types": [
               "Psychic",
-              "Fighting"
+              "Fairy"
             ],
             "fast": "Psycho Cut",
             "charged": "Psychic",
@@ -8173,10 +8173,10 @@
             "survivalRate": 100.0
           },
           {
-            "name": "Gallade",
+            "name": "Gardevoir",
             "types": [
               "Psychic",
-              "Fighting"
+              "Fairy"
             ],
             "fast": "Confusion",
             "charged": "Psychic",
@@ -8205,10 +8205,10 @@
             "survivalRate": 100.0
           },
           {
-            "name": "Gardevoir",
+            "name": "Gallade",
             "types": [
               "Psychic",
-              "Fairy"
+              "Fighting"
             ],
             "fast": "Confusion",
             "charged": "Psychic",
@@ -8528,10 +8528,10 @@
             "survivalRate": 100.0
           },
           {
-            "name": "Gallade",
+            "name": "Hatterene",
             "types": [
               "Psychic",
-              "Fighting"
+              "Fairy"
             ],
             "fast": "Confusion",
             "charged": "Psychic",
@@ -8590,10 +8590,10 @@
             "survivalRate": 100.0
           },
           {
-            "name": "Hatterene",
+            "name": "Gallade",
             "types": [
               "Psychic",
-              "Fairy"
+              "Fighting"
             ],
             "fast": "Confusion",
             "charged": "Psychic",
@@ -8765,10 +8765,10 @@
             "survivalRate": 100.0
           },
           {
-            "name": "Gallade",
+            "name": "Hatterene",
             "types": [
               "Psychic",
-              "Fighting"
+              "Fairy"
             ],
             "fast": "Confusion",
             "charged": "Psychic",
@@ -8811,7 +8811,7 @@
             "survivalRate": 100.0
           },
           {
-            "name": "Hatterene",
+            "name": "Gardevoir",
             "types": [
               "Psychic",
               "Fairy"
@@ -8827,10 +8827,10 @@
             "survivalRate": 100.0
           },
           {
-            "name": "Gardevoir",
+            "name": "Gallade",
             "types": [
               "Psychic",
-              "Fairy"
+              "Fighting"
             ],
             "fast": "Confusion",
             "charged": "Psychic",
@@ -39201,6 +39201,1144 @@
               "maxMove": "Max Spirit",
               "dps": 51.0,
               "tdo": 10477.0
+            }
+          }
+        }
+      }
+    },
+    "Espurr": {
+      "types": [
+        "Psychic"
+      ],
+      "tier": "D-Max T1",
+      "cpStandard": 719,
+      "cpBoosted": 899,
+      "strategy_guide": "Espurr is a Psychic-type Max Battle boss. Build a team of strong Max Attackers with super-effective Max Moves. Coordinate Max Meter charging with fast attacks, swap to a defensive tank when targeted, and unleash Max Phase attacks.",
+      "l40": {
+        "standard": [
+          {
+            "name": "Gengar (G-Max)",
+            "types": [
+              "Ghost",
+              "Poison"
+            ],
+            "fast": "Hex",
+            "charged": "Shadow Ball",
+            "maxMove": "G-Max Terror",
+            "role": "attacker",
+            "dps": 178.2,
+            "tdo": 2600.0,
+            "ttw": 14.6,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Weavile",
+            "types": [
+              "Dark",
+              "Ice"
+            ],
+            "fast": "Snarl",
+            "charged": "Foul Play",
+            "maxMove": "Max Darkness",
+            "role": "attacker",
+            "dps": 134.4,
+            "tdo": 1990.0,
+            "ttw": 14.8,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Gengar",
+            "types": [
+              "Ghost",
+              "Poison"
+            ],
+            "fast": "Hex",
+            "charged": "Shadow Ball",
+            "maxMove": "Max Phantasm",
+            "role": "attacker",
+            "dps": 150.9,
+            "tdo": 2239.0,
+            "ttw": 14.8,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Metagross",
+            "types": [
+              "Steel",
+              "Psychic"
+            ],
+            "fast": "Fury Cutter",
+            "charged": "Meteor Mash",
+            "maxMove": "Max Flutterby / Max Guard",
+            "role": "tank",
+            "dps": 122.7,
+            "tdo": 2548.0,
+            "ttw": 20.8,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Blissey",
+            "types": [
+              "Normal"
+            ],
+            "fast": "Pound",
+            "charged": "Hyper Beam",
+            "maxMove": "Max Spirit",
+            "role": "healer",
+            "dps": 75.3,
+            "tdo": 2308.0,
+            "ttw": 30.7,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Hydreigon",
+            "types": [
+              "Dark",
+              "Dragon"
+            ],
+            "fast": "Bite",
+            "charged": "Brutal Swing",
+            "maxMove": "Max Darkness",
+            "role": "attacker",
+            "dps": 139.3,
+            "tdo": 2111.0,
+            "ttw": 15.2,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Haunter",
+            "types": [
+              "Ghost",
+              "Poison"
+            ],
+            "fast": "Lick",
+            "charged": "Shadow Ball",
+            "maxMove": "Max Phantasm",
+            "role": "attacker",
+            "dps": 125.7,
+            "tdo": 2013.0,
+            "ttw": 16.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Grimmsnarl (G-Max)",
+            "types": [
+              "Dark",
+              "Fairy"
+            ],
+            "fast": "Sucker Punch",
+            "charged": "Dark Pulse",
+            "maxMove": "G-Max Snooze",
+            "role": "attacker",
+            "dps": 136.1,
+            "tdo": 2236.0,
+            "ttw": 16.4,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Grimmsnarl",
+            "types": [
+              "Dark",
+              "Fairy"
+            ],
+            "fast": "Sucker Punch",
+            "charged": "Dark Pulse",
+            "maxMove": "Max Darkness",
+            "role": "attacker",
+            "dps": 114.3,
+            "tdo": 1919.0,
+            "ttw": 16.8,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Centiskorch",
+            "types": [
+              "Fire",
+              "Bug"
+            ],
+            "fast": "Bug Bite",
+            "charged": "Bug Buzz",
+            "maxMove": "Max Flutterby",
+            "role": "attacker",
+            "dps": 115.5,
+            "tdo": 1963.0,
+            "ttw": 17.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Registeel",
+            "types": [
+              "Steel"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Flash Cannon",
+            "maxMove": "Max Guard",
+            "role": "tank",
+            "dps": 62.6,
+            "tdo": 2284.0,
+            "ttw": 36.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Chansey",
+            "types": [
+              "Normal"
+            ],
+            "fast": "Pound",
+            "charged": "Hyper Beam",
+            "maxMove": "Max Spirit",
+            "role": "healer",
+            "dps": 49.6,
+            "tdo": 2023.0,
+            "ttw": 40.8,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Urshifu (Single Strike G-Max)",
+            "types": [
+              "Fighting",
+              "Dark"
+            ],
+            "fast": "Sucker Punch",
+            "charged": "Payback",
+            "maxMove": "G-Max One Blow",
+            "role": "attacker",
+            "dps": 136.7,
+            "tdo": 2349.0,
+            "ttw": 17.2,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Urshifu (Single Strike)",
+            "types": [
+              "Fighting",
+              "Dark"
+            ],
+            "fast": "Sucker Punch",
+            "charged": "Payback",
+            "maxMove": "Max Darkness",
+            "role": "attacker",
+            "dps": 114.0,
+            "tdo": 1997.0,
+            "ttw": 17.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Zamazenta (Hero)",
+            "types": [
+              "Fighting"
+            ],
+            "fast": "Snarl",
+            "charged": "Crunch",
+            "maxMove": "Max Darkness",
+            "role": "attacker",
+            "dps": 100.0,
+            "tdo": 1899.0,
+            "ttw": 19.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          }
+        ],
+        "dodging": [
+          {
+            "name": "Gengar (G-Max)",
+            "types": [
+              "Ghost",
+              "Poison"
+            ],
+            "fast": "Hex",
+            "charged": "Shadow Ball",
+            "maxMove": "G-Max Terror",
+            "role": "attacker",
+            "dps": 199.6,
+            "tdo": 2578.0,
+            "ttw": 12.9,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Gengar",
+            "types": [
+              "Ghost",
+              "Poison"
+            ],
+            "fast": "Hex",
+            "charged": "Shadow Ball",
+            "maxMove": "Max Phantasm",
+            "role": "attacker",
+            "dps": 168.2,
+            "tdo": 2217.0,
+            "ttw": 13.2,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Hydreigon",
+            "types": [
+              "Dark",
+              "Dragon"
+            ],
+            "fast": "Bite",
+            "charged": "Brutal Swing",
+            "maxMove": "Max Darkness",
+            "role": "attacker",
+            "dps": 149.2,
+            "tdo": 2083.0,
+            "ttw": 14.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Metagross",
+            "types": [
+              "Steel",
+              "Psychic"
+            ],
+            "fast": "Fury Cutter",
+            "charged": "Meteor Mash",
+            "maxMove": "Max Flutterby / Max Guard",
+            "role": "tank",
+            "dps": 135.1,
+            "tdo": 2521.0,
+            "ttw": 18.7,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Blissey",
+            "types": [
+              "Normal"
+            ],
+            "fast": "Pound",
+            "charged": "Hyper Beam",
+            "maxMove": "Max Spirit",
+            "role": "healer",
+            "dps": 80.5,
+            "tdo": 2291.0,
+            "ttw": 28.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Haunter",
+            "types": [
+              "Ghost",
+              "Poison"
+            ],
+            "fast": "Lick",
+            "charged": "Shadow Ball",
+            "maxMove": "Max Phantasm",
+            "role": "attacker",
+            "dps": 141.8,
+            "tdo": 1985.0,
+            "ttw": 14.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Weavile",
+            "types": [
+              "Dark",
+              "Ice"
+            ],
+            "fast": "Snarl",
+            "charged": "Foul Play",
+            "maxMove": "Max Darkness",
+            "role": "attacker",
+            "dps": 138.8,
+            "tdo": 1986.0,
+            "ttw": 14.3,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Grimmsnarl (G-Max)",
+            "types": [
+              "Dark",
+              "Fairy"
+            ],
+            "fast": "Sucker Punch",
+            "charged": "Dark Pulse",
+            "maxMove": "G-Max Snooze",
+            "role": "attacker",
+            "dps": 152.1,
+            "tdo": 2204.0,
+            "ttw": 14.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Centiskorch",
+            "types": [
+              "Fire",
+              "Bug"
+            ],
+            "fast": "Bug Bite",
+            "charged": "Bug Buzz",
+            "maxMove": "Max Flutterby",
+            "role": "attacker",
+            "dps": 131.6,
+            "tdo": 1929.0,
+            "ttw": 14.7,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Grimmsnarl",
+            "types": [
+              "Dark",
+              "Fairy"
+            ],
+            "fast": "Sucker Punch",
+            "charged": "Dark Pulse",
+            "maxMove": "Max Darkness",
+            "role": "attacker",
+            "dps": 127.0,
+            "tdo": 1887.0,
+            "ttw": 14.9,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Registeel",
+            "types": [
+              "Steel"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Flash Cannon",
+            "maxMove": "Max Guard",
+            "role": "tank",
+            "dps": 67.3,
+            "tdo": 2284.0,
+            "ttw": 33.9,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Chansey",
+            "types": [
+              "Normal"
+            ],
+            "fast": "Pound",
+            "charged": "Hyper Beam",
+            "maxMove": "Max Spirit",
+            "role": "healer",
+            "dps": 54.1,
+            "tdo": 2062.0,
+            "ttw": 38.1,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Urshifu (Single Strike G-Max)",
+            "types": [
+              "Fighting",
+              "Dark"
+            ],
+            "fast": "Sucker Punch",
+            "charged": "Payback",
+            "maxMove": "G-Max One Blow",
+            "role": "attacker",
+            "dps": 148.2,
+            "tdo": 2349.0,
+            "ttw": 15.9,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Urshifu (Single Strike)",
+            "types": [
+              "Fighting",
+              "Dark"
+            ],
+            "fast": "Sucker Punch",
+            "charged": "Payback",
+            "maxMove": "Max Darkness",
+            "role": "attacker",
+            "dps": 123.3,
+            "tdo": 1997.0,
+            "ttw": 16.2,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Zamazenta (Hero)",
+            "types": [
+              "Fighting"
+            ],
+            "fast": "Snarl",
+            "charged": "Crunch",
+            "maxMove": "Max Darkness",
+            "role": "attacker",
+            "dps": 111.2,
+            "tdo": 1859.0,
+            "ttw": 16.7,
+            "faints": 0,
+            "survivalRate": 100.0
+          }
+        ],
+        "team_composition": {
+          "standard": {
+            "min_players_needed": 1,
+            "strategy_label": "1 Attacker + 1 Tank + 1 Healer",
+            "slot1": {
+              "name": "Gengar (G-Max)",
+              "types": [
+                "Ghost",
+                "Poison"
+              ],
+              "role": "attacker",
+              "fast": "Hex",
+              "charged": "Shadow Ball",
+              "maxMove": "G-Max Terror",
+              "dps": 178.2,
+              "tdo": 2600.0
+            },
+            "slot2": {
+              "name": "Metagross",
+              "types": [
+                "Steel",
+                "Psychic"
+              ],
+              "role": "tank",
+              "fast": "Fury Cutter",
+              "charged": "Meteor Mash",
+              "maxMove": "Max Flutterby / Max Guard",
+              "dps": 122.7,
+              "tdo": 2548.0
+            },
+            "slot3": {
+              "name": "Blissey",
+              "types": [
+                "Normal"
+              ],
+              "role": "healer",
+              "fast": "Pound",
+              "charged": "Hyper Beam",
+              "maxMove": "Max Spirit",
+              "dps": 75.3,
+              "tdo": 2308.0
+            }
+          },
+          "dodging": {
+            "min_players_needed": 1,
+            "strategy_label": "1 Attacker + 1 Tank + 1 Healer",
+            "slot1": {
+              "name": "Gengar (G-Max)",
+              "types": [
+                "Ghost",
+                "Poison"
+              ],
+              "role": "attacker",
+              "fast": "Hex",
+              "charged": "Shadow Ball",
+              "maxMove": "G-Max Terror",
+              "dps": 199.6,
+              "tdo": 2578.0
+            },
+            "slot2": {
+              "name": "Metagross",
+              "types": [
+                "Steel",
+                "Psychic"
+              ],
+              "role": "tank",
+              "fast": "Fury Cutter",
+              "charged": "Meteor Mash",
+              "maxMove": "Max Flutterby / Max Guard",
+              "dps": 135.1,
+              "tdo": 2521.0
+            },
+            "slot3": {
+              "name": "Blissey",
+              "types": [
+                "Normal"
+              ],
+              "role": "healer",
+              "fast": "Pound",
+              "charged": "Hyper Beam",
+              "maxMove": "Max Spirit",
+              "dps": 80.5,
+              "tdo": 2291.0
+            }
+          }
+        }
+      },
+      "l50": {
+        "standard": [
+          {
+            "name": "Gengar (G-Max)",
+            "types": [
+              "Ghost",
+              "Poison"
+            ],
+            "fast": "Shadow Claw",
+            "charged": "Shadow Ball",
+            "maxMove": "G-Max Terror",
+            "role": "attacker",
+            "dps": 181.6,
+            "tdo": 2524.0,
+            "ttw": 13.9,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Hydreigon",
+            "types": [
+              "Dark",
+              "Dragon"
+            ],
+            "fast": "Bite",
+            "charged": "Brutal Swing",
+            "maxMove": "Max Darkness",
+            "role": "attacker",
+            "dps": 158.6,
+            "tdo": 2226.0,
+            "ttw": 14.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Gengar",
+            "types": [
+              "Ghost",
+              "Poison"
+            ],
+            "fast": "Shadow Claw",
+            "charged": "Shadow Ball",
+            "maxMove": "Max Phantasm",
+            "role": "attacker",
+            "dps": 150.8,
+            "tdo": 2141.0,
+            "ttw": 14.2,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Metagross",
+            "types": [
+              "Steel",
+              "Psychic"
+            ],
+            "fast": "Fury Cutter",
+            "charged": "Meteor Mash",
+            "maxMove": "Max Flutterby / Max Guard",
+            "role": "tank",
+            "dps": 127.0,
+            "tdo": 2604.0,
+            "ttw": 20.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Blissey",
+            "types": [
+              "Normal"
+            ],
+            "fast": "Pound",
+            "charged": "Hyper Beam",
+            "maxMove": "Max Spirit",
+            "role": "healer",
+            "dps": 82.2,
+            "tdo": 2428.0,
+            "ttw": 29.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Weavile",
+            "types": [
+              "Dark",
+              "Ice"
+            ],
+            "fast": "Snarl",
+            "charged": "Foul Play",
+            "maxMove": "Max Darkness",
+            "role": "attacker",
+            "dps": 144.4,
+            "tdo": 2111.0,
+            "ttw": 14.6,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Haunter",
+            "types": [
+              "Ghost",
+              "Poison"
+            ],
+            "fast": "Astonish",
+            "charged": "Shadow Ball",
+            "maxMove": "Max Phantasm",
+            "role": "attacker",
+            "dps": 134.2,
+            "tdo": 2030.0,
+            "ttw": 15.1,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Grimmsnarl (G-Max)",
+            "types": [
+              "Dark",
+              "Fairy"
+            ],
+            "fast": "Sucker Punch",
+            "charged": "Foul Play",
+            "maxMove": "G-Max Snooze",
+            "role": "attacker",
+            "dps": 146.4,
+            "tdo": 2310.0,
+            "ttw": 15.8,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Urshifu (Single Strike G-Max)",
+            "types": [
+              "Fighting",
+              "Dark"
+            ],
+            "fast": "Sucker Punch",
+            "charged": "Payback",
+            "maxMove": "G-Max One Blow",
+            "role": "attacker",
+            "dps": 155.4,
+            "tdo": 2460.0,
+            "ttw": 15.8,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Grimmsnarl",
+            "types": [
+              "Dark",
+              "Fairy"
+            ],
+            "fast": "Sucker Punch",
+            "charged": "Foul Play",
+            "maxMove": "Max Darkness",
+            "role": "attacker",
+            "dps": 122.5,
+            "tdo": 1974.0,
+            "ttw": 16.1,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Registeel",
+            "types": [
+              "Steel"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Flash Cannon",
+            "maxMove": "Max Guard",
+            "role": "tank",
+            "dps": 72.1,
+            "tdo": 2408.0,
+            "ttw": 33.4,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Chansey",
+            "types": [
+              "Normal"
+            ],
+            "fast": "Pound",
+            "charged": "Hyper Beam",
+            "maxMove": "Max Spirit",
+            "role": "healer",
+            "dps": 53.0,
+            "tdo": 2131.0,
+            "ttw": 40.2,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Urshifu (Single Strike)",
+            "types": [
+              "Fighting",
+              "Dark"
+            ],
+            "fast": "Sucker Punch",
+            "charged": "Payback",
+            "maxMove": "Max Darkness",
+            "role": "attacker",
+            "dps": 129.2,
+            "tdo": 2086.0,
+            "ttw": 16.1,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Centiskorch",
+            "types": [
+              "Fire",
+              "Bug"
+            ],
+            "fast": "Bug Bite",
+            "charged": "Bug Buzz",
+            "maxMove": "Max Flutterby",
+            "role": "attacker",
+            "dps": 124.8,
+            "tdo": 2088.0,
+            "ttw": 16.7,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Sneasler",
+            "types": [
+              "Fighting",
+              "Poison"
+            ],
+            "fast": "Shadow Claw",
+            "charged": "X Scissor",
+            "maxMove": "Max Phantasm",
+            "role": "attacker",
+            "dps": 105.3,
+            "tdo": 1898.0,
+            "ttw": 18.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          }
+        ],
+        "dodging": [
+          {
+            "name": "Hydreigon",
+            "types": [
+              "Dark",
+              "Dragon"
+            ],
+            "fast": "Bite",
+            "charged": "Brutal Swing",
+            "maxMove": "Max Darkness",
+            "role": "attacker",
+            "dps": 172.7,
+            "tdo": 2200.0,
+            "ttw": 12.7,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Gengar (G-Max)",
+            "types": [
+              "Ghost",
+              "Poison"
+            ],
+            "fast": "Hex",
+            "charged": "Shadow Ball",
+            "maxMove": "G-Max Terror",
+            "role": "attacker",
+            "dps": 214.3,
+            "tdo": 2742.0,
+            "ttw": 12.8,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Gengar",
+            "types": [
+              "Ghost",
+              "Poison"
+            ],
+            "fast": "Hex",
+            "charged": "Shadow Ball",
+            "maxMove": "Max Phantasm",
+            "role": "attacker",
+            "dps": 181.2,
+            "tdo": 2359.0,
+            "ttw": 13.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Metagross",
+            "types": [
+              "Steel",
+              "Psychic"
+            ],
+            "fast": "Fury Cutter",
+            "charged": "Meteor Mash",
+            "maxMove": "Max Flutterby / Max Guard",
+            "role": "tank",
+            "dps": 121.2,
+            "tdo": 2277.0,
+            "ttw": 18.8,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Blissey",
+            "types": [
+              "Normal"
+            ],
+            "fast": "Pound",
+            "charged": "Hyper Beam",
+            "maxMove": "Max Spirit",
+            "role": "healer",
+            "dps": 74.0,
+            "tdo": 2003.0,
+            "ttw": 27.1,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Haunter",
+            "types": [
+              "Ghost",
+              "Poison"
+            ],
+            "fast": "Astonish",
+            "charged": "Shadow Ball",
+            "maxMove": "Max Phantasm",
+            "role": "attacker",
+            "dps": 149.5,
+            "tdo": 2012.0,
+            "ttw": 13.5,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Weavile",
+            "types": [
+              "Dark",
+              "Ice"
+            ],
+            "fast": "Snarl",
+            "charged": "Foul Play",
+            "maxMove": "Max Darkness",
+            "role": "attacker",
+            "dps": 151.8,
+            "tdo": 2096.0,
+            "ttw": 13.8,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Grimmsnarl (G-Max)",
+            "types": [
+              "Dark",
+              "Fairy"
+            ],
+            "fast": "Sucker Punch",
+            "charged": "Dark Pulse",
+            "maxMove": "G-Max Snooze",
+            "role": "attacker",
+            "dps": 163.3,
+            "tdo": 2343.0,
+            "ttw": 14.3,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Centiskorch",
+            "types": [
+              "Fire",
+              "Bug"
+            ],
+            "fast": "Bug Bite",
+            "charged": "Bug Buzz",
+            "maxMove": "Max Flutterby",
+            "role": "attacker",
+            "dps": 142.9,
+            "tdo": 2051.0,
+            "ttw": 14.3,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Grimmsnarl",
+            "types": [
+              "Dark",
+              "Fairy"
+            ],
+            "fast": "Sucker Punch",
+            "charged": "Dark Pulse",
+            "maxMove": "Max Darkness",
+            "role": "attacker",
+            "dps": 136.8,
+            "tdo": 2007.0,
+            "ttw": 14.7,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Registeel",
+            "types": [
+              "Steel"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Flash Cannon",
+            "maxMove": "Max Guard",
+            "role": "tank",
+            "dps": 63.1,
+            "tdo": 2000.0,
+            "ttw": 31.7,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Chansey",
+            "types": [
+              "Normal"
+            ],
+            "fast": "Pound",
+            "charged": "Hyper Beam",
+            "maxMove": "Max Spirit",
+            "role": "healer",
+            "dps": 45.4,
+            "tdo": 1761.0,
+            "ttw": 38.8,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Urshifu (Single Strike G-Max)",
+            "types": [
+              "Fighting",
+              "Dark"
+            ],
+            "fast": "Sucker Punch",
+            "charged": "Payback",
+            "maxMove": "G-Max One Blow",
+            "role": "attacker",
+            "dps": 164.7,
+            "tdo": 2463.0,
+            "ttw": 15.0,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Urshifu (Single Strike)",
+            "types": [
+              "Fighting",
+              "Dark"
+            ],
+            "fast": "Sucker Punch",
+            "charged": "Payback",
+            "maxMove": "Max Darkness",
+            "role": "attacker",
+            "dps": 136.9,
+            "tdo": 2089.0,
+            "ttw": 15.3,
+            "faints": 0,
+            "survivalRate": 100.0
+          },
+          {
+            "name": "Zamazenta (Hero)",
+            "types": [
+              "Fighting"
+            ],
+            "fast": "Snarl",
+            "charged": "Crunch",
+            "maxMove": "Max Darkness",
+            "role": "attacker",
+            "dps": 120.1,
+            "tdo": 1976.0,
+            "ttw": 16.4,
+            "faints": 0,
+            "survivalRate": 100.0
+          }
+        ],
+        "team_composition": {
+          "standard": {
+            "min_players_needed": 1,
+            "strategy_label": "1 Attacker + 1 Tank + 1 Healer",
+            "slot1": {
+              "name": "Gengar (G-Max)",
+              "types": [
+                "Ghost",
+                "Poison"
+              ],
+              "role": "attacker",
+              "fast": "Shadow Claw",
+              "charged": "Shadow Ball",
+              "maxMove": "G-Max Terror",
+              "dps": 181.6,
+              "tdo": 2524.0
+            },
+            "slot2": {
+              "name": "Metagross",
+              "types": [
+                "Steel",
+                "Psychic"
+              ],
+              "role": "tank",
+              "fast": "Fury Cutter",
+              "charged": "Meteor Mash",
+              "maxMove": "Max Flutterby / Max Guard",
+              "dps": 127.0,
+              "tdo": 2604.0
+            },
+            "slot3": {
+              "name": "Blissey",
+              "types": [
+                "Normal"
+              ],
+              "role": "healer",
+              "fast": "Pound",
+              "charged": "Hyper Beam",
+              "maxMove": "Max Spirit",
+              "dps": 82.2,
+              "tdo": 2428.0
+            }
+          },
+          "dodging": {
+            "min_players_needed": 1,
+            "strategy_label": "1 Attacker + 1 Tank + 1 Healer",
+            "slot1": {
+              "name": "Hydreigon",
+              "types": [
+                "Dark",
+                "Dragon"
+              ],
+              "role": "attacker",
+              "fast": "Bite",
+              "charged": "Brutal Swing",
+              "maxMove": "Max Darkness",
+              "dps": 172.7,
+              "tdo": 2200.0
+            },
+            "slot2": {
+              "name": "Metagross",
+              "types": [
+                "Steel",
+                "Psychic"
+              ],
+              "role": "tank",
+              "fast": "Fury Cutter",
+              "charged": "Meteor Mash",
+              "maxMove": "Max Flutterby / Max Guard",
+              "dps": 121.2,
+              "tdo": 2277.0
+            },
+            "slot3": {
+              "name": "Blissey",
+              "types": [
+                "Normal"
+              ],
+              "role": "healer",
+              "fast": "Pound",
+              "charged": "Hyper Beam",
+              "maxMove": "Max Spirit",
+              "dps": 74.0,
+              "tdo": 2003.0
             }
           }
         }
@@ -73014,10 +74152,10 @@
             "survivalRate": 100.0
           },
           {
-            "name": "Gallade",
+            "name": "Hatterene",
             "types": [
               "Psychic",
-              "Fighting"
+              "Fairy"
             ],
             "fast": "Psycho Cut",
             "charged": "Psychic",
@@ -73030,10 +74168,10 @@
             "survivalRate": 100.0
           },
           {
-            "name": "Hatterene",
+            "name": "Gallade",
             "types": [
               "Psychic",
-              "Fairy"
+              "Fighting"
             ],
             "fast": "Psycho Cut",
             "charged": "Psychic",
@@ -73588,10 +74726,10 @@
             "survivalRate": 100.0
           },
           {
-            "name": "Gallade",
+            "name": "Hatterene",
             "types": [
               "Psychic",
-              "Fighting"
+              "Fairy"
             ],
             "fast": "Psycho Cut",
             "charged": "Psychic",
@@ -73604,10 +74742,10 @@
             "survivalRate": 100.0
           },
           {
-            "name": "Hatterene",
+            "name": "Gallade",
             "types": [
               "Psychic",
-              "Fairy"
+              "Fighting"
             ],
             "fast": "Psycho Cut",
             "charged": "Psychic",
