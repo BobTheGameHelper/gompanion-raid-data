@@ -1,15 +1,6 @@
 {
-  "last_updated": "2026-11-24T04:06:48.585788Z",
+  "last_updated": "2026-11-24T12:06:20.907911Z",
   "bosses": [
-    {
-      "name": "Abra",
-      "tier": "D-Max T1",
-      "types": [
-        "Psychic"
-      ],
-      "cpStandard": 767,
-      "cpBoosted": 958
-    },
     {
       "name": "Beldum",
       "tier": "D-Max T3",
@@ -19,15 +10,6 @@
       ],
       "cpStandard": 558,
       "cpBoosted": 697
-    },
-    {
-      "name": "Bounsweet",
-      "tier": "D-Max T1",
-      "types": [
-        "Grass"
-      ],
-      "cpStandard": 268,
-      "cpBoosted": 336
     },
     {
       "name": "Bulbasaur",
@@ -40,24 +22,6 @@
       "cpBoosted": 796
     },
     {
-      "name": "Caterpie",
-      "tier": "D-Max T1",
-      "types": [
-        "Bug"
-      ],
-      "cpStandard": 249,
-      "cpBoosted": 312
-    },
-    {
-      "name": "Chansey",
-      "tier": "D-Max T3",
-      "types": [
-        "Normal"
-      ],
-      "cpStandard": 717,
-      "cpBoosted": 896
-    },
-    {
       "name": "Charmander",
       "tier": "D-Max T1",
       "types": [
@@ -65,64 +29,6 @@
       ],
       "cpStandard": 560,
       "cpBoosted": 700
-    },
-    {
-      "name": "Combee",
-      "tier": "D-Max T1",
-      "types": [
-        "Bug",
-        "Flying"
-      ],
-      "cpStandard": 282,
-      "cpBoosted": 353
-    },
-    {
-      "name": "Cottonee",
-      "tier": "D-Max T1",
-      "types": [
-        "Grass",
-        "Fairy"
-      ],
-      "cpStandard": 400,
-      "cpBoosted": 500
-    },
-    {
-      "name": "Cryogonal",
-      "tier": "D-Max T3",
-      "types": [
-        "Ice"
-      ],
-      "cpStandard": 1598,
-      "cpBoosted": 1998
-    },
-    {
-      "name": "Darumaka",
-      "tier": "D-Max T2",
-      "types": [
-        "Fire"
-      ],
-      "cpStandard": 823,
-      "cpBoosted": 1029
-    },
-    {
-      "name": "Deino",
-      "tier": "D-Max T1",
-      "types": [
-        "Dark",
-        "Dragon"
-      ],
-      "cpStandard": 606,
-      "cpBoosted": 758
-    },
-    {
-      "name": "Drampa",
-      "tier": "D-Max T3",
-      "types": [
-        "Normal",
-        "Dragon"
-      ],
-      "cpStandard": 1665,
-      "cpBoosted": 2081
     },
     {
       "name": "Drilbur",
@@ -134,53 +40,6 @@
       "cpBoosted": 982
     },
     {
-      "name": "Duraludon",
-      "tier": "D-Max T4",
-      "types": [
-        "Steel",
-        "Dragon"
-      ],
-      "cpStandard": 1753,
-      "cpBoosted": 2191
-    },
-    {
-      "name": "Eevee",
-      "tier": "D-Max T2",
-      "types": [
-        "Normal"
-      ],
-      "cpStandard": 612,
-      "cpBoosted": 765
-    },
-    {
-      "name": "Electabuzz",
-      "tier": "D-Max T3",
-      "types": [
-        "Electric"
-      ],
-      "cpStandard": 1333,
-      "cpBoosted": 1667
-    },
-    {
-      "name": "Espurr",
-      "tier": "D-Max T1",
-      "types": [
-        "Psychic"
-      ],
-      "cpStandard": 719,
-      "cpBoosted": 899
-    },
-    {
-      "name": "Eternatus (Eternamax)",
-      "tier": "Eternamax T6",
-      "types": [
-        "Poison",
-        "Dragon"
-      ],
-      "cpStandard": 2530,
-      "cpBoosted": 3163
-    },
-    {
       "name": "Falinks",
       "tier": "D-Max T3",
       "types": [
@@ -188,15 +47,6 @@
       ],
       "cpStandard": 1347,
       "cpBoosted": 1683
-    },
-    {
-      "name": "Feebas",
-      "tier": "D-Max T1",
-      "types": [
-        "Water"
-      ],
-      "cpStandard": 157,
-      "cpBoosted": 196
     },
     {
       "name": "Gastly",
@@ -209,241 +59,6 @@
       "cpBoosted": 878
     },
     {
-      "name": "Grookey",
-      "tier": "D-Max T1",
-      "types": [
-        "Grass"
-      ],
-      "cpStandard": 620,
-      "cpBoosted": 775
-    },
-    {
-      "name": "Growlithe",
-      "tier": "D-Max T1",
-      "types": [
-        "Fire"
-      ],
-      "cpStandard": 710,
-      "cpBoosted": 888
-    },
-    {
-      "name": "Hatenna",
-      "tier": "D-Max T1",
-      "types": [
-        "Psychic"
-      ],
-      "cpStandard": 492,
-      "cpBoosted": 615
-    },
-    {
-      "name": "Hitmonchan",
-      "tier": "D-Max T3",
-      "types": [
-        "Fighting"
-      ],
-      "cpStandard": 1332,
-      "cpBoosted": 1665
-    },
-    {
-      "name": "Hitmonlee",
-      "tier": "D-Max T3",
-      "types": [
-        "Fighting"
-      ],
-      "cpStandard": 1472,
-      "cpBoosted": 1840
-    },
-    {
-      "name": "Hitmontop",
-      "tier": "D-Max T3",
-      "types": [
-        "Fighting"
-      ],
-      "cpStandard": 1232,
-      "cpBoosted": 1540
-    },
-    {
-      "name": "Hoothoot",
-      "tier": "D-Max T1",
-      "types": [
-        "Normal",
-        "Flying"
-      ],
-      "cpStandard": 387,
-      "cpBoosted": 484
-    },
-    {
-      "name": "Inkay",
-      "tier": "D-Max T1",
-      "types": [
-        "Dark",
-        "Psychic"
-      ],
-      "cpStandard": 529,
-      "cpBoosted": 662
-    },
-    {
-      "name": "Kabuto",
-      "tier": "D-Max T1",
-      "types": [
-        "Rock",
-        "Water"
-      ],
-      "cpStandard": 783,
-      "cpBoosted": 979
-    },
-    {
-      "name": "Krabby",
-      "tier": "D-Max T1",
-      "types": [
-        "Water"
-      ],
-      "cpStandard": 892,
-      "cpBoosted": 1115
-    },
-    {
-      "name": "Machop",
-      "tier": "D-Max T2",
-      "types": [
-        "Fighting"
-      ],
-      "cpStandard": 730,
-      "cpBoosted": 913
-    },
-    {
-      "name": "Magikarp",
-      "tier": "D-Max T1",
-      "types": [
-        "Water"
-      ],
-      "cpStandard": 157,
-      "cpBoosted": 196
-    },
-    {
-      "name": "Magmar",
-      "tier": "D-Max T3",
-      "types": [
-        "Fire"
-      ],
-      "cpStandard": 1367,
-      "cpBoosted": 1709
-    },
-    {
-      "name": "Omanyte",
-      "tier": "D-Max T1",
-      "types": [
-        "Rock",
-        "Water"
-      ],
-      "cpStandard": 882,
-      "cpBoosted": 1103
-    },
-    {
-      "name": "Passimian",
-      "tier": "D-Max T3",
-      "types": [
-        "Fighting"
-      ],
-      "cpStandard": 1733,
-      "cpBoosted": 2166
-    },
-    {
-      "name": "Pidove",
-      "tier": "D-Max T1",
-      "types": [
-        "Normal",
-        "Flying"
-      ],
-      "cpStandard": 484,
-      "cpBoosted": 605
-    },
-    {
-      "name": "Pikachu",
-      "tier": "D-Max T1",
-      "types": [
-        "Electric"
-      ],
-      "cpStandard": 536,
-      "cpBoosted": 669
-    },
-    {
-      "name": "Ralts",
-      "tier": "D-Max T1",
-      "types": [
-        "Psychic",
-        "Fairy"
-      ],
-      "cpStandard": 308,
-      "cpBoosted": 385
-    },
-    {
-      "name": "Rhyhorn",
-      "tier": "D-Max T1",
-      "types": [
-        "Ground",
-        "Rock"
-      ],
-      "cpStandard": 943,
-      "cpBoosted": 1179
-    },
-    {
-      "name": "Roggenrola",
-      "tier": "D-Max T1",
-      "types": [
-        "Rock"
-      ],
-      "cpStandard": 688,
-      "cpBoosted": 860
-    },
-    {
-      "name": "Rookidee",
-      "tier": "D-Max T1",
-      "types": [
-        "Flying"
-      ],
-      "cpStandard": 380,
-      "cpBoosted": 476
-    },
-    {
-      "name": "Sableye",
-      "tier": "D-Max T3",
-      "types": [
-        "Dark",
-        "Ghost"
-      ],
-      "cpStandard": 843,
-      "cpBoosted": 1054
-    },
-    {
-      "name": "Scorbunny",
-      "tier": "D-Max T1",
-      "types": [
-        "Fire"
-      ],
-      "cpStandard": 627,
-      "cpBoosted": 783
-    },
-    {
-      "name": "Shuckle",
-      "tier": "D-Max T2",
-      "types": [
-        "Bug",
-        "Rock"
-      ],
-      "cpStandard": 231,
-      "cpBoosted": 289
-    },
-    {
-      "name": "Sizzlipede",
-      "tier": "D-Max T1",
-      "types": [
-        "Fire",
-        "Bug"
-      ],
-      "cpStandard": 599,
-      "cpBoosted": 749
-    },
-    {
       "name": "Skwovet",
       "tier": "D-Max T1",
       "types": [
@@ -453,35 +68,6 @@
       "cpBoosted": 674
     },
     {
-      "name": "Sneasel",
-      "tier": "D-Max T1",
-      "types": [
-        "Dark",
-        "Ice"
-      ],
-      "cpStandard": 1172,
-      "cpBoosted": 1465
-    },
-    {
-      "name": "Sobble",
-      "tier": "D-Max T1",
-      "types": [
-        "Water"
-      ],
-      "cpStandard": 627,
-      "cpBoosted": 783
-    },
-    {
-      "name": "Spheal",
-      "tier": "D-Max T1",
-      "types": [
-        "Ice",
-        "Water"
-      ],
-      "cpStandard": 550,
-      "cpBoosted": 687
-    },
-    {
       "name": "Squirtle",
       "tier": "D-Max T1",
       "types": [
@@ -489,53 +75,6 @@
       ],
       "cpStandard": 540,
       "cpBoosted": 675
-    },
-    {
-      "name": "Toxtricity",
-      "tier": "D-Max T4",
-      "types": [
-        "Electric",
-        "Poison"
-      ],
-      "cpStandard": 1486,
-      "cpBoosted": 1858
-    },
-    {
-      "name": "Trapinch",
-      "tier": "D-Max T1",
-      "types": [
-        "Ground"
-      ],
-      "cpStandard": 728,
-      "cpBoosted": 910
-    },
-    {
-      "name": "Trubbish",
-      "tier": "D-Max T1",
-      "types": [
-        "Poison"
-      ],
-      "cpStandard": 571,
-      "cpBoosted": 714
-    },
-    {
-      "name": "Wailmer",
-      "tier": "D-Max T2",
-      "types": [
-        "Water"
-      ],
-      "cpStandard": 838,
-      "cpBoosted": 1048
-    },
-    {
-      "name": "Woobat",
-      "tier": "D-Max T1",
-      "types": [
-        "Psychic",
-        "Flying"
-      ],
-      "cpStandard": 580,
-      "cpBoosted": 726
     },
     {
       "name": "Wooloo",
